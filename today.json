@@ -1,99 +1,212 @@
 [
   {
     "id": "2026-01-10-story-1",
-    "date": "2026-01-10",
-    "section": "international",
-    "headline": "Ceasefire talks resume amid rising Middle East tensions",
-    "what_happened": "Diplomats from multiple countries met in Doha to revive stalled ceasefire negotiations.",
-    "context": "Fighting escalated after a previous truce collapsed last month, drawing international concern.",
-    "implications": "A breakthrough could stabilize energy markets and reduce regional spillover risks.",
+    "date": "2026-01-10T06:00:00Z",
+    "section": "sports",
+    "headline": "Major development reshapes priorities (1)",
+    "what_happened": "Officials announced a move that significantly alters the current situation.",
+    "context": "The decision follows sustained debate, internal review, and changing global conditions.",
+    "implications": "This could influence policy direction, public response, and future decision-making.",
     "related_articles": [
-      { "source": "BBC", "title": "Why ceasefire talks matter now", "url": "https://example.com/bbc1" },
-      { "source": "Reuters", "title": "Inside the Doha negotiations", "url": "https://example.com/reuters1" }
+      {
+        "source": "BBC",
+        "title": "Explained: What led to this decision",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "Mint",
+        "title": "Analysis: Why it matters now",
+        "url": "https://example.com/article2"
+      }
     ]
   },
   {
     "id": "2026-01-10-story-2",
-    "date": "2026-01-10",
-    "section": "india",
-    "headline": "Supreme Court orders states to remove stray animals from highways",
-    "what_happened": "The Supreme Court directed authorities to urgently clear highways of stray cattle and dogs.",
-    "context": "The order follows multiple fatal accidents linked to animals on major roads.",
-    "implications": "States may need new enforcement mechanisms and budget allocations.",
+    "date": "2026-01-10T06:00:00Z",
+    "section": "international",
+    "headline": "Major development reshapes priorities (2)",
+    "what_happened": "Authorities confirmed a coordinated action with immediate effect.",
+    "context": "This comes amid regional tensions and diplomatic backchannel talks.",
+    "implications": "The move may ease short-term pressure but leaves long-term issues unresolved.",
     "related_articles": [
-      { "source": "The Hindu", "title": "Court flags road safety concerns", "url": "https://example.com/hindu1" },
-      { "source": "Times of India", "title": "Why stray animals are a policy failure", "url": "https://example.com/toi1" }
+      {
+        "source": "Reuters",
+        "title": "Background: How talks reached this stage",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "Times of India",
+        "title": "What this means for the region",
+        "url": "https://example.com/article2"
+      }
     ]
   },
   {
     "id": "2026-01-10-story-3",
-    "date": "2026-01-10",
-    "section": "business",
-    "headline": "IndiGo cancels over 1,000 flights amid system disruptions",
-    "what_happened": "IndiGo grounded hundreds of flights after technical issues disrupted operations nationwide.",
-    "context": "Airlines globally are facing strain due to rapid post-pandemic demand recovery.",
-    "implications": "Passenger confidence and regulatory scrutiny could intensify.",
+    "date": "2026-01-10T06:00:00Z",
+    "section": "international",
+    "headline": "Major development reshapes priorities (3)",
+    "what_happened": "Officials disclosed new terms after weeks of negotiations.",
+    "context": "Earlier attempts at resolution had stalled due to disagreements on implementation.",
+    "implications": "Markets and diplomatic observers are watching for follow-through.",
     "related_articles": [
-      { "source": "Mint", "title": "How airline systems failures impact travel", "url": "https://example.com/mint1" },
-      { "source": "Reuters", "title": "IndiGo flight disruptions explained", "url": "https://example.com/reuters2" }
+      {
+        "source": "The Hindu",
+        "title": "Timeline: How negotiations evolved",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "BBC",
+        "title": "Analysis: What happens next",
+        "url": "https://example.com/article2"
+      }
     ]
   },
-
   {
     "id": "2026-01-10-story-4",
-    "date": "2026-01-10",
-    "section": "economy",
-    "headline": "Global inflation shows signs of cooling, economists say",
-    "what_happened": "Latest data indicates slowing inflation across major economies.",
-    "context": "Aggressive interest rate hikes over the past year are beginning to take effect.",
-    "implications": "Central banks may slow or pause further rate increases.",
+    "date": "2026-01-10T06:00:00Z",
+    "section": "international",
+    "headline": "Major development reshapes priorities (4)",
+    "what_happened": "A formal announcement outlined changes to an existing framework.",
+    "context": "The framework had been under strain due to shifting geopolitical alignments.",
+    "implications": "This could redefine cooperation between key stakeholders.",
     "related_articles": [
-      { "source": "The Economist", "title": "Is inflation finally under control?", "url": "https://example.com/econ1" },
-      { "source": "CNN", "title": "What cooling inflation means for consumers", "url": "https://example.com/cnn1" }
+      {
+        "source": "Associated Press",
+        "title": "What the new framework includes",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "The Economist",
+        "title": "Why this shift is significant",
+        "url": "https://example.com/article2"
+      }
     ]
   },
-
   {
     "id": "2026-01-10-story-5",
-    "date": "2026-01-10",
-    "section": "technology",
-    "headline": "Governments push ahead with new AI regulation frameworks",
-    "what_happened": "Several countries released draft rules governing AI development and deployment.",
-    "context": "Rapid advances in generative AI have raised ethical and economic concerns.",
-    "implications": "Tech companies may face higher compliance costs and slower rollouts.",
+    "date": "2026-01-10T06:00:00Z",
+    "section": "science",
+    "headline": "Major development reshapes priorities (5)",
+    "what_happened": "Researchers released findings that challenge earlier assumptions.",
+    "context": "The study builds on years of incremental research across multiple institutions.",
+    "implications": "This may influence future funding priorities and public policy.",
     "related_articles": [
-      { "source": "BBC", "title": "How AI laws are evolving", "url": "https://example.com/bbc2" },
-      { "source": "The Economist", "title": "Regulating intelligence", "url": "https://example.com/econ2" }
+      {
+        "source": "Reuters",
+        "title": "Study explained: Key findings",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "Associated Press",
+        "title": "Why scientists are paying attention",
+        "url": "https://example.com/article2"
+      }
     ]
   },
-
   {
     "id": "2026-01-10-story-6",
-    "date": "2026-01-10",
+    "date": "2026-01-10T06:00:00Z",
     "section": "science",
-    "headline": "New study links sleep patterns to long-term brain health",
-    "what_happened": "Researchers found strong correlations between sleep quality and cognitive decline.",
-    "context": "The findings are based on a decade-long longitudinal study.",
-    "implications": "Public health guidelines may increasingly emphasize sleep hygiene.",
+    "headline": "Major development reshapes priorities (6)",
+    "what_happened": "An updated assessment revised earlier projections.",
+    "context": "Previous models had relied on limited datasets now considered outdated.",
+    "implications": "The revision could affect long-term planning and preparedness.",
     "related_articles": [
-      { "source": "BBC", "title": "Why sleep matters more than you think", "url": "https://example.com/bbc3" },
-      { "source": "CNN", "title": "Sleep and brain health explained", "url": "https://example.com/cnn2" }
+      {
+        "source": "The Hindu",
+        "title": "Explained: What changed in the assessment",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "The Hindu",
+        "title": "Why projections were revised",
+        "url": "https://example.com/article2"
+      }
     ]
   },
-
   {
     "id": "2026-01-10-story-7",
-    "date": "2026-01-10",
-    "section": "climate",
-    "headline": "Extreme weather events strain insurance markets globally",
-    "what_happened": "Insurers report rising payouts linked to floods, heatwaves, and storms.",
-    "context": "Climate change is increasing the frequency of extreme events.",
-    "implications": "Premiums may rise sharply, affecting affordability.",
+    "date": "2026-01-10T06:00:00Z",
+    "section": "india",
+    "headline": "Major development reshapes priorities (7)",
+    "what_happened": "Government officials confirmed implementation of a new measure.",
+    "context": "The measure follows months of public consultation and internal review.",
+    "implications": "Its success will depend on coordination across states and agencies.",
     "related_articles": [
-      { "source": "Reuters", "title": "Climate risk and insurance", "url": "https://example.com/reuters3" },
-      { "source": "The Economist", "title": "Who pays for climate damage?", "url": "https://example.com/econ3" }
+      {
+        "source": "Times of India",
+        "title": "What the new measure includes",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "Mint",
+        "title": "Economic impact explained",
+        "url": "https://example.com/article2"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-10-story-8",
+    "date": "2026-01-10T06:00:00Z",
+    "section": "geopolitics",
+    "headline": "Major development reshapes priorities (8)",
+    "what_happened": "Leaders agreed on a temporary arrangement to ease tensions.",
+    "context": "Earlier talks had broken down over enforcement mechanisms.",
+    "implications": "The arrangement buys time but does not resolve core disputes.",
+    "related_articles": [
+      {
+        "source": "The Economist",
+        "title": "Why the deal is fragile",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "Associated Press",
+        "title": "What happens if talks fail",
+        "url": "https://example.com/article2"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-10-story-9",
+    "date": "2026-01-10T06:00:00Z",
+    "section": "technology",
+    "headline": "Major development reshapes priorities (9)",
+    "what_happened": "A major company announced a shift in its product strategy.",
+    "context": "The change follows slowing adoption of earlier offerings.",
+    "implications": "Competitors may respond with similar realignments.",
+    "related_articles": [
+      {
+        "source": "Times of India",
+        "title": "What the strategy shift means",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "BBC",
+        "title": "Industry reaction explained",
+        "url": "https://example.com/article2"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-10-story-10",
+    "date": "2026-01-10T06:00:00Z",
+    "section": "business",
+    "headline": "Major development reshapes priorities (10)",
+    "what_happened": "Markets reacted to an unexpected policy announcement.",
+    "context": "Investors had anticipated a more gradual approach.",
+    "implications": "Short-term volatility is expected as positions adjust.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Market reaction breakdown",
+        "url": "https://example.com/article"
+      },
+      {
+        "source": "Mint",
+        "title": "What investors should watch",
+        "url": "https://example.com/article2"
+      }
     ]
   }
-
-  // … CONTINUES IN SAME STRUCTURE UP TO story-50
 ]
