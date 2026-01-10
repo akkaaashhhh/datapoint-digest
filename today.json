@@ -1,125 +1,99 @@
-{
-  "date": "2026-01-10",
-  "sections": [
-    {
-      "domain": "International",
-      "headlines": [
-        "Global leaders resume talks amid renewed geopolitical tensions",
-        "Ceasefire negotiations stall as regional conflict intensifies",
-        "UN warns of worsening humanitarian access in conflict zones",
-        "Sanctions expanded following diplomatic breakdown between nations",
-        "Defense alliance signals shift in long-term strategic posture",
-        "Border tensions rise after large-scale military drills announced",
-        "International court hears case with far-reaching implications",
-        "Refugee flows increase as violence escalates across regions",
-        "Peace talks resume after months of diplomatic deadlock",
-        "Major power recalibrates foreign policy priorities"
-      ]
-    },
-    {
-      "domain": "India",
-      "headlines": [
-        "Government announces fresh infrastructure investment push",
-        "Supreme Court begins hearing on key constitutional challenge",
-        "Centre outlines roadmap for next phase of economic reforms",
-        "State elections set to test national political narrative",
-        "New education policy rollout enters critical phase",
-        "Parliamentary panel flags regulatory gaps across sectors",
-        "Inflation data sparks renewed policy debate",
-        "Rail and highway projects fast-tracked nationwide",
-        "Court ruling impacts federal power balance",
-        "Public sector reforms draw mixed political reactions"
-      ]
-    },
-    {
-      "domain": "Business",
-      "headlines": [
-        "Major tech firm announces global restructuring plan",
-        "Startup funding slows as investors turn risk-averse",
-        "Global retailer revises growth forecast downward",
-        "Mergers and acquisitions activity picks up in key sectors",
-        "Boardroom reshuffle signals strategic realignment",
-        "Market volatility rattles corporate expansion plans",
-        "Conglomerate exits non-core business segments",
-        "New IPO plans delayed amid market uncertainty",
-        "Corporate earnings highlight demand slowdown",
-        "Leadership change announced at multinational firm"
-      ]
-    },
-    {
-      "domain": "Economy",
-      "headlines": [
-        "Inflation shows early signs of easing across major economies",
-        "Central banks signal cautious, data-driven policy stance",
-        "Growth projections revised downward by global analysts",
-        "Bond yields fluctuate amid interest rate uncertainty",
-        "Currency markets react to macroeconomic signals",
-        "Consumer demand shows uneven recovery patterns",
-        "Fiscal deficit concerns resurface in policy discussions",
-        "Trade balance narrows as exports stabilize",
-        "Interest rate outlook remains uncertain",
-        "Global growth risks dominate economic outlook"
-      ]
-    },
-    {
-      "domain": "Technology",
-      "headlines": [
-        "Governments accelerate discussions on AI regulation",
-        "Tech layoffs continue amid sector-wide restructuring",
-        "New AI tools raise questions about workforce impact",
-        "Data privacy concerns trigger regulatory scrutiny",
-        "Semiconductor supply chain faces fresh disruptions",
-        "Cybersecurity threats prompt renewed enterprise spending",
-        "Open-source software gains enterprise adoption",
-        "Cloud spending growth moderates globally",
-        "Big tech races to integrate generative AI features",
-        "Digital infrastructure becomes strategic priority"
-      ]
-    },
-    {
-      "domain": "Science & Health",
-      "headlines": [
-        "New study highlights long-term public health trends",
-        "Researchers uncover links between lifestyle and disease",
-        "Vaccine development enters advanced trial phase",
-        "Mental health concerns gain policy attention worldwide",
-        "Climate data reshapes scientific consensus",
-        "Breakthrough research shows promise in treatment",
-        "Healthcare systems face staffing shortages",
-        "Public health agencies revise clinical guidelines",
-        "Long-term study raises new epidemiological questions",
-        "Scientists call for increased research funding"
-      ]
-    },
-    {
-      "domain": "Climate & Environment",
-      "headlines": [
-        "Extreme weather events prompt urgent policy review",
-        "Climate adaptation spending becomes national priority",
-        "Heatwaves disrupt agriculture and energy supply",
-        "Flood risks increase in major urban centers",
-        "Environmental regulations face industry pushback",
-        "Renewable energy targets revised by governments",
-        "Climate talks highlight global funding gaps",
-        "Scientists warn of accelerating climate impact trends",
-        "Insurance markets react to climate-related risks",
-        "Conservation efforts struggle amid funding shortfalls"
-      ]
-    },
-    {
-      "domain": "Global Markets",
-      "headlines": [
-        "Stock markets end week on volatile note",
-        "Investors move toward safe-haven assets",
-        "Commodity prices fluctuate on supply concerns",
-        "Oil markets react to geopolitical developments",
-        "Gold prices rise amid market uncertainty",
-        "Currency volatility impacts global trade outlook",
-        "Emerging markets face capital outflows",
-        "Market sentiment remains fragile",
-        "Analysts warn of correction risks",
-        "Global indices reflect mixed investor confidence"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "2026-01-10-story-1",
+    "date": "2026-01-10",
+    "section": "international",
+    "headline": "Ceasefire talks resume amid rising Middle East tensions",
+    "what_happened": "Diplomats from multiple countries met in Doha to revive stalled ceasefire negotiations.",
+    "context": "Fighting escalated after a previous truce collapsed last month, drawing international concern.",
+    "implications": "A breakthrough could stabilize energy markets and reduce regional spillover risks.",
+    "related_articles": [
+      { "source": "BBC", "title": "Why ceasefire talks matter now", "url": "https://example.com/bbc1" },
+      { "source": "Reuters", "title": "Inside the Doha negotiations", "url": "https://example.com/reuters1" }
+    ]
+  },
+  {
+    "id": "2026-01-10-story-2",
+    "date": "2026-01-10",
+    "section": "india",
+    "headline": "Supreme Court orders states to remove stray animals from highways",
+    "what_happened": "The Supreme Court directed authorities to urgently clear highways of stray cattle and dogs.",
+    "context": "The order follows multiple fatal accidents linked to animals on major roads.",
+    "implications": "States may need new enforcement mechanisms and budget allocations.",
+    "related_articles": [
+      { "source": "The Hindu", "title": "Court flags road safety concerns", "url": "https://example.com/hindu1" },
+      { "source": "Times of India", "title": "Why stray animals are a policy failure", "url": "https://example.com/toi1" }
+    ]
+  },
+  {
+    "id": "2026-01-10-story-3",
+    "date": "2026-01-10",
+    "section": "business",
+    "headline": "IndiGo cancels over 1,000 flights amid system disruptions",
+    "what_happened": "IndiGo grounded hundreds of flights after technical issues disrupted operations nationwide.",
+    "context": "Airlines globally are facing strain due to rapid post-pandemic demand recovery.",
+    "implications": "Passenger confidence and regulatory scrutiny could intensify.",
+    "related_articles": [
+      { "source": "Mint", "title": "How airline systems failures impact travel", "url": "https://example.com/mint1" },
+      { "source": "Reuters", "title": "IndiGo flight disruptions explained", "url": "https://example.com/reuters2" }
+    ]
+  },
+
+  {
+    "id": "2026-01-10-story-4",
+    "date": "2026-01-10",
+    "section": "economy",
+    "headline": "Global inflation shows signs of cooling, economists say",
+    "what_happened": "Latest data indicates slowing inflation across major economies.",
+    "context": "Aggressive interest rate hikes over the past year are beginning to take effect.",
+    "implications": "Central banks may slow or pause further rate increases.",
+    "related_articles": [
+      { "source": "The Economist", "title": "Is inflation finally under control?", "url": "https://example.com/econ1" },
+      { "source": "CNN", "title": "What cooling inflation means for consumers", "url": "https://example.com/cnn1" }
+    ]
+  },
+
+  {
+    "id": "2026-01-10-story-5",
+    "date": "2026-01-10",
+    "section": "technology",
+    "headline": "Governments push ahead with new AI regulation frameworks",
+    "what_happened": "Several countries released draft rules governing AI development and deployment.",
+    "context": "Rapid advances in generative AI have raised ethical and economic concerns.",
+    "implications": "Tech companies may face higher compliance costs and slower rollouts.",
+    "related_articles": [
+      { "source": "BBC", "title": "How AI laws are evolving", "url": "https://example.com/bbc2" },
+      { "source": "The Economist", "title": "Regulating intelligence", "url": "https://example.com/econ2" }
+    ]
+  },
+
+  {
+    "id": "2026-01-10-story-6",
+    "date": "2026-01-10",
+    "section": "science",
+    "headline": "New study links sleep patterns to long-term brain health",
+    "what_happened": "Researchers found strong correlations between sleep quality and cognitive decline.",
+    "context": "The findings are based on a decade-long longitudinal study.",
+    "implications": "Public health guidelines may increasingly emphasize sleep hygiene.",
+    "related_articles": [
+      { "source": "BBC", "title": "Why sleep matters more than you think", "url": "https://example.com/bbc3" },
+      { "source": "CNN", "title": "Sleep and brain health explained", "url": "https://example.com/cnn2" }
+    ]
+  },
+
+  {
+    "id": "2026-01-10-story-7",
+    "date": "2026-01-10",
+    "section": "climate",
+    "headline": "Extreme weather events strain insurance markets globally",
+    "what_happened": "Insurers report rising payouts linked to floods, heatwaves, and storms.",
+    "context": "Climate change is increasing the frequency of extreme events.",
+    "implications": "Premiums may rise sharply, affecting affordability.",
+    "related_articles": [
+      { "source": "Reuters", "title": "Climate risk and insurance", "url": "https://example.com/reuters3" },
+      { "source": "The Economist", "title": "Who pays for climate damage?", "url": "https://example.com/econ3" }
+    ]
+  }
+
+  // … CONTINUES IN SAME STRUCTURE UP TO story-50
+]
