@@ -1,527 +1,125 @@
-[
-  {
-    "id": "2026-01-10-story-1",
-    "date": "2026-01-10",
-    "section": "sports",
-    "headline": "Major development reshapes priorities (1)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "BBC",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Mint",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-2",
-    "date": "2026-01-10",
-    "section": "international",
-    "headline": "Major development reshapes priorities (2)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Times of India",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-3",
-    "date": "2026-01-10",
-    "section": "international",
-    "headline": "Major development reshapes priorities (3)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Times of India",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "BBC",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-4",
-    "date": "2026-01-10",
-    "section": "international",
-    "headline": "Major development reshapes priorities (4)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Associated Press",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "The Economist",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-5",
-    "date": "2026-01-10",
-    "section": "science",
-    "headline": "Major development reshapes priorities (5)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Associated Press",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-6",
-    "date": "2026-01-10",
-    "section": "science",
-    "headline": "Major development reshapes priorities (6)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "The Hindu",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "The Hindu",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-7",
-    "date": "2026-01-10",
-    "section": "india",
-    "headline": "Major development reshapes priorities (7)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Times of India",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Mint",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-8",
-    "date": "2026-01-10",
-    "section": "geopolitics",
-    "headline": "Major development reshapes priorities (8)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "The Economist",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Associated Press",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-9",
-    "date": "2026-01-10",
-    "section": "technology",
-    "headline": "Major development reshapes priorities (9)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Times of India",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "BBC",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-10",
-    "date": "2026-01-10",
-    "section": "science",
-    "headline": "Major development reshapes priorities (10)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Mint",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-11",
-    "date": "2026-01-10",
-    "section": "geopolitics",
-    "headline": "Major development reshapes priorities (11)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "The Hindu",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-12",
-    "date": "2026-01-10",
-    "section": "technology",
-    "headline": "Major development reshapes priorities (12)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Mint",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Times of India",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-13",
-    "date": "2026-01-10",
-    "section": "sports",
-    "headline": "Major development reshapes priorities (13)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Associated Press",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-14",
-    "date": "2026-01-10",
-    "section": "india",
-    "headline": "Major development reshapes priorities (14)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "BBC",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Reuters",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-15",
-    "date": "2026-01-10",
-    "section": "india",
-    "headline": "Major development reshapes priorities (15)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Mint",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "The Economist",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-16",
-    "date": "2026-01-10",
-    "section": "geopolitics",
-    "headline": "Major development reshapes priorities (16)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "BBC",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "The Hindu",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-17",
-    "date": "2026-01-10",
-    "section": "business",
-    "headline": "Major development reshapes priorities (17)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Associated Press",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "The Hindu",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-18",
-    "date": "2026-01-10",
-    "section": "international",
-    "headline": "Major development reshapes priorities (18)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Mint",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Times of India",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-19",
-    "date": "2026-01-10",
-    "section": "india",
-    "headline": "Major development reshapes priorities (19)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "CNN",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "The Hindu",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-20",
-    "date": "2026-01-10",
-    "section": "business",
-    "headline": "Major development reshapes priorities (20)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "The Economist",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Mint",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-21",
-    "date": "2026-01-10",
-    "section": "international",
-    "headline": "Major development reshapes priorities (21)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Mint",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Reuters",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-22",
-    "date": "2026-01-10",
-    "section": "geopolitics",
-    "headline": "Major development reshapes priorities (22)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "BBC",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "Times of India",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-23",
-    "date": "2026-01-10",
-    "section": "sports",
-    "headline": "Major development reshapes priorities (23)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "The Economist",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "BBC",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-24",
-    "date": "2026-01-10",
-    "section": "science",
-    "headline": "Major development reshapes priorities (24)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "Mint",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "The Economist",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  },
-  {
-    "id": "2026-01-10-story-25",
-    "date": "2026-01-10",
-    "section": "india",
-    "headline": "Major development reshapes priorities (25)",
-    "what_happened": "Officials announced a move that significantly alters the current situation.",
-    "context": "The decision comes after sustained debate, policy review, and evolving global conditions.",
-    "implications": "This could influence economic trends, governance decisions, or international relations.",
-    "related_articles": [
-      {
-        "source": "The Hindu",
-        "title": "Explained: What led to this decision",
-        "url": "https://example.com/article"
-      },
-      {
-        "source": "The Economist",
-        "title": "Analysis: Why it matters now",
-        "url": "https://example.com/article2"
-      }
-    ]
-  }
-]
+{
+  "date": "2026-01-10",
+  "sections": [
+    {
+      "domain": "International",
+      "headlines": [
+        "Global leaders resume talks amid renewed geopolitical tensions",
+        "Ceasefire negotiations stall as regional conflict intensifies",
+        "UN warns of worsening humanitarian access in conflict zones",
+        "Sanctions expanded following diplomatic breakdown between nations",
+        "Defense alliance signals shift in long-term strategic posture",
+        "Border tensions rise after large-scale military drills announced",
+        "International court hears case with far-reaching implications",
+        "Refugee flows increase as violence escalates across regions",
+        "Peace talks resume after months of diplomatic deadlock",
+        "Major power recalibrates foreign policy priorities"
+      ]
+    },
+    {
+      "domain": "India",
+      "headlines": [
+        "Government announces fresh infrastructure investment push",
+        "Supreme Court begins hearing on key constitutional challenge",
+        "Centre outlines roadmap for next phase of economic reforms",
+        "State elections set to test national political narrative",
+        "New education policy rollout enters critical phase",
+        "Parliamentary panel flags regulatory gaps across sectors",
+        "Inflation data sparks renewed policy debate",
+        "Rail and highway projects fast-tracked nationwide",
+        "Court ruling impacts federal power balance",
+        "Public sector reforms draw mixed political reactions"
+      ]
+    },
+    {
+      "domain": "Business",
+      "headlines": [
+        "Major tech firm announces global restructuring plan",
+        "Startup funding slows as investors turn risk-averse",
+        "Global retailer revises growth forecast downward",
+        "Mergers and acquisitions activity picks up in key sectors",
+        "Boardroom reshuffle signals strategic realignment",
+        "Market volatility rattles corporate expansion plans",
+        "Conglomerate exits non-core business segments",
+        "New IPO plans delayed amid market uncertainty",
+        "Corporate earnings highlight demand slowdown",
+        "Leadership change announced at multinational firm"
+      ]
+    },
+    {
+      "domain": "Economy",
+      "headlines": [
+        "Inflation shows early signs of easing across major economies",
+        "Central banks signal cautious, data-driven policy stance",
+        "Growth projections revised downward by global analysts",
+        "Bond yields fluctuate amid interest rate uncertainty",
+        "Currency markets react to macroeconomic signals",
+        "Consumer demand shows uneven recovery patterns",
+        "Fiscal deficit concerns resurface in policy discussions",
+        "Trade balance narrows as exports stabilize",
+        "Interest rate outlook remains uncertain",
+        "Global growth risks dominate economic outlook"
+      ]
+    },
+    {
+      "domain": "Technology",
+      "headlines": [
+        "Governments accelerate discussions on AI regulation",
+        "Tech layoffs continue amid sector-wide restructuring",
+        "New AI tools raise questions about workforce impact",
+        "Data privacy concerns trigger regulatory scrutiny",
+        "Semiconductor supply chain faces fresh disruptions",
+        "Cybersecurity threats prompt renewed enterprise spending",
+        "Open-source software gains enterprise adoption",
+        "Cloud spending growth moderates globally",
+        "Big tech races to integrate generative AI features",
+        "Digital infrastructure becomes strategic priority"
+      ]
+    },
+    {
+      "domain": "Science & Health",
+      "headlines": [
+        "New study highlights long-term public health trends",
+        "Researchers uncover links between lifestyle and disease",
+        "Vaccine development enters advanced trial phase",
+        "Mental health concerns gain policy attention worldwide",
+        "Climate data reshapes scientific consensus",
+        "Breakthrough research shows promise in treatment",
+        "Healthcare systems face staffing shortages",
+        "Public health agencies revise clinical guidelines",
+        "Long-term study raises new epidemiological questions",
+        "Scientists call for increased research funding"
+      ]
+    },
+    {
+      "domain": "Climate & Environment",
+      "headlines": [
+        "Extreme weather events prompt urgent policy review",
+        "Climate adaptation spending becomes national priority",
+        "Heatwaves disrupt agriculture and energy supply",
+        "Flood risks increase in major urban centers",
+        "Environmental regulations face industry pushback",
+        "Renewable energy targets revised by governments",
+        "Climate talks highlight global funding gaps",
+        "Scientists warn of accelerating climate impact trends",
+        "Insurance markets react to climate-related risks",
+        "Conservation efforts struggle amid funding shortfalls"
+      ]
+    },
+    {
+      "domain": "Global Markets",
+      "headlines": [
+        "Stock markets end week on volatile note",
+        "Investors move toward safe-haven assets",
+        "Commodity prices fluctuate on supply concerns",
+        "Oil markets react to geopolitical developments",
+        "Gold prices rise amid market uncertainty",
+        "Currency volatility impacts global trade outlook",
+        "Emerging markets face capital outflows",
+        "Market sentiment remains fragile",
+        "Analysts warn of correction risks",
+        "Global indices reflect mixed investor confidence"
+      ]
+    }
+  ]
+}
