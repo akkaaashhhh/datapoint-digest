@@ -1,0 +1,546 @@
+[
+  {
+    "id": "story_1",
+    "date": "2026-01-11",
+    "section": "world",
+    "importance": 89,
+    "headline": "Key development 1 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Analysis of development 1",
+        "url": "https://news.example.com/article/1"
+      }
+    ]
+  },
+  {
+    "id": "story_2",
+    "date": "2026-01-11",
+    "section": "geopolitics",
+    "importance": 88,
+    "headline": "Key development 2 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "The Hindu",
+        "title": "Analysis of development 2",
+        "url": "https://news.example.com/article/2"
+      }
+    ]
+  },
+  {
+    "id": "story_3",
+    "date": "2026-01-11",
+    "section": "business",
+    "importance": 87,
+    "headline": "Key development 3 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Mint",
+        "title": "Analysis of development 3",
+        "url": "https://news.example.com/article/3"
+      }
+    ]
+  },
+  {
+    "id": "story_4",
+    "date": "2026-01-11",
+    "section": "technology",
+    "importance": 86,
+    "headline": "Key development 4 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "CNN",
+        "title": "Analysis of development 4",
+        "url": "https://news.example.com/article/4"
+      }
+    ]
+  },
+  {
+    "id": "story_5",
+    "date": "2026-01-11",
+    "section": "science",
+    "importance": 85,
+    "headline": "Key development 5 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "AP",
+        "title": "Analysis of development 5",
+        "url": "https://news.example.com/article/5"
+      }
+    ]
+  },
+  {
+    "id": "story_6",
+    "date": "2026-01-11",
+    "section": "sports",
+    "importance": 84,
+    "headline": "Key development 6 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Times of India",
+        "title": "Analysis of development 6",
+        "url": "https://news.example.com/article/6"
+      }
+    ]
+  },
+  {
+    "id": "story_7",
+    "date": "2026-01-11",
+    "section": "india",
+    "importance": 83,
+    "headline": "Key development 7 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Axios",
+        "title": "Analysis of development 7",
+        "url": "https://news.example.com/article/7"
+      }
+    ]
+  },
+  {
+    "id": "story_8",
+    "date": "2026-01-11",
+    "section": "world",
+    "importance": 82,
+    "headline": "Key development 8 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "BBC",
+        "title": "Analysis of development 8",
+        "url": "https://news.example.com/article/8"
+      }
+    ]
+  },
+  {
+    "id": "story_9",
+    "date": "2026-01-11",
+    "section": "geopolitics",
+    "importance": 81,
+    "headline": "Key development 9 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Analysis of development 9",
+        "url": "https://news.example.com/article/9"
+      }
+    ]
+  },
+  {
+    "id": "story_10",
+    "date": "2026-01-11",
+    "section": "business",
+    "importance": 80,
+    "headline": "Key development 10 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "The Hindu",
+        "title": "Analysis of development 10",
+        "url": "https://news.example.com/article/10"
+      }
+    ]
+  },
+  {
+    "id": "story_11",
+    "date": "2026-01-11",
+    "section": "technology",
+    "importance": 79,
+    "headline": "Key development 11 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Mint",
+        "title": "Analysis of development 11",
+        "url": "https://news.example.com/article/11"
+      }
+    ]
+  },
+  {
+    "id": "story_12",
+    "date": "2026-01-11",
+    "section": "science",
+    "importance": 78,
+    "headline": "Key development 12 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "CNN",
+        "title": "Analysis of development 12",
+        "url": "https://news.example.com/article/12"
+      }
+    ]
+  },
+  {
+    "id": "story_13",
+    "date": "2026-01-11",
+    "section": "sports",
+    "importance": 77,
+    "headline": "Key development 13 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "AP",
+        "title": "Analysis of development 13",
+        "url": "https://news.example.com/article/13"
+      }
+    ]
+  },
+  {
+    "id": "story_14",
+    "date": "2026-01-11",
+    "section": "india",
+    "importance": 76,
+    "headline": "Key development 14 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Times of India",
+        "title": "Analysis of development 14",
+        "url": "https://news.example.com/article/14"
+      }
+    ]
+  },
+  {
+    "id": "story_15",
+    "date": "2026-01-11",
+    "section": "world",
+    "importance": 75,
+    "headline": "Key development 15 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Axios",
+        "title": "Analysis of development 15",
+        "url": "https://news.example.com/article/15"
+      }
+    ]
+  },
+  {
+    "id": "story_16",
+    "date": "2026-01-11",
+    "section": "geopolitics",
+    "importance": 74,
+    "headline": "Key development 16 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "BBC",
+        "title": "Analysis of development 16",
+        "url": "https://news.example.com/article/16"
+      }
+    ]
+  },
+  {
+    "id": "story_17",
+    "date": "2026-01-11",
+    "section": "business",
+    "importance": 73,
+    "headline": "Key development 17 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Analysis of development 17",
+        "url": "https://news.example.com/article/17"
+      }
+    ]
+  },
+  {
+    "id": "story_18",
+    "date": "2026-01-11",
+    "section": "technology",
+    "importance": 72,
+    "headline": "Key development 18 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "The Hindu",
+        "title": "Analysis of development 18",
+        "url": "https://news.example.com/article/18"
+      }
+    ]
+  },
+  {
+    "id": "story_19",
+    "date": "2026-01-11",
+    "section": "science",
+    "importance": 71,
+    "headline": "Key development 19 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Mint",
+        "title": "Analysis of development 19",
+        "url": "https://news.example.com/article/19"
+      }
+    ]
+  },
+  {
+    "id": "story_20",
+    "date": "2026-01-11",
+    "section": "sports",
+    "importance": 70,
+    "headline": "Key development 20 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "CNN",
+        "title": "Analysis of development 20",
+        "url": "https://news.example.com/article/20"
+      }
+    ]
+  },
+  {
+    "id": "story_21",
+    "date": "2026-01-11",
+    "section": "india",
+    "importance": 69,
+    "headline": "Key development 21 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "AP",
+        "title": "Analysis of development 21",
+        "url": "https://news.example.com/article/21"
+      }
+    ]
+  },
+  {
+    "id": "story_22",
+    "date": "2026-01-11",
+    "section": "world",
+    "importance": 68,
+    "headline": "Key development 22 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Times of India",
+        "title": "Analysis of development 22",
+        "url": "https://news.example.com/article/22"
+      }
+    ]
+  },
+  {
+    "id": "story_23",
+    "date": "2026-01-11",
+    "section": "geopolitics",
+    "importance": 67,
+    "headline": "Key development 23 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Axios",
+        "title": "Analysis of development 23",
+        "url": "https://news.example.com/article/23"
+      }
+    ]
+  },
+  {
+    "id": "story_24",
+    "date": "2026-01-11",
+    "section": "business",
+    "importance": 66,
+    "headline": "Key development 24 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "BBC",
+        "title": "Analysis of development 24",
+        "url": "https://news.example.com/article/24"
+      }
+    ]
+  },
+  {
+    "id": "story_25",
+    "date": "2026-01-11",
+    "section": "technology",
+    "importance": 65,
+    "headline": "Key development 25 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Analysis of development 25",
+        "url": "https://news.example.com/article/25"
+      }
+    ]
+  },
+  {
+    "id": "story_26",
+    "date": "2026-01-11",
+    "section": "science",
+    "importance": 64,
+    "headline": "Key development 26 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "The Hindu",
+        "title": "Analysis of development 26",
+        "url": "https://news.example.com/article/26"
+      }
+    ]
+  },
+  {
+    "id": "story_27",
+    "date": "2026-01-11",
+    "section": "sports",
+    "importance": 63,
+    "headline": "Key development 27 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Mint",
+        "title": "Analysis of development 27",
+        "url": "https://news.example.com/article/27"
+      }
+    ]
+  },
+  {
+    "id": "story_28",
+    "date": "2026-01-11",
+    "section": "india",
+    "importance": 62,
+    "headline": "Key development 28 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "CNN",
+        "title": "Analysis of development 28",
+        "url": "https://news.example.com/article/28"
+      }
+    ]
+  },
+  {
+    "id": "story_29",
+    "date": "2026-01-11",
+    "section": "world",
+    "importance": 61,
+    "headline": "Key development 29 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "AP",
+        "title": "Analysis of development 29",
+        "url": "https://news.example.com/article/29"
+      }
+    ]
+  },
+  {
+    "id": "story_30",
+    "date": "2026-01-11",
+    "section": "geopolitics",
+    "importance": 60,
+    "headline": "Key development 30 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Times of India",
+        "title": "Analysis of development 30",
+        "url": "https://news.example.com/article/30"
+      }
+    ]
+  },
+  {
+    "id": "story_31",
+    "date": "2026-01-11",
+    "section": "business",
+    "importance": 59,
+    "headline": "Key development 31 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "Axios",
+        "title": "Analysis of development 31",
+        "url": "https://news.example.com/article/31"
+      }
+    ]
+  },
+  {
+    "id": "story_32",
+    "date": "2026-01-11",
+    "section": "technology",
+    "importance": 58,
+    "headline": "Key development 32 reshapes ongoing policy and markets",
+    "what_happened": "Authorities announced a significant decision affecting governance, markets, or public policy. Immediate reactions were measured, with officials emphasizing stability.",
+    "context": "The issue has been evolving over several months amid economic and political pressures. Stakeholders had anticipated a course correction due to changing global conditions. Similar measures have been attempted in the past with mixed outcomes.",
+    "implications": "The move is expected to influence near-term policy execution, investor sentiment, and strategic planning across sectors.",
+    "related_articles": [
+      {
+        "source": "BBC",
+        "title": "Analysis of development 32",
+        "url": "https://news.example.com/article/32"
+      }
+    ]
+  }
+]

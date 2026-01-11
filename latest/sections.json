@@ -1,0 +1,37 @@
+[
+  {
+    "id": "india",
+    "title": "India",
+    "order": 1
+  },
+  {
+    "id": "world",
+    "title": "World",
+    "order": 2
+  },
+  {
+    "id": "geopolitics",
+    "title": "Geopolitics",
+    "order": 3
+  },
+  {
+    "id": "business",
+    "title": "Business",
+    "order": 4
+  },
+  {
+    "id": "technology",
+    "title": "Technology",
+    "order": 5
+  },
+  {
+    "id": "science",
+    "title": "Science",
+    "order": 6
+  },
+  {
+    "id": "sports",
+    "title": "Sports",
+    "order": 7
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Daily Word Search",
+  "type": "object",
+  "required": ["date", "theme", "grid_size", "words"],
+  "properties": {
+    "date": { "type": "string", "format": "date" },
+    "theme": { "type": "string" },
+    "grid_size": { "type": "integer", "minimum": 8, "maximum": 15 },
+    "words": {
+      "type": "array",
+      "minItems": 8,
+      "items": { "type": "string" }
+    }
+  }
+}

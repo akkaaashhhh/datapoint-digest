@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Daily News Story",
+  "type": "object",
+  "required": [
+    "id",
+    "date",
+    "section",
+    "headline",
+    "what_happened",
+    "context",
+    "implications",
+    "importance_score",
+    "related_articles"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "date": { "type": "string", "format": "date" },
+    "section": { "type": "string" },
+    "headline": { "type": "string" },
+    "what_happened": { "type": "string" },
+    "context": { "type": "string" },
+    "implications": { "type": "string" },
+    "importance_score": { "type": "number", "minimum": 1, "maximum": 10 },
+    "related_articles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source", "title", "url"],
+        "properties": {
+          "source": { "type": "string" },
+          "title": { "type": "string" },
+          "url": { "type": "string", "format": "uri" }
+        }
+      }
+    }
+  }
+}

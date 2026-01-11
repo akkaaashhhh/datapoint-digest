@@ -1,0 +1,113 @@
+{
+  "date": "2026-01-11",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the primary impact of policy change 1 discussed today?",
+      "options": [
+        "Immediate economic disruption",
+        "Gradual structural adjustment",
+        "No measurable effect",
+        "Complete policy reversal"
+      ],
+      "correct_index": 1,
+      "explanation": "Most current policy changes aim for phased adjustment to avoid shocks while achieving long-term goals."
+    },
+    {
+      "id": "q2",
+      "question": "What is the primary impact of policy change 2 discussed today?",
+      "options": [
+        "Immediate economic disruption",
+        "Gradual structural adjustment",
+        "No measurable effect",
+        "Complete policy reversal"
+      ],
+      "correct_index": 1,
+      "explanation": "Most current policy changes aim for phased adjustment to avoid shocks while achieving long-term goals."
+    },
+    {
+      "id": "q3",
+      "question": "What is the primary impact of policy change 3 discussed today?",
+      "options": [
+        "Immediate economic disruption",
+        "Gradual structural adjustment",
+        "No measurable effect",
+        "Complete policy reversal"
+      ],
+      "correct_index": 1,
+      "explanation": "Most current policy changes aim for phased adjustment to avoid shocks while achieving long-term goals."
+    },
+    {
+      "id": "q4",
+      "question": "What is the primary impact of policy change 4 discussed today?",
+      "options": [
+        "Immediate economic disruption",
+        "Gradual structural adjustment",
+        "No measurable effect",
+        "Complete policy reversal"
+      ],
+      "correct_index": 1,
+      "explanation": "Most current policy changes aim for phased adjustment to avoid shocks while achieving long-term goals."
+    },
+    {
+      "id": "q5",
+      "question": "What is the primary impact of policy change 5 discussed today?",
+      "options": [
+        "Immediate economic disruption",
+        "Gradual structural adjustment",
+        "No measurable effect",
+        "Complete policy reversal"
+      ],
+      "correct_index": 1,
+      "explanation": "Most current policy changes aim for phased adjustment to avoid shocks while achieving long-term goals."
+    },
+    {
+      "id": "q6",
+      "question": "What is the primary impact of policy change 6 discussed today?",
+      "options": [
+        "Immediate economic disruption",
+        "Gradual structural adjustment",
+        "No measurable effect",
+        "Complete policy reversal"
+      ],
+      "correct_index": 1,
+      "explanation": "Most current policy changes aim for phased adjustment to avoid shocks while achieving long-term goals."
+    },
+    {
+      "id": "q7",
+      "question": "What is the primary impact of policy change 7 discussed today?",
+      "options": [
+        "Immediate economic disruption",
+        "Gradual structural adjustment",
+        "No measurable effect",
+        "Complete policy reversal"
+      ],
+      "correct_index": 1,
+      "explanation": "Most current policy changes aim for phased adjustment to avoid shocks while achieving long-term goals."
+    },
+    {
+      "id": "q8",
+      "question": "What is the primary impact of policy change 8 discussed today?",
+      "options": [
+        "Immediate economic disruption",
+        "Gradual structural adjustment",
+        "No measurable effect",
+        "Complete policy reversal"
+      ],
+      "correct_index": 1,
+      "explanation": "Most current policy changes aim for phased adjustment to avoid shocks while achieving long-term goals."
+    },
+    {
+      "id": "q9",
+      "question": "What is the primary impact of policy change 9 discussed today?",
+      "options": [
+        "Immediate economic disruption",
+        "Gradual structural adjustment",
+        "No measurable effect",
+        "Complete policy reversal"
+      ],
+      "correct_index": 1,
+      "explanation": "Most current policy changes aim for phased adjustment to avoid shocks while achieving long-term goals."
+    }
+  ]
+}

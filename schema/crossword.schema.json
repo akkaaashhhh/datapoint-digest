@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Daily Crossword",
+  "type": "object",
+  "required": ["date", "theme", "grid_size", "clues"],
+  "properties": {
+    "date": { "type": "string", "format": "date" },
+    "theme": { "type": "string" },
+    "grid_size": { "type": "integer", "minimum": 5, "maximum": 15 },
+    "clues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["direction", "clue", "answer"],
+        "properties": {
+          "direction": { "type": "string", "enum": ["across", "down"] },
+          "clue": { "type": "string" },
+          "answer": { "type": "string" }
+        }
+      }
+    }
+  }
+}

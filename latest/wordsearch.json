@@ -1,0 +1,59 @@
+{
+  "date": "2026-01-11",
+  "theme": "Current affairs and innovation",
+  "grid_size": 12,
+  "words": [
+    {
+      "word": "INFLATION",
+      "hint": "Key economic pressure influencing policy"
+    },
+    {
+      "word": "AI",
+      "hint": "Driving changes across industries"
+    },
+    {
+      "word": "ISRO",
+      "hint": "India\u2019s space missions in focus"
+    },
+    {
+      "word": "ELECTION",
+      "hint": "Shaping global political direction"
+    },
+    {
+      "word": "CLIMATE",
+      "hint": "Central to international negotiations"
+    },
+    {
+      "word": "MARKETS",
+      "hint": "Reflect investor confidence"
+    },
+    {
+      "word": "TRADE",
+      "hint": "Core of global economic relations"
+    },
+    {
+      "word": "SECURITY",
+      "hint": "Driving geopolitical decisions"
+    },
+    {
+      "word": "ENERGY",
+      "hint": "Transition shaping economies"
+    },
+    {
+      "word": "TECH",
+      "hint": "Innovation influencing productivity"
+    },
+    {
+      "word": "DEFENCE",
+      "hint": "Rising strategic focus"
+    },
+    {
+      "word": "SPACE",
+      "hint": "Exploration and commercial growth"
+    },
+    {
+      "word": "STARTUPS",
+      "hint": "Indicator of economic dynamism"
+    }
+  ]
+}

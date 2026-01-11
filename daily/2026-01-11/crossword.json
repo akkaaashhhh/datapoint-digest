@@ -1,0 +1,77 @@
+{
+  "date": "2026-01-11",
+  "theme": "Global policy and technology shifts",
+  "difficulty": "medium",
+  "clues": [
+    {
+      "number": 1,
+      "direction": "across",
+      "clue": "Indian financial regulator overseeing markets",
+      "answer": "SEBI",
+      "length": 4
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "clue": "Global climate conference framework",
+      "answer": "COP",
+      "length": 3
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "clue": "Major central bank of the US",
+      "answer": "FED",
+      "length": 3
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "clue": "AI model training resource",
+      "answer": "DATA",
+      "length": 4
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "clue": "Indian space agency",
+      "answer": "ISRO",
+      "length": 4
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "clue": "Global oil producers group",
+      "answer": "OPEC",
+      "length": 4
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "clue": "Electric vehicle battery material",
+      "answer": "LITHIUM",
+      "length": 7
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "clue": "Digital privacy regulation in Europe",
+      "answer": "GDPR",
+      "length": 4
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "clue": "India's benchmark stock index",
+      "answer": "NIFTY",
+      "length": 5
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "clue": "Space telescope launched by NASA",
+      "answer": "JWST",
+      "length": 4
+    }
+  ]
+}
