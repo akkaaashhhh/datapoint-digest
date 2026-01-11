@@ -1,0 +1,162 @@
+[
+  {
+    "id": "2026-01-10-ice-protest-minneapolis",
+    "published_at": "2026-01-10T08:00:00Z",
+    "section": "international",
+    "headline": "Tens of thousands protest in Minneapolis over fatal ICE shooting",
+    "what_happened": "Large demonstrations erupted in Minneapolis following the fatal shooting of an activist during an ICE operation.",
+    "context": "Immigration enforcement actions have increasingly triggered public backlash amid debates over policing, border control, and civil rights in the US.",
+    "implications": "The protests could intensify scrutiny of federal immigration agencies and influence election-year policy discussions.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Fatal ICE shooting sparks nationwide protests",
+        "url": "https://www.reuters.com/world/us/fatal-ice-shooting-minneapolis-activist-sets-stage-national-protests-2026-01-10/"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-10-myanmar-election-phase-two",
+    "published_at": "2026-01-11T06:30:00Z",
+    "section": "international",
+    "headline": "Myanmar votes in second phase of military-run election",
+    "what_happened": "Myanmar conducted the second phase of elections overseen by its military government.",
+    "context": "The vote follows the 2021 coup that ousted the civilian government and sparked widespread unrest and sanctions.",
+    "implications": "The process is unlikely to restore international legitimacy and may deepen political instability.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Myanmar holds second phase of military-run vote",
+        "url": "https://www.reuters.com/world/asia-pacific/myanmar-votes-second-phase-military-run-election-2026-01-11/"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-10-iran-crackdown-unrest",
+    "published_at": "2026-01-10T09:15:00Z",
+    "section": "geopolitics",
+    "headline": "Iran authorities signal intensified crackdown as unrest grows",
+    "what_happened": "Iranian authorities indicated tougher measures to control growing public unrest.",
+    "context": "Economic pressure, social restrictions, and regional tensions have fueled repeated protest waves.",
+    "implications": "An intensified crackdown could escalate internal instability and worsen Iran’s international isolation.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Iran vows stronger response to protests",
+        "url": "https://www.reuters.com/world/middle-east/irans-army-vows-protect-public-property-tehran-seeks-quell-growing-unrest-2026-01-10/"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-09-wall-street-records",
+    "published_at": "2026-01-09T21:00:00Z",
+    "section": "finance",
+    "headline": "Wall Street rises to records after unemployment rate improves",
+    "what_happened": "US stock markets hit record highs following positive unemployment data.",
+    "context": "Investors have been closely watching labor indicators for clues on interest rate policy.",
+    "implications": "Strong employment data may delay rate cuts but supports near-term market optimism.",
+    "related_articles": [
+      {
+        "source": "Associated Press",
+        "title": "Stocks climb as jobs report beats expectations",
+        "url": "https://apnews.com/article/stocks-markets-trump-oil-ai-d6cf868b23a814a3a2038aca24a0de93"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-11-queensland-cyclone",
+    "published_at": "2026-01-11T04:45:00Z",
+    "section": "climate",
+    "headline": "Thousands of Australians without power after tropical cyclone hits Queensland",
+    "what_happened": "A tropical cyclone knocked out power across parts of Queensland.",
+    "context": "Australia has experienced increasingly severe weather events linked to climate variability.",
+    "implications": "The storm may renew debate on disaster preparedness and climate resilience.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Cyclone causes outages across Queensland",
+        "url": "https://www.reuters.com/business/environment/australias-queensland-state-braces-tropical-cyclone-koji-2026-01-10/"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-10-nasa-spacex-crew11",
+    "published_at": "2026-01-10T18:00:00Z",
+    "section": "science",
+    "headline": "NASA, SpaceX set target date for Crew-11’s return to Earth",
+    "what_happened": "NASA and SpaceX announced a planned return date for the Crew-11 mission.",
+    "context": "The mission is part of ongoing commercial partnerships supporting the International Space Station.",
+    "implications": "Successful completion reinforces private-sector reliability in human spaceflight.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "NASA and SpaceX plan Crew-11 return",
+        "url": "https://www.reuters.com/business/aerospace-defense/nasa-spacex-set-target-date-crew-11s-return-earth-2026-01-10/"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-09-dubai-iran-flights",
+    "published_at": "2026-01-09T14:30:00Z",
+    "section": "middle-east",
+    "headline": "Nearly 20 flights between Dubai and Iranian cities cancelled",
+    "what_happened": "Airlines cancelled dozens of flights between Dubai and Iran amid regional tensions.",
+    "context": "Escalating geopolitical risks have disrupted air travel across parts of the Middle East.",
+    "implications": "Prolonged disruptions could affect trade, tourism, and regional connectivity.",
+    "related_articles": [
+      {
+        "source": "Reuters",
+        "title": "Dubai-Iran flights cancelled amid tensions",
+        "url": "https://www.reuters.com/world/middle-east/nearly-20-flights-between-dubai-iranian-cities-canceled-dubai-airports-website-2026-01-09/"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-10-trump-venezuela-oil",
+    "published_at": "2026-01-10T12:00:00Z",
+    "section": "geopolitics",
+    "headline": "Trump declares national emergency to shield Venezuelan oil cash",
+    "what_happened": "Former US President Donald Trump declared a national emergency related to Venezuelan oil revenues.",
+    "context": "US policy toward Venezuela has fluctuated between sanctions and limited engagement.",
+    "implications": "The move could affect global oil markets and US-Latin America relations.",
+    "related_articles": [
+      {
+        "source": "Axios",
+        "title": "Trump invokes emergency powers over Venezuela",
+        "url": "https://www.axios.com/2026/01/10/trump-venezuela-oil-national-emergency"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-10-us-embassy-venezuela-alert",
+    "published_at": "2026-01-10T16:00:00Z",
+    "section": "international",
+    "headline": "US Embassy issues security alert urging Americans to leave Venezuela",
+    "what_happened": "The US Embassy warned citizens to avoid travel to Venezuela and depart immediately.",
+    "context": "Venezuela continues to face political instability, economic collapse, and security risks.",
+    "implications": "The alert may further isolate Venezuela and deter international engagement.",
+    "related_articles": [
+      {
+        "source": "US Embassy",
+        "title": "Security alert for US citizens in Venezuela",
+        "url": "https://ve.usembassy.gov/security-alert-venezuela-january-10-2026-do-not-travel-to-venezuela-depart-immediately/"
+      }
+    ]
+  },
+  {
+    "id": "2026-01-10-bob-weir-obituary",
+    "published_at": "2026-01-10T20:00:00Z",
+    "section": "culture",
+    "headline": "Bob Weir, Grateful Dead co-founder and guitarist, dies at 78",
+    "what_happened": "Bob Weir, a founding member of the Grateful Dead, passed away at age 78.",
+    "context": "Weir helped shape one of the most influential bands in rock history.",
+    "implications": "His death marks the end of an era in American music culture.",
+    "related_articles": [
+      {
+        "source": "Rolling Stone",
+        "title": "Bob Weir remembered",
+        "url": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/"
+      }
+    ]
+  }
+]
