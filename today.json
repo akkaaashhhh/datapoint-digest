@@ -1,162 +1,406 @@
-[
-  {
-    "id": "2026-01-10-ice-protest-minneapolis",
-    "published_at": "2026-01-10T08:00:00Z",
-    "section": "international",
-    "headline": "Tens of thousands protest in Minneapolis over fatal ICE shooting",
-    "what_happened": "Large demonstrations erupted in Minneapolis following the fatal shooting of an activist during an ICE operation.",
-    "context": "Immigration enforcement actions have increasingly triggered public backlash amid debates over policing, border control, and civil rights in the US.",
-    "implications": "The protests could intensify scrutiny of federal immigration agencies and influence election-year policy discussions.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Fatal ICE shooting sparks nationwide protests",
-        "url": "https://www.reuters.com/world/us/fatal-ice-shooting-minneapolis-activist-sets-stage-national-protests-2026-01-10/"
-      }
-    ]
+{
+  "metadata": {
+    "date": "2026-02-08",
+    "version": "1.0",
+    "digest_id": "20260208",
+    "generated_at": "2026-02-08T06:00:00Z",
+    "total_stories": 15
   },
-  {
-    "id": "2026-01-10-myanmar-election-phase-two",
-    "published_at": "2026-01-11T06:30:00Z",
-    "section": "international",
-    "headline": "Myanmar votes in second phase of military-run election",
-    "what_happened": "Myanmar conducted the second phase of elections overseen by its military government.",
-    "context": "The vote follows the 2021 coup that ousted the civilian government and sparked widespread unrest and sanctions.",
-    "implications": "The process is unlikely to restore international legitimacy and may deepen political instability.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Myanmar holds second phase of military-run vote",
-        "url": "https://www.reuters.com/world/asia-pacific/myanmar-votes-second-phase-military-run-election-2026-01-11/"
+  "stories": [
+    {
+      "id": "story_001",
+      "section": "politics",
+      "headline": "Trump Slashes India Tariffs to 18% After Modi Agrees to Stop Russian Oil Purchases",
+      "summary": "President Donald Trump announced a major trade deal with India, reducing tariffs from 25% to 18% after Prime Minister Narendra Modi committed to stop buying Russian oil and purchase $500 billion worth of American energy products instead. The agreement aims to pressure Russia on Ukraine while strengthening US-India economic ties.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In a significant geopolitical shift, the United States and India have reached a landmark trade agreement that immediately reduces US tariffs on Indian goods from 25% to 18%. The deal, announced by President Trump on Truth Social following a call with Prime Minister Modi, ties trade concessions to India's commitment to end Russian oil purchases."
+        },
+        {
+          "type": "paragraph",
+          "text": "India currently imports roughly 1.5 million barrels of Russian oil daily—over a third of its total oil imports. Russian oil has traded at a $16 per barrel discount compared to OPEC or US crude, making it economically attractive for India's fast-growing economy. Modi has agreed to replace these purchases with oil from the United States and Venezuela."
+        },
+        {
+          "type": "quote",
+          "text": "It was an Honor to speak with Prime Minister Modi, of India, this morning. He is one of my greatest friends and, a Powerful and Respected Leader of his Country.",
+          "attribution": "Donald Trump, US President"
+        },
+        {
+          "type": "paragraph",
+          "text": "The transition faces significant challenges. Venezuela's oil infrastructure requires an estimated decade of work and tens of billions in investment to return to pre-2000 production levels. Industry experts note that fully replacing Russian oil will require substantial time and investment in both sourcing and refining capabilities."
+        }
+      ],
+      "metadata": {
+        "read_time": "3 min",
+        "importance": "high",
+        "tags": ["trade", "geopolitics", "energy", "US-India relations"],
+        "published_at": "2026-02-02T12:00:00Z"
       }
-    ]
-  },
-  {
-    "id": "2026-01-10-iran-crackdown-unrest",
-    "published_at": "2026-01-10T09:15:00Z",
-    "section": "geopolitics",
-    "headline": "Iran authorities signal intensified crackdown as unrest grows",
-    "what_happened": "Iranian authorities indicated tougher measures to control growing public unrest.",
-    "context": "Economic pressure, social restrictions, and regional tensions have fueled repeated protest waves.",
-    "implications": "An intensified crackdown could escalate internal instability and worsen Iran’s international isolation.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Iran vows stronger response to protests",
-        "url": "https://www.reuters.com/world/middle-east/irans-army-vows-protect-public-property-tehran-seeks-quell-growing-unrest-2026-01-10/"
+    },
+    {
+      "id": "story_002",
+      "section": "technology",
+      "headline": "Deep Tech Startups Get 20-Year Window Under New Startup India Rules",
+      "summary": "The Indian government has doubled the eligibility period for deep tech startups under the Startup India program from 10 to 20 years, recognizing that AI, biotech, and advanced manufacturing companies need longer development cycles. The annual turnover limit has also been raised to ₹300 crore from ₹200 crore.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In a strategic policy shift, the Department for Promotion of Industry and Internal Trade (DPIIT) issued a gazette notification on February 4, 2026, extending the Startup India benefits eligibility period for deep tech companies to 20 years from their date of incorporation—double the standard 10-year window."
+        },
+        {
+          "type": "paragraph",
+          "text": "This change addresses a long-standing complaint from deep tech founders that transforming lab prototypes into market-ready products often takes a decade of research alone. The government has raised the annual turnover ceiling to ₹300 crore for deep tech firms, compared to ₹200 crore for regular startups."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep tech startups are defined as companies that spend significant portions of revenue or funding on R&D and build solutions rooted in new scientific or engineering advances. This includes AI, biotechnology, climate technology, advanced manufacturing, and semiconductor companies—sectors critical to India's ambition of becoming a global R&D powerhouse."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "high",
+        "tags": ["startups", "policy", "deep tech", "innovation"],
+        "published_at": "2026-02-04T10:00:00Z"
       }
-    ]
-  },
-  {
-    "id": "2026-01-09-wall-street-records",
-    "published_at": "2026-01-09T21:00:00Z",
-    "section": "finance",
-    "headline": "Wall Street rises to records after unemployment rate improves",
-    "what_happened": "US stock markets hit record highs following positive unemployment data.",
-    "context": "Investors have been closely watching labor indicators for clues on interest rate policy.",
-    "implications": "Strong employment data may delay rate cuts but supports near-term market optimism.",
-    "related_articles": [
-      {
-        "source": "Associated Press",
-        "title": "Stocks climb as jobs report beats expectations",
-        "url": "https://apnews.com/article/stocks-markets-trump-oil-ai-d6cf868b23a814a3a2038aca24a0de93"
+    },
+    {
+      "id": "story_003",
+      "section": "technology",
+      "headline": "IIT Madras Launches $72 Million Deep Tech Fund to Back Research Spinouts",
+      "summary": "IIT Madras has launched India's largest university-backed deep tech fund aimed at commercializing academic research and supporting early-stage startups emerging from its research ecosystem. The initiative signals a push to close the gap between laboratory innovations and market-ready companies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Indian Institute of Technology Madras announced a $72 million deep tech fund designed specifically to support startups emerging from its research ecosystem. The fund represents a significant shift from traditional university roles of licensing or incubation toward active venture creation."
+        },
+        {
+          "type": "paragraph",
+          "text": "India produces substantial engineering and scientific research but has historically struggled to translate university work into globally competitive companies. While the past decade's startup boom has been dominated by consumer internet and fintech—sectors requiring relatively little original research—this fund reflects growing recognition that long-term competitiveness depends on frontier technology development."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unlike traditional venture capital firms, university-backed funds bring technical depth, faculty access, shared infrastructure, and academic credibility—advantages that can be decisive for startups navigating early development. The initiative aligns with government policy encouraging universities to commercialize research and retain equity in spinouts."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "medium",
+        "tags": ["funding", "deep tech", "IIT", "research"],
+        "published_at": "2026-02-07T08:00:00Z"
       }
-    ]
-  },
-  {
-    "id": "2026-01-11-queensland-cyclone",
-    "published_at": "2026-01-11T04:45:00Z",
-    "section": "climate",
-    "headline": "Thousands of Australians without power after tropical cyclone hits Queensland",
-    "what_happened": "A tropical cyclone knocked out power across parts of Queensland.",
-    "context": "Australia has experienced increasingly severe weather events linked to climate variability.",
-    "implications": "The storm may renew debate on disaster preparedness and climate resilience.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Cyclone causes outages across Queensland",
-        "url": "https://www.reuters.com/business/environment/australias-queensland-state-braces-tropical-cyclone-koji-2026-01-10/"
+    },
+    {
+      "id": "story_004",
+      "section": "business",
+      "headline": "Silver Prices Crash 8.3% to ₹2.75 Lakh/kg, Hit New Monthly Low",
+      "summary": "Silver prices in India plunged on February 7, recording one of the steepest single-day falls in recent months. Retail prices collapsed by ₹25,000 per kg, breaking through key support levels and signaling a complete breakdown of market confidence with fresh panic selling.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Silver markets witnessed severe turbulence on Friday as prices crashed 8.3% in a single session, with retail prices falling ₹25,000 per kilogram to reach a new monthly low of ₹2.75 lakh. MCX Silver futures mirrored the sell-off, potentially testing support near ₹2.55 lakh per kg."
+        },
+        {
+          "type": "paragraph",
+          "text": "The sharp decline represents a complete reversal of the tentative stability observed earlier in the week. Market analysts indicate the break below the ₹2.80 lakh per kg support level has opened the door for further declines toward the ₹2.50 lakh mark, a psychologically significant threshold."
+        },
+        {
+          "type": "paragraph",
+          "text": "The crash has eliminated all gains from the brief recovery earlier this week and pushed prices to their lowest level since the current correction began. Industry observers point to a combination of profit-booking, global market weakness, and deteriorating investor sentiment as driving factors behind the sudden collapse."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "medium",
+        "tags": ["commodities", "silver", "markets", "precious metals"],
+        "published_at": "2026-02-07T15:00:00Z"
       }
-    ]
-  },
-  {
-    "id": "2026-01-10-nasa-spacex-crew11",
-    "published_at": "2026-01-10T18:00:00Z",
-    "section": "science",
-    "headline": "NASA, SpaceX set target date for Crew-11’s return to Earth",
-    "what_happened": "NASA and SpaceX announced a planned return date for the Crew-11 mission.",
-    "context": "The mission is part of ongoing commercial partnerships supporting the International Space Station.",
-    "implications": "Successful completion reinforces private-sector reliability in human spaceflight.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "NASA and SpaceX plan Crew-11 return",
-        "url": "https://www.reuters.com/business/aerospace-defense/nasa-spacex-set-target-date-crew-11s-return-earth-2026-01-10/"
+    },
+    {
+      "id": "story_005",
+      "section": "technology",
+      "headline": "Insurance Sector Opens to 100% Foreign Investment as New Law Takes Effect",
+      "summary": "The Insurance Laws (Amendment) Act, 2025 came into force on February 5, allowing complete foreign ownership of insurance companies in India for the first time. However, top leadership positions including Chairman, MD, and CEO must still be held by Indian citizens.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Ministry of Finance notified the Insurance Laws (Amendment) Act, 2025 on February 5, 2026, marking a watershed moment for India's insurance sector. Foreign companies can now own 100% of insurance businesses in India, up from the previous 74% cap, though key leadership positions remain restricted to Indian citizens."
+        },
+        {
+          "type": "paragraph",
+          "text": "The legislation amends three foundational laws: the Insurance Act, 1938, the Life Insurance Corporation Act, 1956, and the Insurance Regulatory and Development Authority Act, 1999. While foreign firms can now fully own insurance companies, positions such as Chairman, Managing Director, or CEO must be held by Indian nationals."
+        },
+        {
+          "type": "paragraph",
+          "text": "The reform is expected to attract significant foreign capital into India's underpenetrated insurance market. Section 25 of the Act will be enforced later through a separate notification, suggesting a phased implementation approach to allow the sector to adjust to the new regulatory framework."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "high",
+        "tags": ["insurance", "FDI", "policy", "finance"],
+        "published_at": "2026-02-05T11:00:00Z"
       }
-    ]
-  },
-  {
-    "id": "2026-01-09-dubai-iran-flights",
-    "published_at": "2026-01-09T14:30:00Z",
-    "section": "middle-east",
-    "headline": "Nearly 20 flights between Dubai and Iranian cities cancelled",
-    "what_happened": "Airlines cancelled dozens of flights between Dubai and Iran amid regional tensions.",
-    "context": "Escalating geopolitical risks have disrupted air travel across parts of the Middle East.",
-    "implications": "Prolonged disruptions could affect trade, tourism, and regional connectivity.",
-    "related_articles": [
-      {
-        "source": "Reuters",
-        "title": "Dubai-Iran flights cancelled amid tensions",
-        "url": "https://www.reuters.com/world/middle-east/nearly-20-flights-between-dubai-iranian-cities-canceled-dubai-airports-website-2026-01-09/"
+    },
+    {
+      "id": "story_006",
+      "section": "technology",
+      "headline": "Home Minister Launches India's First Bomb Blast Database Covering 27 Years",
+      "summary": "Union Home Minister Amit Shah inaugurated the National Improvised Explosive Device Data Management System (NIDMS), India's first comprehensive platform recording details of all bomb blasts in the country since 1999. The system aims to help police and security agencies investigate terrorist incidents more effectively.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The National Improvised Explosive Device Data Management System (NIDMS) represents India's first systematic attempt to catalog and analyze bomb blast incidents across the country. Launched by Union Home Minister Amit Shah, the platform contains detailed records of explosions dating back to 1999."
+        },
+        {
+          "type": "paragraph",
+          "text": "The database will enable police and security agencies to identify patterns, track materials used in improvised explosive devices, and potentially link incidents across different regions and time periods. This centralized intelligence system is expected to significantly enhance investigative capabilities in terrorism-related cases."
+        },
+        {
+          "type": "paragraph",
+          "text": "Security experts note that maintaining a comprehensive historical database allows agencies to develop better predictive models and preventive strategies. The system also facilitates information sharing between different law enforcement bodies, reducing duplication of investigative efforts."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "medium",
+        "tags": ["security", "government", "database", "terrorism"],
+        "published_at": "2026-02-07T09:00:00Z"
       }
-    ]
-  },
-  {
-    "id": "2026-01-10-trump-venezuela-oil",
-    "published_at": "2026-01-10T12:00:00Z",
-    "section": "geopolitics",
-    "headline": "Trump declares national emergency to shield Venezuelan oil cash",
-    "what_happened": "Former US President Donald Trump declared a national emergency related to Venezuelan oil revenues.",
-    "context": "US policy toward Venezuela has fluctuated between sanctions and limited engagement.",
-    "implications": "The move could affect global oil markets and US-Latin America relations.",
-    "related_articles": [
-      {
-        "source": "Axios",
-        "title": "Trump invokes emergency powers over Venezuela",
-        "url": "https://www.axios.com/2026/01/10/trump-venezuela-oil-national-emergency"
+    },
+    {
+      "id": "story_007",
+      "section": "business",
+      "headline": "RBI Bought Only 4 Tonnes of Gold in 2025, Down From 73 Tonnes in 2024",
+      "summary": "The Reserve Bank of India significantly reduced its gold purchases in 2025, acquiring just 4 tonnes compared to 73 tonnes in the previous year. The sharp decline is attributed primarily to record-high gold prices that reached ₹17,800 per gram before correcting.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "India's central bank dramatically scaled back its gold accumulation strategy in 2025, purchasing only 4 tonnes of the precious metal—a 95% reduction from the 73 tonnes acquired in 2024. The Reserve Bank of India's restraint reflects the challenging price environment that saw gold hit all-time highs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gold crossed ₹17,800 per gram for 24-karat purity in late January 2026, marking a record high before a sharp correction of nearly ₹2,500 per gram followed within five trading sessions. Despite the recent pullback, prices remain 18-20% higher year-on-year, maintaining pressure on central bank purchasing decisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Central banks globally have been significant gold buyers as they diversify reserves away from dollar-denominated assets. However, the RBI's cautious approach in 2025 suggests prioritization of fiscal prudence over aggressive reserve diversification amid elevated price levels."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "medium",
+        "tags": ["RBI", "gold", "central banking", "reserves"],
+        "published_at": "2026-02-07T10:00:00Z"
       }
-    ]
-  },
-  {
-    "id": "2026-01-10-us-embassy-venezuela-alert",
-    "published_at": "2026-01-10T16:00:00Z",
-    "section": "international",
-    "headline": "US Embassy issues security alert urging Americans to leave Venezuela",
-    "what_happened": "The US Embassy warned citizens to avoid travel to Venezuela and depart immediately.",
-    "context": "Venezuela continues to face political instability, economic collapse, and security risks.",
-    "implications": "The alert may further isolate Venezuela and deter international engagement.",
-    "related_articles": [
-      {
-        "source": "US Embassy",
-        "title": "Security alert for US citizens in Venezuela",
-        "url": "https://ve.usembassy.gov/security-alert-venezuela-january-10-2026-do-not-travel-to-venezuela-depart-immediately/"
+    },
+    {
+      "id": "story_008",
+      "section": "technology",
+      "headline": "Fashion Quick Commerce Startup ZILO Raises $15.3 Million in Series A",
+      "summary": "Quick commerce fashion startup ZILO secured $15.3 million in Series A funding as investor interest in ultra-fast delivery models continues. The company joins a growing cohort of vertical-specific quick commerce players aiming to replicate the success of groceries and food delivery in specialized categories.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ZILO, a fashion-focused quick commerce startup, announced a $15.3 million Series A funding round on February 5, 2026. The company promises delivery of fashion and lifestyle products within hours, applying the quick commerce model that has proven successful in groceries and food to the apparel sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "The investment reflects continued confidence in India's quick commerce ecosystem despite concerns about unit economics. Fashion presents unique challenges compared to groceries—higher return rates, size variability, and seasonal inventory risks—making the business model more complex to execute profitably."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quick commerce companies have faced increasing scrutiny after platforms like Blinkit recently dropped their 10-minute delivery promise following labor ministry intervention. ZILO will need to balance speed with worker welfare and sustainable operations as it scales."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "medium",
+        "tags": ["funding", "quick commerce", "fashion", "startups"],
+        "published_at": "2026-02-05T11:35:00Z"
       }
-    ]
-  },
-  {
-    "id": "2026-01-10-bob-weir-obituary",
-    "published_at": "2026-01-10T20:00:00Z",
-    "section": "culture",
-    "headline": "Bob Weir, Grateful Dead co-founder and guitarist, dies at 78",
-    "what_happened": "Bob Weir, a founding member of the Grateful Dead, passed away at age 78.",
-    "context": "Weir helped shape one of the most influential bands in rock history.",
-    "implications": "His death marks the end of an era in American music culture.",
-    "related_articles": [
-      {
-        "source": "Rolling Stone",
-        "title": "Bob Weir remembered",
-        "url": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/"
+    },
+    {
+      "id": "story_009",
+      "section": "technology",
+      "headline": "Preventive Nutrition Startup Good Monk Raises ₹33 Crore in Pre-Series A",
+      "summary": "Good Monk, a preventive nutrition-focused startup, secured ₹33 crore in pre-Series A funding. The company represents growing investor interest in preventive healthcare as India's healthcare system shifts focus from treatment to wellness and disease prevention.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Preventive nutrition startup Good Monk announced ₹33 crore in pre-Series A funding on February 5, positioning itself in the rapidly expanding preventive healthcare market. The company develops personalized nutrition solutions aimed at preventing lifestyle diseases before they require medical intervention."
+        },
+        {
+          "type": "paragraph",
+          "text": "India's preventive healthcare market is witnessing significant growth as rising incomes, health awareness, and chronic disease prevalence drive consumers toward proactive wellness solutions. The sector benefits from favorable regulatory tailwinds and increasing insurance coverage for preventive services."
+        },
+        {
+          "type": "paragraph",
+          "text": "The funding will support Good Monk's product development, scientific research partnerships, and market expansion. The preventive nutrition space has attracted considerable investor interest as healthcare systems globally recognize that prevention is more cost-effective than treatment of advanced disease."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "low",
+        "tags": ["funding", "healthcare", "nutrition", "wellness"],
+        "published_at": "2026-02-05T11:43:00Z"
       }
-    ]
-  }
-]
+    },
+    {
+      "id": "story_010",
+      "section": "world",
+      "headline": "Western Himalayan Region Braces for Heavy Snowfall Through February 11",
+      "summary": "The India Meteorological Department has issued alerts for scattered to widespread rain and snowfall across the Western Himalayan region from February 9-11 due to a western disturbance. Jammu & Kashmir, Himachal Pradesh, and Uttarakhand are expected to be affected, with dense fog also predicted in Uttarakhand.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The India Meteorological Department (IMD) has issued weather warnings for the Western Himalayan region, forecasting scattered to widespread rainfall and snowfall from February 9 through February 11. The weather pattern is driven by an active western disturbance affecting the region."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jammu and Kashmir, Himachal Pradesh, and Uttarakhand are likely to experience significant precipitation during this period. Additionally, dense fog is expected in parts of Uttarakhand on February 8, potentially disrupting transportation and visibility in valley areas."
+        },
+        {
+          "type": "paragraph",
+          "text": "The IMD reports minimum temperatures across India's plains ranging from 6.3°C in Sikar, Rajasthan and Ambikapur, Chhattisgarh. Fresh snowfall has already blanketed areas like Sonamarg in Jammu and Kashmir, transforming the region into a scenic winter wonderland while presenting travel challenges."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "medium",
+        "tags": ["weather", "snowfall", "Himalayas", "IMD"],
+        "published_at": "2026-02-07T08:00:00Z"
+      }
+    },
+    {
+      "id": "story_011",
+      "section": "technology",
+      "headline": "Marine Robotics Startup EyeROV Raises ₹13 Crore in Pre-Series A",
+      "summary": "EyeROV, a marine robotics startup, secured ₹13 crore in pre-Series A funding. The company develops underwater robotic systems for inspection, maintenance, and research applications in India's growing offshore and maritime infrastructure sectors.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Marine robotics startup EyeROV announced ₹13 crore in pre-Series A funding on February 5, highlighting investor interest in specialized robotics applications. The company manufactures underwater remotely operated vehicles (ROVs) for inspection, maintenance, and research in marine environments."
+        },
+        {
+          "type": "paragraph",
+          "text": "India's maritime sector is expanding rapidly with increased offshore energy exploration, port development, and coastal infrastructure projects. Marine robotics offer safer, more cost-effective alternatives to human divers for underwater inspections and maintenance tasks in challenging environments."
+        },
+        {
+          "type": "paragraph",
+          "text": "The funding will support EyeROV's technology development and expansion into new maritime applications. The company joins a small but growing cohort of Indian deep tech firms developing specialized robotics solutions for industrial applications."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "low",
+        "tags": ["funding", "robotics", "maritime", "deep tech"],
+        "published_at": "2026-02-05T12:59:00Z"
+      }
+    },
+    {
+      "id": "story_012",
+      "section": "culture",
+      "headline": "Bhutan's Queen Mother Receives 'Soldier of Humanity' Award in Assam",
+      "summary": "Gyalyum Ashi Dorji Wangmo Wangchuck, Queen Mother of Bhutan, was conferred the 22nd Upendra Nath Brahma 'Soldier of Humanity' Award 2025. The ceremony at Bodoland University recognized her lifelong humanitarian service and cultural preservation work.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Queen Mother of Bhutan, Gyalyum Ashi Dorji Wangmo Wangchuck, received the prestigious 22nd Upendra Nath Brahma 'Soldier of Humanity' Award 2025 at a ceremony held at Bodoland University in Kokrajhar, Assam in February 2026."
+        },
+        {
+          "type": "paragraph",
+          "text": "The award, instituted in 2004 by the Upendra Nath Brahma Trust, recognized her decades of humanitarian service, compassionate leadership, social development initiatives, and dedicated work in cultural preservation. The event was attended by Lakshman Prasad Acharya, Governor of Assam."
+        },
+        {
+          "type": "paragraph",
+          "text": "The 'Soldier of Humanity' Award is one of the region's most prestigious honors, celebrating individuals who have made exceptional contributions to human welfare and social progress. The Queen Mother's selection reflects the deep cultural and humanitarian ties between Bhutan and Northeast India."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "low",
+        "tags": ["Bhutan", "awards", "humanitarian", "Northeast India"],
+        "published_at": "2026-02-07T10:30:00Z"
+      }
+    },
+    {
+      "id": "story_013",
+      "section": "technology",
+      "headline": "Robotics Startup Octobotics Raises ₹10 Crore in Seed Round",
+      "summary": "Octobotics, a robotics startup, secured ₹10 crore in seed funding. The company develops automation solutions for industrial applications, joining a wave of Indian robotics firms attracting early-stage investment.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Robotics startup Octobotics announced a ₹10 crore seed funding round on February 5, 2026. The company develops robotic automation systems for industrial manufacturing and logistics applications in India's growing factory automation sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "India's robotics industry is experiencing increased investor interest as manufacturing costs rise and companies seek automation solutions to improve efficiency and reduce labor dependency. The government's Make in India and PLI schemes have accelerated factory modernization, creating demand for industrial robotics."
+        },
+        {
+          "type": "paragraph",
+          "text": "The seed funding will support Octobotics' product development and initial commercial deployments. Indian robotics startups face competition from established global players but benefit from lower development costs and proximity to rapidly expanding domestic manufacturing markets."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "low",
+        "tags": ["funding", "robotics", "automation", "manufacturing"],
+        "published_at": "2026-02-05T12:25:00Z"
+      }
+    },
+    {
+      "id": "story_014",
+      "section": "technology",
+      "headline": "Pet Healthcare Startup Dr. Doodley Raises $3.3 Million in Pre-Series A",
+      "summary": "Dr. Doodley, a pet healthcare startup, secured $3.3 million in pre-Series A funding. The company provides veterinary services and pet care products, capitalizing on India's rapidly growing pet ownership and premiumization trends.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Pet healthcare startup Dr. Doodley announced $3.3 million in pre-Series A funding, reflecting investor interest in India's expanding pet care market. The company offers veterinary consultations, medicines, and wellness products through an integrated platform."
+        },
+        {
+          "type": "paragraph",
+          "text": "India's pet care industry is experiencing rapid growth driven by urbanization, rising incomes, and changing attitudes toward pet ownership. The market has expanded significantly during and after the pandemic as households increasingly view pets as family members deserving premium care."
+        },
+        {
+          "type": "paragraph",
+          "text": "The funding will support Dr. Doodley's technology development, veterinary network expansion, and product range enhancement. Pet healthcare presents significant opportunities but also challenges including fragmented supply chains, varying quality standards, and the need for specialized veterinary expertise."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "low",
+        "tags": ["funding", "pet care", "healthcare", "consumer"],
+        "published_at": "2026-02-05T12:00:00Z"
+      }
+    },
+    {
+      "id": "story_015",
+      "section": "technology",
+      "headline": "Indian AI Platform Treefe Crosses 1 Million Downloads Milestone",
+      "summary": "Treefe Technology, a homegrown AI-powered social platform, has crossed one million downloads in a remarkably short span. The platform focuses on Indian languages and culture, gaining strong traction across North India through word-of-mouth adoption.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Treefe Technology, an Indian AI-powered social platform, announced it has surpassed one million downloads, signaling growing appetite among Indian users for platforms that reflect local language, culture, and experiences rather than requiring adaptation to foreign-designed digital spaces."
+        },
+        {
+          "type": "paragraph",
+          "text": "What began as a simple idea to build a platform 'for Indians, by Indians' has evolved into a grassroots digital movement. Treefe's early traction has been particularly strong across North India, including Delhi-NCR, Uttar Pradesh, Rajasthan, Haryana, and Punjab, where word-of-mouth helped fuel rapid growth."
+        },
+        {
+          "type": "paragraph",
+          "text": "The platform's success suggests users are seeking alternatives to global social media giants that better understand Indian contexts, languages, and cultural nuances. Treefe's AI capabilities are customized for Indian languages and content types, potentially offering a more relevant experience than platforms designed primarily for Western markets."
+        }
+      ],
+      "metadata": {
+        "read_time": "2 min",
+        "importance": "medium",
+        "tags": ["social media", "AI", "Indian startups", "localization"],
+        "published_at": "2026-02-04T14:34:00Z"
+      }
+    }
+  ]
+}
