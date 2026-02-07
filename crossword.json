@@ -1,0 +1,26 @@
+{
+  "size": 5,
+  "structure": [
+    [ {"number":1}, {}, {}, {}, {} ],
+    [ {}, {"block":true}, {"number":2}, {}, {"block":true} ],
+    [ {"number":3}, {}, {}, {}, {} ],
+    [ {}, {"block":true}, {"number":4}, {}, {"block":true} ],
+    [ {"number":5}, {}, {}, {}, {} ]
+  ],
+  "solution": [
+    ["T","E","S","L","A"],
+    ["E",null,"A","I",null],
+    ["S","P","A","C","E"],
+    ["L",null,"M","L",null],
+    ["A","P","P","L","E"]
+  ],
+  "across": {
+    "1": "EV company",
+    "3": "Space term",
+    "5": "Fruit company"
+  },
+  "down": {
+    "1": "Programming letter",
+    "2": "Artificial intelligence"
+  }
+}
