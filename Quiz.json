@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which country hosted the COP28 climate summit in late 2023, with global climate policy discussions continuing into 2025–2026?",
+      "options": ["Germany", "United Arab Emirates", "Brazil", "India"],
+      "correct_index": 1,
+      "explanation": "COP28 was hosted in Dubai, UAE, where global leaders discussed fossil fuel transition and climate financing."
+    },
+    {
+      "id": "2",
+      "question": "Which company became the world's most valuable semiconductor manufacturer during the AI chip boom?",
+      "options": ["Intel", "NVIDIA", "TSMC", "AMD"],
+      "correct_index": 1,
+      "explanation": "NVIDIA surged in valuation due to massive demand for GPUs used in AI model training."
+    },
+    {
+      "id": "3",
+      "question": "Which conflict region has seen continued ceasefire negotiations mediated by multiple countries in recent global diplomacy efforts?",
+      "options": ["Korean Peninsula", "Middle East (Israel–Gaza)", "South America", "Antarctica"],
+      "correct_index": 1,
+      "explanation": "The Israel–Gaza conflict has remained a major international diplomatic focus."
+    },
+    {
+      "id": "4",
+      "question": "Which organization regulates global monetary cooperation and frequently publishes global growth forecasts?",
+      "options": ["UNESCO", "IMF", "WHO", "NATO"],
+      "correct_index": 1,
+      "explanation": "The International Monetary Fund (IMF) publishes global economic outlook reports."
+    },
+    {
+      "id": "5",
+      "question": "Which space agency launched the Artemis program to return humans to the Moon?",
+      "options": ["ISRO", "NASA", "ESA", "JAXA"],
+      "correct_index": 1,
+      "explanation": "NASA’s Artemis program aims to establish long-term human presence on the Moon."
+    },
+    {
+      "id": "6",
+      "question": "Which technology trend has driven massive investment in data centers worldwide?",
+      "options": ["Blockchain gaming", "Artificial Intelligence", "DVD streaming", "MP3 players"],
+      "correct_index": 1,
+      "explanation": "AI infrastructure demand has accelerated global data-center construction."
+    },
+    {
+      "id": "7",
+      "question": "Which country recently became the most populous nation in the world?",
+      "options": ["United States", "China", "India", "Indonesia"],
+      "correct_index": 2,
+      "explanation": "India surpassed China in population according to UN estimates."
+    },
+    {
+      "id": "8",
+      "question": "Which global sporting event is scheduled to be hosted by the United States, Canada, and Mexico?",
+      "options": ["Olympics 2028", "FIFA World Cup 2026", "Cricket World Cup", "Asian Games"],
+      "correct_index": 1,
+      "explanation": "The FIFA World Cup 2026 will be jointly hosted by the U.S., Canada, and Mexico."
+    },
+    {
+      "id": "9",
+      "question": "Which central bank controls monetary policy in the United States?",
+      "options": ["Federal Reserve", "World Bank", "Treasury Department", "SEC"],
+      "correct_index": 0,
+      "explanation": "The Federal Reserve sets interest rates and manages U.S. monetary policy."
+    },
+    {
+      "id": "10",
+      "question": "Which renewable energy source has seen the fastest global installation growth recently?",
+      "options": ["Coal", "Solar power", "Oil", "Diesel"],
+      "correct_index": 1,
+      "explanation": "Solar energy installations have grown rapidly due to falling costs and policy incentives."
+    },
+    {
+      "id": "11",
+      "question": "Which country successfully landed the Chandrayaan-3 mission near the Moon’s south pole?",
+      "options": ["China", "India", "USA", "Russia"],
+      "correct_index": 1,
+      "explanation": "India became the first country to land near the lunar south pole with Chandrayaan-3."
+    },
+    {
+      "id": "12",
+      "question": "Which organization governs international football competitions?",
+      "options": ["IOC", "FIFA", "UEFA", "ICC"],
+      "correct_index": 1,
+      "explanation": "FIFA organizes the Football World Cup and oversees global football governance."
+    },
+    {
+      "id": "13",
+      "question": "Which global tech company is known for developing the GPT series of AI models?",
+      "options": ["Google", "OpenAI", "Meta", "Amazon"],
+      "correct_index": 1,
+      "explanation": "OpenAI developed the GPT family of large language models."
+    },
+    {
+      "id": "14",
+      "question": "Which country is the largest producer of crude oil globally?",
+      "options": ["Saudi Arabia", "United States", "Russia", "Iran"],
+      "correct_index": 1,
+      "explanation": "The United States has led global oil production in recent years."
+    },
+    {
+      "id": "15",
+      "question": "Which organization conducts global public-health emergency coordination?",
+      "options": ["UNICEF", "WHO", "WTO", "ILO"],
+      "correct_index": 1,
+      "explanation": "The World Health Organization coordinates global health responses."
+    },
+    {
+      "id": "16",
+      "question": "Which country hosted the G20 Summit in 2023, influencing ongoing global economic discussions?",
+      "options": ["Japan", "India", "Italy", "Australia"],
+      "correct_index": 1,
+      "explanation": "India hosted the G20 Summit in New Delhi."
+    },
+    {
+      "id": "17",
+      "question": "Which electric-vehicle company has remained a global market leader in EV sales?",
+      "options": ["Ford", "Tesla", "Toyota", "Honda"],
+      "correct_index": 1,
+      "explanation": "Tesla continues to be a major leader in global EV adoption."
+    },
+    {
+      "id": "18",
+      "question": "Which currency is used across most European Union countries?",
+      "options": ["Pound", "Euro", "Dollar", "Franc"],
+      "correct_index": 1,
+      "explanation": "The euro is the common currency of the Eurozone."
+    },
+    {
+      "id": "19",
+      "question": "Which organization regulates international trade rules?",
+      "options": ["IMF", "WTO", "UNDP", "OECD"],
+      "correct_index": 1,
+      "explanation": "The World Trade Organization sets rules for global trade."
+    },
+    {
+      "id": "20",
+      "question": "Which technology sector has driven stock-market growth due to AI infrastructure demand?",
+      "options": ["Textiles", "Semiconductors", "Agriculture", "Shipping"],
+      "correct_index": 1,
+      "explanation": "Semiconductor companies have surged due to AI computing demand."
+    }
+  ]
+}
