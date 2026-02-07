@@ -1,26 +1,41 @@
 {
-  "size": 5,
+  "size": 7,
   "structure": [
-    [ {"number":1}, {}, {}, {}, {} ],
-    [ {}, {"block":true}, {"number":2}, {}, {"block":true} ],
-    [ {"number":3}, {}, {}, {}, {} ],
-    [ {}, {"block":true}, {"number":4}, {}, {"block":true} ],
-    [ {"number":5}, {}, {}, {}, {} ]
+    [ { "number": 1 }, {}, {}, {}, { "block": true }, { "number": 2 }, {} ],
+    [ {}, { "block": true }, { "number": 3 }, {}, {}, {}, {} ],
+    [ { "number": 4 }, {}, {}, {}, {}, { "block": true }, {} ],
+    [ { "block": true }, { "number": 5 }, {}, {}, {}, {}, {} ],
+    [ { "number": 6 }, {}, {}, {}, {}, { "block": true }, {} ],
+    [ { "number": 7 }, {}, {}, {}, { "block": true }, { "number": 8 }, {} ],
+    [ { "number": 9 }, {}, {}, {}, {}, { "block": true }, {} ]
   ],
   "solution": [
-    ["T","E","S","L","A"],
-    ["E",null,"A","I",null],
-    ["S","P","A","C","E"],
-    ["L",null,"M","L",null],
-    ["A","P","P","L","E"]
+    ["I","N","D","I","A",null,"A","I"],
+    ["A",null,"S","U","M","M","I","T"],
+    ["T","E","S","L","A",null,"A"],
+    [null,"C","L","I","M","A","T","E"],
+    ["C","L","O","U","D",null,"S"],
+    ["C","H","I","P",null,"A","I"],
+    ["S","T","O","R","M",null,"S"]
   ],
   "across": {
-    "1": "EV company",
-    "3": "Space term",
-    "5": "Fruit company"
+    "1": "Country hosting AI summit",
+    "2": "Artificial intelligence",
+    "3": "Global policy gathering",
+    "4": "Electric vehicle company",
+    "5": "Global warming concern",
+    "6": "Remote computing infrastructure",
+    "7": "Semiconductor unit",
+    "8": "Machine intelligence field",
+    "9": "Extreme weather system"
   },
   "down": {
-    "1": "Programming letter",
-    "2": "Artificial intelligence"
+    "1": "South Asian nation",
+    "3": "International meeting",
+    "4": "EV manufacturer",
+    "5": "Weather pattern shift",
+    "6": "Online infrastructure",
+    "7": "Silicon component",
+    "9": "Leonardo was one"
   }
 }
