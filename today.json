@@ -1,263 +1,402 @@
 {
   "metadata": {
     "date": "2026-02-08",
-    "version": "1.2",
-    "digest_id": "20260208",
+    "version": "2.0",
+    "digest_id": "20260208_headlines_30",
     "generated_at": "2026-02-08T06:00:00Z",
-    "total_stories": 25
+    "total_stories": 30
   },
   "stories": [
     {
       "id": "story_001",
-      "section": "politics",
-      "headline": "Trump Slashes India Tariffs to 18% After Modi Agrees to Stop Russian Oil Purchases",
-      "context": "India significantly increased Russian oil imports after 2022 due to discounted crude prices. Western nations have tried to reduce Russia’s energy revenues through sanctions and trade alignment policies.",
-      "implications": "India’s energy sourcing strategy could shift toward US and Latin American suppliers. This may increase import costs while strengthening US-India strategic trade relations.",
-      "related_links": [
-        {"title": "India’s Russian oil imports explained", "url": "https://www.reuters.com/world/india/"},
-        {"title": "IEA Russia energy analysis", "url": "https://www.iea.org/topics/russia-energy-crisis"}
-      ]
+      "section": "world",
+      "headline": "Russia launches massive air attack on Ukraine’s energy infrastructure",
+      "what": "Russia carried out one of the largest coordinated drone and missile attacks of the year targeting Ukraine’s power infrastructure.",
+      "context": "Energy facilities have remained key strategic targets throughout the conflict.",
+      "implications": "Electricity shortages and infrastructure damage could affect civilians and industrial production.",
+      "key_figures": [
+        { "label": "Targets", "value": "Energy infrastructure" }
+      ],
+      "what_next": "Ukraine is expected to seek additional air-defense support.",
+      "related_links": []
     },
     {
       "id": "story_002",
-      "section": "technology",
-      "headline": "Deep Tech Startups Get 20-Year Window Under New Startup India Rules",
-      "context": "Deep-tech companies require long R&D cycles compared to consumer startups. Governments globally have begun adjusting startup definitions to accommodate scientific commercialization timelines.",
-      "implications": "India could see stronger investment in AI, semiconductors, robotics, and biotech. Venture funding timelines may expand accordingly.",
-      "related_links": [
-        {"title": "Startup India initiative", "url": "https://www.startupindia.gov.in/"},
-        {"title": "PIB startup policy updates", "url": "https://www.pib.gov.in/"}
-      ]
+      "section": "world",
+      "headline": "Suicide bombing at Islamabad mosque kills more than 30 worshippers",
+      "what": "A suicide attacker detonated explosives at a mosque in Islamabad during prayers.",
+      "context": "Militant attacks in Pakistan have increased in recent years.",
+      "implications": "Security measures in major cities are expected to tighten.",
+      "key_figures": [
+        { "label": "Fatalities", "value": "30+" }
+      ],
+      "what_next": "Authorities continue investigation into militant networks.",
+      "related_links": []
     },
     {
       "id": "story_003",
-      "section": "technology",
-      "headline": "IIT Madras Launches $72 Million Deep Tech Fund to Back Research Spinouts",
-      "context": "University spinout ecosystems have historically driven innovation in Silicon Valley, Cambridge, and Israel.",
-      "implications": "Indian academic institutions may increasingly act as venture creators rather than just incubators.",
-      "related_links": [
-        {"title": "Research commercialization models", "url": "https://www.nature.com/articles/d41586-020-03493-0"}
-      ]
+      "section": "policy",
+      "headline": "Thailand holds general election alongside constitutional referendum",
+      "what": "Thai voters participated in parliamentary elections and a referendum on constitutional reforms.",
+      "context": "The vote could reshape the country’s political framework.",
+      "implications": "Government structure and democratic reforms may shift.",
+      "key_figures": [
+        { "label": "Election year", "value": "2026" }
+      ],
+      "what_next": "Coalition negotiations expected.",
+      "related_links": []
     },
     {
       "id": "story_004",
-      "section": "business",
-      "headline": "Silver Prices Crash 8.3% to ₹2.75 Lakh/kg",
-      "context": "Precious metals often experience corrections after speculative rallies and central bank buying cycles.",
-      "implications": "Retail investors may face volatility while industrial buyers benefit from lower input costs.",
-      "related_links": [
-        {"title": "Silver market outlook", "url": "https://www.lbma.org.uk/"}
-      ]
+      "section": "money",
+      "headline": "Japan finance minister warns against using foreign-exchange reserves for spending",
+      "what": "Japan signaled caution about tapping currency reserves for domestic fiscal policy.",
+      "context": "Currency volatility remains a concern for policymakers.",
+      "implications": "Financial markets may see reduced intervention risk.",
+      "key_figures": [
+        { "label": "Policy stance", "value": "Conservative reserves management" }
+      ],
+      "what_next": "Investors monitor yen stability.",
+      "related_links": []
     },
     {
       "id": "story_005",
-      "section": "finance",
-      "headline": "Insurance Sector Opens to 100% Foreign Investment",
-      "context": "Insurance penetration in India remains below global averages, creating large growth potential.",
-      "implications": "Foreign insurers may bring capital, analytics, and underwriting expertise into India.",
-      "related_links": [
-        {"title": "Insurance sector reforms India", "url": "https://www.irdai.gov.in/"}
-      ]
+      "section": "money",
+      "headline": "Bitcoin loses gains amid renewed crypto-market volatility",
+      "what": "Bitcoin prices declined sharply following global market uncertainty.",
+      "context": "Cryptocurrency markets remain sensitive to policy signals.",
+      "implications": "Retail and institutional investors face increased risk exposure.",
+      "key_figures": [
+        { "label": "Asset", "value": "Bitcoin" }
+      ],
+      "what_next": "Markets await regulatory clarity.",
+      "related_links": []
     },
     {
       "id": "story_006",
-      "section": "security",
-      "headline": "India Launches National Bomb Blast Database",
-      "context": "Security agencies globally maintain forensic incident databases to identify patterns across attacks.",
-      "implications": "Centralized intelligence could improve predictive policing and forensic investigations.",
-      "related_links": [
-        {"title": "NCRB crime data systems", "url": "https://ncrb.gov.in/"}
-      ]
+      "section": "tech",
+      "headline": "AI tools increasingly used by religious communities and institutions",
+      "what": "Religious organizations are experimenting with AI-assisted sermons and chatbots.",
+      "context": "AI adoption continues expanding beyond traditional industries.",
+      "implications": "Ethical debates about automation in faith communities may grow.",
+      "key_figures": [
+        { "label": "Technology", "value": "Generative AI" }
+      ],
+      "what_next": "Guidelines for AI use may emerge.",
+      "related_links": []
     },
     {
       "id": "story_007",
-      "section": "finance",
-      "headline": "RBI Gold Purchases Drop Sharply",
-      "context": "Central banks buy gold to diversify reserves during geopolitical and inflation uncertainty.",
-      "implications": "Reduced purchases suggest caution amid high prices.",
-      "related_links": [
-        {"title": "RBI reserve management", "url": "https://www.rbi.org.in/"}
-      ]
+      "section": "world",
+      "headline": "Winter Olympics events begin in Milan-Cortina with first medals awarded",
+      "what": "The first competitions of the Winter Olympics concluded with medal ceremonies.",
+      "context": "The games mark Italy’s return as host nation.",
+      "implications": "Tourism and global attention focus on northern Italy.",
+      "key_figures": [
+        { "label": "Event", "value": "Winter Olympics 2026" }
+      ],
+      "what_next": "Major events continue through February.",
+      "related_links": []
     },
     {
       "id": "story_008",
-      "section": "startups",
-      "headline": "ZILO Raises Series A for Fashion Quick Commerce",
-      "context": "Quick commerce expanded rapidly in India through groceries and food delivery platforms.",
-      "implications": "Fashion logistics may test the limits of ultra-fast delivery economics.",
-      "related_links": [
-        {"title": "Quick commerce market trends", "url": "https://www.mckinsey.com/"}
-      ]
+      "section": "science",
+      "headline": "New dinosaur species discovered with preserved skin structures",
+      "what": "Researchers identified a dinosaur fossil showing preserved skin features.",
+      "context": "Soft-tissue fossil preservation is rare in paleontology.",
+      "implications": "The discovery may reshape understanding of dinosaur biology.",
+      "key_figures": [
+        { "label": "Species", "value": "Haolong dongi" }
+      ],
+      "what_next": "Further fossil analysis underway.",
+      "related_links": []
     },
     {
       "id": "story_009",
-      "section": "health",
-      "headline": "Preventive Nutrition Startup Good Monk Raises Funding",
-      "context": "Preventive healthcare is gaining importance globally due to rising lifestyle diseases.",
-      "implications": "Nutrition-tech startups could integrate with insurance and digital health ecosystems.",
-      "related_links": [
-        {"title": "WHO preventive healthcare", "url": "https://www.who.int/"}
-      ]
+      "section": "science",
+      "headline": "UK government cuts over £250 million from physics infrastructure funding",
+      "what": "The UK reduced funding for physics research infrastructure.",
+      "context": "Budget pressures are affecting research investment priorities.",
+      "implications": "Universities warn of long-term competitiveness risks.",
+      "key_figures": [
+        { "label": "Funding cut", "value": "£250M+" }
+      ],
+      "what_next": "Scientific organizations lobbying government.",
+      "related_links": []
     },
     {
       "id": "story_010",
-      "section": "weather",
-      "headline": "Western Himalayas Expect Heavy Snowfall",
-      "context": "Western disturbances regularly bring winter precipitation to northern India.",
-      "implications": "Travel disruptions and water-resource replenishment are both expected.",
-      "related_links": [
-        {"title": "IMD forecasts", "url": "https://mausam.imd.gov.in/"}
-      ]
+      "section": "science",
+      "headline": "Scientists warn UK astronomy funding cuts could harm research sector",
+      "what": "Researchers expressed concern about reduced astronomy funding.",
+      "context": "International collaborations depend on stable funding.",
+      "implications": "Future telescope projects may be delayed.",
+      "key_figures": [
+        { "label": "Field", "value": "Astronomy" }
+      ],
+      "what_next": "Policy discussions expected.",
+      "related_links": []
     },
     {
       "id": "story_011",
-      "section": "robotics",
-      "headline": "EyeROV Marine Robotics Funding",
-      "context": "Offshore infrastructure requires underwater inspection technologies.",
-      "implications": "Marine robotics adoption could increase in ports and energy sectors.",
-      "related_links": [
-        {"title": "Global marine robotics industry", "url": "https://www.oceanologyinternational.com/"}
-      ]
+      "section": "money",
+      "headline": "Amazon shares fall after announcing $200 billion AI investment plan",
+      "what": "Amazon stock declined after the company revealed a large long-term AI infrastructure investment.",
+      "context": "Technology firms are increasing capital expenditure to compete in AI computing.",
+      "implications": "Short-term profitability concerns may affect investor sentiment.",
+      "key_figures": [
+        { "label": "Investment plan", "value": "$200B" }
+      ],
+      "what_next": "Investors will watch cloud revenue growth.",
+      "related_links": []
     },
     {
       "id": "story_012",
-      "section": "culture",
-      "headline": "Bhutan Queen Mother Receives Humanitarian Award",
-      "context": "Regional cultural diplomacy strengthens South Asian ties.",
-      "implications": "Cultural collaboration between Bhutan and Northeast India may expand.",
-      "related_links": [
-        {"title": "India Bhutan relations", "url": "https://mea.gov.in/"}
-      ]
+      "section": "world",
+      "headline": "Washington Post publisher Will Lewis announces departure after layoffs",
+      "what": "The Washington Post publisher stepped down following newsroom restructuring.",
+      "context": "Media organizations continue adjusting to digital revenue pressures.",
+      "implications": "Leadership changes may reshape editorial strategy.",
+      "key_figures": [
+        { "label": "Industry", "value": "News media" }
+      ],
+      "what_next": "A successor search is expected.",
+      "related_links": []
     },
     {
       "id": "story_013",
-      "section": "robotics",
-      "headline": "Octobotics Seed Funding",
-      "context": "Factory automation demand is rising globally due to labor shortages.",
-      "implications": "Indian robotics startups may compete in domestic manufacturing automation.",
-      "related_links": [
-        {"title": "Industrial robotics report", "url": "https://ifr.org/"}
-      ]
+      "section": "policy",
+      "headline": "Haiti enters political uncertainty as transitional government mandate ends",
+      "what": "Haiti’s transitional governance arrangement expired without a clear successor.",
+      "context": "The country has faced prolonged political instability.",
+      "implications": "International mediation efforts may increase.",
+      "key_figures": [
+        { "label": "Country", "value": "Haiti" }
+      ],
+      "what_next": "Talks on forming a new administration continue.",
+      "related_links": []
     },
     {
       "id": "story_014",
-      "section": "startups",
-      "headline": "Pet Healthcare Startup Dr. Doodley Funding",
-      "context": "Urban pet ownership has increased post-pandemic.",
-      "implications": "Digital veterinary platforms could become mainstream.",
-      "related_links": [
-        {"title": "Pet care industry trends", "url": "https://www.statista.com/"}
-      ]
+      "section": "policy",
+      "headline": "U.S. President Donald Trump meets Honduran president Nasry Asfura",
+      "what": "Leaders discussed regional migration and economic cooperation.",
+      "context": "Central American diplomacy remains tied to trade and border policy.",
+      "implications": "New bilateral agreements may emerge.",
+      "key_figures": [
+        { "label": "Meeting location", "value": "Washington" }
+      ],
+      "what_next": "Joint statements expected.",
+      "related_links": []
     },
     {
       "id": "story_015",
-      "section": "technology",
-      "headline": "AI Social Platform Treefe Crosses 1M Downloads",
-      "context": "Regional language platforms are gaining adoption in India’s internet ecosystem.",
-      "implications": "Localized AI products could challenge global social platforms.",
-      "related_links": [
-        {"title": "India internet usage report", "url": "https://www.iamai.in/"}
-      ]
+      "section": "policy",
+      "headline": "Netanyahu expected to meet Trump in Washington to discuss Iran",
+      "what": "Israeli and U.S. leaders plan strategic talks on Iran’s nuclear program.",
+      "context": "Middle East tensions remain elevated.",
+      "implications": "Security coordination between allies may deepen.",
+      "key_figures": [
+        { "label": "Topic", "value": "Iran nuclear policy" }
+      ],
+      "what_next": "Diplomatic announcements anticipated.",
+      "related_links": []
     },
     {
       "id": "story_016",
-      "section": "space",
-      "headline": "ISRO Tests Reusable Launch Vehicle Landing Experiment",
-      "context": "Reusable rocket systems reduce launch costs significantly.",
-      "implications": "India could compete with global reusable launch providers.",
-      "related_links": [
-        {"title": "ISRO RLV program", "url": "https://www.isro.gov.in/"}
-      ]
+      "section": "world",
+      "headline": "Italy encouraged by strong start to Six Nations rugby tournament",
+      "what": "Italy’s performance in early matches boosted expectations.",
+      "context": "The Six Nations tournament is Europe’s premier rugby competition.",
+      "implications": "Team rankings may shift this season.",
+      "key_figures": [
+        { "label": "Tournament", "value": "Six Nations" }
+      ],
+      "what_next": "Upcoming fixtures will test momentum.",
+      "related_links": []
     },
     {
       "id": "story_017",
-      "section": "ai",
-      "headline": "Open-Source AI Models Gain Enterprise Adoption",
-      "context": "Companies increasingly deploy open-weight models to reduce API costs.",
-      "implications": "Enterprise AI stacks may become hybrid (cloud + local inference).",
-      "related_links": [
-        {"title": "AI industry report", "url": "https://aiindex.stanford.edu/"}
-      ]
+      "section": "world",
+      "headline": "James Harden makes debut for Cleveland Cavaliers in NBA win",
+      "what": "The star guard debuted with a strong performance for Cleveland.",
+      "context": "Midseason transfers reshaped team dynamics.",
+      "implications": "Playoff projections may change.",
+      "key_figures": [
+        { "label": "League", "value": "NBA" }
+      ],
+      "what_next": "Team chemistry remains under evaluation.",
+      "related_links": []
     },
     {
       "id": "story_018",
-      "section": "economy",
-      "headline": "IMF Projects India as Fastest Growing Major Economy",
-      "context": "India’s GDP growth remains driven by domestic consumption and infrastructure spending.",
-      "implications": "Foreign investment flows into manufacturing and tech may increase.",
-      "related_links": [
-        {"title": "IMF outlook", "url": "https://www.imf.org/"}
-      ]
+      "section": "world",
+      "headline": "Liverpool signing Jeremy Jacquet suffers serious shoulder injury",
+      "what": "The newly signed defender was injured during training.",
+      "context": "Injuries can affect squad depth midseason.",
+      "implications": "Transfer strategy may adjust.",
+      "key_figures": [
+        { "label": "Club", "value": "Liverpool" }
+      ],
+      "what_next": "Medical evaluation ongoing.",
+      "related_links": []
     },
     {
       "id": "story_019",
-      "section": "climate",
-      "headline": "Global Renewable Capacity Hits Record High",
-      "context": "Solar and wind installations have accelerated globally.",
-      "implications": "Energy transition may reduce fossil-fuel dependence.",
-      "related_links": [
-        {"title": "IEA renewables report", "url": "https://www.iea.org/"}
-      ]
+      "section": "world",
+      "headline": "UCLA defeats Washington in late defensive comeback",
+      "what": "UCLA secured victory with strong defense in the final minutes.",
+      "context": "College basketball season intensifies ahead of tournaments.",
+      "implications": "Ranking positions may change.",
+      "key_figures": [
+        { "label": "Competition", "value": "NCAA basketball" }
+      ],
+      "what_next": "Conference standings update expected.",
+      "related_links": []
     },
     {
       "id": "story_020",
-      "section": "chips",
-      "headline": "India Semiconductor Mission Approves New Fab Incentives",
-      "context": "Countries are investing heavily in domestic chip manufacturing.",
-      "implications": "India may develop a semiconductor manufacturing ecosystem.",
-      "related_links": [
-        {"title": "India Semiconductor Mission", "url": "https://ism.gov.in/"}
-      ]
+      "section": "science",
+      "headline": "Norovirus cases reported among Olympic athletes but no outbreak confirmed",
+      "what": "Health officials reported isolated illness cases during the Winter Olympics.",
+      "context": "Large sporting events require strict health monitoring.",
+      "implications": "Preventive measures remain in place.",
+      "key_figures": [
+        { "label": "Virus", "value": "Norovirus" }
+      ],
+      "what_next": "Medical surveillance continues.",
+      "related_links": []
     },
     {
       "id": "story_021",
-      "section": "transport",
-      "headline": "EV Adoption Accelerates in Indian Cities",
-      "context": "Battery costs continue to decline globally.",
-      "implications": "Urban transport electrification could reduce oil imports.",
-      "related_links": [
-        {"title": "EV outlook report", "url": "https://about.bnef.com/"}
-      ]
+      "section": "policy",
+      "headline": "World Economic Forum highlights cooperation in a contested global economy",
+      "what": "Leaders discussed economic coordination and trade challenges.",
+      "context": "Globalization debates remain central to policy forums.",
+      "implications": "Multilateral cooperation initiatives may expand.",
+      "key_figures": [
+        { "label": "Event", "value": "WEF Davos" }
+      ],
+      "what_next": "Policy frameworks under discussion.",
+      "related_links": []
     },
     {
       "id": "story_022",
-      "section": "cybersecurity",
-      "headline": "Global Ransomware Attacks Rise",
-      "context": "Critical infrastructure cyberattacks have increased worldwide.",
-      "implications": "Cybersecurity spending is expected to grow rapidly.",
-      "related_links": [
-        {"title": "Cybersecurity report", "url": "https://www.cisa.gov/"}
-      ]
+      "section": "policy",
+      "headline": "New START nuclear arms treaty between U.S. and Russia expires",
+      "what": "The nuclear arms-control treaty reached its expiration point.",
+      "context": "Arms-control agreements have shaped global security for decades.",
+      "implications": "Strategic-weapons monitoring may weaken.",
+      "key_figures": [
+        { "label": "Treaty", "value": "New START" }
+      ],
+      "what_next": "Diplomatic negotiations possible.",
+      "related_links": []
     },
     {
       "id": "story_023",
-      "section": "science",
-      "headline": "Fusion Research Achieves New Stability Milestone",
-      "context": "Fusion energy research has accelerated in the past decade.",
-      "implications": "Commercial fusion remains long-term but increasingly plausible.",
-      "related_links": [
-        {"title": "ITER fusion project", "url": "https://www.iter.org/"}
-      ]
+      "section": "world",
+      "headline": "Costa Rica elects Laura Fernández Delgado as president",
+      "what": "Costa Rica elected a new national leader.",
+      "context": "The election followed a competitive campaign.",
+      "implications": "Policy priorities may shift.",
+      "key_figures": [
+        { "label": "Country", "value": "Costa Rica" }
+      ],
+      "what_next": "Transition of power underway.",
+      "related_links": []
     },
     {
       "id": "story_024",
-      "section": "education",
-      "headline": "Universities Expand AI Curriculum",
-      "context": "AI skills demand has increased across industries.",
-      "implications": "Engineering education may shift toward applied AI training.",
-      "related_links": [
-        {"title": "AI education initiatives", "url": "https://www.unesco.org/"}
-      ]
+      "section": "science",
+      "headline": "International scientists describe rare fossil preserving dinosaur skin cells",
+      "what": "Researchers documented fossilized dinosaur skin structures.",
+      "context": "Such preservation is extremely rare.",
+      "implications": "Evolutionary studies may gain new data.",
+      "key_figures": [
+        { "label": "Field", "value": "Paleontology" }
+      ],
+      "what_next": "Additional publications expected.",
+      "related_links": []
     },
     {
       "id": "story_025",
-      "section": "markets",
-      "headline": "Global Tech Stocks Rally on AI Earnings",
-      "context": "AI infrastructure spending has driven semiconductor and cloud growth.",
-      "implications": "AI capital expenditure cycles may continue through the decade.",
-      "related_links": [
-        {"title": "Global markets coverage", "url": "https://www.reuters.com/markets/"}
-      ]
+      "section": "world",
+      "headline": "Olympic skiathlon event awards Sweden early gold medal",
+      "what": "Sweden secured one of the first gold medals of the Winter Olympics.",
+      "context": "Nordic countries traditionally dominate cross-country skiing.",
+      "implications": "Medal standings begin to take shape.",
+      "key_figures": [
+        { "label": "Country", "value": "Sweden" }
+      ],
+      "what_next": "More skiing events scheduled.",
+      "related_links": []
+    },
+    {
+      "id": "story_026",
+      "section": "money",
+      "headline": "Crypto markets remain volatile after major price declines",
+      "what": "Cryptocurrency markets experienced continued price swings.",
+      "context": "Regulatory uncertainty influences investor behavior.",
+      "implications": "Market confidence remains fragile.",
+      "key_figures": [
+        { "label": "Sector", "value": "Cryptocurrency" }
+      ],
+      "what_next": "Investors monitor policy developments.",
+      "related_links": []
+    },
+    {
+      "id": "story_027",
+      "section": "tech",
+      "headline": "Governments debate AI regulation following surge in investment",
+      "what": "Policymakers discussed frameworks for regulating AI systems.",
+      "context": "AI investment has accelerated globally.",
+      "implications": "New compliance rules may emerge.",
+      "key_figures": [
+        { "label": "Technology", "value": "Artificial Intelligence" }
+      ],
+      "what_next": "Regulatory proposals expected.",
+      "related_links": []
+    },
+    {
+      "id": "story_028",
+      "section": "science",
+      "headline": "Research community warns of talent loss after UK funding cuts",
+      "what": "Scientists expressed concern about declining research investment.",
+      "context": "Funding reductions affect infrastructure projects.",
+      "implications": "Brain-drain risk increases.",
+      "key_figures": [
+        { "label": "Region", "value": "United Kingdom" }
+      ],
+      "what_next": "Policy reviews anticipated.",
+      "related_links": []
+    },
+    {
+      "id": "story_029",
+      "section": "policy",
+      "headline": "Political tensions rise in Middle East ahead of U.S.–Israel meeting",
+      "what": "Diplomatic activity increased before a major bilateral meeting.",
+      "context": "Regional security concerns remain high.",
+      "implications": "Defense cooperation discussions likely.",
+      "key_figures": [
+        { "label": "Region", "value": "Middle East" }
+      ],
+      "what_next": "Joint statements expected.",
+      "related_links": []
+    },
+    {
+      "id": "story_030",
+      "section": "world",
+      "headline": "Ukraine power grid targeted in one of the largest drone attacks of 2026",
+      "what": "Ukraine reported widespread infrastructure damage following drone strikes.",
+      "context": "Energy facilities remain critical wartime targets.",
+      "implications": "Repair operations may take weeks.",
+      "key_figures": [
+        { "label": "Attack type", "value": "Drone strikes" }
+      ],
+      "what_next": "Emergency repairs underway.",
+      "related_links": []
     }
+    
   ]
 }
