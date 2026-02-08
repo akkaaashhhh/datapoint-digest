@@ -1,33 +1,35 @@
 {
   "size": 7,
   "structure": [
-    [ { "number": 1 }, {}, {}, {}, { "block": true }, { "number": 2 }, {} ],
-    [ {}, { "block": true }, { "number": 3 }, {}, {}, {}, {} ],
-    [ { "number": 4 }, {}, {}, {}, {}, { "block": true }, {} ],
+    [ { "number": 1 }, {}, {}, {}, {}, { "block": true }, { "number": 2 } ],
+    [ { "number": 3 }, {}, {}, {}, {}, {}, { "block": true } ],
+    [ { "number": 4 }, {}, {}, {}, {}, { "block": true }, { "block": true } ],
     [ { "block": true }, { "number": 5 }, {}, {}, {}, {}, {} ],
-    [ { "number": 6 }, {}, {}, {}, {}, { "block": true }, {} ],
-    [ { "number": 7 }, {}, {}, {}, { "block": true }, { "number": 8 }, {} ],
-    [ { "number": 9 }, {}, {}, {}, {}, { "block": true }, {} ]
+    [ { "number": 6 }, {}, {}, {}, {}, { "block": true }, { "number": 7 } ],
+    [ { "number": 8 }, {}, {}, {}, { "block": true }, { "number": 9 }, {} ],
+    [ { "number": 10 }, {}, {}, {}, {}, { "block": true }, { "number": 11 } ]
   ],
   "solution": [
-    ["I","N","D","I","A",null,"A","I"],
-    ["A",null,"S","U","M","M","I","T"],
-    ["T","E","S","L","A",null,"A"],
-    [null,"C","L","I","M","A","T","E"],
+    ["I","N","D","I","A",null,"A"],
+    ["S","U","M","M","I","T",null],
+    ["T","E","S","L","A",null,null],
+    [null,"C","L","I","M","A","T"],
     ["C","L","O","U","D",null,"S"],
     ["C","H","I","P",null,"A","I"],
     ["S","T","O","R","M",null,"S"]
   ],
   "across": {
     "1": "Country hosting AI summit",
-    "2": "Artificial intelligence",
+    "2": "Artificial intelligence (abbr.)",
     "3": "Global policy gathering",
     "4": "Electric vehicle company",
     "5": "Global warming concern",
     "6": "Remote computing infrastructure",
-    "7": "Semiconductor unit",
-    "8": "Machine intelligence field",
-    "9": "Extreme weather system"
+    "7": "Plural marker",
+    "8": "Semiconductor unit",
+    "9": "Machine intelligence field",
+    "10": "Extreme weather system",
+    "11": "Plural marker"
   },
   "down": {
     "1": "South Asian nation",
@@ -35,7 +37,7 @@
     "4": "EV manufacturer",
     "5": "Weather pattern shift",
     "6": "Online infrastructure",
-    "7": "Silicon component",
-    "9": "Leonardo was one"
+    "8": "Silicon component",
+    "10": "Leonardo was one"
   }
 }
