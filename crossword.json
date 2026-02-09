@@ -1,25 +1,40 @@
 {
-  "size": 5,
+  "date": "2026-02-09",
+  "theme": "Global news headlines",
+  "difficulty": "medium",
+  "size": 7,
   "structure": [
-    [{"number": 1}, {}, {}, {}, {"block": true}],
-    [{}, {"block": true}, {"block": true}, {"block": true}, {"block": true}],
-    [{"number": 2}, {}, {}, {}, {}],
-    [{}, {"block": true}, {"block": true}, {"block": true}, {"block": true}],
-    [{"number": 3}, {}, {}, {}, {}]
+    [{"number": 1}, {}, {}, {}, {}, {}, {"block": true}],
+    [{}, {"block": true}, {"number": 2}, {}, {}, {}, {"block": true}],
+    [{}, {"block": true}, {"number": 3}, {}, {}, {}, {"block": true}],
+    [{}, {"block": true}, {"number": 4}, {}, {}, {"block": true}, {"block": true}],
+    [{}, {"block": true}, {"number": 5}, {}, {}, {}, {"number": 6}],
+    [{}, {"block": true}, {"number": 7}, {}, {}, {}, {"block": true}],
+    [{}, {"block": true}, {"number": 8}, {}, {}, {}, {"block": true}]
   ],
   "solution": [
-    ["C", "O", "D", "E", null],
-    ["H", null, null, null, null],
-    ["I", "N", "D", "I", "A"],
-    ["P", null, null, null, null],
-    ["S", "T", "O", "C", "K"]
+    ["O", "P", "E", "N", "A", "I", null],
+    ["L", null, "G", "O", "L", "D", null],
+    ["Y", null, "N", "A", "T", "O", null],
+    ["M", null, "I", "P", "O", null, null],
+    ["P", null, "S", "P", "A", "C", "E"],
+    ["I", null, "E", "U", "R", "O", null],
+    ["C", null, "B", "O", "N", "D", null]
   ],
   "across": {
-    "1": "Programming instructions (4)",
-    "2": "Country hosting AI summit (5)",
-    "3": "Market equity (5)"
+    "1": "AI company reporting renewed growth (6)",
+    "2": "Commodity rising on softer dollar (4)",
+    "3": "Alliance launching Arctic mission (4)",
+    "4": "Public offering abbreviation in market news (3)",
+    "5": "Domain of Musk rocket ambitions (5)",
+    "7": "European currency amid tariff debate (4)",
+    "8": "Debt instrument Alphabet plans to sell (4)"
   },
   "down": {
-    "1": "Semiconductor components (5)"
+    "1": "Winter Games event underway in Italy (7)",
+    "2": "Precious metal investment asset (4)",
+    "3": "Military alliance acronym (4)",
+    "5": "Country holding general election (4)",
+    "6": "Cosmic expanse referenced in tech-space news (5)"
   }
 }
