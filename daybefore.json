@@ -1,0 +1,530 @@
+[
+  {
+    "headline": "US-Iran tensions mount ahead of Geneva talks",
+    "context": "As indirect nuclear talks approach, US deploys additional forces to the Middle East. Iran responds with warnings of escalation. Diplomatic channels remain open to avoid conflict.",
+    "link": "https://www.reuters.com/world/middle-east/us-iran-tensions-mount-geneva-talks-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "Iranian negotiator hints at possible compromises",
+    "context": "Iran's key diplomat suggests flexibility in upcoming US talks. This could pave the way for a nuclear agreement. Regional stability hangs in the balance.",
+    "link": "https://www.reuters.com/world/middle-east/iranian-negotiator-hints-compromises-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "US eyes sanctions on Swiss bank for evasion",
+    "context": "Potential isolation of a Swiss bank for alleged links to sanctioned entities. This enforces US financial policies. International banking relations strained.",
+    "link": "https://www.reuters.com/business/finance/us-eyes-sanctions-swiss-bank-evasion-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "UN highlights migration crisis fatalities",
+    "context": "Report details increasing deaths among migrants in 2025. Actual numbers likely higher due to underreporting. Global action urged for safer routes.",
+    "link": "https://www.reuters.com/world/un-highlights-migration-crisis-fatalities-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "West African cocoa supply issues persist",
+    "context": "Ongoing challenges in cocoa production from major exporters. Market volatility affects global prices. Farmers seek sustainable solutions.",
+    "link": "https://www.reuters.com/world/africa/west-african-cocoa-supply-issues-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "Epstein links probe at World Economic Forum",
+    "context": "Investigation into Epstein connections within WEF leadership. Calls for accountability grow. Organizational reforms considered.",
+    "link": "https://www.reuters.com/world/epstein-links-probe-wef-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "Clinton set for Epstein-related testimony",
+    "context": "Hillary Clinton prepares for congressional questioning on Epstein ties. Denies any involvement. Probe expands to other figures.",
+    "link": "https://www.reuters.com/world/us/clinton-epstein-testimony-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "Public backs Trump immigration goals",
+    "context": "Survey shows approval for deportation aims, criticism of methods. Immigration debate intensifies. Policy adjustments possible.",
+    "link": "https://www.reuters.com/world/us/public-backs-trump-immigration-goals-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "Challenge to Syrian protections in court",
+    "context": "Trump administration contests immigrant safeguards for Syrians. Legal battle could displace many. Humanitarian concerns raised.",
+    "link": "https://www.reuters.com/legal/government/challenge-syrian-protections-court-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "ICE recruitment hurdles amid expansion",
+    "context": "Difficulties in hiring for immigration enforcement surge. Vetting processes slow growth. Operational impacts assessed.",
+    "link": "https://www.reuters.com/world/us/ice-recruitment-hurdles-expansion-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "China's disguised drone operations noted",
+    "context": "Drones mimicking civilian flights over disputed waters. Seen as Taiwan rehearsal. Security alerts issued.",
+    "link": "https://www.reuters.com/world/china/chinas-disguised-drone-operations-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "China's influence on international polls",
+    "context": "Disinformation campaigns target elections worldwide. Social media used for propaganda. Countermeasures developed.",
+    "link": "https://www.reuters.com/world/china/chinas-influence-international-polls-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "Russia's missile use in Ukraine confirmed",
+    "context": "Banned weapon deployed, breaching arms treaties. International condemnation follows. Nuclear risks evaluated.",
+    "link": "https://www.reuters.com/business/aerospace-defense/russias-missile-use-ukraine-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "US leverages Lukoil sales in talks",
+    "context": "Delaying asset divestments to influence Russia-Ukraine negotiations. Strategic pressure applied. Peace prospects monitored.",
+    "link": "https://www.reuters.com/business/energy/us-leverages-lukoil-sales-talks-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "Reconstruction talks amid Ukraine attacks",
+    "context": "US-Ukraine discuss rebuilding as infrastructure targeted. Long-term planning underway. Aid commitments renewed.",
+    "link": "https://www.reuters.com/world/europe/reconstruction-talks-ukraine-attacks-2026-02-22/",
+    "category": "world"
+  },
+  {
+    "headline": "Cuba thwarts alleged US infiltration",
+    "context": "Armed group from Florida repelled. Casualties reported. Bilateral tensions rise.",
+    "link": "https://apnews.com/article/cuba-thwarts-us-infiltration-2026-02-22",
+    "category": "world"
+  },
+  {
+    "headline": "North Korea's mixed signals to neighbors",
+    "context": "Threats to South, openness to US dialogue. Peninsula dynamics shift. Diplomacy watched closely.",
+    "link": "https://apnews.com/article/north-korea-mixed-signals-2026-02-22",
+    "category": "world"
+  },
+  {
+    "headline": "Geneva talks prep for US-Iran",
+    "context": "Indirect negotiations loom with high stakes. Public perceives nuclear threat. Conflict prevention key.",
+    "link": "https://apnews.com/live/geneva-talks-prep-us-iran-2026-02-22",
+    "category": "world"
+  },
+  {
+    "headline": "Clinton in Epstein congressional spotlight",
+    "context": "Testimony scheduled on Epstein associations. No info claimed. Investigations deepen.",
+    "link": "https://www.thehindu.com/news/international/clinton-epstein-spotlight/article70661000.ece",
+    "category": "world"
+  },
+  {
+    "headline": "Merkel on global cooperation deficits",
+    "context": "Warns of order collapse, critiques AI policy resistance. Tech governance highlighted. Tensions noted.",
+    "link": "https://www.thehindu.com/news/international/merkel-global-cooperation-deficits/article70660500.ece",
+    "category": "world"
+  },
+  {
+    "headline": "Court critiques NCERT judiciary portrayal",
+    "context": "Textbook content deemed conspiratorial. Ban and contempt actions. Education standards questioned.",
+    "link": "https://www.thehindu.com/news/national/court-critiques-ncert-judiciary/article70660000.ece",
+    "category": "national"
+  },
+  {
+    "headline": "Modi questions NCERT oversight",
+    "context": "PM critiques textbook monitoring. Corruption section controversial. Accountability demanded.",
+    "link": "https://indianexpress.com/article/india/modi-questions-ncert-oversight-10552000/",
+    "category": "national"
+  },
+  {
+    "headline": "Stay on Kerala Story 2 certification",
+    "context": "Court faults CBFC review process. Release delayed. Legal proceedings continue.",
+    "link": "https://indianexpress.com/article/entertainment/bollywood/stay-kerala-story-2-10551500/",
+    "category": "national"
+  },
+  {
+    "headline": "Ban on NCERT book with corruption claim",
+    "context": "Supreme Court prohibits publication. Conspiracy alleged. Reforms suggested.",
+    "link": "https://indianexpress.com/article/legal-news/ban-ncert-book-corruption-10551000/",
+    "category": "national"
+  },
+  {
+    "headline": "HPV campaign launch announced",
+    "context": "Modi to start vaccine drive in Rajasthan. Consent mandatory. Health initiative expands.",
+    "link": "https://indianexpress.com/article/health-wellness/hpv-campaign-launch-10551700/",
+    "category": "national"
+  },
+  {
+    "headline": "Farmers mobilize against US pact",
+    "context": "SKM seeks state resolutions on trade deal. Federal interests protected. Opposition grows.",
+    "link": "https://www.thehindu.com/news/national/farmers-mobilize-us-pact/article70659000.ece",
+    "category": "national"
+  },
+  {
+    "headline": "Assembly protest over India-US agreement",
+    "context": "MLAs demonstrate with accusatory attire. Compromise claims made. Debate heats up.",
+    "link": "https://www.thehindu.com/news/national/assembly-protest-india-us/article70657500.ece",
+    "category": "national"
+  },
+  {
+    "headline": "Ranji final: J&K posts strong total",
+    "context": "Jammu & Kashmir scores big against Karnataka. Final intensifies. Performances key.",
+    "link": "https://www.espncricinfo.com/series/ranji-trophy-2025-26-1492381/karnataka-vs-jammu-kashmir-final-1492524/match-report-2",
+    "category": "sports"
+  },
+  {
+    "headline": "SA vs WI T20 WC preview",
+    "context": "South Africa faces West Indies in Super Eights. Strategies discussed. Advancement crucial.",
+    "link": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138/south-africa-vs-west-indies-47th-match-super-eights-group-1-1512765/match-preview-2",
+    "category": "sports"
+  },
+  {
+    "headline": "NZ-England clash for semis",
+    "context": "Decisive match in T20 World Cup. Qualification scenarios analyzed. Excitement builds.",
+    "link": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138/england-vs-new-zealand-49th-match-super-eights-group-2-1512767/match-preview-2",
+    "category": "sports"
+  },
+  {
+    "headline": "Southee targets top game vs NZ",
+    "context": "England bowler aims for excellence. Emotional matchup. Tactics refined.",
+    "link": "https://www.espncricinfo.com/story/southee-targets-top-game-nz-1525900",
+    "category": "sports"
+  },
+  {
+    "headline": "Rabada on Ngidi's unique delivery",
+    "context": "Praise for slower ball execution. SA bowling depth noted. Performances lauded.",
+    "link": "https://www.espncricinfo.com/story/rabada-ngidis-unique-delivery-1525950",
+    "category": "sports"
+  },
+  {
+    "headline": "WI prepares power-hitting strategy",
+    "context": "Focus on sixes for T20 success. Record aspirations. Team ready.",
+    "link": "https://www.espncricinfo.com/story/wi-power-hitting-strategy-1525905",
+    "category": "sports"
+  },
+  {
+    "headline": "SA's adaptable bowling unit",
+    "context": "Pace attack suits all conditions. Key players highlighted. WC progress aided.",
+    "link": "https://www.espncricinfo.com/story/sa-adaptable-bowling-unit-1525990",
+    "category": "sports"
+  },
+  {
+    "headline": "NZ's strength in adaptability",
+    "context": "Coach praises problem-solving skills. Crucial for tournament. Confidence boosted.",
+    "link": "https://www.espncricinfo.com/story/nz-strength-adaptability-1525940",
+    "category": "sports"
+  },
+  {
+    "headline": "WI's consistent aggressive approach",
+    "context": "2016 style retained. Power play emphasized. Spirit high.",
+    "link": "https://www.espncricinfo.com/story/wi-consistent-aggressive-approach-1525980",
+    "category": "sports"
+  },
+  {
+    "headline": "Tahir's domestic return at 46",
+    "context": "Spinner back for Dolphins. Experience added. Anticipation grows.",
+    "link": "https://www.espncricinfo.com/story/tahir-domestic-return-46-1525910",
+    "category": "sports"
+  },
+  {
+    "headline": "India-Zimbabwe T20 live scores",
+    "context": "Super 8 match updates. Competitive scoring. Chase begins.",
+    "link": "https://www.thehindu.com/sport/cricket/india-zimbabwe-t20-live-2026-02-22/article70667500.ece",
+    "category": "sports"
+  },
+  {
+    "headline": "Arshdeep's early wicket in T20 WC",
+    "context": "Key dismissal in India-Zimbabwe game. Semis push continues. Venue buzz.",
+    "link": "https://indianexpress.com/article/sports/cricket/arshdeep-early-wicket-t20-wc-10551400/",
+    "category": "sports"
+  },
+  {
+    "headline": "UCL knockout draw revealed",
+    "context": "Round of 16 pairings set. Teams react. Broadcast info shared.",
+    "link": "https://indianexpress.com/article/sports/football/ucl-knockout-draw-10552000/",
+    "category": "sports"
+  },
+  {
+    "headline": "Mexico unrest affects WC prep",
+    "context": "Soccer suspensions due to violence. FIFA watches closely. Hosting assured.",
+    "link": "https://www.espn.com/soccer/story/_/id/48041400/mexico-unrest-wc-prep",
+    "category": "sports"
+  },
+  {
+    "headline": "Ref error in Brazilian league",
+    "context": "Kick-off mistake leads to warning. Game outcome unaffected. Officiating reviewed.",
+    "link": "https://www.espn.com/soccer/story/_/id/48041500/ref-error-brazilian-league",
+    "category": "sports"
+  },
+  {
+    "headline": "Miami's friendly squad plans",
+    "context": "Rotation for preseason game. MLS readiness focused. Stars may play.",
+    "link": "https://africa.espn.com/football/story/_/id/48041900/miami-friendly-squad-plans",
+    "category": "sports"
+  },
+  {
+    "headline": "Goa tops ISL after Delhi win",
+    "context": "Victory moves Goa lead. Goal scorer shines. Bottom team struggles.",
+    "link": "https://africa.espn.com/football/story/_/id/48037800/goa-tops-isl-delhi-win",
+    "category": "sports"
+  },
+  {
+    "headline": "PSG's UCL defense questioned",
+    "context": "Draw presents challenges. Improvements needed. Title hopes dim.",
+    "link": "https://www.espn.com/soccer/story/_/id/48037500/psg-ucl-defense-questioned",
+    "category": "sports"
+  },
+  {
+    "headline": "Indian sports daily roundup",
+    "context": "Badminton wins, ISL matches. Updates across events.",
+    "link": "https://www.espn.com/espn/story/_/id/48031700/indian-sports-daily-roundup-feb-22",
+    "category": "sports"
+  },
+  {
+    "headline": "Atalanta's dramatic win over Dortmund",
+    "context": "Late VAR penalty secures advance. Cards issued. Excitement high.",
+    "link": "https://africa.espn.com/football/story/_/id/48034000/atalanta-dramatic-win-dortmund",
+    "category": "sports"
+  },
+  {
+    "headline": "FIFA monitors Mexico situation",
+    "context": "Confidence in hosting despite issues. Updates ongoing.",
+    "link": "https://www.espn.com/soccer/story/_/id/48028900/fifa-monitors-mexico-situation",
+    "category": "sports"
+  },
+  {
+    "headline": "West Ham in survival mode",
+    "context": "Coach rallies for relegation fight. Wins motivate. Rivals warned.",
+    "link": "https://africa.espn.com/football/story/_/id/48040900/west-ham-survival-mode",
+    "category": "sports"
+  },
+  {
+    "headline": "WSL players at Asian Cup",
+    "context": "Absences due to international duty. Squad adjustments made.",
+    "link": "https://africa.espn.com/football/story/_/id/48041000/wsl-players-asian-cup",
+    "category": "sports"
+  },
+  {
+    "headline": "Ronaldo's club investment",
+    "context": "Stake in Almeria acquired. Player-owners trend. Plans ahead.",
+    "link": "https://africa.espn.com/football/story/_/id/48039300/ronaldo-club-investment",
+    "category": "sports"
+  },
+  {
+    "headline": "Coventry leads Championship",
+    "context": "Lampard urges focus. Lead maintained. Promotion chase on.",
+    "link": "https://africa.espn.com/football/story/_/id/48034600/coventry-leads-championship",
+    "category": "sports"
+  },
+  {
+    "headline": "UN AI panel formed",
+    "context": "New group to study AI effects. Policy guidance aimed. Risks addressed.",
+    "link": "https://www.nature.com/articles/d41586-026-00522-8",
+    "category": "science"
+  },
+  {
+    "headline": "Epstein ties impact scientists",
+    "context": "Career repercussions from associations. Accountability stressed.",
+    "link": "https://www.nature.com/articles/d41586-026-00534-4",
+    "category": "science"
+  },
+  {
+    "headline": "Generational effects of fungicide",
+    "context": "Rat study shows long-term health impacts. Chemical warnings issued.",
+    "link": "https://www.nature.com/articles/d41586-026-00535-3",
+    "category": "science"
+  },
+  {
+    "headline": "Sex-specific memory enhancement",
+    "context": "Compound aids females more. Neurological differences noted.",
+    "link": "https://www.nature.com/articles/d41586-026-00583-y",
+    "category": "science"
+  },
+  {
+    "headline": "Neuron production in super agers",
+    "context": "Ongoing neurogenesis defies aging. Cognitive factors identified.",
+    "link": "https://www.nature.com/articles/d41586-026-00579-5",
+    "category": "science"
+  },
+  {
+    "headline": "Stem cells for frailty treatment",
+    "context": "Therapies improve function. Geriatric advances made.",
+    "link": "https://www.nature.com/articles/d41586-026-00564-y",
+    "category": "science"
+  },
+  {
+    "headline": "Decline in animal testing",
+    "context": "Alternatives rise, challenges remain. Research future questioned.",
+    "link": "https://www.nature.com/articles/d41586-026-00543-3",
+    "category": "science"
+  },
+  {
+    "headline": "China's Alzheimer's battle",
+    "context": "Investments in research, treatments. Global insights possible.",
+    "link": "https://www.nature.com/articles/d41586-026-00544-2",
+    "category": "science"
+  },
+  {
+    "headline": "Science in nuclear prevention",
+    "context": "Calls for involvement in non-proliferation. Threats evolve.",
+    "link": "https://www.nature.com/articles/d41586-026-00542-4",
+    "category": "science"
+  },
+  {
+    "headline": "Sneaker squeaks explained physically",
+    "context": "Discharges link to phenomena. Daily physics applied.",
+    "link": "https://www.nature.com/articles/d41586-026-00599-4",
+    "category": "science"
+  },
+  {
+    "headline": "COVID origins summary",
+    "context": "Known facts, uncertainties outlined. Debates continue.",
+    "link": "https://www.nature.com/articles/d41586-026-00510-y",
+    "category": "science"
+  },
+  {
+    "headline": "Ancient violence in mass grave",
+    "context": "Patterns revealed in Iron Age site. History reshaped.",
+    "link": "https://www.nature.com/articles/d41586-026-00515-7",
+    "category": "science"
+  },
+  {
+    "headline": "Japan's stem-cell approvals",
+    "context": "Novel therapies greenlit. Medicine progresses.",
+    "link": "https://www.nature.com/articles/d41586-026-00565-x",
+    "category": "science"
+  },
+  {
+    "headline": "Horse vocalizations identified",
+    "context": "Distinct sounds discovered. Communication enhanced.",
+    "link": "https://www.nature.com/articles/d41586-026-00525-5",
+    "category": "science"
+  },
+  {
+    "headline": "AI for better peer reviews",
+    "context": "Tool promotes efficiency, courtesy. Publishing improved.",
+    "link": "https://www.nature.com/articles/d41586-026-00516-6",
+    "category": "science"
+  },
+  {
+    "headline": "US rare earth supply woes",
+    "context": "Shortages hit key sectors. Trade deals insufficient.",
+    "link": "https://www.reuters.com/business/aerospace-defense/us-rare-earth-supply-woes-2026-02-22/",
+    "category": "science"
+  },
+  {
+    "headline": "NASA handles astronaut health issue",
+    "context": "Illness prompts station response. Protocols activated.",
+    "link": "https://apnews.com/article/nasa-astronaut-health-issue-2026-02-22",
+    "category": "science"
+  },
+  {
+    "headline": "Aravalli panel experts sought",
+    "context": "Court directs recommendations for environmental group.",
+    "link": "https://www.thehindu.com/sci-tech/energy-and-environment/aravalli-panel-experts/article70668800.ece",
+    "category": "science"
+  },
+  {
+    "headline": "AI unravels desert mysteries",
+    "context": "Tech analyzes historical patterns. Discoveries emerge.",
+    "link": "https://indianexpress.com/article/technology/science/ai-unravels-desert-mysteries-10552000/",
+    "category": "science"
+  },
+  {
+    "headline": "EPA biofuel shifts under Trump",
+    "context": "Obligations reassigned. Industry affected.",
+    "link": "https://www.reuters.com/sustainability/climate-energy/epa-biofuel-shifts-trump-2026-02-22/",
+    "category": "science"
+  },
+  {
+    "headline": "Instagram's new safety alerts",
+    "context": "Parent notifications for searches. Regulations considered.",
+    "link": "https://www.reuters.com/world/americas/instagram-new-safety-alerts-2026-02-22/",
+    "category": "science"
+  },
+  {
+    "headline": "Urchin spines as sensors",
+    "context": "Voltage in flow detected. Applications possible.",
+    "link": "https://www.nature.com/articles/d41586-026-00354-6",
+    "category": "science"
+  },
+  {
+    "headline": "Multicellular evolution paths",
+    "context": "Flexible mechanisms found. Views challenged.",
+    "link": "https://www.nature.com/articles/d41586-026-00272-7",
+    "category": "science"
+  },
+  {
+    "headline": "Exercise's brain anti-aging",
+    "context": "Enzyme strengthens barrier. Benefits revealed.",
+    "link": "https://www.nature.com/articles/d41586-026-00495-x",
+    "category": "science"
+  },
+  {
+    "headline": "Climate risks assessment call",
+    "context": "Analysis for reductions urged. Awareness boosted.",
+    "link": "https://www.nature.com/articles/d41586-026-00524-6",
+    "category": "science"
+  },
+  {
+    "headline": "Russia-Ukraine body exchange",
+    "context": "Humanitarian swap completed. Prisoners included.",
+    "link": "https://www.bbc.com/news/articles/cg7ed4rp7x1o",
+    "category": "world"
+  },
+  {
+    "headline": "Afghan-Pak border clashes",
+    "context": "Retaliatory strikes after airstrikes. Tensions escalate.",
+    "link": "https://www.reuters.com/world/asia-pacific/afghan-pak-border-clashes-2026-02-22",
+    "category": "world"
+  },
+  {
+    "headline": "Critical US-Iran negotiations",
+    "context": "Geneva talks to avert war. Threats exchanged.",
+    "link": "https://www.bbc.com/news/articles/cvg1vd95nl5o",
+    "category": "world"
+  },
+  {
+    "headline": "WEF leader under Epstein scrutiny",
+    "context": "Pressure mounts on Brende. Review progresses.",
+    "link": "https://www.bbc.com/news/articles/cr5lq9ll15fo",
+    "category": "world"
+  },
+  {
+    "headline": "Melania's UN council role",
+    "context": "Chairs session on education. Historic move.",
+    "link": "https://www.reuters.com/world/melania-un-council-role-2026-02-22",
+    "category": "world"
+  },
+  {
+    "headline": "Denmark elections over Greenland",
+    "context": "Snap poll amid annexation talks. Issue central.",
+    "link": "https://www.bbc.com/news/articles/ckg3e63jwj4o",
+    "category": "world"
+  },
+  {
+    "headline": "Russia opposes UK Ukraine troops",
+    "context": "Deployment would prolong conflict. Plans discussed.",
+    "link": "https://www.reuters.com/world/europe/russia-opposes-uk-ukraine-troops-2026-02-22",
+    "category": "world"
+  },
+  {
+    "headline": "Bangladesh pursues UK politician",
+    "context": "Interpol sought for corruption. Efforts intensified.",
+    "link": "https://www.reuters.com/world/asia-pacific/bangladesh-pursues-uk-politician-2026-02-22",
+    "category": "world"
+  },
+  {
+    "headline": "Sudan violence genocide concerns",
+    "context": "Hallmarks noted. Intervention urged.",
+    "link": "https://www.reuters.com/world/africa/sudan-violence-genocide-concerns-2026-02-22",
+    "category": "world"
+  },
+  {
+    "headline": "McCain resigns from UN post",
+    "context": "Health reasons cited. Transition ahead.",
+    "link": "https://www.reuters.com/world/mccain-resigns-un-post-2026-02-22",
+    "category": "world"
+  },
+  {
+    "headline": "Trump's potential Ireland trip",
+    "context": "Golf event may prompt visit. Relations boosted.",
+    "link": "https://www.reuters.com/world/us/trump-potential-ireland-trip-2026-02-22",
+    "category": "world"
+  }
+]
