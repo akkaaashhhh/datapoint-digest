@@ -1,402 +1,590 @@
-{
-  "metadata": {
-    "date": "2026-02-08",
-    "version": "2.0",
-    "digest_id": "20260208_headlines_30",
-    "generated_at": "2026-02-08T06:00:00Z",
-    "total_stories": 30
+[
+  {
+    "headline": "US and Iran could reach deal if nuclear and non-nuclear issues are separated, says Iranian official",
+    "context": "A senior Iranian official stated that the US and Iran may achieve a framework agreement by separating nuclear and non-nuclear matters, with ongoing gaps to be addressed in Geneva talks. This development follows military threats and aims to revive nuclear negotiations amid heightened tensions. The indirect talks are seen as crucial to averting conflict.",
+    "link": "https://www.reuters.com/world/middle-east/us-iran-nuclear-talks-resume-geneva-against-backdrop-military-threat-2026-02-26/",
+    "category": "world"
   },
-  "stories": [
-    {
-      "id": "story_001",
-      "section": "world",
-      "headline": "Russia launches massive air attack on Ukraine’s energy infrastructure",
-      "what": "Russia carried out one of the largest coordinated drone and missile attacks of the year targeting Ukraine’s power infrastructure.",
-      "context": "Energy facilities have remained key strategic targets throughout the conflict.",
-      "implications": "Electricity shortages and infrastructure damage could affect civilians and industrial production.",
-      "key_figures": [
-        { "label": "Targets", "value": "Energy infrastructure" }
-      ],
-      "what_next": "Ukraine is expected to seek additional air-defense support.",
-      "related_links": []
-    },
-    {
-      "id": "story_002",
-      "section": "world",
-      "headline": "Suicide bombing at Islamabad mosque kills more than 30 worshippers",
-      "what": "A suicide attacker detonated explosives at a mosque in Islamabad during prayers.",
-      "context": "Militant attacks in Pakistan have increased in recent years.",
-      "implications": "Security measures in major cities are expected to tighten.",
-      "key_figures": [
-        { "label": "Fatalities", "value": "30+" }
-      ],
-      "what_next": "Authorities continue investigation into militant networks.",
-      "related_links": []
-    },
-    {
-      "id": "story_003",
-      "section": "policy",
-      "headline": "Thailand holds general election alongside constitutional referendum",
-      "what": "Thai voters participated in parliamentary elections and a referendum on constitutional reforms.",
-      "context": "The vote could reshape the country’s political framework.",
-      "implications": "Government structure and democratic reforms may shift.",
-      "key_figures": [
-        { "label": "Election year", "value": "2026" }
-      ],
-      "what_next": "Coalition negotiations expected.",
-      "related_links": []
-    },
-    {
-      "id": "story_004",
-      "section": "money",
-      "headline": "Japan finance minister warns against using foreign-exchange reserves for spending",
-      "what": "Japan signaled caution about tapping currency reserves for domestic fiscal policy.",
-      "context": "Currency volatility remains a concern for policymakers.",
-      "implications": "Financial markets may see reduced intervention risk.",
-      "key_figures": [
-        { "label": "Policy stance", "value": "Conservative reserves management" }
-      ],
-      "what_next": "Investors monitor yen stability.",
-      "related_links": []
-    },
-    {
-      "id": "story_005",
-      "section": "money",
-      "headline": "Bitcoin loses gains amid renewed crypto-market volatility",
-      "what": "Bitcoin prices declined sharply following global market uncertainty.",
-      "context": "Cryptocurrency markets remain sensitive to policy signals.",
-      "implications": "Retail and institutional investors face increased risk exposure.",
-      "key_figures": [
-        { "label": "Asset", "value": "Bitcoin" }
-      ],
-      "what_next": "Markets await regulatory clarity.",
-      "related_links": []
-    },
-    {
-      "id": "story_006",
-      "section": "tech",
-      "headline": "AI tools increasingly used by religious communities and institutions",
-      "what": "Religious organizations are experimenting with AI-assisted sermons and chatbots.",
-      "context": "AI adoption continues expanding beyond traditional industries.",
-      "implications": "Ethical debates about automation in faith communities may grow.",
-      "key_figures": [
-        { "label": "Technology", "value": "Generative AI" }
-      ],
-      "what_next": "Guidelines for AI use may emerge.",
-      "related_links": []
-    },
-    {
-      "id": "story_007",
-      "section": "world",
-      "headline": "Winter Olympics events begin in Milan-Cortina with first medals awarded",
-      "what": "The first competitions of the Winter Olympics concluded with medal ceremonies.",
-      "context": "The games mark Italy’s return as host nation.",
-      "implications": "Tourism and global attention focus on northern Italy.",
-      "key_figures": [
-        { "label": "Event", "value": "Winter Olympics 2026" }
-      ],
-      "what_next": "Major events continue through February.",
-      "related_links": []
-    },
-    {
-      "id": "story_008",
-      "section": "science",
-      "headline": "New dinosaur species discovered with preserved skin structures",
-      "what": "Researchers identified a dinosaur fossil showing preserved skin features.",
-      "context": "Soft-tissue fossil preservation is rare in paleontology.",
-      "implications": "The discovery may reshape understanding of dinosaur biology.",
-      "key_figures": [
-        { "label": "Species", "value": "Haolong dongi" }
-      ],
-      "what_next": "Further fossil analysis underway.",
-      "related_links": []
-    },
-    {
-      "id": "story_009",
-      "section": "science",
-      "headline": "UK government cuts over £250 million from physics infrastructure funding",
-      "what": "The UK reduced funding for physics research infrastructure.",
-      "context": "Budget pressures are affecting research investment priorities.",
-      "implications": "Universities warn of long-term competitiveness risks.",
-      "key_figures": [
-        { "label": "Funding cut", "value": "£250M+" }
-      ],
-      "what_next": "Scientific organizations lobbying government.",
-      "related_links": []
-    },
-    {
-      "id": "story_010",
-      "section": "science",
-      "headline": "Scientists warn UK astronomy funding cuts could harm research sector",
-      "what": "Researchers expressed concern about reduced astronomy funding.",
-      "context": "International collaborations depend on stable funding.",
-      "implications": "Future telescope projects may be delayed.",
-      "key_figures": [
-        { "label": "Field", "value": "Astronomy" }
-      ],
-      "what_next": "Policy discussions expected.",
-      "related_links": []
-    },
-    {
-      "id": "story_011",
-      "section": "money",
-      "headline": "Amazon shares fall after announcing $200 billion AI investment plan",
-      "what": "Amazon stock declined after the company revealed a large long-term AI infrastructure investment.",
-      "context": "Technology firms are increasing capital expenditure to compete in AI computing.",
-      "implications": "Short-term profitability concerns may affect investor sentiment.",
-      "key_figures": [
-        { "label": "Investment plan", "value": "$200B" }
-      ],
-      "what_next": "Investors will watch cloud revenue growth.",
-      "related_links": []
-    },
-    {
-      "id": "story_012",
-      "section": "world",
-      "headline": "Washington Post publisher Will Lewis announces departure after layoffs",
-      "what": "The Washington Post publisher stepped down following newsroom restructuring.",
-      "context": "Media organizations continue adjusting to digital revenue pressures.",
-      "implications": "Leadership changes may reshape editorial strategy.",
-      "key_figures": [
-        { "label": "Industry", "value": "News media" }
-      ],
-      "what_next": "A successor search is expected.",
-      "related_links": []
-    },
-    {
-      "id": "story_013",
-      "section": "policy",
-      "headline": "Haiti enters political uncertainty as transitional government mandate ends",
-      "what": "Haiti’s transitional governance arrangement expired without a clear successor.",
-      "context": "The country has faced prolonged political instability.",
-      "implications": "International mediation efforts may increase.",
-      "key_figures": [
-        { "label": "Country", "value": "Haiti" }
-      ],
-      "what_next": "Talks on forming a new administration continue.",
-      "related_links": []
-    },
-    {
-      "id": "story_014",
-      "section": "policy",
-      "headline": "U.S. President Donald Trump meets Honduran president Nasry Asfura",
-      "what": "Leaders discussed regional migration and economic cooperation.",
-      "context": "Central American diplomacy remains tied to trade and border policy.",
-      "implications": "New bilateral agreements may emerge.",
-      "key_figures": [
-        { "label": "Meeting location", "value": "Washington" }
-      ],
-      "what_next": "Joint statements expected.",
-      "related_links": []
-    },
-    {
-      "id": "story_015",
-      "section": "policy",
-      "headline": "Netanyahu expected to meet Trump in Washington to discuss Iran",
-      "what": "Israeli and U.S. leaders plan strategic talks on Iran’s nuclear program.",
-      "context": "Middle East tensions remain elevated.",
-      "implications": "Security coordination between allies may deepen.",
-      "key_figures": [
-        { "label": "Topic", "value": "Iran nuclear policy" }
-      ],
-      "what_next": "Diplomatic announcements anticipated.",
-      "related_links": []
-    },
-    {
-      "id": "story_016",
-      "section": "world",
-      "headline": "Italy encouraged by strong start to Six Nations rugby tournament",
-      "what": "Italy’s performance in early matches boosted expectations.",
-      "context": "The Six Nations tournament is Europe’s premier rugby competition.",
-      "implications": "Team rankings may shift this season.",
-      "key_figures": [
-        { "label": "Tournament", "value": "Six Nations" }
-      ],
-      "what_next": "Upcoming fixtures will test momentum.",
-      "related_links": []
-    },
-    {
-      "id": "story_017",
-      "section": "world",
-      "headline": "James Harden makes debut for Cleveland Cavaliers in NBA win",
-      "what": "The star guard debuted with a strong performance for Cleveland.",
-      "context": "Midseason transfers reshaped team dynamics.",
-      "implications": "Playoff projections may change.",
-      "key_figures": [
-        { "label": "League", "value": "NBA" }
-      ],
-      "what_next": "Team chemistry remains under evaluation.",
-      "related_links": []
-    },
-    {
-      "id": "story_018",
-      "section": "world",
-      "headline": "Liverpool signing Jeremy Jacquet suffers serious shoulder injury",
-      "what": "The newly signed defender was injured during training.",
-      "context": "Injuries can affect squad depth midseason.",
-      "implications": "Transfer strategy may adjust.",
-      "key_figures": [
-        { "label": "Club", "value": "Liverpool" }
-      ],
-      "what_next": "Medical evaluation ongoing.",
-      "related_links": []
-    },
-    {
-      "id": "story_019",
-      "section": "world",
-      "headline": "UCLA defeats Washington in late defensive comeback",
-      "what": "UCLA secured victory with strong defense in the final minutes.",
-      "context": "College basketball season intensifies ahead of tournaments.",
-      "implications": "Ranking positions may change.",
-      "key_figures": [
-        { "label": "Competition", "value": "NCAA basketball" }
-      ],
-      "what_next": "Conference standings update expected.",
-      "related_links": []
-    },
-    {
-      "id": "story_020",
-      "section": "science",
-      "headline": "Norovirus cases reported among Olympic athletes but no outbreak confirmed",
-      "what": "Health officials reported isolated illness cases during the Winter Olympics.",
-      "context": "Large sporting events require strict health monitoring.",
-      "implications": "Preventive measures remain in place.",
-      "key_figures": [
-        { "label": "Virus", "value": "Norovirus" }
-      ],
-      "what_next": "Medical surveillance continues.",
-      "related_links": []
-    },
-    {
-      "id": "story_021",
-      "section": "policy",
-      "headline": "World Economic Forum highlights cooperation in a contested global economy",
-      "what": "Leaders discussed economic coordination and trade challenges.",
-      "context": "Globalization debates remain central to policy forums.",
-      "implications": "Multilateral cooperation initiatives may expand.",
-      "key_figures": [
-        { "label": "Event", "value": "WEF Davos" }
-      ],
-      "what_next": "Policy frameworks under discussion.",
-      "related_links": []
-    },
-    {
-      "id": "story_022",
-      "section": "policy",
-      "headline": "New START nuclear arms treaty between U.S. and Russia expires",
-      "what": "The nuclear arms-control treaty reached its expiration point.",
-      "context": "Arms-control agreements have shaped global security for decades.",
-      "implications": "Strategic-weapons monitoring may weaken.",
-      "key_figures": [
-        { "label": "Treaty", "value": "New START" }
-      ],
-      "what_next": "Diplomatic negotiations possible.",
-      "related_links": []
-    },
-    {
-      "id": "story_023",
-      "section": "world",
-      "headline": "Costa Rica elects Laura Fernández Delgado as president",
-      "what": "Costa Rica elected a new national leader.",
-      "context": "The election followed a competitive campaign.",
-      "implications": "Policy priorities may shift.",
-      "key_figures": [
-        { "label": "Country", "value": "Costa Rica" }
-      ],
-      "what_next": "Transition of power underway.",
-      "related_links": []
-    },
-    {
-      "id": "story_024",
-      "section": "science",
-      "headline": "International scientists describe rare fossil preserving dinosaur skin cells",
-      "what": "Researchers documented fossilized dinosaur skin structures.",
-      "context": "Such preservation is extremely rare.",
-      "implications": "Evolutionary studies may gain new data.",
-      "key_figures": [
-        { "label": "Field", "value": "Paleontology" }
-      ],
-      "what_next": "Additional publications expected.",
-      "related_links": []
-    },
-    {
-      "id": "story_025",
-      "section": "world",
-      "headline": "Olympic skiathlon event awards Sweden early gold medal",
-      "what": "Sweden secured one of the first gold medals of the Winter Olympics.",
-      "context": "Nordic countries traditionally dominate cross-country skiing.",
-      "implications": "Medal standings begin to take shape.",
-      "key_figures": [
-        { "label": "Country", "value": "Sweden" }
-      ],
-      "what_next": "More skiing events scheduled.",
-      "related_links": []
-    },
-    {
-      "id": "story_026",
-      "section": "money",
-      "headline": "Crypto markets remain volatile after major price declines",
-      "what": "Cryptocurrency markets experienced continued price swings.",
-      "context": "Regulatory uncertainty influences investor behavior.",
-      "implications": "Market confidence remains fragile.",
-      "key_figures": [
-        { "label": "Sector", "value": "Cryptocurrency" }
-      ],
-      "what_next": "Investors monitor policy developments.",
-      "related_links": []
-    },
-    {
-      "id": "story_027",
-      "section": "tech",
-      "headline": "Governments debate AI regulation following surge in investment",
-      "what": "Policymakers discussed frameworks for regulating AI systems.",
-      "context": "AI investment has accelerated globally.",
-      "implications": "New compliance rules may emerge.",
-      "key_figures": [
-        { "label": "Technology", "value": "Artificial Intelligence" }
-      ],
-      "what_next": "Regulatory proposals expected.",
-      "related_links": []
-    },
-    {
-      "id": "story_028",
-      "section": "science",
-      "headline": "Research community warns of talent loss after UK funding cuts",
-      "what": "Scientists expressed concern about declining research investment.",
-      "context": "Funding reductions affect infrastructure projects.",
-      "implications": "Brain-drain risk increases.",
-      "key_figures": [
-        { "label": "Region", "value": "United Kingdom" }
-      ],
-      "what_next": "Policy reviews anticipated.",
-      "related_links": []
-    },
-    {
-      "id": "story_029",
-      "section": "policy",
-      "headline": "Political tensions rise in Middle East ahead of U.S.–Israel meeting",
-      "what": "Diplomatic activity increased before a major bilateral meeting.",
-      "context": "Regional security concerns remain high.",
-      "implications": "Defense cooperation discussions likely.",
-      "key_figures": [
-        { "label": "Region", "value": "Middle East" }
-      ],
-      "what_next": "Joint statements expected.",
-      "related_links": []
-    },
-    {
-      "id": "story_030",
-      "section": "world",
-      "headline": "Ukraine power grid targeted in one of the largest drone attacks of 2026",
-      "what": "Ukraine reported widespread infrastructure damage following drone strikes.",
-      "context": "Energy facilities remain critical wartime targets.",
-      "implications": "Repair operations may take weeks.",
-      "key_figures": [
-        { "label": "Attack type", "value": "Drone strikes" }
-      ],
-      "what_next": "Emergency repairs underway.",
-      "related_links": []
-    }
-    
-  ]
-}
+  {
+    "headline": "Iran's Araqchi aims to reprise role as nuclear dealmaker",
+    "context": "Iran's Araqchi is seeking to regain his position as a key negotiator in nuclear talks. This effort is part of broader diplomatic engagements with the US amid escalating tensions. The role could influence the outcome of ongoing Geneva discussions.",
+    "link": "https://www.reuters.com/world/middle-east/irans-araqchi-aims-reprise-role-nuclear-dealmaker-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "US proposes severing Swiss bank from financial system over alleged Iran, Russia, Venezuela links",
+    "context": "The US has proposed isolating a Swiss bank from global finance due to suspected connections with Iran, Russia, and Venezuela. This targets alleged sanctions violations and aims to enforce financial restrictions. The move highlights ongoing international tensions.",
+    "link": "https://www.reuters.com/business/finance/us-proposes-severing-swiss-bank-financial-system-over-alleged-iran-russia-links-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "Almost 8,000 died on migration routes in 2025 but toll likely far higher, says UN agency",
+    "context": "A UN agency reported nearly 8,000 deaths on migration paths in 2025, estimating the actual number is significantly greater. This underscores ongoing humanitarian crises in global migration. Efforts to address migration risks continue amid international concerns.",
+    "link": "https://www.reuters.com/world/almost-8000-died-migration-routes-2025-toll-likely-far-higher-says-un-agency-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "Explainer: How did Ivory Coast and Ghana's cocoa sales crisis come about?",
+    "context": "The cocoa sales crisis in Ivory Coast and Ghana stems from various factors affecting production and trade. This situation impacts global supply chains and local economies reliant on the commodity. Stakeholders are seeking resolutions to stabilize the market.",
+    "link": "https://www.reuters.com/world/africa/how-did-ivory-coast-ghanas-cocoa-sales-crisis-come-about-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "CEO of World Economic Forum quits after Epstein ties come to light",
+    "context": "Borge Brende, president and CEO of the World Economic Forum, resigned following scrutiny over his connections to Jeffrey Epstein. This stems from a recent investigation into the forum. The resignation highlights ongoing accountability issues.",
+    "link": "https://www.reuters.com/world/ceo-world-economic-forum-quits-after-epstein-ties-scrutinised-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "Hillary Clinton tells congressional panel she has no information on Epstein",
+    "context": "Hillary Clinton testified before a congressional panel, stating she lacks any details on Jeffrey Epstein. This occurs during an inquiry into Epstein's associations. The testimony adds to the scrutiny of high-profile connections.",
+    "link": "https://www.reuters.com/world/us/hillary-clinton-faces-epstein-congressional-inquiry-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "Most Americans back Trump's deportation goals but not his tactics, Reuters/Ipsos poll finds",
+    "context": "A Reuters/Ipsos poll shows Americans support Trump's deportation objectives yet disapprove of methods like masked agents clashing with citizens. This reflects divided opinions on immigration policy. The poll informs ongoing debates on enforcement.",
+    "link": "https://www.reuters.com/world/most-americans-back-trumps-deportation-goals-not-his-tactics-reutersipsos-poll-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "Trump asks US Supreme Court to end protections for Syrian immigrants",
+    "context": "The Trump administration has petitioned the Supreme Court to remove safeguards for Syrian immigrants. This move aligns with efforts to restrict immigration from certain regions. It could impact thousands of immigrants.",
+    "link": "https://www.reuters.com/legal/government/trump-asks-us-supreme-court-end-protections-syrian-immigrants-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "ICE struggles to vet recruits amid US immigration enforcement push",
+    "context": "US Immigration and Customs Enforcement faces challenges in screening new hires during intensified enforcement operations. Internal issues hinder the process. This affects the agency's ability to expand operations.",
+    "link": "https://www.reuters.com/world/ice-struggles-vet-recruits-amid-us-immigration-enforcement-push-internal-email-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "How China is masking drone flights in potential Taiwan rehearsal",
+    "context": "Chinese military drones are flying over the South China Sea while broadcasting false signals to disguise their identity as other aircraft. This activity may prepare for actions toward Taiwan. It raises concerns about regional security.",
+    "link": "https://www.reuters.com/world/china/how-china-is-masking-drone-flights-potential-taiwan-rehearsal-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "Chinese influence operation targets Japan elections, Trump, other countries, US foundation says",
+    "context": "A US foundation identified Chinese misinformation campaigns via X accounts attacking Japan's election outcomes, Trump's policies, and other nations. This highlights expanding influence efforts. Countermeasures are being considered.",
+    "link": "https://www.reuters.com/world/china/chinese-influence-operation-targets-japan-elections-trump-other-countries-us-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "Ukraine images indicate Russia used missile at heart of nuclear pact collapse",
+    "context": "Debris analysis shows Russia deployed a cruise missile central to the nuclear agreement's end under Trump. This confirms prior reports on weapon use in Ukraine strikes. It escalates arms control concerns.",
+    "link": "https://www.reuters.com/business/aerospace-defense/ukraine-images-indicate-russia-used-missile-heart-nuclear-pact-collapse-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "US slows sale of Lukoil assets to pressure Russia in Ukraine peace talks",
+    "context": "The US has delayed the divestment of Lukoil's international holdings to influence Russia during Ukraine negotiations. Sources indicate this as a strategic tactic. It aims to advance peace efforts.",
+    "link": "https://www.reuters.com/business/energy/us-extends-deadline-potential-buyers-lukoil-assets-april-1-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "US, Ukraine discuss post-war reconstruction as Russia pummels grid",
+    "context": "US and Ukrainian officials met in Geneva to plan reconstruction despite stalled peace talks with Russia. Russia launched drone and missile attacks on Ukrainian infrastructure overnight. The discussions focus on long-term recovery.",
+    "link": "https://www.reuters.com/world/europe/us-ukraine-discuss-post-war-reconstruction-geneva-talks-2026-02-26/",
+    "category": "world"
+  },
+  {
+    "headline": "Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country",
+    "context": "Cuba’s government stated that the 10 passengers on a boat that opened fire on its soldiers were armed Cubans living in the U.S. who were trying to infiltrate the island and unleash terrorism. This incident heightens tensions between Cuba and the U.S. It underscores security and migration issues.",
+    "link": "https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2",
+    "category": "world"
+  },
+  {
+    "headline": "North Korea warns it could destroy South if threatened, but leaves door open for US dialogue",
+    "context": "North Korea issued a warning that it could destroy South Korea if threatened, while indicating openness to dialogue with the U.S. This escalates regional tensions on the Korean Peninsula. It builds on longstanding nuclear and military concerns.",
+    "link": "https://apnews.com/article/kim-jong-un-north-korea-south-us-dialogue-a5f27a488bf736dcbcadbfbc83bf0d1d",
+    "category": "world"
+  },
+  {
+    "headline": "The US and Iran hold indirect talks in Geneva",
+    "context": "The U.S. and Iran are conducting indirect nuclear talks in Geneva, with American forces massing in the Middle East. This occurs as Iran’s nuclear program is viewed as a threat by many U.S. adults. The talks aim to prevent escalation amid risks of conflict.",
+    "link": "https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026",
+    "category": "world"
+  },
+  {
+    "headline": "Hillary Clinton faces Epstein congressional inquiry",
+    "context": "Hillary Clinton is under scrutiny in a congressional inquiry related to Jeffrey Epstein. The inquiry examines potential connections and implications. This development underscores ongoing investigations into Epstein's network.",
+    "link": "https://www.thehindu.com/news/international/hillary-clinton-faces-epstein-congressional-inquiry/article70681095.ece",
+    "category": "world"
+  },
+  {
+    "headline": "Global order in peril from lack of cooperation, says Merkel; slams China, U.S. for resisting AI regulation",
+    "context": "Angela Merkel stated that the global order is at risk due to insufficient cooperation, criticizing China and the U.S. for opposing AI regulation. This reflects concerns over international governance in technology. The comments highlight geopolitical tensions in AI policy-making.",
+    "link": "https://www.thehindu.com/news/national/global-order-in-peril-from-lack-of-cooperation-says-merkel-slams-china-us-for-resisting-ai-regulation/article70680705.ece",
+    "category": "world"
+  },
+  {
+    "headline": "NCERT textbook content shows ‘deep-rooted conspiracy’ to show judiciary as corrupt: Supreme Court",
+    "context": "The Supreme Court declared that the Class 8 social science textbook contains content depicting the judiciary as corrupt, labeling it a conspiracy. CJI Surya Kant ordered a blanket ban on the textbook and initiated contempt action against the NCERT director and School Education Secretary. This highlights tensions over educational content and judicial oversight in India.",
+    "link": "https://www.thehindu.com/news/national/ncert-textbook-content-shows-deep-rooted-conspiracy-to-show-judiciary-as-corrupt-supreme-court/article70680290.ece",
+    "category": "national"
+  },
+  {
+    "headline": "PM Modi says someone has to be held accountable on NCERT textbook row",
+    "context": "Prime Minister Narendra Modi criticized the NCERT class 8 textbook for including a section on “Corruption in the Judiciary,” which has faced strong backlash. The Supreme Court imposed a complete ban on its publication. Education Minister Pradhan stated action will be taken against those involved.",
+    "link": "https://indianexpress.com/article/india/pm-what-are-we-teaching-class-8-students-who-is-monitoring-it-10554040/",
+    "category": "national"
+  },
+  {
+    "headline": "HC stays Kerala Story 2 release over CBFC non-application of mind",
+    "context": "The Kerala High Court halted the release of the film Kerala Story 2, criticizing the CBFC for lacking proper review in certification. An appeal is now being considered by the court. This affects the film's distribution plans.",
+    "link": "https://indianexpress.com/article/entertainment/bollywood/kerala-story-2-release-stayed-non-application-of-mind-by-cbfc-10553501/",
+    "category": "national"
+  },
+  {
+    "headline": "Supreme Court bans NCERT book with ‘corruption in judiciary’ section",
+    "context": "The Supreme Court prohibited the publication of an NCERT class 8 textbook containing a section on judicial corruption, describing it as a deep-rooted conspiracy. This follows criticism and aligns with government statements on accountability. It impacts educational materials nationwide.",
+    "link": "https://indianexpress.com/article/legal-news/ncert-class-8-textbook-row-live-updates-supreme-court-imposes-ban-10552939/",
+    "category": "national"
+  },
+  {
+    "headline": "PM to roll out HPV vaccine campaign from Rajasthan on Feb 28, parental consent mandatory",
+    "context": "Prime Minister Modi will launch an HPV vaccine drive starting February 28 in Rajasthan to combat cervical cancer. Parental consent is required for participants, aiming to immunize adolescents. This initiative addresses public health concerns in India.",
+    "link": "https://indianexpress.com/article/health-wellness/pm-hpv-vaccine-campaign-rajasthan-february-28-parental-consent-mandatory-10553759/",
+    "category": "national"
+  },
+  {
+    "headline": "Samyukt Kisan Morcha to meet CMs, Opposition leaders against U.S. deal in fight for federal rights",
+    "context": "SKM leaders say they will submit a memorandum to the Chief Ministers and Leaders of Opposition for protecting interest of farmers by holding special sessions of State Assemblies and adopting resolutions asking the Union government to refrain from signing the deal. This reflects farmers' concerns over trade impacts. The movement seeks to safeguard agricultural interests.",
+    "link": "https://www.thehindu.com/news/national/samyukt-kisan-morcha-to-meet-cms-opposition-leaders-against-us-deal-in-fight-for-federal-rights/article70680170.ece",
+    "category": "national"
+  },
+  {
+    "headline": "India-U.S. deal: Rajasthan Congress MLAs protest in Assembly wearing 'PM is compromised' t-shirts",
+    "context": "Rajasthan Congress MLAs protest in Assembly against the India-U.S. deal, wearing 'PM is compromised' t-shirts and raising concerns. The demonstration highlights political opposition to the agreement. It aims to draw attention to perceived compromises.",
+    "link": "https://www.thehindu.com/news/national/rajasthan/india-us-deal-rajasthan-congress-mlas-protest-in-assembly-wearing-pm-is-compromised-t-shirts/article70678545.ece",
+    "category": "national"
+  },
+  {
+    "headline": "Ranji final: J&K eye big lead despite Agarwal ton",
+    "context": "Karnataka scored 220/5 in their first innings against Jammu & Kashmir in the Ranji Trophy final. Jammu & Kashmir posted 584 in their innings despite a ton from Karnataka's Agarwal. This positions Jammu & Kashmir to eye a big lead in the match.",
+    "link": "https://www.espncricinfo.com/series/ranji-trophy-2025-26-1492381/karnataka-vs-jammu-kashmir-final-1492524/match-report-3",
+    "category": "sports"
+  },
+  {
+    "headline": "Markram, bowlers lead South Africa's rout of West Indies",
+    "context": "South Africa won by 9 wickets with 23 balls remaining against West Indies in the T20 World Cup Super Eights. Aiden Markram and Lungi Ngidi played key roles in the victory. West Indies hit 31 sixes, breaking their own record for a men's T20 World Cup game.",
+    "link": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138/south-africa-vs-west-indies-47th-match-super-eights-group-1-1512765/match-report",
+    "category": "sports"
+  },
+  {
+    "headline": "Can resourceful NZ lock in semi-final spot against England?",
+    "context": "New Zealand faces England in the T20 World Cup Super Eights with scenarios for qualification into semi-finals. New Zealand's problem-solving ability is highlighted by coach Rob Walter. The match is crucial for New Zealand to secure their spot.",
+    "link": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138/england-vs-new-zealand-49th-match-super-eights-group-2-1512767/match-preview",
+    "category": "sports"
+  },
+  {
+    "headline": "Southee targets England's 'perfect game' in NZ face-off",
+    "context": "New Zealand's Tim Southee aims for England's best performance in their T20 World Cup clash. The match is an emotional face-off for New Zealand. England continues despite issues with Jos Buttler.",
+    "link": "https://www.espncricinfo.com/story/eng-vs-nz-t20-world-cup-tim-southee-targets-perfect-game-in-emotional-face-off-1526072",
+    "category": "sports"
+  },
+  {
+    "headline": "Rabada: Ngidi's slower ball 'incredibly hard' to bowl",
+    "context": "Kagiso Rabada praises Lungi Ngidi's slower ball after South Africa's win over West Indies. The comment comes in the context of South Africa's pace bowling strength. Ngidi was key in the rout of West Indies.",
+    "link": "https://www.espncricinfo.com/story/kagiso-rabada-would-have-taken-it-quite-heavily-if-south-africa-had-lost-to-afghanistan-1526110",
+    "category": "sports"
+  },
+  {
+    "headline": "West Indies break their own sixes record",
+    "context": "West Indies hit 31 sixes in their T20 World Cup match against South Africa. The record was previously held by them in a men's T20 World Cup game. Despite the loss, they retained a 2016 feeling.",
+    "link": "https://www.espncricinfo.com/story/stats-jason-holder-romario-shepherd-special-in-vain-aiden-markram-tops-for-sa-1526065",
+    "category": "sports"
+  },
+  {
+    "headline": "South Africa's pace pack has a horse for every course",
+    "context": "South Africa's pace battery, including Kagiso Rabada and Lungi Ngidi, proved effective in their win over West Indies. The pace pack adapted well in the T20 World Cup Super Eights. Corbin Bosch also contributed to the bowling effort.",
+    "link": "https://www.espncricinfo.com/story/t20-world-cup-2026-kagiso-rabada-lungi-ngidi-corbin-bosch-form-effective-pace-battery-1526104",
+    "category": "sports"
+  },
+  {
+    "headline": "New Zealand bank on their 'great' problem-solving ability",
+    "context": "New Zealand's coach Rob Walter emphasizes their ability to solve problems ahead of the England match. This asset is key for qualifying in the T20 World Cup. New Zealand aims to lock in a semi-final spot.",
+    "link": "https://www.espncricinfo.com/story/t20-world-cup-2026-nz-vs-eng-coach-rob-walter-ability-to-solve-problems-our-greatest-asset-1526051",
+    "category": "sports"
+  },
+  {
+    "headline": "Still sixy: West Indies lose but retain that 2016 feeling",
+    "context": "West Indies lost to South Africa but maintained a spirited performance. They broke their own sixes record in the match. The loss does not diminish their aggressive style reminiscent of 2016.",
+    "link": "https://www.espncricinfo.com/story/t20-world-cup-sa-vs-wi-west-indies-lose-but-retain-that-2016-feeling-1526099",
+    "category": "sports"
+  },
+  {
+    "headline": "Tahir to make Dolphins comeback at 46",
+    "context": "South African spinner Imran Tahir will return for Dolphins in the CSA One-Day Cup. This marks his comeback at age 46. The announcement comes amid other T20 World Cup coverage.",
+    "link": "https://www.espncricinfo.com/story/south-africa-spinner-imran-tahir-to-make-dolphins-comeback-at-46-for-csa-one-day-cup-1526025",
+    "category": "sports"
+  },
+  {
+    "headline": "ICC T20 World CUP LIVE: Zimbabwe reaches 144/2 after 16 overs",
+    "context": "Live updates from the ICC T20 World Cup match between India and Zimbabwe show Zimbabwe at 144/2 after 16 overs. This is part of the ongoing cricket tournament. The score indicates a competitive game in progress.",
+    "link": "https://www.thehindu.com/sport/cricket/icc-t20-world-cup-india-vs-zimbabwe-live-scores-updates-february-26-2026/article70679547.ece",
+    "category": "sports"
+  },
+  {
+    "headline": "India vs Zimbabwe T20 WC Live: Arshdeep Singh picks Ryan Burl; ZIM 4 down",
+    "context": "India is playing Zimbabwe in the Super 8 stage of the T20 World Cup 2026 at MA Chidambaram Stadium in Chennai. Arshdeep Singh dismissed Ryan Burl, reducing Zimbabwe to 4 down while chasing 257. The match is part of India's push for semifinals.",
+    "link": "https://indianexpress.com/article/sports/cricket/india-vs-zimbabwe-live-cricket-score-ind-zim-t20-world-cup-2026-super-8-match-live-scorecard-ma-chidambaram-stadium-chennai-10553461/",
+    "category": "sports"
+  },
+  {
+    "headline": "UEFA Champions League knockouts draw completed for 16 teams",
+    "context": "The draw for the UEFA Champions League round of 16 has set the 16 teams, with potential quarterfinal matchups outlined. Broadcasting details are provided for viewers. This advances the tournament's excitement.",
+    "link": "https://indianexpress.com/article/sports/football/champions-league-round-of-16-draw-teams-bracket-live-streaming-10554060/",
+    "category": "sports"
+  },
+  {
+    "headline": "Mexico violence: What happened, FIFA's response and what it means for the World Cup",
+    "context": "Amid cartel-related violence in Mexico, soccer leagues suspended games. Will the situation affect the country's status as a host for the World Cup? FIFA is monitoring but expresses confidence.",
+    "link": "https://www.espn.com/soccer/story/_/id/48043487/mexico-violence-happened-fifa-response-means-world-cup",
+    "category": "sports"
+  },
+  {
+    "headline": "Referee warned after same team kicks off twice in Brazilian Serie A clash",
+    "context": "A referee has been warned after allowing the same team to kick off at the start of both halves in a Brazilian Serie A match, despite one player 'yelling' to alert him. Palmeiras won against Fluminense. The incident highlights officiating errors.",
+    "link": "https://www.espn.com/soccer/story/_/id/48043598/palmeiras-win-fluminense-brazilian-serie-referee-felipe-fernandes-abel-ferreira",
+    "category": "sports"
+  },
+  {
+    "headline": "Inter Miami to use 'whole squad' in friendly despite short turnover to MLS - Mascherano",
+    "context": "Inter Miami head coach Javier Mascherano has confirmed he will use the friendly against Independiente del Valle on Thursday night as an opportunity to give minutes to his whole squad. This prepares for the MLS season. Lionel Messi may feature.",
+    "link": "https://africa.espn.com/football/story/_/id/48043958/inter-miami-javier-mascherano-lionel-messi-puerto-rico-independiente-del-valle",
+    "category": "sports"
+  },
+  {
+    "headline": "Drazic goal sees FC Goa ease past hapless SC Delhi to go top of ISL",
+    "context": "A sliding tap-in from the in-form Dejan Drazic off an Aakash Sangwan cross late in the first half was enough for FC Goa as they eased past SC Delhi 1-0 at the Jawaharlal Nehru Stadium in Fatorda. This win takes Goa to the top of the ISL table. Delhi remains at the bottom.",
+    "link": "https://africa.espn.com/football/story/_/id/48039872/isl-2025-26-indian-super-league-football-results-reports-matchweek-03-goa-delhi-east-bengal-jamshedpur-bfc-punjab-blasters-kashi-msc-bagan-odisha-cfc-mumbai-neufc",
+    "category": "sports"
+  },
+  {
+    "headline": "Paris Saint-Germain's Champions League title defense on shaky ground",
+    "context": "PSG will face either Chelsea or Barcelona in the Round of 16 after overcoming their Ligue 1 rivals, but they won't go much further in the competition if they don't improve. The team showed vulnerabilities. Title defense appears uncertain.",
+    "link": "https://www.espn.com/soccer/story/_/id/48039500/paris-saint-germains-champions-league-title-defense-shaky-ground",
+    "category": "sports"
+  },
+  {
+    "headline": "Srikanth wins first round match at BWF German Open, Goa vs Delhi in ISL: Indian Sports LIVE, February 26",
+    "context": "Srikanth wins first round match at BWF German Open, Goa vs Delhi in ISL: Indian Sports LIVE, February 26. Indian sports can get quite action-packed. Updates cover multiple events.",
+    "link": "https://www.espn.com/espn/story/_/id/48033710/kidambi-srikanth-aakarshi-kashyap-bwf-german-open-fc-goa-vs-sc-delhi-isl-indian-sports-live-february-26",
+    "category": "sports"
+  },
+  {
+    "headline": "VAR hands Atalanta winning pen after bloody foul by Dortmund",
+    "context": "Two red cards, a VAR overturn and a decisive converted penalty with the last kick of the game that came after a bloody foul on Atalanta's Nikola Krstovic. This ensured Italian representation continues. The match was dramatic.",
+    "link": "https://africa.espn.com/football/story/_/id/48036023/var-hands-atalanta-winning-pen-bloody-foul-dortmund",
+    "category": "sports"
+  },
+  {
+    "headline": "FIFA have 'complete confidence' Mexico can host World Cup despite unrest",
+    "context": "FIFA are monitoring the situation in Mexico but have 'full confidence' the country can host World Cup games amid the recent unrest and violence. President Gianni Infantino expressed support. Preparations continue.",
+    "link": "https://www.espn.com/soccer/story/_/id/48030939/fifa-complete-confidence-mexico-host-world-cup-unrest",
+    "category": "sports"
+  },
+  {
+    "headline": "West Ham's Nuno Espirito Santo issues rallying cry: 'We are in the fight'",
+    "context": "Nuno Espirito Santo has fired a warning to West Ham's relegation rivals Nottingham Forest and Tottenham by declaring his side are back 'in the fight'. The team seeks to improve standings. Motivation is high.",
+    "link": "https://africa.espn.com/football/story/_/id/48042987/west-ham-nuno-espirito-santo-issues-rallying-cry-the-fight",
+    "category": "sports"
+  },
+  {
+    "headline": "Asian Cup 2026: Which players will miss Women's Super League games for your club?",
+    "context": "A number of players could miss WSL action because they will be at the 2026 Asian Cup for Australia and Japan. This affects club schedules. Teams must adjust.",
+    "link": "https://africa.espn.com/football/story/_/id/48043090/asian-cup-2026-which-players-miss-women-super-league-games-your-club",
+    "category": "sports"
+  },
+  {
+    "headline": "Cristiano Ronaldo is the latest footballer to buy a stake in a club. Who are the others?",
+    "context": "When it was confirmed that Cristiano Ronaldo had bought a 25% stake in Spanish side Almeria, he joined a group of footballers who have invested in clubs. This trend continues among players. Investments vary.",
+    "link": "https://africa.espn.com/football/story/_/id/48041310/which-footballers-become-team-owners-cristiano-ronaldo-kylian-mbappe",
+    "category": "sports"
+  },
+  {
+    "headline": "Frank Lampard insists Coventry can't relax despite 5-point lead",
+    "context": "Coventry boss Frank Lampard says there will be no let-up from his side after they hit back to win 2-1 at Sheffield United and move five points clear at the top of the Championship. The team maintains focus. Promotion is the goal.",
+    "link": "https://africa.espn.com/football/story/_/id/48036690/frank-lampard-coventry-city-championship-lead",
+    "category": "sports"
+  },
+  {
+    "headline": "AI impacts to be scrutinized by UN's new scientific advisory panel",
+    "context": "The UN has established a new scientific advisory panel to examine the impacts of artificial intelligence, with comparisons drawn to the IPCC's role in climate policy. This initiative aims to inform global governance on AI risks and benefits. The panel's formation reflects growing international concern over AI's societal effects.",
+    "link": "https://www.nature.com/articles/d41586-026-00542-8",
+    "category": "science"
+  },
+  {
+    "headline": "Scientists face fallout for past associations with Epstein",
+    "context": "Researchers, including paleontologist Jack Horner, are experiencing career and work repercussions due to revelations from documents related to Jeffrey Epstein. The newly released files have exposed past connections, leading to professional consequences. This situation highlights ongoing issues of accountability in scientific communities.",
+    "link": "https://www.nature.com/articles/d41586-026-00554-4",
+    "category": "science"
+  },
+  {
+    "headline": "Health effects linger 20 generations after rats are exposed to fungicide",
+    "context": "A study shows that exposure to a fungicide in rats results in health effects persisting across 20 generations. Scientists view this as a cautionary signal regarding environmental chemicals and their long-term impacts on human health. The findings underscore the need for scrutiny of widespread chemical exposures.",
+    "link": "https://www.nature.com/articles/d41586-026-00555-3",
+    "category": "science"
+  },
+  {
+    "headline": "This compound enhances long-term memory of mice — but only in females",
+    "context": "Acetate treatment improves long-term memory formation in female mice but shows reduced effectiveness in males. The sex-specific results point to potential differences in neurological responses to the compound. This discovery may influence future research on memory enhancement therapies.",
+    "link": "https://www.nature.com/articles/d41586-026-00603-y",
+    "category": "science"
+  },
+  {
+    "headline": "Brains of 'super agers' are still strong producers of new neurons",
+    "context": "Individuals identified as 'super agers' maintain high levels of neurogenesis into old age. This finding challenges assumptions about age-related decline in brain cell production. It suggests factors that could contribute to exceptional cognitive longevity.",
+    "link": "https://www.nature.com/articles/d41586-026-00599-5",
+    "category": "science"
+  },
+  {
+    "headline": "Stem cells provide a potent treatment for frailty",
+    "context": "Stem cell therapies demonstrate effectiveness in addressing frailty in patients. The treatment targets age-related decline, offering potential improvements in physical function. This advancement could transform approaches to geriatric care.",
+    "link": "https://www.nature.com/articles/d41586-026-00584-y",
+    "category": "science"
+  },
+  {
+    "headline": "The age of animal experiments is waning. Where will science go next?",
+    "context": "Advances in organ models and computer simulations are reducing reliance on animal testing in research. However, significant challenges remain in fully replacing animal experiments. This shift raises questions about future methodologies in biological studies.",
+    "link": "https://www.nature.com/articles/d41586-026-00563-3",
+    "category": "science"
+  },
+  {
+    "headline": "China is waging war on Alzheimer’s. What can its approach teach the rest of the world?",
+    "context": "China is investing heavily in research, drugs, diagnostics, and surgeries to combat Alzheimer's amid its aging population. The country's strategy addresses a projected surge in dementia cases. Global lessons may emerge from its comprehensive efforts.",
+    "link": "https://www.nature.com/articles/d41586-026-00564-2",
+    "category": "science"
+  },
+  {
+    "headline": "Scientists must step up to avert a nuclear breakout",
+    "context": "Expert Karen Hallberg calls for increased scientific involvement to prevent nuclear proliferation. The piece emphasizes the role of science in maintaining non-proliferation efforts. This urgency stems from evolving global security threats.",
+    "link": "https://www.nature.com/articles/d41586-026-00562-4",
+    "category": "science"
+  },
+  {
+    "headline": "How earthquakes and lightning help explain squeaky sneakers",
+    "context": "High-speed footage shows that shoe squeaks can originate from electrostatic discharges akin to lightning, alongside floor interactions. The analysis also supports the existence of a debated brain phenomenon in humans. This research bridges physics and everyday phenomena.",
+    "link": "https://www.nature.com/articles/d41586-026-00619-4",
+    "category": "science"
+  },
+  {
+    "headline": "COVID’s origins: what we do and don’t know",
+    "context": "A comprehensive investigation into COVID-19's origins reveals key insights into its emergence. The summary highlights known facts and uncertainties in the pandemic's start. This work informs ongoing debates on viral traceability.",
+    "link": "https://www.nature.com/articles/d41586-026-00530-y",
+    "category": "science"
+  },
+  {
+    "headline": "Iron Age mass grave reveals unprecedented violence against women and children",
+    "context": "An archaeological discovery of an Iron Age mass grave indicates extreme violence targeting women and children. The findings provide new details on ancient societal conflicts. This excavation reshapes understandings of historical violence patterns.",
+    "link": "https://www.nature.com/articles/d41586-026-00535-7",
+    "category": "science"
+  },
+  {
+    "headline": "First-of-a-kind stem-cell therapies set for approval in Japan",
+    "context": "Japan is poised to approve novel stem-cell treatments for various conditions. These therapies represent a medical milestone in regenerative medicine. The development could expand treatment options globally.",
+    "link": "https://www.nature.com/articles/d41586-026-00585-x",
+    "category": "science"
+  },
+  {
+    "headline": "Whistle while you whinny: researchers identify two sounds straight from the horse’s mouth",
+    "context": "Scientists have identified distinct vocalizations produced by horses. The discovery enhances knowledge of animal communication. Such findings aid in behavioral and ecological studies.",
+    "link": "https://www.nature.com/articles/d41586-026-00545-5",
+    "category": "science"
+  },
+  {
+    "headline": "This AI can improve your peer review — and make it more polite",
+    "context": "An AI tool is developed to enhance peer review processes, including fostering politeness in feedback. The technology aims to streamline academic evaluations. This innovation could improve collaboration in scientific publishing.",
+    "link": "https://www.nature.com/articles/d41586-026-00536-6",
+    "category": "science"
+  },
+  {
+    "headline": "Rare earth shortages worsen in US aerospace, chips despite trade truce",
+    "context": "Shortages of rare earth materials are intensifying in US aerospace and semiconductor sectors, even after a trade agreement. This exacerbates supply chain vulnerabilities. Solutions are being explored to mitigate impacts.",
+    "link": "https://www.reuters.com/business/aerospace-defense/rare-earth-shortages-worsen-us-aerospace-chips-despite-trade-truce-sources-say-2026-02-26/",
+    "category": "science"
+  },
+  {
+    "headline": "NASA’s Mike Fincke identifies himself as the ailing astronaut who prompted space station evacuation",
+    "context": "Astronaut Mike Fincke revealed he was the one who fell ill, leading to the evacuation of the International Space Station. This incident raises concerns about health risks in space and NASA's response protocols. Recovery efforts are underway.",
+    "link": "https://apnews.com/article/nasa-sick-astronaut-space-station-evacuation-a02ef6878b294e4e3d46dd821a8daebf",
+    "category": "science"
+  },
+  {
+    "headline": "Aravalli row: Supreme Court asks Environment Ministry, others to suggest names of domain experts for panel",
+    "context": "The Supreme Court has directed the Environment Ministry and other entities to recommend domain experts for a panel addressing the Aravalli dispute. This involves environmental conservation and regulatory issues in the region. The move aims to form a qualified group to resolve ongoing conflicts.",
+    "link": "https://www.thehindu.com/sci-tech/energy-and-environment/aravalli-row-supreme-court-asks-environment-ministry-others-to-suggest-names-of-domain-experts-for-panel/article70680899.ece",
+    "category": "science"
+  },
+  {
+    "headline": "Scientists use AI to decode ancient desert mystery",
+    "context": "Researchers are applying artificial intelligence to unravel mysteries in ancient deserts. The technology aids in analyzing historical data and patterns for new insights. This advances archaeological understanding.",
+    "link": "https://indianexpress.com/article/technology/science/scientists-turn-to-artificial-intelligence-to-decode-ancient-desert-mystery-10554036/",
+    "category": "science"
+  },
+  {
+    "headline": "Trump EPA to shift at least half of waived biofuel obligations to big refiners, sources say",
+    "context": "The Trump EPA plans to reallocate at least half of biofuel waivers to major refiners. This adjustment affects environmental compliance under the administration. It impacts the biofuels industry.",
+    "link": "https://www.reuters.com/sustainability/climate-energy/trump-epa-shift-least-half-waived-biofuel-obligations-big-refiners-sources-say-2026-02-26/",
+    "category": "science"
+  },
+  {
+    "headline": "Instagram to alert parents on teen suicide searches as UK weighs social media ban",
+    "context": "Instagram will notify parents about teen searches related to suicide. This policy emerges as the UK considers restrictions on social media platforms. It aims to enhance child safety online.",
+    "link": "https://www.reuters.com/world/americas/instagram-alert-parents-teen-suicide-searches-uk-weighs-social-media-ban-2026-02-26/",
+    "category": "science"
+  },
+  {
+    "headline": "Sea-urchin spines generate electrical signals in flowing water",
+    "context": "The spines of sea urchins can generate a voltage when water moves around them — a phenomenon that could be used to design underwater flow sensors. This mechanoelectrical sensing is a new discovery. Applications in sensing technology are possible.",
+    "link": "https://www.nature.com/articles/d41586-026-00374-6",
+    "category": "science"
+  },
+  {
+    "headline": "Flexible paths to multicellularity",
+    "context": "Close relatives of animals can become multicellular if distinct individuals join together or if dividing cells remain attached. A species has been found to use both mechanisms. This challenges previous views on multicellular evolution.",
+    "link": "https://www.nature.com/articles/d41586-026-00292-7",
+    "category": "science"
+  },
+  {
+    "headline": "How an exercise-activated enzyme helps to keep the brain young",
+    "context": "Exercise prevents brain ageing and memory loss by strengthening the blood–brain barrier, which becomes leaky with age. An enzyme produced by liver cells has anti-ageing effects on the brain. This reveals exercise's neurological benefits.",
+    "link": "https://www.nature.com/articles/d41586-026-00515-x",
+    "category": "science"
+  },
+  {
+    "headline": "We need a global assessment of avoidable climate-change risks",
+    "context": "To understand the urgency of emissions reductions, policymakers and citizens need a full analysis of what is at stake. This calls for comprehensive risk assessment. It would guide climate action.",
+    "link": "https://www.nature.com/articles/d41586-026-00544-6",
+    "category": "science"
+  },
+  {
+    "headline": "Russia says it has handed over 1000 Ukrainian soldiers' bodies",
+    "context": "Moscow and Kyiv agreed to return the bodies of up to 6,000 soldiers each, as well as all sick and heavily wounded prisoners of war and those aged under 25. Kyiv confirmed the exchange. This humanitarian effort occurs amid ongoing conflict.",
+    "link": "https://www.bbc.com/news/articles/cg7ed4rp7x5o",
+    "category": "world"
+  },
+  {
+    "headline": "Afghanistan has launched retaliatory attacks on Pakistani border posts, Taliban military unit says",
+    "context": "Afghanistan has launched offensive operations against Pakistani military positions along the border, the Taliban's spokesperson said on Thursday, in retaliation for recent Pakistani airstrikes. This escalates border tensions. Diplomatic efforts may follow.",
+    "link": "https://www.reuters.com/world/asia-pacific/afghanistan-has-launched-retaliatory-attacks-pakistani-border-posts-taliban-2026-02-26",
+    "category": "world"
+  },
+  {
+    "headline": "US and Iran hold talks seen as crucial to prevent conflict",
+    "context": "US and Iranian officials have met in Geneva for a third round of indirect talks seen as crucial to averting conflict, with President Donald Trump threatening to strike Iran if a nuclear deal is not reached. Omani Foreign Minister noted openness to ideas. Chances of agreement remain unclear.",
+    "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o",
+    "category": "world"
+  },
+  {
+    "headline": "World Economic Forum boss Borge Brende quits after review of Jeffrey Epstein links",
+    "context": "The president and CEO of the World Economic Forum (WEF), Borge Brende, has resigned after a review into his links to the late sex offender Jeffrey Epstein. Brende decided to step down after more than eight years. The forum launched an internal review.",
+    "link": "https://www.bbc.com/news/articles/cr5lq9ll15jo",
+    "category": "world"
+  },
+  {
+    "headline": "Melania Trump to chair a meeting of the UN Security Council, White House says",
+    "context": "First lady Melania Trump will chair a meeting of the United Nations Security Council on Monday as the U.S. takes over the monthly rotating presidency. She will emphasize education for tolerance and peace. This is a historic first for a US first lady.",
+    "link": "https://www.reuters.com/world/melania-trump-chair-meeting-un-security-council-white-house-says-2026-02-26",
+    "category": "world"
+  },
+  {
+    "headline": "Danish PM calls snap election with Greenland issue centre-stage",
+    "context": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign. Danish Prime Minister Mette Frederiksen announced early elections. The next four years are 'decisive' for Denmark.",
+    "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o",
+    "category": "world"
+  },
+  {
+    "headline": "Russia says sending British troops to Ukraine would prolong war, not end it",
+    "context": "Russia's foreign ministry spokeswoman Maria Zakharova said on Thursday that any deployment of British troops in Ukraine would prolong the war, not end it. France and Britain plan to send troops post-ceasefire. This increases confrontation risks.",
+    "link": "https://www.reuters.com/world/europe/russia-says-sending-british-troops-ukraine-would-prolong-war-not-end-it-2026-02-26",
+    "category": "world"
+  },
+  {
+    "headline": "Bangladesh court orders move to seek Interpol red notice for UK lawmaker Siddiq",
+    "context": "A court in Bangladesh ordered authorities to seek an Interpol red notice against British lawmaker and former minister Tulip Siddiq over alleged corruption linked to a private real estate project. The Anti-Corruption Commission filed the petition. Siddiq has been sentenced in other cases.",
+    "link": "https://www.reuters.com/world/asia-pacific/bangladesh-court-orders-move-seek-interpol-red-notice-uk-lawmaker-siddiq-2026-02-26",
+    "category": "world"
+  },
+  {
+    "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations",
+    "context": "Violence by Rapid Support Forces paramilitary group in the Sudanese city of al-Fashir bears 'the hallmarks of genocide', the foreign ministers of the Sudan core group at the UN Human Rights' Council said. The group concludes war crimes and crimes against humanity. International action is urged.",
+    "link": "https://www.reuters.com/world/africa/rsf-led-violence-al-fashir-bears-hallmarks-genocide-say-key-un-nations-2026-02-26",
+    "category": "world"
+  },
+  {
+    "headline": "Cindy McCain announces departure as head of UN World Food Programme",
+    "context": "Cindy McCain intends to step down as head of the United Nations World Food Programme, months after she suffered a mild stroke. She will focus on health. The organization faces leadership transition.",
+    "link": "https://www.reuters.com/world/cindy-mccain-announces-departure-head-un-world-food-programme-2026-02-26",
+    "category": "world"
+  },
+  {
+    "headline": "US President Trump may visit Ireland in September, ambassador says",
+    "context": "U.S. President Donald Trump may visit Ireland in September during the Irish Open golf tournament hosted at his family's west coast course. The U.S. Ambassador to Ireland announced this. It could strengthen bilateral ties.",
+    "link": "https://www.reuters.com/world/us-president-trump-may-visit-ireland-september-ambassador-says-2026-02-26",
+    "category": "world"
+  },
+  {
+    "headline": "Trump keeps world waiting on his plans for Iran after State of the Union",
+    "context": "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making. Trump prefers a deal over war. Negotiations are pivotal.",
+    "link": "https://www.bbc.com/news/articles/cge821xwyz8o",
+    "category": "world"
+  },
+  {
+    "headline": "Cuba says it killed 4 exiles, wounded 6 others who attacked from Florida speedboat",
+    "context": "Cuban forces killed four exiles and wounded six others who sailed into Cuban waters aboard a Florida-registered speedboat and opened fire on a patrol. U.S. Secretary of State Marco Rubio said no U.S. personnel were involved. The incident heightens U.S.-Cuba tensions.",
+    "link": "https://www.reuters.com/world/cuba-says-four-killed-after-speedboat-florida-entered-cuban-waters-opened-fire-2026-02-25/",
+    "category": "world"
+  },
+  {
+    "headline": "Iran accuses Trump of 'big lies' ahead of Geneva talks in face of major US military deployment",
+    "context": "Iran has pushed back against U.S. President Donald Trump's pressure tactics ahead of critical talks in Geneva over Tehran's nuclear program. Alternating between calling remarks 'big lies' and suggesting honorable diplomacy. Negotiations may yield an agreement.",
+    "link": "https://apnews.com/article/iran-us-war-geneva-talks-nuclear-a6b4d4bd0bfae5823cebf89b27ca992c",
+    "category": "world"
+  },
+  {
+    "headline": "World Economic Forum head Børge Brende steps down following pressure over Epstein links",
+    "context": "World Economic Forum head Børge Brende said that he is stepping down after facing pressure over his contacts with the late sex offender Jeffrey Epstein. He decided after careful consideration. The forum opened an internal review.",
+    "link": "https://apnews.com/article/world-economic-forum-brende-resigns-epstein-b640f53ce3fde5640d88dc16bd72f7a3",
+    "category": "world"
+  },
+  {
+    "headline": "India, Israel elevate ties, sign 17 pacts",
+    "context": "India and Israel have strengthened bilateral relations by signing 17 agreements during a meeting between PM Modi and Netanyahu. The pacts cover various sectors, marking an extraordinarily productive phase in ties. This enhances cooperation.",
+    "link": "https://indianexpress.com/article/india/india-israel-elevate-ties-sign-pacts-modi-netanyahu-10554150/",
+    "category": "world"
+  },
+  {
+    "headline": "Epstein case: Hillary, Bill Clinton face closed-door testimony before US lawmakers",
+    "context": "Hillary and Bill Clinton testified privately before US lawmakers in the Epstein scrutiny. They stated willingness to reveal known information amid deepening investigations. This adds to the probe's developments.",
+    "link": "https://indianexpress.com/article/world/epstein-case-scrutiny-deepens-hillary-bill-clinton-face-closed-door-testimony-before-us-lawmakers-were-willing-to-say-what-we-know-10554097/",
+    "category": "world"
+  },
+  {
+    "headline": "Terror anywhere threatens peace everywhere, says PM Modi in Israeli Parliament | highlights",
+    "context": "PM Modi in Israel highlights: India backs Gaza peace plan, declares 'terrorism anywhere threatens peace everywhere'. Ahead of Mr. Modi's address, PM Netanyahu praised the partnership. The speech strengthens Indo-Israeli relations.",
+    "link": "https://www.thehindu.com/news/national/pm-modi-israel-visit-knesset-parliament-the-hindu-live-updates-february-25-2026/article70673911.ece",
+    "category": "world"
+  },
+  {
+    "headline": "India 'stands firmly' with Israel, Modi tells Israeli Parliament Knesset",
+    "context": "Prime Minister Narendra Modi extended a firm hand of friendship to Israel and condemned the October 7 Hamas attack as a “barbaric terrorist attack” in his address to the Israeli Parliament, Knesset. He supported the Gaza Peace Initiative. Peace-building is emphasized.",
+    "link": "https://www.thehindu.com/news/national/narendra-modi-speech-in-israel-parliament-knesset/article70676828.ece",
+    "category": "world"
+  },
+  {
+    "headline": "Agreement reached on use of UPI in Israel, says PM Modi",
+    "context": "India, Israel begin talks for free trade pact. India and Israel initiate free trade pact talks to enhance trade and investment ahead of Prime Minister Modi's visit. An agreement has been reached for the use of UPI in Israel.",
+    "link": "https://www.thehindu.com/news/national/pm-modi-in-israel-day-2-live-modi-benjamin-netanyahu-herzog-holocaust-memorial-india-israel/article70678128.ece",
+    "category": "world"
+  },
+  {
+    "headline": "Today News Headlines for School Assembly, February 27, 2026: New fare refund rules for flyers, India-Israel FTA likely",
+    "context": "India and Israel are expected to soon finalise a mutually beneficial Free Trade Agreement, according to Prime Minister Narendra Modi during his visit. The DGCA introduced new refund rules for flyers. NCERT controversy continues.",
+    "link": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-27-february-2026-india-israel-free-trade-agreement-pm-modi-netanyahu-dgca-flyer-refund-rules-ncert-10553823",
+    "category": "world"
+  }
+]
