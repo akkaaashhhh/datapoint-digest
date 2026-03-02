@@ -1,590 +1,1773 @@
 [
   {
-    "headline": "US and Iran could reach deal if nuclear and non-nuclear issues are separated, says Iranian official",
-    "context": "A senior Iranian official stated that the US and Iran may achieve a framework agreement by separating nuclear and non-nuclear matters, with ongoing gaps to be addressed in Geneva talks. This development follows military threats and aims to revive nuclear negotiations amid heightened tensions. The indirect talks are seen as crucial to averting conflict.",
-    "link": "https://www.reuters.com/world/middle-east/us-iran-nuclear-talks-resume-geneva-against-backdrop-military-threat-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "Iran's Araqchi aims to reprise role as nuclear dealmaker",
-    "context": "Iran's Araqchi is seeking to regain his position as a key negotiator in nuclear talks. This effort is part of broader diplomatic engagements with the US amid escalating tensions. The role could influence the outcome of ongoing Geneva discussions.",
-    "link": "https://www.reuters.com/world/middle-east/irans-araqchi-aims-reprise-role-nuclear-dealmaker-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "US proposes severing Swiss bank from financial system over alleged Iran, Russia, Venezuela links",
-    "context": "The US has proposed isolating a Swiss bank from global finance due to suspected connections with Iran, Russia, and Venezuela. This targets alleged sanctions violations and aims to enforce financial restrictions. The move highlights ongoing international tensions.",
-    "link": "https://www.reuters.com/business/finance/us-proposes-severing-swiss-bank-financial-system-over-alleged-iran-russia-links-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "Almost 8,000 died on migration routes in 2025 but toll likely far higher, says UN agency",
-    "context": "A UN agency reported nearly 8,000 deaths on migration paths in 2025, estimating the actual number is significantly greater. This underscores ongoing humanitarian crises in global migration. Efforts to address migration risks continue amid international concerns.",
-    "link": "https://www.reuters.com/world/almost-8000-died-migration-routes-2025-toll-likely-far-higher-says-un-agency-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "Explainer: How did Ivory Coast and Ghana's cocoa sales crisis come about?",
-    "context": "The cocoa sales crisis in Ivory Coast and Ghana stems from various factors affecting production and trade. This situation impacts global supply chains and local economies reliant on the commodity. Stakeholders are seeking resolutions to stabilize the market.",
-    "link": "https://www.reuters.com/world/africa/how-did-ivory-coast-ghanas-cocoa-sales-crisis-come-about-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "CEO of World Economic Forum quits after Epstein ties come to light",
-    "context": "Borge Brende, president and CEO of the World Economic Forum, resigned following scrutiny over his connections to Jeffrey Epstein. This stems from a recent investigation into the forum. The resignation highlights ongoing accountability issues.",
-    "link": "https://www.reuters.com/world/ceo-world-economic-forum-quits-after-epstein-ties-scrutinised-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "Hillary Clinton tells congressional panel she has no information on Epstein",
-    "context": "Hillary Clinton testified before a congressional panel, stating she lacks any details on Jeffrey Epstein. This occurs during an inquiry into Epstein's associations. The testimony adds to the scrutiny of high-profile connections.",
-    "link": "https://www.reuters.com/world/us/hillary-clinton-faces-epstein-congressional-inquiry-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "Most Americans back Trump's deportation goals but not his tactics, Reuters/Ipsos poll finds",
-    "context": "A Reuters/Ipsos poll shows Americans support Trump's deportation objectives yet disapprove of methods like masked agents clashing with citizens. This reflects divided opinions on immigration policy. The poll informs ongoing debates on enforcement.",
-    "link": "https://www.reuters.com/world/most-americans-back-trumps-deportation-goals-not-his-tactics-reutersipsos-poll-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "Trump asks US Supreme Court to end protections for Syrian immigrants",
-    "context": "The Trump administration has petitioned the Supreme Court to remove safeguards for Syrian immigrants. This move aligns with efforts to restrict immigration from certain regions. It could impact thousands of immigrants.",
-    "link": "https://www.reuters.com/legal/government/trump-asks-us-supreme-court-end-protections-syrian-immigrants-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "ICE struggles to vet recruits amid US immigration enforcement push",
-    "context": "US Immigration and Customs Enforcement faces challenges in screening new hires during intensified enforcement operations. Internal issues hinder the process. This affects the agency's ability to expand operations.",
-    "link": "https://www.reuters.com/world/ice-struggles-vet-recruits-amid-us-immigration-enforcement-push-internal-email-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "How China is masking drone flights in potential Taiwan rehearsal",
-    "context": "Chinese military drones are flying over the South China Sea while broadcasting false signals to disguise their identity as other aircraft. This activity may prepare for actions toward Taiwan. It raises concerns about regional security.",
-    "link": "https://www.reuters.com/world/china/how-china-is-masking-drone-flights-potential-taiwan-rehearsal-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "Chinese influence operation targets Japan elections, Trump, other countries, US foundation says",
-    "context": "A US foundation identified Chinese misinformation campaigns via X accounts attacking Japan's election outcomes, Trump's policies, and other nations. This highlights expanding influence efforts. Countermeasures are being considered.",
-    "link": "https://www.reuters.com/world/china/chinese-influence-operation-targets-japan-elections-trump-other-countries-us-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "Ukraine images indicate Russia used missile at heart of nuclear pact collapse",
-    "context": "Debris analysis shows Russia deployed a cruise missile central to the nuclear agreement's end under Trump. This confirms prior reports on weapon use in Ukraine strikes. It escalates arms control concerns.",
-    "link": "https://www.reuters.com/business/aerospace-defense/ukraine-images-indicate-russia-used-missile-heart-nuclear-pact-collapse-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "US slows sale of Lukoil assets to pressure Russia in Ukraine peace talks",
-    "context": "The US has delayed the divestment of Lukoil's international holdings to influence Russia during Ukraine negotiations. Sources indicate this as a strategic tactic. It aims to advance peace efforts.",
-    "link": "https://www.reuters.com/business/energy/us-extends-deadline-potential-buyers-lukoil-assets-april-1-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "US, Ukraine discuss post-war reconstruction as Russia pummels grid",
-    "context": "US and Ukrainian officials met in Geneva to plan reconstruction despite stalled peace talks with Russia. Russia launched drone and missile attacks on Ukrainian infrastructure overnight. The discussions focus on long-term recovery.",
-    "link": "https://www.reuters.com/world/europe/us-ukraine-discuss-post-war-reconstruction-geneva-talks-2026-02-26/",
-    "category": "world"
-  },
-  {
-    "headline": "Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country",
-    "context": "Cuba’s government stated that the 10 passengers on a boat that opened fire on its soldiers were armed Cubans living in the U.S. who were trying to infiltrate the island and unleash terrorism. This incident heightens tensions between Cuba and the U.S. It underscores security and migration issues.",
-    "link": "https://apnews.com/article/cuba-us-florida-boat-shooting-68e07061282dc2470993f6539bd0bde2",
-    "category": "world"
-  },
-  {
-    "headline": "North Korea warns it could destroy South if threatened, but leaves door open for US dialogue",
-    "context": "North Korea issued a warning that it could destroy South Korea if threatened, while indicating openness to dialogue with the U.S. This escalates regional tensions on the Korean Peninsula. It builds on longstanding nuclear and military concerns.",
-    "link": "https://apnews.com/article/kim-jong-un-north-korea-south-us-dialogue-a5f27a488bf736dcbcadbfbc83bf0d1d",
-    "category": "world"
-  },
-  {
-    "headline": "The US and Iran hold indirect talks in Geneva",
-    "context": "The U.S. and Iran are conducting indirect nuclear talks in Geneva, with American forces massing in the Middle East. This occurs as Iran’s nuclear program is viewed as a threat by many U.S. adults. The talks aim to prevent escalation amid risks of conflict.",
-    "link": "https://apnews.com/live/us-iran-geneva-nuclear-talks-updates-2-26-2026",
-    "category": "world"
-  },
-  {
-    "headline": "Hillary Clinton faces Epstein congressional inquiry",
-    "context": "Hillary Clinton is under scrutiny in a congressional inquiry related to Jeffrey Epstein. The inquiry examines potential connections and implications. This development underscores ongoing investigations into Epstein's network.",
-    "link": "https://www.thehindu.com/news/international/hillary-clinton-faces-epstein-congressional-inquiry/article70681095.ece",
-    "category": "world"
-  },
-  {
-    "headline": "Global order in peril from lack of cooperation, says Merkel; slams China, U.S. for resisting AI regulation",
-    "context": "Angela Merkel stated that the global order is at risk due to insufficient cooperation, criticizing China and the U.S. for opposing AI regulation. This reflects concerns over international governance in technology. The comments highlight geopolitical tensions in AI policy-making.",
-    "link": "https://www.thehindu.com/news/national/global-order-in-peril-from-lack-of-cooperation-says-merkel-slams-china-us-for-resisting-ai-regulation/article70680705.ece",
-    "category": "world"
-  },
-  {
-    "headline": "NCERT textbook content shows ‘deep-rooted conspiracy’ to show judiciary as corrupt: Supreme Court",
-    "context": "The Supreme Court declared that the Class 8 social science textbook contains content depicting the judiciary as corrupt, labeling it a conspiracy. CJI Surya Kant ordered a blanket ban on the textbook and initiated contempt action against the NCERT director and School Education Secretary. This highlights tensions over educational content and judicial oversight in India.",
-    "link": "https://www.thehindu.com/news/national/ncert-textbook-content-shows-deep-rooted-conspiracy-to-show-judiciary-as-corrupt-supreme-court/article70680290.ece",
-    "category": "national"
-  },
-  {
-    "headline": "PM Modi says someone has to be held accountable on NCERT textbook row",
-    "context": "Prime Minister Narendra Modi criticized the NCERT class 8 textbook for including a section on “Corruption in the Judiciary,” which has faced strong backlash. The Supreme Court imposed a complete ban on its publication. Education Minister Pradhan stated action will be taken against those involved.",
-    "link": "https://indianexpress.com/article/india/pm-what-are-we-teaching-class-8-students-who-is-monitoring-it-10554040/",
-    "category": "national"
-  },
-  {
-    "headline": "HC stays Kerala Story 2 release over CBFC non-application of mind",
-    "context": "The Kerala High Court halted the release of the film Kerala Story 2, criticizing the CBFC for lacking proper review in certification. An appeal is now being considered by the court. This affects the film's distribution plans.",
-    "link": "https://indianexpress.com/article/entertainment/bollywood/kerala-story-2-release-stayed-non-application-of-mind-by-cbfc-10553501/",
-    "category": "national"
-  },
-  {
-    "headline": "Supreme Court bans NCERT book with ‘corruption in judiciary’ section",
-    "context": "The Supreme Court prohibited the publication of an NCERT class 8 textbook containing a section on judicial corruption, describing it as a deep-rooted conspiracy. This follows criticism and aligns with government statements on accountability. It impacts educational materials nationwide.",
-    "link": "https://indianexpress.com/article/legal-news/ncert-class-8-textbook-row-live-updates-supreme-court-imposes-ban-10552939/",
-    "category": "national"
-  },
-  {
-    "headline": "PM to roll out HPV vaccine campaign from Rajasthan on Feb 28, parental consent mandatory",
-    "context": "Prime Minister Modi will launch an HPV vaccine drive starting February 28 in Rajasthan to combat cervical cancer. Parental consent is required for participants, aiming to immunize adolescents. This initiative addresses public health concerns in India.",
-    "link": "https://indianexpress.com/article/health-wellness/pm-hpv-vaccine-campaign-rajasthan-february-28-parental-consent-mandatory-10553759/",
-    "category": "national"
-  },
-  {
-    "headline": "Samyukt Kisan Morcha to meet CMs, Opposition leaders against U.S. deal in fight for federal rights",
-    "context": "SKM leaders say they will submit a memorandum to the Chief Ministers and Leaders of Opposition for protecting interest of farmers by holding special sessions of State Assemblies and adopting resolutions asking the Union government to refrain from signing the deal. This reflects farmers' concerns over trade impacts. The movement seeks to safeguard agricultural interests.",
-    "link": "https://www.thehindu.com/news/national/samyukt-kisan-morcha-to-meet-cms-opposition-leaders-against-us-deal-in-fight-for-federal-rights/article70680170.ece",
-    "category": "national"
-  },
-  {
-    "headline": "India-U.S. deal: Rajasthan Congress MLAs protest in Assembly wearing 'PM is compromised' t-shirts",
-    "context": "Rajasthan Congress MLAs protest in Assembly against the India-U.S. deal, wearing 'PM is compromised' t-shirts and raising concerns. The demonstration highlights political opposition to the agreement. It aims to draw attention to perceived compromises.",
-    "link": "https://www.thehindu.com/news/national/rajasthan/india-us-deal-rajasthan-congress-mlas-protest-in-assembly-wearing-pm-is-compromised-t-shirts/article70678545.ece",
-    "category": "national"
-  },
-  {
-    "headline": "Ranji final: J&K eye big lead despite Agarwal ton",
-    "context": "Karnataka scored 220/5 in their first innings against Jammu & Kashmir in the Ranji Trophy final. Jammu & Kashmir posted 584 in their innings despite a ton from Karnataka's Agarwal. This positions Jammu & Kashmir to eye a big lead in the match.",
-    "link": "https://www.espncricinfo.com/series/ranji-trophy-2025-26-1492381/karnataka-vs-jammu-kashmir-final-1492524/match-report-3",
-    "category": "sports"
-  },
-  {
-    "headline": "Markram, bowlers lead South Africa's rout of West Indies",
-    "context": "South Africa won by 9 wickets with 23 balls remaining against West Indies in the T20 World Cup Super Eights. Aiden Markram and Lungi Ngidi played key roles in the victory. West Indies hit 31 sixes, breaking their own record for a men's T20 World Cup game.",
-    "link": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138/south-africa-vs-west-indies-47th-match-super-eights-group-1-1512765/match-report",
-    "category": "sports"
-  },
-  {
-    "headline": "Can resourceful NZ lock in semi-final spot against England?",
-    "context": "New Zealand faces England in the T20 World Cup Super Eights with scenarios for qualification into semi-finals. New Zealand's problem-solving ability is highlighted by coach Rob Walter. The match is crucial for New Zealand to secure their spot.",
-    "link": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138/england-vs-new-zealand-49th-match-super-eights-group-2-1512767/match-preview",
-    "category": "sports"
-  },
-  {
-    "headline": "Southee targets England's 'perfect game' in NZ face-off",
-    "context": "New Zealand's Tim Southee aims for England's best performance in their T20 World Cup clash. The match is an emotional face-off for New Zealand. England continues despite issues with Jos Buttler.",
-    "link": "https://www.espncricinfo.com/story/eng-vs-nz-t20-world-cup-tim-southee-targets-perfect-game-in-emotional-face-off-1526072",
-    "category": "sports"
-  },
-  {
-    "headline": "Rabada: Ngidi's slower ball 'incredibly hard' to bowl",
-    "context": "Kagiso Rabada praises Lungi Ngidi's slower ball after South Africa's win over West Indies. The comment comes in the context of South Africa's pace bowling strength. Ngidi was key in the rout of West Indies.",
-    "link": "https://www.espncricinfo.com/story/kagiso-rabada-would-have-taken-it-quite-heavily-if-south-africa-had-lost-to-afghanistan-1526110",
-    "category": "sports"
-  },
-  {
-    "headline": "West Indies break their own sixes record",
-    "context": "West Indies hit 31 sixes in their T20 World Cup match against South Africa. The record was previously held by them in a men's T20 World Cup game. Despite the loss, they retained a 2016 feeling.",
-    "link": "https://www.espncricinfo.com/story/stats-jason-holder-romario-shepherd-special-in-vain-aiden-markram-tops-for-sa-1526065",
-    "category": "sports"
-  },
-  {
-    "headline": "South Africa's pace pack has a horse for every course",
-    "context": "South Africa's pace battery, including Kagiso Rabada and Lungi Ngidi, proved effective in their win over West Indies. The pace pack adapted well in the T20 World Cup Super Eights. Corbin Bosch also contributed to the bowling effort.",
-    "link": "https://www.espncricinfo.com/story/t20-world-cup-2026-kagiso-rabada-lungi-ngidi-corbin-bosch-form-effective-pace-battery-1526104",
-    "category": "sports"
-  },
-  {
-    "headline": "New Zealand bank on their 'great' problem-solving ability",
-    "context": "New Zealand's coach Rob Walter emphasizes their ability to solve problems ahead of the England match. This asset is key for qualifying in the T20 World Cup. New Zealand aims to lock in a semi-final spot.",
-    "link": "https://www.espncricinfo.com/story/t20-world-cup-2026-nz-vs-eng-coach-rob-walter-ability-to-solve-problems-our-greatest-asset-1526051",
-    "category": "sports"
-  },
-  {
-    "headline": "Still sixy: West Indies lose but retain that 2016 feeling",
-    "context": "West Indies lost to South Africa but maintained a spirited performance. They broke their own sixes record in the match. The loss does not diminish their aggressive style reminiscent of 2016.",
-    "link": "https://www.espncricinfo.com/story/t20-world-cup-sa-vs-wi-west-indies-lose-but-retain-that-2016-feeling-1526099",
-    "category": "sports"
-  },
-  {
-    "headline": "Tahir to make Dolphins comeback at 46",
-    "context": "South African spinner Imran Tahir will return for Dolphins in the CSA One-Day Cup. This marks his comeback at age 46. The announcement comes amid other T20 World Cup coverage.",
-    "link": "https://www.espncricinfo.com/story/south-africa-spinner-imran-tahir-to-make-dolphins-comeback-at-46-for-csa-one-day-cup-1526025",
-    "category": "sports"
-  },
-  {
-    "headline": "ICC T20 World CUP LIVE: Zimbabwe reaches 144/2 after 16 overs",
-    "context": "Live updates from the ICC T20 World Cup match between India and Zimbabwe show Zimbabwe at 144/2 after 16 overs. This is part of the ongoing cricket tournament. The score indicates a competitive game in progress.",
-    "link": "https://www.thehindu.com/sport/cricket/icc-t20-world-cup-india-vs-zimbabwe-live-scores-updates-february-26-2026/article70679547.ece",
-    "category": "sports"
-  },
-  {
-    "headline": "India vs Zimbabwe T20 WC Live: Arshdeep Singh picks Ryan Burl; ZIM 4 down",
-    "context": "India is playing Zimbabwe in the Super 8 stage of the T20 World Cup 2026 at MA Chidambaram Stadium in Chennai. Arshdeep Singh dismissed Ryan Burl, reducing Zimbabwe to 4 down while chasing 257. The match is part of India's push for semifinals.",
-    "link": "https://indianexpress.com/article/sports/cricket/india-vs-zimbabwe-live-cricket-score-ind-zim-t20-world-cup-2026-super-8-match-live-scorecard-ma-chidambaram-stadium-chennai-10553461/",
-    "category": "sports"
-  },
-  {
-    "headline": "UEFA Champions League knockouts draw completed for 16 teams",
-    "context": "The draw for the UEFA Champions League round of 16 has set the 16 teams, with potential quarterfinal matchups outlined. Broadcasting details are provided for viewers. This advances the tournament's excitement.",
-    "link": "https://indianexpress.com/article/sports/football/champions-league-round-of-16-draw-teams-bracket-live-streaming-10554060/",
-    "category": "sports"
-  },
-  {
-    "headline": "Mexico violence: What happened, FIFA's response and what it means for the World Cup",
-    "context": "Amid cartel-related violence in Mexico, soccer leagues suspended games. Will the situation affect the country's status as a host for the World Cup? FIFA is monitoring but expresses confidence.",
-    "link": "https://www.espn.com/soccer/story/_/id/48043487/mexico-violence-happened-fifa-response-means-world-cup",
-    "category": "sports"
-  },
-  {
-    "headline": "Referee warned after same team kicks off twice in Brazilian Serie A clash",
-    "context": "A referee has been warned after allowing the same team to kick off at the start of both halves in a Brazilian Serie A match, despite one player 'yelling' to alert him. Palmeiras won against Fluminense. The incident highlights officiating errors.",
-    "link": "https://www.espn.com/soccer/story/_/id/48043598/palmeiras-win-fluminense-brazilian-serie-referee-felipe-fernandes-abel-ferreira",
-    "category": "sports"
-  },
-  {
-    "headline": "Inter Miami to use 'whole squad' in friendly despite short turnover to MLS - Mascherano",
-    "context": "Inter Miami head coach Javier Mascherano has confirmed he will use the friendly against Independiente del Valle on Thursday night as an opportunity to give minutes to his whole squad. This prepares for the MLS season. Lionel Messi may feature.",
-    "link": "https://africa.espn.com/football/story/_/id/48043958/inter-miami-javier-mascherano-lionel-messi-puerto-rico-independiente-del-valle",
-    "category": "sports"
-  },
-  {
-    "headline": "Drazic goal sees FC Goa ease past hapless SC Delhi to go top of ISL",
-    "context": "A sliding tap-in from the in-form Dejan Drazic off an Aakash Sangwan cross late in the first half was enough for FC Goa as they eased past SC Delhi 1-0 at the Jawaharlal Nehru Stadium in Fatorda. This win takes Goa to the top of the ISL table. Delhi remains at the bottom.",
-    "link": "https://africa.espn.com/football/story/_/id/48039872/isl-2025-26-indian-super-league-football-results-reports-matchweek-03-goa-delhi-east-bengal-jamshedpur-bfc-punjab-blasters-kashi-msc-bagan-odisha-cfc-mumbai-neufc",
-    "category": "sports"
-  },
-  {
-    "headline": "Paris Saint-Germain's Champions League title defense on shaky ground",
-    "context": "PSG will face either Chelsea or Barcelona in the Round of 16 after overcoming their Ligue 1 rivals, but they won't go much further in the competition if they don't improve. The team showed vulnerabilities. Title defense appears uncertain.",
-    "link": "https://www.espn.com/soccer/story/_/id/48039500/paris-saint-germains-champions-league-title-defense-shaky-ground",
-    "category": "sports"
-  },
-  {
-    "headline": "Srikanth wins first round match at BWF German Open, Goa vs Delhi in ISL: Indian Sports LIVE, February 26",
-    "context": "Srikanth wins first round match at BWF German Open, Goa vs Delhi in ISL: Indian Sports LIVE, February 26. Indian sports can get quite action-packed. Updates cover multiple events.",
-    "link": "https://www.espn.com/espn/story/_/id/48033710/kidambi-srikanth-aakarshi-kashyap-bwf-german-open-fc-goa-vs-sc-delhi-isl-indian-sports-live-february-26",
-    "category": "sports"
-  },
-  {
-    "headline": "VAR hands Atalanta winning pen after bloody foul by Dortmund",
-    "context": "Two red cards, a VAR overturn and a decisive converted penalty with the last kick of the game that came after a bloody foul on Atalanta's Nikola Krstovic. This ensured Italian representation continues. The match was dramatic.",
-    "link": "https://africa.espn.com/football/story/_/id/48036023/var-hands-atalanta-winning-pen-bloody-foul-dortmund",
-    "category": "sports"
-  },
-  {
-    "headline": "FIFA have 'complete confidence' Mexico can host World Cup despite unrest",
-    "context": "FIFA are monitoring the situation in Mexico but have 'full confidence' the country can host World Cup games amid the recent unrest and violence. President Gianni Infantino expressed support. Preparations continue.",
-    "link": "https://www.espn.com/soccer/story/_/id/48030939/fifa-complete-confidence-mexico-host-world-cup-unrest",
-    "category": "sports"
-  },
-  {
-    "headline": "West Ham's Nuno Espirito Santo issues rallying cry: 'We are in the fight'",
-    "context": "Nuno Espirito Santo has fired a warning to West Ham's relegation rivals Nottingham Forest and Tottenham by declaring his side are back 'in the fight'. The team seeks to improve standings. Motivation is high.",
-    "link": "https://africa.espn.com/football/story/_/id/48042987/west-ham-nuno-espirito-santo-issues-rallying-cry-the-fight",
-    "category": "sports"
-  },
-  {
-    "headline": "Asian Cup 2026: Which players will miss Women's Super League games for your club?",
-    "context": "A number of players could miss WSL action because they will be at the 2026 Asian Cup for Australia and Japan. This affects club schedules. Teams must adjust.",
-    "link": "https://africa.espn.com/football/story/_/id/48043090/asian-cup-2026-which-players-miss-women-super-league-games-your-club",
-    "category": "sports"
-  },
-  {
-    "headline": "Cristiano Ronaldo is the latest footballer to buy a stake in a club. Who are the others?",
-    "context": "When it was confirmed that Cristiano Ronaldo had bought a 25% stake in Spanish side Almeria, he joined a group of footballers who have invested in clubs. This trend continues among players. Investments vary.",
-    "link": "https://africa.espn.com/football/story/_/id/48041310/which-footballers-become-team-owners-cristiano-ronaldo-kylian-mbappe",
-    "category": "sports"
-  },
-  {
-    "headline": "Frank Lampard insists Coventry can't relax despite 5-point lead",
-    "context": "Coventry boss Frank Lampard says there will be no let-up from his side after they hit back to win 2-1 at Sheffield United and move five points clear at the top of the Championship. The team maintains focus. Promotion is the goal.",
-    "link": "https://africa.espn.com/football/story/_/id/48036690/frank-lampard-coventry-city-championship-lead",
-    "category": "sports"
-  },
-  {
-    "headline": "AI impacts to be scrutinized by UN's new scientific advisory panel",
-    "context": "The UN has established a new scientific advisory panel to examine the impacts of artificial intelligence, with comparisons drawn to the IPCC's role in climate policy. This initiative aims to inform global governance on AI risks and benefits. The panel's formation reflects growing international concern over AI's societal effects.",
-    "link": "https://www.nature.com/articles/d41586-026-00542-8",
-    "category": "science"
-  },
-  {
-    "headline": "Scientists face fallout for past associations with Epstein",
-    "context": "Researchers, including paleontologist Jack Horner, are experiencing career and work repercussions due to revelations from documents related to Jeffrey Epstein. The newly released files have exposed past connections, leading to professional consequences. This situation highlights ongoing issues of accountability in scientific communities.",
-    "link": "https://www.nature.com/articles/d41586-026-00554-4",
-    "category": "science"
-  },
-  {
-    "headline": "Health effects linger 20 generations after rats are exposed to fungicide",
-    "context": "A study shows that exposure to a fungicide in rats results in health effects persisting across 20 generations. Scientists view this as a cautionary signal regarding environmental chemicals and their long-term impacts on human health. The findings underscore the need for scrutiny of widespread chemical exposures.",
-    "link": "https://www.nature.com/articles/d41586-026-00555-3",
-    "category": "science"
-  },
-  {
-    "headline": "This compound enhances long-term memory of mice — but only in females",
-    "context": "Acetate treatment improves long-term memory formation in female mice but shows reduced effectiveness in males. The sex-specific results point to potential differences in neurological responses to the compound. This discovery may influence future research on memory enhancement therapies.",
-    "link": "https://www.nature.com/articles/d41586-026-00603-y",
-    "category": "science"
-  },
-  {
-    "headline": "Brains of 'super agers' are still strong producers of new neurons",
-    "context": "Individuals identified as 'super agers' maintain high levels of neurogenesis into old age. This finding challenges assumptions about age-related decline in brain cell production. It suggests factors that could contribute to exceptional cognitive longevity.",
-    "link": "https://www.nature.com/articles/d41586-026-00599-5",
-    "category": "science"
-  },
-  {
-    "headline": "Stem cells provide a potent treatment for frailty",
-    "context": "Stem cell therapies demonstrate effectiveness in addressing frailty in patients. The treatment targets age-related decline, offering potential improvements in physical function. This advancement could transform approaches to geriatric care.",
-    "link": "https://www.nature.com/articles/d41586-026-00584-y",
-    "category": "science"
-  },
-  {
-    "headline": "The age of animal experiments is waning. Where will science go next?",
-    "context": "Advances in organ models and computer simulations are reducing reliance on animal testing in research. However, significant challenges remain in fully replacing animal experiments. This shift raises questions about future methodologies in biological studies.",
-    "link": "https://www.nature.com/articles/d41586-026-00563-3",
-    "category": "science"
-  },
-  {
-    "headline": "China is waging war on Alzheimer’s. What can its approach teach the rest of the world?",
-    "context": "China is investing heavily in research, drugs, diagnostics, and surgeries to combat Alzheimer's amid its aging population. The country's strategy addresses a projected surge in dementia cases. Global lessons may emerge from its comprehensive efforts.",
-    "link": "https://www.nature.com/articles/d41586-026-00564-2",
-    "category": "science"
-  },
-  {
-    "headline": "Scientists must step up to avert a nuclear breakout",
-    "context": "Expert Karen Hallberg calls for increased scientific involvement to prevent nuclear proliferation. The piece emphasizes the role of science in maintaining non-proliferation efforts. This urgency stems from evolving global security threats.",
-    "link": "https://www.nature.com/articles/d41586-026-00562-4",
-    "category": "science"
-  },
-  {
-    "headline": "How earthquakes and lightning help explain squeaky sneakers",
-    "context": "High-speed footage shows that shoe squeaks can originate from electrostatic discharges akin to lightning, alongside floor interactions. The analysis also supports the existence of a debated brain phenomenon in humans. This research bridges physics and everyday phenomena.",
-    "link": "https://www.nature.com/articles/d41586-026-00619-4",
-    "category": "science"
-  },
-  {
-    "headline": "COVID’s origins: what we do and don’t know",
-    "context": "A comprehensive investigation into COVID-19's origins reveals key insights into its emergence. The summary highlights known facts and uncertainties in the pandemic's start. This work informs ongoing debates on viral traceability.",
-    "link": "https://www.nature.com/articles/d41586-026-00530-y",
-    "category": "science"
-  },
-  {
-    "headline": "Iron Age mass grave reveals unprecedented violence against women and children",
-    "context": "An archaeological discovery of an Iron Age mass grave indicates extreme violence targeting women and children. The findings provide new details on ancient societal conflicts. This excavation reshapes understandings of historical violence patterns.",
-    "link": "https://www.nature.com/articles/d41586-026-00535-7",
-    "category": "science"
-  },
-  {
-    "headline": "First-of-a-kind stem-cell therapies set for approval in Japan",
-    "context": "Japan is poised to approve novel stem-cell treatments for various conditions. These therapies represent a medical milestone in regenerative medicine. The development could expand treatment options globally.",
-    "link": "https://www.nature.com/articles/d41586-026-00585-x",
-    "category": "science"
-  },
-  {
-    "headline": "Whistle while you whinny: researchers identify two sounds straight from the horse’s mouth",
-    "context": "Scientists have identified distinct vocalizations produced by horses. The discovery enhances knowledge of animal communication. Such findings aid in behavioral and ecological studies.",
-    "link": "https://www.nature.com/articles/d41586-026-00545-5",
-    "category": "science"
-  },
-  {
-    "headline": "This AI can improve your peer review — and make it more polite",
-    "context": "An AI tool is developed to enhance peer review processes, including fostering politeness in feedback. The technology aims to streamline academic evaluations. This innovation could improve collaboration in scientific publishing.",
-    "link": "https://www.nature.com/articles/d41586-026-00536-6",
-    "category": "science"
-  },
-  {
-    "headline": "Rare earth shortages worsen in US aerospace, chips despite trade truce",
-    "context": "Shortages of rare earth materials are intensifying in US aerospace and semiconductor sectors, even after a trade agreement. This exacerbates supply chain vulnerabilities. Solutions are being explored to mitigate impacts.",
-    "link": "https://www.reuters.com/business/aerospace-defense/rare-earth-shortages-worsen-us-aerospace-chips-despite-trade-truce-sources-say-2026-02-26/",
-    "category": "science"
-  },
-  {
-    "headline": "NASA’s Mike Fincke identifies himself as the ailing astronaut who prompted space station evacuation",
-    "context": "Astronaut Mike Fincke revealed he was the one who fell ill, leading to the evacuation of the International Space Station. This incident raises concerns about health risks in space and NASA's response protocols. Recovery efforts are underway.",
-    "link": "https://apnews.com/article/nasa-sick-astronaut-space-station-evacuation-a02ef6878b294e4e3d46dd821a8daebf",
-    "category": "science"
-  },
-  {
-    "headline": "Aravalli row: Supreme Court asks Environment Ministry, others to suggest names of domain experts for panel",
-    "context": "The Supreme Court has directed the Environment Ministry and other entities to recommend domain experts for a panel addressing the Aravalli dispute. This involves environmental conservation and regulatory issues in the region. The move aims to form a qualified group to resolve ongoing conflicts.",
-    "link": "https://www.thehindu.com/sci-tech/energy-and-environment/aravalli-row-supreme-court-asks-environment-ministry-others-to-suggest-names-of-domain-experts-for-panel/article70680899.ece",
-    "category": "science"
-  },
-  {
-    "headline": "Scientists use AI to decode ancient desert mystery",
-    "context": "Researchers are applying artificial intelligence to unravel mysteries in ancient deserts. The technology aids in analyzing historical data and patterns for new insights. This advances archaeological understanding.",
-    "link": "https://indianexpress.com/article/technology/science/scientists-turn-to-artificial-intelligence-to-decode-ancient-desert-mystery-10554036/",
-    "category": "science"
-  },
-  {
-    "headline": "Trump EPA to shift at least half of waived biofuel obligations to big refiners, sources say",
-    "context": "The Trump EPA plans to reallocate at least half of biofuel waivers to major refiners. This adjustment affects environmental compliance under the administration. It impacts the biofuels industry.",
-    "link": "https://www.reuters.com/sustainability/climate-energy/trump-epa-shift-least-half-waived-biofuel-obligations-big-refiners-sources-say-2026-02-26/",
-    "category": "science"
-  },
-  {
-    "headline": "Instagram to alert parents on teen suicide searches as UK weighs social media ban",
-    "context": "Instagram will notify parents about teen searches related to suicide. This policy emerges as the UK considers restrictions on social media platforms. It aims to enhance child safety online.",
-    "link": "https://www.reuters.com/world/americas/instagram-alert-parents-teen-suicide-searches-uk-weighs-social-media-ban-2026-02-26/",
-    "category": "science"
-  },
-  {
-    "headline": "Sea-urchin spines generate electrical signals in flowing water",
-    "context": "The spines of sea urchins can generate a voltage when water moves around them — a phenomenon that could be used to design underwater flow sensors. This mechanoelectrical sensing is a new discovery. Applications in sensing technology are possible.",
-    "link": "https://www.nature.com/articles/d41586-026-00374-6",
-    "category": "science"
-  },
-  {
-    "headline": "Flexible paths to multicellularity",
-    "context": "Close relatives of animals can become multicellular if distinct individuals join together or if dividing cells remain attached. A species has been found to use both mechanisms. This challenges previous views on multicellular evolution.",
-    "link": "https://www.nature.com/articles/d41586-026-00292-7",
-    "category": "science"
-  },
-  {
-    "headline": "How an exercise-activated enzyme helps to keep the brain young",
-    "context": "Exercise prevents brain ageing and memory loss by strengthening the blood–brain barrier, which becomes leaky with age. An enzyme produced by liver cells has anti-ageing effects on the brain. This reveals exercise's neurological benefits.",
-    "link": "https://www.nature.com/articles/d41586-026-00515-x",
-    "category": "science"
-  },
-  {
-    "headline": "We need a global assessment of avoidable climate-change risks",
-    "context": "To understand the urgency of emissions reductions, policymakers and citizens need a full analysis of what is at stake. This calls for comprehensive risk assessment. It would guide climate action.",
-    "link": "https://www.nature.com/articles/d41586-026-00544-6",
-    "category": "science"
-  },
-  {
-    "headline": "Russia says it has handed over 1000 Ukrainian soldiers' bodies",
-    "context": "Moscow and Kyiv agreed to return the bodies of up to 6,000 soldiers each, as well as all sick and heavily wounded prisoners of war and those aged under 25. Kyiv confirmed the exchange. This humanitarian effort occurs amid ongoing conflict.",
-    "link": "https://www.bbc.com/news/articles/cg7ed4rp7x5o",
-    "category": "world"
-  },
-  {
-    "headline": "Afghanistan has launched retaliatory attacks on Pakistani border posts, Taliban military unit says",
-    "context": "Afghanistan has launched offensive operations against Pakistani military positions along the border, the Taliban's spokesperson said on Thursday, in retaliation for recent Pakistani airstrikes. This escalates border tensions. Diplomatic efforts may follow.",
-    "link": "https://www.reuters.com/world/asia-pacific/afghanistan-has-launched-retaliatory-attacks-pakistani-border-posts-taliban-2026-02-26",
-    "category": "world"
-  },
-  {
-    "headline": "US and Iran hold talks seen as crucial to prevent conflict",
-    "context": "US and Iranian officials have met in Geneva for a third round of indirect talks seen as crucial to averting conflict, with President Donald Trump threatening to strike Iran if a nuclear deal is not reached. Omani Foreign Minister noted openness to ideas. Chances of agreement remain unclear.",
-    "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o",
-    "category": "world"
-  },
-  {
-    "headline": "World Economic Forum boss Borge Brende quits after review of Jeffrey Epstein links",
-    "context": "The president and CEO of the World Economic Forum (WEF), Borge Brende, has resigned after a review into his links to the late sex offender Jeffrey Epstein. Brende decided to step down after more than eight years. The forum launched an internal review.",
-    "link": "https://www.bbc.com/news/articles/cr5lq9ll15jo",
-    "category": "world"
-  },
-  {
-    "headline": "Melania Trump to chair a meeting of the UN Security Council, White House says",
-    "context": "First lady Melania Trump will chair a meeting of the United Nations Security Council on Monday as the U.S. takes over the monthly rotating presidency. She will emphasize education for tolerance and peace. This is a historic first for a US first lady.",
-    "link": "https://www.reuters.com/world/melania-trump-chair-meeting-un-security-council-white-house-says-2026-02-26",
-    "category": "world"
-  },
-  {
-    "headline": "Danish PM calls snap election with Greenland issue centre-stage",
-    "context": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign. Danish Prime Minister Mette Frederiksen announced early elections. The next four years are 'decisive' for Denmark.",
-    "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o",
-    "category": "world"
-  },
-  {
-    "headline": "Russia says sending British troops to Ukraine would prolong war, not end it",
-    "context": "Russia's foreign ministry spokeswoman Maria Zakharova said on Thursday that any deployment of British troops in Ukraine would prolong the war, not end it. France and Britain plan to send troops post-ceasefire. This increases confrontation risks.",
-    "link": "https://www.reuters.com/world/europe/russia-says-sending-british-troops-ukraine-would-prolong-war-not-end-it-2026-02-26",
-    "category": "world"
-  },
-  {
-    "headline": "Bangladesh court orders move to seek Interpol red notice for UK lawmaker Siddiq",
-    "context": "A court in Bangladesh ordered authorities to seek an Interpol red notice against British lawmaker and former minister Tulip Siddiq over alleged corruption linked to a private real estate project. The Anti-Corruption Commission filed the petition. Siddiq has been sentenced in other cases.",
-    "link": "https://www.reuters.com/world/asia-pacific/bangladesh-court-orders-move-seek-interpol-red-notice-uk-lawmaker-siddiq-2026-02-26",
-    "category": "world"
-  },
-  {
-    "headline": "RSF-led violence in al-Fashir bears 'hallmarks of genocide', say key UN nations",
-    "context": "Violence by Rapid Support Forces paramilitary group in the Sudanese city of al-Fashir bears 'the hallmarks of genocide', the foreign ministers of the Sudan core group at the UN Human Rights' Council said. The group concludes war crimes and crimes against humanity. International action is urged.",
-    "link": "https://www.reuters.com/world/africa/rsf-led-violence-al-fashir-bears-hallmarks-genocide-say-key-un-nations-2026-02-26",
-    "category": "world"
-  },
-  {
-    "headline": "Cindy McCain announces departure as head of UN World Food Programme",
-    "context": "Cindy McCain intends to step down as head of the United Nations World Food Programme, months after she suffered a mild stroke. She will focus on health. The organization faces leadership transition.",
-    "link": "https://www.reuters.com/world/cindy-mccain-announces-departure-head-un-world-food-programme-2026-02-26",
-    "category": "world"
-  },
-  {
-    "headline": "US President Trump may visit Ireland in September, ambassador says",
-    "context": "U.S. President Donald Trump may visit Ireland in September during the Irish Open golf tournament hosted at his family's west coast course. The U.S. Ambassador to Ireland announced this. It could strengthen bilateral ties.",
-    "link": "https://www.reuters.com/world/us-president-trump-may-visit-ireland-september-ambassador-says-2026-02-26",
-    "category": "world"
-  },
-  {
-    "headline": "Trump keeps world waiting on his plans for Iran after State of the Union",
-    "context": "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making. Trump prefers a deal over war. Negotiations are pivotal.",
-    "link": "https://www.bbc.com/news/articles/cge821xwyz8o",
-    "category": "world"
-  },
-  {
-    "headline": "Cuba says it killed 4 exiles, wounded 6 others who attacked from Florida speedboat",
-    "context": "Cuban forces killed four exiles and wounded six others who sailed into Cuban waters aboard a Florida-registered speedboat and opened fire on a patrol. U.S. Secretary of State Marco Rubio said no U.S. personnel were involved. The incident heightens U.S.-Cuba tensions.",
-    "link": "https://www.reuters.com/world/cuba-says-four-killed-after-speedboat-florida-entered-cuban-waters-opened-fire-2026-02-25/",
-    "category": "world"
-  },
-  {
-    "headline": "Iran accuses Trump of 'big lies' ahead of Geneva talks in face of major US military deployment",
-    "context": "Iran has pushed back against U.S. President Donald Trump's pressure tactics ahead of critical talks in Geneva over Tehran's nuclear program. Alternating between calling remarks 'big lies' and suggesting honorable diplomacy. Negotiations may yield an agreement.",
-    "link": "https://apnews.com/article/iran-us-war-geneva-talks-nuclear-a6b4d4bd0bfae5823cebf89b27ca992c",
-    "category": "world"
-  },
-  {
-    "headline": "World Economic Forum head Børge Brende steps down following pressure over Epstein links",
-    "context": "World Economic Forum head Børge Brende said that he is stepping down after facing pressure over his contacts with the late sex offender Jeffrey Epstein. He decided after careful consideration. The forum opened an internal review.",
-    "link": "https://apnews.com/article/world-economic-forum-brende-resigns-epstein-b640f53ce3fde5640d88dc16bd72f7a3",
-    "category": "world"
-  },
-  {
-    "headline": "India, Israel elevate ties, sign 17 pacts",
-    "context": "India and Israel have strengthened bilateral relations by signing 17 agreements during a meeting between PM Modi and Netanyahu. The pacts cover various sectors, marking an extraordinarily productive phase in ties. This enhances cooperation.",
-    "link": "https://indianexpress.com/article/india/india-israel-elevate-ties-sign-pacts-modi-netanyahu-10554150/",
-    "category": "world"
-  },
-  {
-    "headline": "Epstein case: Hillary, Bill Clinton face closed-door testimony before US lawmakers",
-    "context": "Hillary and Bill Clinton testified privately before US lawmakers in the Epstein scrutiny. They stated willingness to reveal known information amid deepening investigations. This adds to the probe's developments.",
-    "link": "https://indianexpress.com/article/world/epstein-case-scrutiny-deepens-hillary-bill-clinton-face-closed-door-testimony-before-us-lawmakers-were-willing-to-say-what-we-know-10554097/",
-    "category": "world"
-  },
-  {
-    "headline": "Terror anywhere threatens peace everywhere, says PM Modi in Israeli Parliament | highlights",
-    "context": "PM Modi in Israel highlights: India backs Gaza peace plan, declares 'terrorism anywhere threatens peace everywhere'. Ahead of Mr. Modi's address, PM Netanyahu praised the partnership. The speech strengthens Indo-Israeli relations.",
-    "link": "https://www.thehindu.com/news/national/pm-modi-israel-visit-knesset-parliament-the-hindu-live-updates-february-25-2026/article70673911.ece",
-    "category": "world"
-  },
-  {
-    "headline": "India 'stands firmly' with Israel, Modi tells Israeli Parliament Knesset",
-    "context": "Prime Minister Narendra Modi extended a firm hand of friendship to Israel and condemned the October 7 Hamas attack as a “barbaric terrorist attack” in his address to the Israeli Parliament, Knesset. He supported the Gaza Peace Initiative. Peace-building is emphasized.",
-    "link": "https://www.thehindu.com/news/national/narendra-modi-speech-in-israel-parliament-knesset/article70676828.ece",
-    "category": "world"
-  },
-  {
-    "headline": "Agreement reached on use of UPI in Israel, says PM Modi",
-    "context": "India, Israel begin talks for free trade pact. India and Israel initiate free trade pact talks to enhance trade and investment ahead of Prime Minister Modi's visit. An agreement has been reached for the use of UPI in Israel.",
-    "link": "https://www.thehindu.com/news/national/pm-modi-in-israel-day-2-live-modi-benjamin-netanyahu-herzog-holocaust-memorial-india-israel/article70678128.ece",
-    "category": "world"
-  },
-  {
-    "headline": "Today News Headlines for School Assembly, February 27, 2026: New fare refund rules for flyers, India-Israel FTA likely",
-    "context": "India and Israel are expected to soon finalise a mutually beneficial Free Trade Agreement, according to Prime Minister Narendra Modi during his visit. The DGCA introduced new refund rules for flyers. NCERT controversy continues.",
-    "link": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-27-february-2026-india-israel-free-trade-agreement-pm-modi-netanyahu-dgca-flyer-refund-rules-ncert-10553823",
-    "category": "world"
+    "headline": "Israel strikes at Hezbollah, Kuwait shoots down US jets in error",
+    "context": "The U.S.-Israeli air war against Iran expanded with Israel attacking Lebanon in response to Hezbollah strikes. Kuwait mistakenly intercepted US jets in a friendly-fire incident amid ongoing retaliatory actions. This escalation widens the Iran conflict, raising concerns over regional stability and military miscalculations.",
+    "link": "https://www.reuters.com/world/iran-live-israel-strikes-hezbollah-uk-base-hit-cyprus-conflict-widens-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Hezbollah",
+        "definition": "A Shia Islamist political party and militant group based in Lebanon, designated as a terrorist organization by several countries."
+      },
+      {
+        "term": "Friendly-fire",
+        "definition": "An attack by a military force on friendly or neutral troops while attempting to attack the enemy."
+      }
+    ]
+  },
+  {
+    "headline": "Just one in four Americans supports Iran strikes, Reuters/Ipsos poll finds",
+    "context": "A Reuters/Ipsos poll reveals limited public backing for US strikes on Iran. This reflects public war-wary sentiment focused on domestic issues like cost of living. The finding highlights political risks for Trump's foreign policy amid midterms.",
+    "link": "https://www.reuters.com/world/us/just-one-four-americans-support-us-strikes-iran-reutersipsos-poll-finds-2026-03-01/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Reuters/Ipsos poll",
+        "definition": "A collaborative polling effort between Reuters news agency and Ipsos market research firm to gauge public opinion."
+      }
+    ]
+  },
+  {
+    "headline": "Iran conflict widens to Lebanon, Kuwait mistakenly downs US jets",
+    "context": "Israel conducted strikes on Lebanon following Hezbollah attacks, expanding the Iran conflict. Kuwait intercepted hostile drones, including a friendly-fire incident with US jets. These events disrupt regional security and involve multiple nations.",
+    "link": "https://www.reuters.com/world/middle-east/israel-strikes-lebanon-following-hezbollah-attacks-widening-iran-conflict-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Hezbollah attacks",
+        "definition": "Militant operations by Hezbollah against targets, often in response to Israeli actions."
+      }
+    ]
+  },
+  {
+    "headline": "Brushing off Trump criticism, UK's Starmer defends actions over Iran",
+    "context": "UK Prime Minister Keir Starmer defended his government's response to the Iran conflict, ignoring criticism from Trump. This involves initial blocking of air bases for US operations. The stance underscores transatlantic tensions during escalation.",
+    "link": "https://www.reuters.com/world/europe/trump-very-disappointed-with-uks-starmer-initially-blocking-use-air-bases-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Transatlantic tensions",
+        "definition": "Strains in diplomatic relations between the US and UK over policy differences."
+      }
+    ]
+  },
+  {
+    "headline": "Kuwait shoots down US jets in friendly-fire incident",
+    "context": "Kuwait intercepted hostile drones for the third day amid Iran retaliatory strikes, accidentally downing US jets. This incident occurred during the expanded US-Israeli air war against Iran. It highlights risks of allied coordination in the conflict.",
+    "link": "https://www.reuters.com/world/middle-east/kuwait-intercepts-hostile-drones-third-day-iran-retaliatory-strikes-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Retaliatory strikes",
+        "definition": "Military actions taken in response to previous attacks to deter or punish the aggressor."
+      }
+    ]
+  },
+  {
+    "headline": "Khamenei's death brings Khomeini's grandson into focus",
+    "context": "The death of Iran's Supreme Leader Ayatollah Ali Khamenei shifts attention to his grandson, a potential successor in the Islamic Republic's leadership. This follows US and Israeli strikes on Iran. The transition could impact Iran's political structure.",
+    "link": "https://www.reuters.com/business/media-telecom/khameneis-death-brings-khomeinis-grandson-into-focus-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Supreme Leader",
+        "definition": "The highest-ranking political and religious authority in the Islamic Republic of Iran."
+      }
+    ]
+  },
+  {
+    "headline": "Hundreds of Iranians cross border into Turkey, witness says",
+    "context": "Hundreds of Iranians fled across the border into Turkey amid the ongoing conflict following strikes on Iran. A witness reported the crossings. This reflects civilian displacement due to the widened Iran war.",
+    "link": "https://www.reuters.com/world/middle-east/hundreds-iranians-cross-border-into-turkey-witness-says-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Civilian displacement",
+        "definition": "Forced movement of non-combatants from their homes due to conflict or persecution."
+      }
+    ]
+  },
+  {
+    "headline": "Iranian-made drone hits British air base in Cyprus",
+    "context": "A suspected Iranian-made drone struck a British air base in Cyprus, as reported by Sky News. This occurred amid the expanding Iran conflict involving US and Israeli strikes. The attack extends the war's reach to European territories.",
+    "link": "https://www.reuters.com/world/europe/british-air-base-cyprus-hit-by-suspected-drone-strike-sky-news-reports-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Drone strike",
+        "definition": "An attack using unmanned aerial vehicles equipped with explosives or missiles."
+      }
+    ]
+  },
+  {
+    "headline": "Middle East conflict puts Dubai mega-hub's market muscle to the test",
+    "context": "The Middle East conflict challenges Dubai's role as a mega-hub for markets and trade. Strikes and disruptions affect its economic strength. This tests the hub's resilience amid escalating regional tensions.",
+    "link": "https://www.reuters.com/world/europe/middle-east-conflict-puts-dubai-mega-hubs-market-muscle-test-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Mega-hub",
+        "definition": "A major center for trade, finance, and logistics connecting global markets."
+      }
+    ]
+  },
+  {
+    "headline": "Trump presses ahead with Iran war despite warnings of political risk for midterms",
+    "context": "President Trump continues the war against Iran, ignoring warnings of midterm political risks for Republicans. White House officials cite voter focus on domestic costs over foreign conflicts. This gamble follows strikes that killed Khamenei.",
+    "link": "https://www.reuters.com/world/us/trump-presses-ahead-with-iran-war-despite-warnings-political-risk-midterms-2026-03-02/",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Midterms",
+        "definition": "US congressional elections held midway through a president's term."
+      }
+    ]
+  },
+  {
+    "headline": "Iran war poses new risk to US economic resilience",
+    "context": "The Iran conflict, launched by Trump to topple the Iranian government, tests US economic resilience after prior shocks. Uncertainty rises from open-ended attacks. This could impact trade and inflation in the US economy.",
+    "link": "https://www.reuters.com/world/middle-east/iran-conflict-poses-new-risk-us-economic-resilience-2026-03-02/",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Economic resilience",
+        "definition": "The ability of an economy to withstand or recover from shocks and disruptions."
+      }
+    ]
+  },
+  {
+    "headline": "How Trump's bid to reshape House maps stalled after pushback from Democrats, courts",
+    "context": "Trump's attempt to redraw House maps ahead of midterms faced opposition from Democrats and courts. This occurred as the Iran war adds political pressure. The effort aimed to favor Republicans but stalled mid-process.",
+    "link": "https://www.reuters.com/legal/government/how-trumps-bid-reshape-house-maps-stalled-after-pushback-democrats-courts-2026-03-02/",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Redistricting",
+        "definition": "The process of drawing electoral district boundaries, often controversial due to gerrymandering."
+      }
+    ]
+  },
+  {
+    "headline": "S&P 500 flat as tech gains offset Middle East conflict fears",
+    "context": "The S&P 500 remained flat with tech stock gains balancing losses from Middle East conflict worries. Prolonged conflict could disrupt trade routes and inflate prices. This reflects market reactions to the Iran escalation.",
+    "link": "https://www.reuters.com/business/wall-street-futures-slide-middle-east-conflict-escalates-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "S&P 500",
+        "definition": "A stock market index tracking the performance of 500 large companies listed on US exchanges."
+      }
+    ]
+  },
+  {
+    "headline": "From oil spikes to equity swings: How the Mideast conflict is driving markets",
+    "context": "The Middle East conflict causes oil price spikes and equity fluctuations. Disruptions from strikes affect global markets. This drives volatility in commodities and stocks amid the Iran war.",
+    "link": "https://www.reuters.com/business/energy/global-markets-iran-crisis-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Market volatility",
+        "definition": "Rapid and significant price fluctuations in financial markets due to uncertainty."
+      }
+    ]
+  },
+  {
+    "headline": "US manufacturing grows steadily in February, input prices surge",
+    "context": "US manufacturing showed steady growth in February despite conflict impacts. Input prices increased due to Middle East tensions. This indicates economic resilience amid broader disruptions.",
+    "link": "https://www.reuters.com/business/us-manufacturing-grows-steadily-february-input-prices-surge-2026-03-02/",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Input prices",
+        "definition": "Costs of materials and services used in production, affecting inflation."
+      }
+    ]
+  },
+  {
+    "headline": "Travel stocks tumble as US-Iran conflict sparks worst disruption since pandemic",
+    "context": "Travel stocks fell over 10% for Qantas amid US-Iran conflict canceling flights. This marks the worst disruption since the pandemic. Broader airline cancellations stem from strikes on Iran.",
+    "link": "https://www.reuters.com/world/asia-pacific/australian-airline-qantas-shares-fall-more-than-10-us-iran-conflict-2026-03-01/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Travel disruption",
+        "definition": "Interruptions in transportation and tourism due to geopolitical events."
+      }
+    ]
+  },
+  {
+    "headline": "Qatar LNG, Saudi refinery, Israeli oil, gas fields down due to Mideast strikes",
+    "context": "Saudi Aramco shut its Ras Tanura refinery after a drone strike. Qatar LNG and other facilities halted operations amid Middle East strikes. This disrupts energy production in the region.",
+    "link": "https://www.reuters.com/business/energy/saudi-aramco-shuts-ras-tanura-refinery-after-drone-strike-source-says-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "LNG",
+        "definition": "Liquefied natural gas, a form of natural gas cooled for transportation."
+      }
+    ]
+  },
+  {
+    "headline": "Iran conflict disrupts global shipping as tankers are stranded, damaged",
+    "context": "The Iran conflict strands and damages tankers, disrupting global shipping. Strikes widen the impact on trade routes. This affects energy transport and supply chains worldwide.",
+    "link": "https://www.reuters.com/business/energy/iran-conflict-disrupts-global-shipping-tankers-are-stranded-damaged-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Global shipping",
+        "definition": "The international transportation of goods by sea, vital for world trade."
+      }
+    ]
+  },
+  {
+    "headline": "Amazon's AWS reports outage after UAE data center struck by 'objects'",
+    "context": "Amazon Web Services experienced outages at data centers in UAE and Bahrain due to strikes amid Iran conflict. 'Objects' hit the facilities. This disrupts cloud services in the region.",
+    "link": "https://www.reuters.com/world/middle-east/amazon-cloud-unit-flags-issues-bahrain-uae-data-centers-amid-iran-strikes-2026-03-02/",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "AWS",
+        "definition": "Amazon Web Services, a cloud computing platform providing on-demand services."
+      }
+    ]
+  },
+  {
+    "headline": "Exclusive: ASML plots future of chipmaking tools for AI beyond EUV",
+    "context": "ASML plans advancements in chipmaking tools for AI, moving beyond EUV technology. This occurs amid global tech tensions from the Iran conflict. The development aims to boost AI capabilities.",
+    "link": "https://www.reuters.com/world/asia-pacific/asml-plots-future-chipmaking-tools-ai-beyond-euv-2026-03-02/",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "EUV",
+        "definition": "Extreme ultraviolet lithography, a technology for producing advanced semiconductor chips."
+      },
+      {
+        "term": "Chipmaking",
+        "definition": "The process of manufacturing semiconductor integrated circuits."
+      }
+    ]
+  },
+  {
+    "headline": "Toyota bumps offer for supplier to $30 billion, in a victory for activist fund Elliott",
+    "context": "Toyota increased its offer to $30 billion for supplier Group Firm TICO, extending deadlines. This favors activist fund Elliott. The deal advances amid corporate shifts in the auto sector.",
+    "link": "https://www.reuters.com/world/asia-pacific/toyota-plans-hike-offer-price-group-firm-tico-extend-deadline-again-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Activist fund",
+        "definition": "An investment fund that seeks to influence company management for better performance."
+      }
+    ]
+  },
+  {
+    "headline": "Tesla regains some market share around Europe in February, a sign of stabilising sales",
+    "context": "Tesla recovered market share in France and Norway in February. This indicates stabilizing sales in Europe. The gains occur despite broader market disruptions from the Middle East conflict.",
+    "link": "https://www.reuters.com/business/autos-transportation/tesla-gains-market-france-norway-february-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Market share",
+        "definition": "The portion of a market controlled by a particular company or product."
+      }
+    ]
+  },
+  {
+    "headline": "BlackRock, EQT-led group seals $33.4 billion AES deal in bet on AI power boom",
+    "context": "BlackRock and EQT-led consortium acquired AES Corp for $33.4 billion. The deal bets on AI-driven power demand. This reflects investment trends in energy for tech growth.",
+    "link": "https://www.reuters.com/legal/transactional/blackrocks-gip-eqt-buy-aes-corp-334-billion-deal-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Consortium",
+        "definition": "An association of companies for the purpose of engaging in a joint venture."
+      }
+    ]
+  },
+  {
+    "headline": "Trump's SEC gave companies more power over investors. Lawsuits pushed them back",
+    "context": "Trump's SEC policies empowered companies over investors, but lawsuits reversed this. The changes faced legal challenges. This impacts corporate governance and investor rights.",
+    "link": "https://www.reuters.com/legal/government/trumps-sec-gave-companies-more-power-over-investors-lawsuits-pushed-them-back-2026-03-02/",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "SEC",
+        "definition": "Securities and Exchange Commission, US agency regulating securities markets."
+      }
+    ]
+  },
+  {
+    "headline": "German Chancellor Merz heads to Washington in shadow of war in Iran",
+    "context": "German Chancellor Merz travels to Washington amid the Iran war. The visit occurs under the conflict's shadow. This highlights NATO and transatlantic discussions on the escalation.",
+    "link": "https://www.reuters.com/world/german-chancellor-merz-heads-washington-shadow-war-iran-2026-03-02/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "NATO",
+        "definition": "North Atlantic Treaty Organization, a military alliance of North American and European countries."
+      }
+    ]
+  },
+  {
+    "headline": "FBI probes possible terror link to Texas shooting that left three dead, 14 injured",
+    "context": "The FBI investigates a potential terror connection in a Texas shooting that killed three and injured 14 outside a bar in Austin. The incident adds to US domestic security concerns.",
+    "link": "https://www.reuters.com/world/us/three-dead-14-injured-after-shooting-austin-texas-2026-03-01/",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Terror link",
+        "definition": "Connection to terrorist organizations or ideologies in criminal investigations."
+      }
+    ]
+  },
+  {
+    "headline": "US Supreme Court wrestles with gun ownership ban for illegal drug users",
+    "context": "The US Supreme Court examines a ban on gun ownership for individuals using illegal drugs. The case involves NRA arguments. This debates Second Amendment rights and public safety.",
+    "link": "https://www.reuters.com/legal/government/us-supreme-court-scrutinizes-gun-ownership-ban-illegal-drug-users-2026-03-02/",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Second Amendment",
+        "definition": "US Constitutional right to keep and bear arms."
+      }
+    ]
+  },
+  {
+    "headline": "China's annual parliament meet to unveil roadmap for tech race with the West",
+    "context": "China's parliament session reveals plans for tech competition with the West. This includes AI and innovation strategies. The roadmap aims to close gaps amid global rivalries.",
+    "link": "https://www.reuters.com/business/autos-transportation/chinas-annual-parliament-meet-unveil-roadmap-tech-race-with-west-2026-03-02/",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Tech race",
+        "definition": "Competition between nations to advance in technology and innovation."
+      }
+    ]
+  },
+  {
+    "headline": "US Supreme Court declines to hear dispute over copyrights for AI-generated material",
+    "context": "The US Supreme Court refused to hear a case on copyrights for AI-generated content. This leaves lower court rulings in place. The decision affects intellectual property in tech.",
+    "link": "https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Copyrights",
+        "definition": "Legal rights protecting original works from unauthorized use."
+      }
+    ]
+  },
+  {
+    "headline": "War spirals further as US and Israel exchange strikes with Iran and its allies",
+    "context": "The war in the Middle East escalated as Israel and the U.S. conducted strikes on Iran, with Tehran and its allies retaliating against Israel, Gulf states, and oil infrastructure. This exchange has disrupted global energy supplies and heightened regional tensions. The conflict stems from ongoing U.S.-Israeli actions against Iranian proxies like Hezbollah.",
+    "link": "https://apnews.com/live/iran-us-israel-hezbollah-strikes-03-02-2026",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Proxies",
+        "definition": "Groups or entities acting on behalf of another country in conflicts."
+      }
+    ]
+  },
+  {
+    "headline": "War widens as Israel and US pound Iran and Tehran and its allies hit back",
+    "context": "Israel and the U.S. intensified strikes on Iran, targeting its capital and facilities, while Iran and allies launched counterattacks. The escalation threatens key energy routes like the Strait of Hormuz. Background includes recent U.S.-Israeli operations against Iranian forces.",
+    "link": "https://apnews.com/article/iran-israel-us-03-02-2026-cb42936de1d8c261be8f30f11c6665fa",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Strait of Hormuz",
+        "definition": "A vital waterway for global oil transport between the Persian Gulf and the Gulf of Oman."
+      }
+    ]
+  },
+  {
+    "headline": "Venezuela’s opposition leader Machado says she will return to the country in the coming weeks",
+    "context": "Opposition leader María Machado announced her return to Venezuela amid political tensions and upcoming elections. This move follows her exile due to government crackdowns. It matters for opposition efforts to challenge the ruling party.",
+    "link": "https://apnews.com/article/venezuela-machado-elections-f7e848935b140636e7cd405b09368e0e",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Political exile",
+        "definition": "Forced absence from one's country due to political persecution."
+      }
+    ]
+  },
+  {
+    "headline": "9 people are wounded in a Cincinnati nightclub shooting",
+    "context": "A shooting at a Cincinnati nightclub injured nine individuals, with police investigating the incident. The event highlights ongoing gun violence in public venues. Background includes recent urban nightlife safety concerns.",
+    "link": "https://apnews.com/article/cincinnati-nightclub-shooting-290f116dab33a2c8a4426883cd3ca5cb",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Gun violence",
+        "definition": "Acts of violence involving firearms, a major public health issue in the US."
+      }
+    ]
+  },
+  {
+    "headline": "People line up for ice cream treats every March 1 at this Minnesota Dairy Queen. Why? It's tradition",
+    "context": "Annual tradition draws crowds to a Minnesota Dairy Queen on March 1 for free ice cream samples. The event fosters community bonding. It originated from local marketing in past decades.",
+    "link": "https://apnews.com/article/moorhead-minnesota-dairy-queen-ice-cream-4ad5d647297d8eb4becce48d0f579a1a",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Rev. Jesse Jackson returns home to South Carolina to lie in state",
+    "context": "Civil rights leader Rev. Jesse Jackson's body lies in state in South Carolina for public tribute. This honors his legacy in activism. Background includes his role in U.S. civil rights movements since the 1960s.",
+    "link": "https://apnews.com/article/jesse-jackson-lie-state-south-carolina-5e8200205d0b30ae55f7583984ae46c1",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Civil rights",
+        "definition": "Rights ensuring equal treatment and freedom from discrimination."
+      }
+    ]
+  },
+  {
+    "headline": "3 US troops killed and 5 are seriously wounded during Iran attacks, military says",
+    "context": "U.S. military reports three troops killed and five wounded in Iranian retaliatory strikes. The casualties underscore risks of U.S. involvement. This follows U.S.-Israeli airstrikes on Iran.",
+    "link": "https://apnews.com/article/iran-trump-us-military-troops-casualties-793c3ea29a399c9a405e70b14c548595",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Airstrikes",
+        "definition": "Military attacks using aircraft to bomb targets on the ground."
+      }
+    ]
+  },
+  {
+    "headline": "US intel did not suggest a preemptive strike from Iran before US-Israeli attacks, AP sources say",
+    "context": "U.S. intelligence found no evidence of Iranian preemptive action prior to U.S.-Israeli strikes. This clarifies decision-making for the attacks. Background involves diplomatic talks with Iran.",
+    "link": "https://apnews.com/article/iran-trump-diplomacy-airstrikes-cia-khamenei-talks-d605cf78898ab93fa992b32d0c47da2a",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Preemptive strike",
+        "definition": "An attack launched to prevent an anticipated enemy assault."
+      }
+    ]
+  },
+  {
+    "headline": "Trump goes to war despite professed aversion to foreign entanglements, particularly in the Mideast",
+    "context": "President Trump authorized military action in Iran against his 'America First' policy. The move expands U.S. role in Middle East conflicts. It contrasts his prior isolationist stance.",
+    "link": "https://apnews.com/article/trump-iran-war-mideast-america-first-23737d6fee8ae5aaf5a06627fd85a076",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "America First",
+        "definition": "A foreign policy focusing on US interests over international commitments."
+      }
+    ]
+  },
+  {
+    "headline": "Colorado quarterback Dominiq Ponder dies in a single-car crash at age 23, police say",
+    "context": "University of Colorado quarterback Dominiq Ponder died in a car accident at age 23. The incident impacts college sports community. Background includes his rising career in football.",
+    "link": "https://apnews.com/article/colorado-quarterback-dominiq-ponder-dead-d95dc40f719e480f75442be153b39583",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "USC 2nd-leading scorer Chad Baker-Mazara abruptly out of the program with no explanation",
+    "context": "USC basketball player Chad Baker-Mazara left the team without stated reasons. This disrupts the team's lineup. Background involves his contributions to the Trojans' scoring.",
+    "link": "https://apnews.com/article/baker-mazara-usc-3059d963f8ec9a28beb201c29c9cb166",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "President of Iran’s soccer federation says World Cup participation in US is in doubt",
+    "context": "Iran's soccer chief expresses doubts over team's U.S. World Cup participation due to conflicts. This affects international sports diplomacy. Background includes geopolitical tensions impacting events.",
+    "link": "https://apnews.com/article/iran-world-cup-participation-united-states-d21fd7543f416458984e82bdf9a70415",
+    "category": "sports",
+    "key_terms": [
+      {
+        "term": "World Cup",
+        "definition": "The FIFA World Cup, the international soccer tournament held every four years."
+      }
+    ]
+  },
+  {
+    "headline": "Oil prices rise sharply after attacks in Middle East disrupt global energy supply",
+    "context": "Middle East strikes cause oil price surges by disrupting supply chains. This impacts global economies. Background includes vulnerabilities in Strait of Hormuz.",
+    "link": "https://apnews.com/article/iran-us-israel-war-oil-prices-energy-strait-of-hormuz-21e634acba4c35801d28dfdbcc53824a",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Oil prices",
+        "definition": "The cost of crude oil, influenced by supply, demand, and geopolitical events."
+      }
+    ]
+  },
+  {
+    "headline": "Oil prices soar and defense stocks gain as US-Israel war with Iran rattles markets",
+    "context": "Iran conflict drives oil prices up and boosts defense stocks. Markets react to supply risks. Background features U.S.-Israeli military actions.",
+    "link": "https://apnews.com/article/stocks-markets-oil-gold-iran-trump-25fd9bfa1b20549a6cbbdee61b2ea05f",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Defense stocks",
+        "definition": "Shares in companies producing military equipment and services."
+      }
+    ]
+  },
+  {
+    "headline": "Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts",
+    "context": "Trump links Fed appointee and AI to economic growth like the 1990s. Experts question feasibility. Background involves inflation and productivity concerns.",
+    "link": "https://apnews.com/article/trump-warsh-federal-reserve-productivity-inflation-economy-fdd43a1dd672021b2c9706432620da9f",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Federal Reserve",
+        "definition": "The central banking system of the United States, managing monetary policy."
+      }
+    ]
+  },
+  {
+    "headline": "If you're struggling to lose weight, could chilling your carbs help?",
+    "context": "Chilling carbohydrates before eating may aid weight loss by reducing calorie intake. Experts suggest testing the method. Background links to digestion and satiety research.",
+    "link": "https://apnews.com/article/carbs-chilling-losing-weight-0ce52cda1e2e5882b6154427e0e2b186",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Satiety",
+        "definition": "The feeling of fullness after eating, influencing food intake."
+      }
+    ]
+  },
+  {
+    "headline": "Some people tape their mouths shut at night. Doctors wish they wouldn't",
+    "context": "Mouth-taping for sleep is popular but risky, per doctors. It aims to promote nasal breathing. Background includes debates on sleep apnea alternatives.",
+    "link": "https://apnews.com/article/mouth-nose-breathing-wellness-apnea-3e72f43bac0ab9f20c8f174347dca9fb",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Sleep apnea",
+        "definition": "A disorder where breathing repeatedly stops and starts during sleep."
+      }
+    ]
+  },
+  {
+    "headline": "Colorectal cancer is rising in younger adults. Here's who is most at risk and symptoms to watch for",
+    "context": "Colorectal cancer cases increase among young adults due to diet and lifestyle. Risk factors include obesity. Symptoms involve abdominal pain and bleeding.",
+    "link": "https://apnews.com/article/colon-cancer-young-adults-boseman-van-der-beek-7200285f2060145b8369de9ed8db9c17",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Colorectal cancer",
+        "definition": "Cancer of the colon or rectum, often linked to diet and genetics."
+      }
+    ]
+  },
+  {
+    "headline": "With only 3 women left, an Amazon tribe faced extinction. An unexpected birth now brings hope",
+    "context": "Brazil's Akuntsu tribe, down to three women, welcomed a new birth amid deforestation threats. This boosts survival chances. Background includes indigenous land protections.",
+    "link": "https://apnews.com/article/brazil-amazon-akuntsu-indigenous-deforestation-rondonia-2833ceada04a9922935e4869ce66317a",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Deforestation",
+        "definition": "The removal of forests for non-forest use, threatening biodiversity."
+      }
+    ]
+  },
+  {
+    "headline": "Shrinking North American bird population is getting worse faster. Experts blame agriculture, warming",
+    "context": "Bird losses in North America accelerate due to farming and climate change. Experts call for habitat restoration. Background tracks long-term population declines.",
+    "link": "https://apnews.com/article/birds-losses-faster-climate-change-agriculture-8cf053bda9dad4fe2dd5a1c7048b6d39",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Climate change",
+        "definition": "Long-term alteration in temperature and weather patterns due to human activities."
+      }
+    ]
+  },
+  {
+    "headline": "Young woman says she was on social media 'all day long' as a child in landmark addiction trial",
+    "context": "A plaintiff testified to constant childhood social media use in a Meta trial. The case alleges addiction impacts. Background involves lawsuits against tech firms.",
+    "link": "https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-2afb4809d2dbbb0d1e69739c7f2b20b3",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Social media addiction",
+        "definition": "Compulsive use of social platforms leading to negative effects on daily life."
+      }
+    ]
+  },
+  {
+    "headline": "Callers to Washington state hotline press 2 for Spanish and get accented AI English instead",
+    "context": "Washington hotline's AI misdelivers Spanish requests in English with accents. This highlights tech errors. Background includes automated systems in public services.",
+    "link": "https://apnews.com/article/washington-dol-spanish-accent-ai-3a1b8438a5674c07242a8d48c057d5a3",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "AI",
+        "definition": "Artificial intelligence, systems that perform tasks requiring human intelligence."
+      }
+    ]
+  },
+  {
+    "headline": "Hegseth warns Anthropic to let the military use the company’s AI tech as it sees fit, AP sources say",
+    "context": "U.S. Defense Secretary Hegseth demands military access to Anthropic's AI. This raises oversight issues. Background involves Pentagon tech integrations.",
+    "link": "https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Pentagon",
+        "definition": "The headquarters of the US Department of Defense."
+      }
+    ]
+  },
+  {
+    "headline": "Vatican removes salty white film coating Michelangelo's 'The Last Judgment'",
+    "context": "Vatican cleaned a salty film from Michelangelo's fresco in the Sistine Chapel. Restoration reveals original details. Background includes centuries of environmental damage.",
+    "link": "https://apnews.com/article/vatican-sistine-chapel-michelangelo-last-judgment-2696d0d52e9a93e48e2e1c873b6e9df8",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Fresco",
+        "definition": "A painting technique on wet plaster, used in Renaissance art."
+      }
+    ]
+  },
+  {
+    "headline": "Teeth, finger bones and blessings: Buddhist relics inspire belief",
+    "context": "Buddhist relics like teeth and bones draw devotees for blessings. This sustains cultural practices. Background roots in ancient Buddhist traditions.",
+    "link": "https://apnews.com/article/buddhism-relics-buddha-tooth-shariras-1f2f8dca3b4431a77c3e19e653d94896",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Relics",
+        "definition": "Physical remains or objects associated with religious figures, venerated in faiths."
+      }
+    ]
+  },
+  {
+    "headline": "Michelangelo's 'The Last Judgment' fresco undergoes 3-month cleaning at Sistine Chapel",
+    "context": "The Sistine Chapel's fresco was cleaned over three months to remove accumulated dirt. The process preserves the artwork's integrity. Background involves historical conservation efforts.",
+    "link": "https://apnews.com/article/vatican-sistine-chapel-michelangelo-last-judgment-restoration-2026-03-02",
+    "category": "science",
+    "key_terms": []
+  },
+  {
+    "headline": "Omid Djalili says women in Iran calling for 'rescue mission'",
+    "context": "Ipswich actor and comedian Omid Djalili says the 'mothers of Iran' are now asking for outside help. This follows the death of Khamenei and ongoing strikes. The call highlights humanitarian concerns in the conflict.",
+    "link": "https://www.bbc.com/news/articles/cp85ej8l6gvo",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "West Cumbrian museum building bought by miner's son to reopen",
+    "context": "A historic museum on the site of a former coalmine is set to reopen later this year after being bought by a miner's son. Haig Colliery Mining Museum in Kells will preserve mining heritage. This revives local cultural site.",
+    "link": "https://www.bbc.com/news/articles/cev7zemj0j2o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Pair jailed over Wolverhampton drive-by bar shooting",
+    "context": "Two men who left three women seriously injured in a drive-by shooting outside a bar have been jailed. The shots were fired from a black Seat Ibiza. This addresses gun crime in the UK.",
+    "link": "https://www.bbc.com/news/articles/c89kqx4385wo",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Man developed software to track wife, jury told",
+    "context": "A man accused of driving his wife to suicide developed software to track her, a police safeguarding officer has told a jury. The case involves domestic abuse allegations. This highlights technology misuse in relationships.",
+    "link": "https://www.bbc.com/news/articles/cd70zneyjpwo",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Domestic abuse",
+        "definition": "Pattern of behavior used to gain power and control over an intimate partner."
+      }
+    ]
+  },
+  {
+    "headline": "Iran's regime is still intact - the coming days will show if it can hold out",
+    "context": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue. The death of Khamenei leaves a power vacuum. This tests the regime's durability.",
+    "link": "https://www.bbc.com/news/articles/cx2lgvg5rl1o",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Power vacuum",
+        "definition": "A situation where no entity has clear authority, leading to instability."
+      }
+    ]
+  },
+  {
+    "headline": "Complaints over plan for 40 homes on farmland",
+    "context": "Plans for 40 new homes on farmland on the edge of a town centre have provoked complaints from residents over fears of traffic 'chaos' and the loss of green space. The development raises urban expansion issues. This reflects housing vs environment debates.",
+    "link": "https://www.bbc.com/news/articles/c8eg9yp1g66o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Starmer seeks to carve out distinct UK approach to this conflict",
+    "context": "Almost a quarter of a century on, Sir Keir Starmer KC faces his own dilemma about how to approach American military action in the Middle East. The speech outlines UK's position. This distinguishes UK policy from US.",
+    "link": "https://www.bbc.com/news/articles/c0rj4nvw07do",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Homes at 'high risk' from contaminated soil near Lancashire plant",
+    "context": "An ongoing investigation into so-called 'forever chemicals' in soil has identified seven homes near a former industrial site in Lancashire as being high risk. The contamination poses health risks. This calls for environmental cleanup.",
+    "link": "https://www.bbc.com/news/articles/c70k140e8wlo",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Forever chemicals",
+        "definition": "Persistent organic pollutants that do not break down in the environment."
+      }
+    ]
+  },
+  {
+    "headline": "Young trees planted to expand Dartmoor's temperate rainforest",
+    "context": "Volunteers have planted 800 young trees in a bid to expand one of the South West's last remaining temperate rainforests. The saplings have been planted at Dartmoor. This supports biodiversity conservation.",
+    "link": "https://www.bbc.com/news/articles/cn4gwel9l7jo",
+    "category": "science",
+    "key_terms": [
+      {
+        "term": "Temperate rainforest",
+        "definition": "A biome with high rainfall and mild temperatures, supporting diverse ecosystems."
+      }
+    ]
+  },
+  {
+    "headline": "Scottish Parliament election 2026: The key issues in six charts",
+    "context": "A poll carried out for the BBC examines the issues which will influence how people plan to vote on 7 May. The charts highlight voter priorities. This informs electoral strategies.",
+    "link": "https://www.bbc.com/news/articles/cn71e236y6do",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "'We're stranded in Dubai after Iran strikes'",
+    "context": "Flights in and out of airports in Tel Aviv, Dubai, Doha and other international hubs in the region, are among those to have been suspended. Travelers are stranded. This disrupts international travel.",
+    "link": "https://www.bbc.com/news/articles/cpd8yvwdz5eo",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Manchester Airport grounds Middle East and India flights",
+    "context": "Flights from Manchester Airport to parts of the Middle East, India have been grounded due to the ongoing conflict in the region. Safety concerns lead to cancellations. This affects passengers and airlines.",
+    "link": "https://www.bbc.com/news/articles/c620n380w34o",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Reading man recalls 'terrifying' Dubai missile ordeal",
+    "context": "A businessman says he was lucky to escape injury after a 'terrifying' experience when a missile was shot down, exploding in a fireball outside his hotel in Dubai. The incident is part of Iran strikes. This shows civilian risks in the conflict.",
+    "link": "https://www.bbc.com/news/articles/cze0jp35pkro",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Oil and gas prices jump as conflict escalates",
+    "context": "Oil and gas prices have surged as Iran continues to launch strikes across the Middle East in response to ongoing attacks by the US and Israel. The escalation disrupts supplies. This affects global energy markets.",
+    "link": "https://www.bbc.com/news/articles/c75evve6l63o",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Two in hospital and flats sealed off after Edinburgh knife incident",
+    "context": "Two people have been taken to hospital following an incident in Edinburgh involving a man who was seen with a knife. Police firearms officers responded. This incident prompts safety concerns.",
+    "link": "https://www.bbc.com/news/articles/cn0ek3e6zk3o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Cornwall service marks fourth anniversary of Ukraine war",
+    "context": "An event has been held to mark the fourth anniversary of the war in Ukraine and thank the people of Cornwall for helping people who have fled the conflict. The service promotes solidarity. This reflects ongoing support for Ukraine.",
+    "link": "https://www.bbc.com/news/articles/c78jvd7222ro",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Telford seeks to become UK Town of Culture in 60th year",
+    "context": "Telford is bidding to be the first UK Town of Culture as part of the New Town's six-decade party. The bid celebrates local culture. This aims to boost community pride.",
+    "link": "https://www.bbc.com/news/articles/c78xv68qp07o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Woman injured in house fire on Anchor Street in Todmorden",
+    "context": "A woman has been injured in an overnight house fire in Todmorden. Crews were called to an end-of-terrace house on Anchor Street. This incident highlights fire safety issues.",
+    "link": "https://www.bbc.com/news/articles/cde4xy7wjp6o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Prostate cancer events as part of awareness tour",
+    "context": "NHS staff are going on tour to raise awareness of prostate cancer. The Humber and North Yorkshire Cancer Alliance is holding community events. This promotes early detection.",
+    "link": "https://www.bbc.com/news/articles/c2lrgn81890o",
+    "category": "science",
+    "key_terms": []
+  },
+  {
+    "headline": "Lee scores in final minute, Schaefer has 2 more goals as the Islanders beat the Panthers 5-4",
+    "context": "Anders Lee scored the go-ahead goal in the final minute, rookie Matthew Schaefer had two more goals and an assist and the New York Islanders edged the Florida Panthers 5-4. The Islanders won their fifth straight game. This boosts their standings.",
+    "link": "https://www.espn.com/nhl/recap?gameId=401803299",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Luka and LeBron lead Lakers past Kings 128-104 to complete back-to-back weekend wins",
+    "context": "Luka Doncic had 28 points and nine assists, LeBron James added 24 points and the Los Angeles Lakers finished a back-to-back set with a 128-104 victory over the Sacramento Kings. The Lakers improve their record. This shows team strength.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810733",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Anthony Edwards and T-Wolves move into 4th in the West with a 117-108 win over the Nuggets",
+    "context": "Anthony Edwards scored 21 points, Bones Hyland had 15 of his 18 points in the first half against his former team, and the Minnesota Timberwolves moved a game ahead of Denver in the Western Conference with a 117-108 win over the Nuggets. The win extends their streak. This positions them better for playoffs.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810726",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Knicks snap the Spurs' 11-game winning streak with a 114-89 victory",
+    "context": "Mikal Bridges had 25 points, Jalen Brunson scored 24 and the New York Knicks snapped the San Antonio Spurs' 11-game winning streak with a 114-89 victory. The Knicks dominate the game. This ends the Spurs' run.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810723",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Cunningham, Harris help NBA-leading Pistons beat Magic for 6th straight road victory",
+    "context": "Cade Cunningham had 29 points and 11 assists, Tobias Harris scored 23 points and the NBA-leading Detroit Pistons beat the Orlando Magic 106-92 for their sixth straight road victory. The Pistons improve to 45-14. This solidifies their lead.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810730",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Grizzlies beat Pacers 125-106 to sweep season series",
+    "context": "Taylor Hendricks scored 19 points, Jaylen Wells had 18 and the Memphis Grizzlies beat the Indiana Pacers 125-106. The win completes the sweep. This boosts Memphis' record.",
+    "link": "https://apnews.com/article/grizzlies-pacers-score-912add256515911e81133ec009245351",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Clippers beat the Pelicans 137-117 to end a 3-game losing streak",
+    "context": "Kawhi Leonard scored 23 points and the Los Angeles Clippers beat the New Orleans Pelicans 137-117 to end a three-game losing streak. The Clippers rebound strongly. This improves their standing.",
+    "link": "https://apnews.com/article/pelicans-clippers-score-c351b4db8f3c4459778e8e18a0c44320",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Gilgeous-Alexander scores 30 points to lead the Thunder past the Mavericks, 100-87",
+    "context": "Shai Gilgeous-Alexander scored 30 points, Chet Holmgren had 19 points and nine rebounds and the Oklahoma City Thunder beat the Dallas Mavericks 100-87. The Thunder win comfortably. This extends their success.",
+    "link": "https://apnews.com/article/thunder-mavericks-score-985f83ebcd02c91af8b2cc9a9067d315",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Misa scores in overtime as the Sharks beat the Jets 2-1",
+    "context": "Michael Misa scored 1:40 into overtime, and the San Jose Sharks topped the Winnipeg Jets 2-1 for their second straight win. The Sharks secure victory. This builds momentum.",
+    "link": "https://apnews.com/article/jets-sharks-score-e828fc19ca83ccb39f46ece1499c1329",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Kohler, Fears each score 21 to help 13 Michigan St. top Indiana 77-64",
+    "context": "Jaxon Kohler scored a season-high 21 points and Jeremy Fears Jr. added 21 points and nine assists to lead No. 13 Michigan State past Indiana 77-64. Michigan State wins. This strengthens their rank.",
+    "link": "https://apnews.com/article/spartans-hoosiers-score-cfbe81b2465039de8e9f2a7a1cedce0a",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "No. 21 North Carolina takes rivalry rematch with No. 12 Duke",
+    "context": "Elina Aarnisalo scored a career-high 22 points while Nyla Harris had 10 of her 19 points in the fourth quarter to help No. 21 North Carolina beat No. 12 Duke 74-69. North Carolina wins the rematch. This affects conference standings.",
+    "link": "https://apnews.com/article/duke-unc-score-1e47e9c531c2ab103a7cfb642720bbdc",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Trio of former South Carolina women's basketball players in Israel during air strikes on Iran",
+    "context": "South Carolina coach Dawn Staley said the school is working to help former players return from Israel where they play professionally. The players are affected by the conflict. This shows sports impacted by geopolitics.",
+    "link": "https://apnews.com/article/wnba-players-israel-a99aa7fdcf4c02281f66f2025a23725a",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Kate Ebrahim named Zimbabwe Women's interim head coach for NZ tour",
+    "context": "ZC named a new, interim support staff to replace the group led by Walter Chawaguta. The change aims to improve performance. This prepares for the tour.",
+    "link": "https://www.espncricinfo.com/story/kate-ebrahim-named-zimbabwe-women-s-interim-head-coach-for-nz-tour-2026-03-02",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Zimbabwe set to make Women's Championship debut during NZ tour",
+    "context": "The tour kicks off their quest to qualify for the Women's ODI World Cup for the first time in their history. This marks a milestone for the team. The debut is significant for women's cricket.",
+    "link": "https://www.espncricinfo.com/story/zimbabwe-set-to-make-women-s-championship-debut-during-nz-tour-2026-03-02",
+    "category": "sports",
+    "key_terms": [
+      {
+        "term": "Women's Championship",
+        "definition": "ICC tournament for women's ODI teams to qualify for the World Cup."
+      }
+    ]
+  },
+  {
+    "headline": "ICC women's tournaments from 2025 to have separate sponsors from men's events",
+    "context": "It's a shift from advertisers saying we are subsidising women's cricket to saying we are genuinely investing in it, says ICC's chief commercial officer. This promotes gender equity in sponsorship. The change boosts women's cricket visibility.",
+    "link": "https://www.espncricinfo.com/story/icc-women-s-tournaments-from-2025-to-have-separate-sponsors-from-men-s-events-2026-03-02",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "WPL, Hundred, WBBL given separate windows in new women's FTP",
+    "context": "The ICC Women's Championship has expanded to 11 teams with Zimbabwe's inclusion, and a new T20 Champions Trophy has been introduced. The windows allow for better planning. This enhances women's cricket structure.",
+    "link": "https://www.espncricinfo.com/story/wpl-hundred-wbbl-given-separate-windows-in-new-women-s-ftp-2026-03-02",
+    "category": "sports",
+    "key_terms": [
+      {
+        "term": "FTP",
+        "definition": "Future Tours Programme, ICC's schedule for international cricket series."
+      }
+    ]
+  },
+  {
+    "headline": "Suzie Bates ruled out for three months with quadricep injury",
+    "context": "She will miss New Zealand's upcoming home series against Zimbabwe in February-March 2026. The injury affects team composition. This is a blow to New Zealand.",
+    "link": "https://www.espncricinfo.com/story/suzie-bates-ruled-out-for-three-months-with-quadricep-injury-2026-03-02",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Are batters finding a new way to attack Varun Chakravarthy?",
+    "context": "Analysis of Chakravarthy's bowling in recent matches. Batters adapt strategies. This discusses cricket tactics.",
+    "link": "https://www.espncricinfo.com/story/are-batters-finding-a-new-way-to-attack-varun-chakravarthy-2026-03-02",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "कुंबले: रज़ा ने वही किया जो हमेशा से करते आ रहे हैं, बेनेट सबसे बड़े पॉज़िटिव",
+    "context": "Discussion on Raza's performance and Bennett's potential. This reviews match highlights. The analysis is in Hindi.",
+    "link": "https://www.espncricinfo.com/story/kumble-raza-ne-vahi-kiya-jo-hamesha-se-karte-aa-rahe-hain-bennett-sabse-bade-positive-2026-03-01",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "मुमताज़: पाकिस्तान को बिना बाबर आज़म और सलमान आग़ा से आगे सोचना होगा",
+    "context": "Opinion on Pakistan's cricket strategy without key players. This suggests team planning. The comment is in Hindi.",
+    "link": "https://www.espncricinfo.com/story/mumtaz-pakistan-ko-bina-babar-azam-aur-salman-agha-se-aage-sochna-hoga-2026-03-01",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "कुंबले: SA ने Ind का रास्ता आसान बनाते हुए ख़ुद को और मज़बूत कर लिया",
+    "context": "Kumble on South Africa's performance aiding India. This discusses tournament dynamics. In Hindi.",
+    "link": "https://www.espncricinfo.com/story/kumble-sa-ne-ind-ka-rasta-aasan-banate-hue-khud-ko-aur-mazboot-kar-liya-2026-02-26",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "कुंबले: न्यूज़ीलैंड है जीत की बड़ी दावेदार यानी पाकिस्तान का बाहर होना लगभग तय",
+    "context": "Kumble on New Zealand's chances and Pakistan's elimination. This predicts tournament outcomes. In Hindi.",
+    "link": "https://www.espncricinfo.com/story/kumble-new-zealand-hai-jeet-ki-badi-davedar-yani-pakistan-ka-bahar-hona-lagbhag-tay-2026-02-26",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "ऐरन: सैंटनर-मकौंची की वर्ल्ड रिकॉर्ड साझेदारी से नहीं श्रीलंका को इस फ़ैसले ने हराया",
+    "context": "Aaron on the record partnership and Sri Lanka's defeat. This analyzes the match. In Hindi.",
+    "link": "https://www.espncricinfo.com/story/aaron-santner-maconchie-ki-world-record-sajhedari-se-nahi-sri-lanka-ko-is-faisle-ne-haraya-2026-02-25",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "हेनरी-सैंटनर का धमाकेदार प्रदर्शन, जीत के बावजूद स्टार बल्लेबाज़ को मिले सबसे कम अंक",
+    "context": "Henry and Santner's performance review. This rates players. In Hindi.",
+    "link": "https://www.espncricinfo.com/story/henry-santner-ka-dhamakedar-pradarshan-jeet-ke-bavajud-star-ballebaz-ko-mile-sabse-kam-ank-2026-02-25",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "For running away from dope test, AIU bans Indian runner Pooja Aatmaram for 3 years",
+    "context": "The Athletics Integrity Unit banned Indian runner for evading doping test. The ban is for 3 years. This enforces anti-doping rules.",
+    "link": "https://www.thehindu.com/sport/athletics/for-running-away-from-dope-test-aiu-bans-indian-runner-pooja-aatmaram-for-3-years/article70670029.ece",
+    "category": "sports",
+    "key_terms": [
+      {
+        "term": "Dope test",
+        "definition": "Testing for prohibited substances in athletes to ensure fair competition."
+      }
+    ]
+  },
+  {
+    "headline": "Sarai Kale Khan-Modipuram Namo Bharat train starts today: Check fare, stops, timings, parking spaces",
+    "context": "The new train service starts, connecting areas. Details on fare and timings provided. This improves transportation.",
+    "link": "https://indianexpress.com/article/cities/delhi/sarai-kale-khan-modipuram-namo-bharat-train-starts-today-check-fare-stops-timings-parking-spaces-10546203/",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Bangladesh Election 2026: BNP, Jamaat and NCP promise bullet trains, rail project in post-Awami League era",
+    "context": "Manifestos propose high-speed rail. This aims to modernize infrastructure. The promises are part of election campaigns.",
+    "link": "https://indianexpress.com/article/world/bangladesh-election-2026-manifestos-bnp-jamaat-ncp-bullet-train-rail-projects-10520908/",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "Bullet trains",
+        "definition": "High-speed rail systems capable of speeds over 200 km/h."
+      }
+    ]
+  },
+  {
+    "headline": "Over 17.6 lakh students appearing for Tamil Nadu Board exams; Plus Two tests begin today",
+    "context": "Board exams start for high school students. The tests are crucial for education. This marks the academic season.",
+    "link": "https://indianexpress.com/article/education/tndge-tamil-nadu-board-exams-2026-plus-two-sslc-timetable-exam-date-hall-tickets-10560869/",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Haryana Assembly | Saini slams IYC’s ‘shirtless protest’; state highlights AI hubs, farmer relief, infra push",
+    "context": "Chief Minister criticizes protest. The state focuses on development. This addresses political and economic issues.",
+    "link": "https://indianexpress.com/article/cities/chandigarh/haryana-assembly-saini-slams-iycs-shirtless-protest-state-highlights-ai-hubs-farmer-relief-infra-push-10554829/",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Ward delimitation: Telangana HC pulls up state over 5-month delay in filing affidavits, gives 3-week ultimatum",
+    "context": "Court reprimands government for delay. The case involves electoral boundaries. This ensures timely legal processes.",
+    "link": "https://indianexpress.com/article/cities/hyderabad/ward-delimitation-telangana-hc-pulls-up-state-over-month-delay-filing-affidavits-gives-3-week-ultimatum-10548725/",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Ward delimitation",
+        "definition": "Redrawing of electoral ward boundaries based on population changes."
+      }
+    ]
+  },
+  {
+    "headline": "TOSS 2026 Exam Dates: Telangana Open School announces SSC, Inter time tables",
+    "context": "Open school exams scheduled. The timetables are released. This aids distant learners.",
+    "link": "https://indianexpress.com/article/education/toss-april-may-2026-public-exams-telangana-open-school-ssc-inter-time-tables-out-10542129/",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "CUET PG 2026: NTA issues city intimation slips for exams till March 10",
+    "context": "Entrance exam city slips released. The exams are for postgraduate admissions. This facilitates candidate preparation.",
+    "link": "https://indianexpress.com/article/education/cuet-pg-2026-nta-issues-city-intimation-slips-exams-nta-nic-in-cuet-pg-10560513/",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "CUET PG",
+        "definition": "Common University Entrance Test for postgraduate programs in India."
+      }
+    ]
+  },
+  {
+    "headline": "AP SSC 10th Class Hall Ticket 2026 Live Updates: BSEAP to release admit cards this week",
+    "context": "Board exam admit cards to be released. The exams are for secondary school. This is essential for students.",
+    "link": "https://indianexpress.com/article/education/ap-ssc-10th-class-hall-ticket-2026-live-updates-bseap-admit-cards-out-bse-ap-gov-in-10560464/",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Luka Doncic had 28 points and nine assists, LeBron James added 24 points and the Los Angeles Lakers finished a back-to-back set with a 128-104 victory over the Sacramento Kings",
+    "context": "The Lakers win against the Kings. Key players perform well. This completes back-to-back wins.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810733",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Anthony Edwards scored 21 points, Bones Hyland had 15 of his 18 points in the first half against his former team, and the Minnesota Timberwolves moved a game ahead of Denver in the Western Conference with a 117-108 win over the Nuggets",
+    "context": "The Timberwolves defeat the Nuggets. The win moves them up in standings. This is a key conference game.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810726",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Mikal Bridges had 25 points, Jalen Brunson scored 24 and the New York Knicks snapped the San Antonio Spurs' 11-game winning streak with a 114-89 victory",
+    "context": "The Knicks end the Spurs' streak. Strong performance by stars. This impacts team records.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810723",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Cade Cunningham had 29 points and 11 assists, Tobias Harris scored 23 points and the NBA-leading Detroit Pistons beat the Orlando Magic 106-92 for their sixth straight road victory",
+    "context": "The Pistons continue their lead. Road win streak extends. This shows dominance.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810730",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Shai Gilgeous-Alexander scored 30 points, Chet Holmgren had 19 points and nine rebounds and the Oklahoma City Thunder beat the Dallas Mavericks 100-87",
+    "context": "The Thunder win against the Mavericks. Key contributions from players. This boosts their position.",
+    "link": "https://apnews.com/article/thunder-mavericks-score-985f83ebcd02c91af8b2cc9a9067d315",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Jaxon Kohler scored a season-high 21 points and Jeremy Fears Jr. added 21 points and nine assists to lead No. 13 Michigan State past Indiana 77-64",
+    "context": "Michigan State defeats Indiana. High scoring from players. This maintains their ranking.",
+    "link": "https://apnews.com/article/spartans-hoosiers-score-cfbe81b2465039de8e9f2a7a1cedce0a",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Elina Aarnisalo scored a career-high 22 points while Nyla Harris had 10 of her 19 points in the fourth quarter to help No. 21 North Carolina beat No. 12 Duke 74-69",
+    "context": "North Carolina wins rematch against Duke. Strong fourth quarter. This affects conference.",
+    "link": "https://apnews.com/article/duke-unc-score-1e47e9c531c2ab103a7cfb642720bbdc",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "South Carolina coach Dawn Staley said the school is working to help former players return from Israel where they play professionally",
+    "context": "Former players affected by conflict. School assists return. This shows care for alumni.",
+    "link": "https://apnews.com/article/wnba-players-israel-a99aa7fdcf4c02281f66f2025a23725a",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Taylor Hendricks scored 19 points, Jaylen Wells had 18 and the Memphis Grizzlies beat the Indiana Pacers 125-106",
+    "context": "Grizzlies sweep season series. High scoring game. This completes the sweep.",
+    "link": "https://apnews.com/article/grizzlies-pacers-score-912add256515911e81133ec009245351",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Kawhi Leonard scored 23 points and the Los Angeles Clippers beat the New Orleans Pelicans 137-117 to end a three-game losing streak",
+    "context": "Clippers end streak with win. Leonard leads scoring. This rebounds the team.",
+    "link": "https://apnews.com/article/pelicans-clippers-score-c351b4db8f3c4459778e8e18a0c44320",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Michael Misa scored 1:40 into overtime, and the San Jose Sharks topped the Winnipeg Jets 2-1 for their second straight win",
+    "context": "Sharks win in overtime. Misa scores winner. This builds streak.",
+    "link": "https://apnews.com/article/jets-sharks-score-e828fc19ca83ccb39f46ece1499c1329",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "María Corina Machado says she plans to return to Venezuela soon and push for new elections",
+    "context": "Opposition leader plans return. The goal is electoral victory. This challenges the government.",
+    "link": "https://apnews.com/article/venezuela-machado-elections-f7e848935b140636e7cd405b09368e0e",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Top-seed Phantom BC will be missing star Aliyah Boston for the rest of Unrivaled's postseason as the post player is out with a right lower-extremity injury",
+    "context": "Player injury affects team. The postseason is impacted. This is a setback for Phantom.",
+    "link": "https://apnews.com/article/boston-unrivaled-768eed59944dba67d1e0e0d2dc8c0dbe",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "The title game will be Wednesday at Unrivaled's home arena in Miami, with a prize pool of $600,000 to be split among players from the championship club",
+    "context": "Unrivaled semifinals at Barclays. The prize is significant. This excites the tournament.",
+    "link": "https://apnews.com/article/unrivaled-semifinals-6e2a0aed05593ef599c22889c5aad004",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Sinners steals the show at the SAG Awards, and the biggest moments happen in the room, not just on TV",
+    "context": "Actor Awards highlights. The film wins big. This celebrates cinema.",
+    "link": "https://apnews.com/article/actor-awards-0a88ee2149477f9297c7d0a4ff32602d",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "The Actor Awards, previously called the SAG Awards, kicked off on Sunday, with the prizes handed out by members of the SAG-AFTRA actors union",
+    "context": "Awards ceremony begins. Stars attend. This honors acting performances.",
+    "link": "https://www.reuters.com/video/watch/idRW989302032026RP1",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "The complete 2026 NBA G League season schedule on ESPN",
+    "context": "Schedule for NBA G League. Includes games and times. This aids fans.",
+    "link": "https://www.espn.com/nba-g-league/schedule",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Check out the NBA Daily Stats leaders for March 01, 2026 ESPN ranks your favorite NBA players by points, rebounds, minutes, and more",
+    "link": "https://www.espn.com/nba/dailyleaders/_/sort/blocks",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "AC Milan needed two late goals to secure a 2-0 win at Cremonese in Serie A on Sunday and bounce back from its second loss of the season",
+    "context": "Milan wins against Cremonese. Late goals secure victory. This rebounds from loss.",
+    "link": "https://www.espn.com/soccer/report/_/gameId/737051",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Box score for the Oklahoma City Thunder vs. Dallas Mavericks NBA game from March 1, 2026 on ESPN",
+    "context": "Thunder vs Mavericks box score. Includes stats. This details the game.",
+    "link": "https://www.espn.com/nba/boxscore/_/gameId/401810731",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Check out the NBA Daily Stats leaders for March 01, 2026 ESPN ranks your favorite NBA players by points, rebounds, minutes, and more",
+    "context": "Daily leaders in NBA. Ranks players. This tracks performance.",
+    "link": "https://www.espn.com/nba/dailyleaders/_/gameId/401810729",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Check out the NBA Daily Stats leaders for March 01, 2026 ESPN ranks your favorite NBA players by points, rebounds, minutes, and more",
+    "context": "Daily leaders update. Assists focused. This highlights playmakers.",
+    "link": "https://www.espn.com/nba/dailyleaders/_/sort/assists",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Box score for the New York Yankees vs. Philadelphia Phillies MLB game from March 1, 2026 on ESPN",
+    "context": "Yankees vs Phillies box score. Spring training game. This previews season.",
+    "link": "https://www.espn.com/mlb/boxscore/_/gameId/401833029",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Complete team stats and game leaders for the Colorado Rockies vs. Cleveland Guardians MLB game from March 1, 2026 on ESPN",
+    "context": "Rockies vs Guardians stats. Spring training. This shows player performances.",
+    "link": "https://www.espn.com/mlb/matchup?gameId=401833023",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Complete team stats and game leaders for the Milwaukee Brewers vs. Kansas City Royals MLB game from March 1, 2026 on ESPN",
+    "context": "Brewers vs Royals stats. Spring training match. This prepares teams.",
+    "link": "https://www.espn.com/mlb/matchup?gameId=401833025",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Complete team stats and game leaders for the New York Yankees vs. Philadelphia Phillies MLB game from March 1, 2026 on ESPN",
+    "context": "Yankees vs Phillies stats. Spring game. This builds team form.",
+    "link": "https://www.espn.com/mlb/matchup?gameId=401833029",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Complete team stats and game leaders for the Tampa Bay Rays vs. Atlanta Braves MLB game from March 1, 2026 on ESPN",
+    "context": "Rays vs Braves stats. Spring training. This tests players.",
+    "link": "https://www.espn.com/mlb/matchup?gameId=401833020",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Complete team stats and game leaders for the Miami Marlins vs. Washington Nationals MLB game from March 1, 2026 on ESPN",
+    "context": "Marlins vs Nationals stats. Spring game. This is preseason.",
+    "link": "https://www.espn.com/mlb/matchup?gameId=401833033",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Complete team stats and game leaders for the New York Mets vs. Houston Astros MLB game from March 1, 2026 on ESPN",
+    "context": "Mets vs Astros stats. Spring training. This is preparation.",
+    "link": "https://www.espn.com/mlb/matchup?gameId=401833028",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Iran Strikes Qatar and Saudi Energy Sites",
+    "context": "Iran launches strikes on energy sites in Qatar and Saudi Arabia. The attacks escalate the conflict. This threatens global energy supplies.",
+    "link": "https://www.bbc.com/news/articles/cp85ej8l6gvo",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Ipswich actor and comedian Omid Djalili says the 'mothers of Iran' are now asking for outside help",
+    "context": "Women in Iran call for rescue amid conflict. The plea is for international aid. This highlights humanitarian crisis.",
+    "link": "https://www.bbc.com/news/articles/cp85ej8l6gvo",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "A historic museum on the site of a former coalmine is set to reopen later this year after being bought by a miner's son",
+    "context": "Museum reopening by miner's son. The site preserves history. This revives cultural heritage.",
+    "link": "https://www.bbc.com/news/articles/cev7zemj0j2o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Two men who left three women seriously injured in a drive-by shooting outside a bar have been jailed",
+    "context": "Men jailed for shooting. The incident injured women. This is justice for crime.",
+    "link": "https://www.bbc.com/news/articles/c89kqx4385wo",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "A man accused of driving his wife to suicide developed software to track her, a police safeguarding officer has told a jury",
+    "context": "Man accused of abuse using tracking software. The case is in court. This raises privacy issues.",
+    "link": "https://www.bbc.com/news/articles/cd70zneyjpwo",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue",
+    "context": "Iran leaders in crisis. Strikes continue. This tests regime stability.",
+    "link": "https://www.bbc.com/news/articles/cx2lgvg5rl1o",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Plans for 40 new homes on farmland on the edge of a town centre have provoked complaints from residents over fears of traffic 'chaos' and the loss of green space",
+    "context": "Home plans face opposition. Residents fear traffic and loss of green. This is development debate.",
+    "link": "https://www.bbc.com/news/articles/c8eg9yp1g66o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Sir Keir Starmer KC faces his own dilemma about how to approach American military action in the Middle East",
+    "context": "Starmer approaches US action. The dilemma is policy. This is UK foreign policy.",
+    "link": "https://www.bbc.com/news/articles/c0rj4nvw07do",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "An ongoing investigation into so-called 'forever chemicals' in soil has identified seven homes near a former industrial site in Lancashire as being high risk",
+    "context": "Chemicals investigation identifies risks. Homes at high risk. This is environmental health.",
+    "link": "https://www.bbc.com/news/articles/c70k140e8wlo",
+    "category": "science",
+    "key_terms": []
+  },
+  {
+    "headline": "Volunteers have planted 800 young trees in a bid to expand one of the South West's last remaining temperate rainforests",
+    "context": "Trees planted for rainforest expansion. Volunteers participate. This is conservation effort.",
+    "link": "https://www.bbc.com/news/articles/cn4gwel9l7jo",
+    "category": "science",
+    "key_terms": []
+  },
+  {
+    "headline": "A poll carried out for the BBC examines the issues which will influence how people plan to vote on 7 May",
+    "context": "Poll on election issues. Influences voter decisions. This is political analysis.",
+    "link": "https://www.bbc.com/news/articles/cn71e236y6do",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Flights in and out of airports in Tel Aviv, Dubai, Doha and other international hubs in the region, are among those to have been suspended",
+    "context": "Flights suspended in region. Travelers affected. This is travel disruption.",
+    "link": "https://www.bbc.com/news/articles/cpd8yvwdz5eo",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Flights from Manchester Airport to parts of the Middle East, India have been grounded due to the ongoing conflict in the region",
+    "context": "Airport grounds flights. Conflict causes. This impacts travel.",
+    "link": "https://www.bbc.com/news/articles/c620n380w34o",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "A businessman says he was lucky to escape injury after a 'terrifying' experience when a missile was shot down, exploding in a fireball outside his hotel in Dubai",
+    "context": "Man recalls missile ordeal. Lucky escape. This is personal account.",
+    "link": "https://www.bbc.com/news/articles/cze0jp35pkro",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Oil and gas prices have surged as Iran continues to launch strikes across the Middle East in response to ongoing attacks by the US and Israel",
+    "context": "Prices surge due to strikes. Response to attacks. This is economic impact.",
+    "link": "https://www.bbc.com/news/articles/c75evve6l63o",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Two people have been taken to hospital following an incident in Edinburgh involving a man who was seen with a knife",
+    "context": "Knife incident injures two. Hospital treatment. This is public safety.",
+    "link": "https://www.bbc.com/news/articles/cn0ek3e6zk3o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "An event has been held to mark the fourth anniversary of the war in Ukraine and thank the people of Cornwall for helping people who have fled the conflict",
+    "context": "Event marks anniversary. Thanks for help. This is solidarity.",
+    "link": "https://www.bbc.com/news/articles/c78jvd7222ro",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "Telford is bidding to be the first UK Town of Culture as part of the New Town's six-decade party",
+    "context": "Bid for Town of Culture. Celebration of anniversary. This is cultural bid.",
+    "link": "https://www.bbc.com/news/articles/c78xv68qp07o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "A woman has been injured in an overnight house fire in Todmorden",
+    "context": "Woman injured in fire. Overnight incident. This is emergency response.",
+    "link": "https://www.bbc.com/news/articles/cde4xy7wjp6o",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "NHS staff are going on tour to raise awareness of prostate cancer",
+    "context": "Tour for awareness. Community events. This is health campaign.",
+    "link": "https://www.bbc.com/news/articles/c2lrgn81890o",
+    "category": "science",
+    "key_terms": []
+  },
+  {
+    "headline": "The ICC Women's Championship has expanded to 11 teams with Zimbabwe's inclusion, and a new T20 Champions Trophy has been introduced",
+    "context": "Expansion of women's cricket. New tournament introduced. This grows the sport.",
+    "link": "https://www.espncricinfo.com/story/wpl-hundred-wbbl-given-separate-windows-in-new-women-s-ftp-2026-03-02",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "She will miss New Zealand's upcoming home series against Zimbabwe in February-March 2026",
+    "context": "Player injury. Misses series. This affects team.",
+    "link": "https://www.espncricinfo.com/story/suzie-bates-ruled-out-for-three-months-with-quadricep-injury-2026-03-02",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Kishan Narayan Singh. Born. December 01, 1999. Age. 26y 91d. Batting Style. Right hand Bat. TEAMS. Suriname logo Suriname",
+    "context": "Player profile. Cricket career. This is player info.",
+    "link": "https://www.espncricinfo.com/cricketers/kishan-singh-1526448",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Joseph Perry ; Born. May 09, 1988 ; Age. 37y 297d ; Batting Style. Left hand Bat ; Fielding Position. Wicketkeeper",
+    "context": "Player profile. Cricket details. This is biography.",
+    "link": "https://www.espncricinfo.com/cricketers/joseph-perry-1526446",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Tonderai Marongwe ; Born. September 11, 1987, Harare ; Age. 38y 171d ; Other. Umpire",
+    "context": "Umpire profile. Career info. This is official.",
+    "link": "https://www.espncricinfo.com/cricketers/tonderai-marongwe-1526614",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Syed Hussain ... Are batters finding a new way to attack Varun Chakravarthy? Are batters finding a new way to attack Varun Chakravarthy? 28-Feb-2026 •",
+    "context": "Author article. Cricket analysis. This is commentary.",
+    "link": "https://www.espncricinfo.com/author/syed-hussain-765",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Read about Smriti Mandhana cricket player from India profile, stats, rankings, records, videos, photos at ESPNcricinfo",
+    "context": "Player profile. Indian cricketer. This is detailed stats.",
+    "link": "https://www.espncricinfo.com/cricketers/smriti-mandhana-597806",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Read about Rovman Powell cricket player from West Indies profile, stats, rankings, records, videos, photos at ESPNcricinfo",
+    "context": "Player profile. West Indian cricketer. This is career info.",
+    "link": "https://www.espncricinfo.com/cricketers/rovman-powell-820351",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Dolphins Women Cricket Team News & Matches. Matches. RESULT. 26th Match, Oudtshoorn, February 28, 2026, CSA Women Pro50 Series. SwdWm Flag",
+    "context": "Team news. Matches results. This is women's cricket.",
+    "link": "https://www.espncricinfo.com/team/dolphins-women-1334886",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Read about Devon Ebersohn cricket player from Mexico profile, stats, rankings, records, videos, photos at ESPNcricinfo",
+    "context": "Player profile. Mexican cricketer. This is stats.",
+    "link": "https://www.espncricinfo.com/cricketers/devon-ebersohn-1526451",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Explore the profile of Islamabad on ESPNcricinfo. Get detailed information about this cricket ground and it's historical significance",
+    "context": "Ground profile. Pakistan cricket. This is venue info.",
+    "link": "https://www.espncricinfo.com/cricket-grounds/islamabad-734151",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Highest innings totals in WODIs ; NZ Women. 440/3, 50.0 ; India Women. 435/5, 50.0 ; NZ Women. 418, 49.5 ; AUS Women. 412, 47.5",
+    "context": "Records in women's ODIs. Highest totals. This is cricket stats.",
+    "link": "https://www.espncricinfo.com/records/highest-innings-totals-283216",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Explore the profile of Kotambi Stadium on ESPNcricinfo. Get detailed information about this cricket ground and it's historical significance",
+    "context": "Ground profile. Indian venue. This is history.",
+    "link": "https://www.espncricinfo.com/cricket-grounds/kotambi-stadium-vadodara-1417929",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Find records of List of series results in T20I matches only on ESPNcricinfo",
+    "context": "T20I series results. Records list. This is data.",
+    "link": "https://www.espncricinfo.com/records/list-of-series-results-335433",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Find records of Most matches as captain in T20I matches only on ESPNcricinfo",
+    "context": "Captaincy records. T20I matches. This is stats.",
+    "link": "https://www.espncricinfo.com/records/most-matches-as-captain-283428",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Find records of Highest career batting average in Women ODI matches only on ESPNcricinfo",
+    "context": "Batting averages. Women's ODIs. This is records.",
+    "link": "https://www.espncricinfo.com/records/highest-career-batting-average-284195",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Find records of Most fours in career in T20I matches only on ESPNcricinfo",
+    "context": "Most fours. T20I career. This is batting records.",
+    "link": "https://www.espncricinfo.com/records/most-fours-in-career-284021",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Find records of Most ducks in career in T20I matches only on ESPNcricinfo",
+    "context": "Most ducks. T20I career. This is batting records.",
+    "link": "https://www.espncricinfo.com/records/most-ducks-in-career-284058",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Ashleigh Gardner's recent matches played across all cricket formats including Tests, ODIs, T20Is and other formats",
+    "context": "Player matches. Cricket formats. This is recent games.",
+    "link": "https://www.espncricinfo.com/cricketers/ashleigh-gardner-858809/matches",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Brian Bennett's recent matches played across all cricket formats including Tests, ODIs, T20Is and other formats",
+    "context": "Player matches. Recent games. This is profile.",
+    "link": "https://www.espncricinfo.com/cricketers/brian-bennett-1071484/matches",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Find records of Highest career batting average in T20I matches only on ESPNcricinfo",
+    "context": "Batting averages. T20I records. This is stats.",
+    "link": "https://www.espncricinfo.com/records/highest-career-batting-average-282912",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Time:Out Du Plessis: Zimbabwe need some out-of-the-box bowling plans",
+    "context": "Analysis on Zimbabwe's strategy. Bowling plans. This is video feature.",
+    "link": "https://www.espncricinfo.com/cricket-videos/genre/time-out-221",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Du Plessis: SA have 'ticked all the boxes'",
+    "context": "Du Plessis on South Africa's performance. Boxes ticked. This is review.",
+    "link": "https://www.espncricinfo.com/story/du-plessis-sa-have-ticked-all-the-boxes-2026-02-27",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Rapid Fire: What is Jacks doing right as a finisher?",
+    "context": "Discussion on Jacks' finishing. Rapid fire. This is analysis.",
+    "link": "https://www.espncricinfo.com/story/rapid-fire-what-is-jacks-doing-right-as-a-finisher-2026-02-27",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "What should Pakistan's plan be against SL?",
+    "context": "Pakistan's plan against Sri Lanka. Strategy discussion. This is preview.",
+    "link": "https://www.espncricinfo.com/story/what-should-pakistan-s-plan-be-against-sl-2026-02-27",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "The idea of 'bread labour'",
+    "context": "Concept of bread labour. Inspired by past. This is ethical discussion.",
+    "link": "https://www.thehindu.com/topic/Ethics_and_You",
+    "category": "science",
+    "key_terms": []
+  },
+  {
+    "headline": "Room for a view at ViBGYOR film festival",
+    "context": "Film festival highlights. View room. This is cultural event.",
+    "link": "https://www.thehindu.com/topic/Soft_Focus",
+    "category": "world",
+    "key_terms": []
+  },
+  {
+    "headline": "ACB Advisors Bharti 2026: એસીબી ભરતી 2026 અંતર્ગત પોસ્ટની વિગતો, શૈક્ષણિક લાયકાત, વય મર્યાદા, નોકરીનો પ્રકાર, પગાર ધોરણ સહિતની મહત્વની માહિતી આ લેખમાં આપેલી છે",
+    "context": "Recruitment details. Job info. This is career news.",
+    "link": "https://gujarati.indianexpress.com/career",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Union Budget 2026-27 documents",
+    "context": "Budget documents released. Financial plans. This is economic policy.",
+    "link": "https://www.thehindu.com/news/resources/union-budget-2026-27-documents/article70576995.ece",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Union Budget 2025: Nirmala Sitharaman’s full speech",
+    "context": "Finance Minister's speech. Budget details. This is fiscal policy.",
+    "link": "https://www.thehindu.com/news/resources/union-budget-2025-nirmala-sitharamans-full-speech/article69167581.ece",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Economic Survey 2024-25: full document, highlights",
+    "context": "Economic survey. Highlights and document. This is economic overview.",
+    "link": "https://www.thehindu.com/news/resources/economic-survey-2024-2025-full-document-and-highlights/article69162933.ece",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "News and information on CBSE, ICSE, ISC, State Boards. SSC, SSLC, scholarship exams, inter-school competitions",
+    "context": "Education news. Board exams. This is school info.",
+    "link": "https://www.thehindu.com/education/schools",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Today's Education News: Get the latest news on higher education, board exams, results, admit cards, entrance exams, and admission news from The Hindu",
+    "context": "Education updates. Latest news. This is academic.",
+    "link": "https://www.thehindu.com/education/careers",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Russia-Ukraine peace talks end after less than 2 hours with deal to swap POWs but no ceasefire",
+    "context": "Peace talks end with POW swap. No ceasefire. This is diplomatic outcome.",
+    "link": "https://apnews.com/hub/albania",
+    "category": "world",
+    "key_terms": [
+      {
+        "term": "POWs",
+        "definition": "Prisoners of war, captured military personnel during conflict."
+      }
+    ]
+  },
+  {
+    "headline": "Trump's Medicaid work mandates are meant to save money. But first states will have to spend millions",
+    "context": "Medicaid mandates cost states. Aim to save money. This is policy impact.",
+    "link": "https://apnews.com/hub/ohio",
+    "category": "national",
+    "key_terms": [
+      {
+        "term": "Medicaid",
+        "definition": "US government program providing health coverage to low-income individuals."
+      }
+    ]
+  },
+  {
+    "headline": "Federal prosecutors won’t appeal ruling barring death penalty in Luigi Mangione case",
+    "context": "Prosecutors not appealing. Death penalty barred. This is legal decision.",
+    "link": "https://apnews.com/article/luigi-mangione-death-penalty-appeal-0ca55e5dca9c17115ddc240397ae113c",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Novartis settles with Henrietta Lacks’ estate over use of her ‘stolen’ cells to advance medicine",
+    "context": "Settlement over cells use. Lacks' estate. This is medical ethics.",
+    "link": "https://apnews.com/article/henrietta-lacks-lawsuit-novartis-cells-medicine-89fa08519ee04a2ef68fa296c31c55b9",
+    "category": "science",
+    "key_terms": []
+  },
+  {
+    "headline": "Prosecutor claims that delayed charges against Abrego Garcia were ‘extraordinary’ but justified",
+    "context": "Charges delayed but justified. Prosecutor claims. This is immigration case.",
+    "link": "https://apnews.com/article/kilmar-abrego-garcia-deportation-el-salvador-immigration-62d17015d5d075897938a971e30e3276",
+    "category": "national",
+    "key_terms": []
+  },
+  {
+    "headline": "Luka Doncic had 28 points and nine assists, LeBron James added 24 points and the Los Angeles Lakers finished a back-to-back set with a 128-104 victory over the Sacramento Kings",
+    "context": "Lakers win. Back-to-back. This is NBA.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810733",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Anthony Edwards scored 21 points, Bones Hyland had 15 of his 18 points in the first half against his former team, and the Minnesota Timberwolves moved a game ahead of Denver in the Western Conference with a 117-108 win over the Nuggets",
+    "context": "Timberwolves win. Conference move. This is NBA.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810726",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Mikal Bridges had 25 points, Jalen Brunson scored 24 and the New York Knicks snapped the San Antonio Spurs' 11-game winning streak with a 114-89 victory",
+    "context": "Knicks snap streak. NBA game. This is basketball.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810723",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Cade Cunningham had 29 points and 11 assists, Tobias Harris scored 23 points and the NBA-leading Detroit Pistons beat the Orlando Magic 106-92 for their sixth straight road victory",
+    "context": "Pistons win. Road victory. This is NBA.",
+    "link": "https://www.espn.com/nba/recap?gameId=401810730",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Anders Lee scored the go-ahead goal in the final minute, rookie Matthew Schaefer had two more goals and an assist and the New York Islanders edged the Florida Panthers 5-4",
+    "context": "Islanders win. NHL game. This is hockey.",
+    "link": "https://www.espn.com/nhl/recap?gameId=401803299",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Kawhi Leonard scored 23 points and the Los Angeles Clippers beat the New Orleans Pelicans 137-117 on Sunday night to end a three-game losing streak",
+    "context": "Clippers end streak. NBA win. This is basketball.",
+    "link": "https://apnews.com/article/pelicans-clippers-score-c351b4db8f3c4459778e8e18a0c44320",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Shai Gilgeous-Alexander scored 30 points, Chet Holmgren had 19 points and nine rebounds and the Oklahoma City Thunder beat the Dallas Mavericks 100-87 on Sunday night",
+    "context": "Thunder beat Mavericks. NBA game. This is basketball.",
+    "link": "https://apnews.com/article/thunder-mavericks-score-985f83ebcd02c91af8b2cc9a9067d315",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Jaxon Kohler scored a season-high 21 points and Jeremy Fears Jr. added 21 points and nine assists to lead No. 13 Michigan State past Indiana 77-64 on Sunday",
+    "context": "Michigan State wins. College basketball. This is NCAA.",
+    "link": "https://apnews.com/article/spartans-hoosiers-score-cfbe81b2465039de8e9f2a7a1cedce0a",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Elina Aarnisalo scored a career-high 22 points while Nyla Harris had 10 of her 19 points in the fourth quarter to help No. 21 North Carolina beat No. 12 Duke 74-69 on Sunday",
+    "context": "North Carolina beats Duke. College basketball. This is NCAA women.",
+    "link": "https://apnews.com/article/duke-unc-score-1e47e9c531c2ab103a7cfb642720bbdc",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "South Carolina coach Dawn Staley said on social media that the school is working to try and help a few former players return home from Israel where they are playing professionally",
+    "context": "Players return from Israel. Conflict affects. This is women's basketball.",
+    "link": "https://apnews.com/article/wnba-players-israel-a99aa7fdcf4c02281f66f2025a23725a",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Taylor Hendricks scored 19 points, Jaylen Wells had 18 and the Memphis Grizzlies beat the Indiana Pacers 125-106 on Sunday",
+    "context": "Grizzlies beat Pacers. NBA game. This is basketball.",
+    "link": "https://apnews.com/article/grizzlies-pacers-score-912add256515911e81133ec009245351",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "Michael Misa scored 1:40 into overtime, and the San Jose Sharks topped the Winnipeg Jets 2-1 on Sunday for their second straight win",
+    "context": "Sharks win overtime. NHL game. This is hockey.",
+    "link": "https://apnews.com/article/jets-sharks-score-e828fc19ca83ccb39f46ece1499c1329",
+    "category": "sports",
+    "key_terms": []
+  },
+  {
+    "headline": "María Corina Machado says she plans to return to Venezuela soon and push for new elections",
+    "context": "Opposition leader returns. Pushes for elections. This is political move.",
+    "link": "https://apnews.com/article/venezuela-machado-elections-f7e848935b140636e7cd405b09368e0e",
+    "category": "world",
+    "key_terms": []
   }
 ]
