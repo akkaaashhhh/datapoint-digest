@@ -1,24 +1,19 @@
 {
   "world": [
     {
-      "headline": "US and Israel Launch Fourth Day of Strikes on Iran",
-      "description": "Joint US-Israeli military operations targeted Iranian leadership and infrastructure on March 4, 2026, marking the fourth consecutive day of escalated conflict following drone attacks on US assets in the region.",
-      "context": "The strikes aim to degrade Iran's military capabilities amid rising tensions over nuclear program advancements; implications include potential global oil supply disruptions and heightened risk of broader Middle East involvement by regional powers.",
+      "headline": "US President Trump Demands Unconditional Surrender from Iran Amid Escalating Airstrikes",
+      "description": "US President Donald Trump declared no negotiations with Iran until its unconditional surrender, as Israel launched extensive airstrikes on Tehran and Beirut, resulting in explosions, heavy smoke, and civilian evacuations. The strikes targeted Hezbollah infrastructure and caused significant disruptions to regional energy supplies via the Strait of Hormuz.",
+      "context": "The ongoing US-Israel-Iran conflict stems from the assassination of Iran's Supreme Leader Ayatollah Ali Khamenei in prior bombings, prompting Iranian retaliation supported by Russian intelligence. This escalation has displaced nearly 500,000 in Lebanon and raised US gas prices by 34 cents per gallon, highlighting risks to global energy markets and humanitarian crises.",
       "timeline": [
         {
-          "date": "1979-02-01",
-          "label": "Iranian Revolution establishes Islamic Republic",
+          "date": "2026-03-01",
+          "label": "Assassination of Ayatollah Ali Khamenei",
           "type": "background"
         },
         {
-          "date": "2026-03-01",
-          "label": "Drone strike hits US embassy in Saudi Arabia",
+          "date": "2026-03-06",
+          "label": "Israeli airstrikes on Tehran and Beirut",
           "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "US-Israeli airstrikes destroy key Iranian sites",
-          "type": "event"
         }
       ],
       "importance_score": 5,
@@ -27,511 +22,84 @@
       "key_terms": [
         {
           "term": "Strait of Hormuz",
-          "definition": "Strategic waterway through which 21% of global petroleum liquids transit"
+          "definition": "Critical maritime chokepoint for global oil transport, currently disrupted by conflict-related shipping avoidance"
         },
-        {
-          "term": "Shahed drone",
-          "definition": "Iranian low-cost unmanned aerial vehicle used for reconnaissance and strikes"
-        },
-        {
-          "term": "Ayatollah Ali Khamenei",
-          "definition": "Supreme Leader of Iran since 1989, overseeing military and nuclear policies"
-        }
-      ],
-      "link": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26"
-    },
-    {
-      "headline": "Israeli Airstrikes Hit Beirut Near International Airport",
-      "description": "Israeli forces conducted precision strikes on Hezbollah targets in Beirut on March 4, 2026, causing evacuations near the city's main airport amid ongoing cross-border exchanges.",
-      "context": "These actions respond to Hezbollah rocket fire; they risk drawing Lebanon deeper into the Iran conflict, potentially straining UN peacekeeping efforts and displacing thousands in urban areas.",
-      "timeline": [
-        {
-          "date": "2006-07-12",
-          "label": "Second Lebanon War begins with Hezbollah kidnappings",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-02",
-          "label": "Hezbollah launches rockets into northern Israel",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Strikes target Beirut infrastructure",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
         {
           "term": "Hezbollah",
-          "definition": "Lebanese Shia militant group and political party backed by Iran"
-        },
-        {
-          "term": "UNIFIL",
-          "definition": "United Nations Interim Force in Lebanon monitoring ceasefire since 1978"
+          "definition": "Lebanese militant group targeted in Israeli strikes, allied with Iran"
         }
       ],
-      "link": "https://www.cnn.com/2026/03/04/world/video/israel-beirut-strikes-ldn-digvid-vrtc"
+      "link": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-06-26"
     },
     {
-      "headline": "US Defense Secretary Claims Victory in Iran Conflict",
-      "description": "Pete Hegseth stated on March 4, 2026, that US forces are prevailing against Iran, with sustained operations possible without additional mobilization.",
-      "context": "Hegseth's remarks signal confidence in air superiority; they may embolden allies but provoke Iranian proxies, affecting NATO cohesion and energy markets.",
+      "headline": "Ecuadorian Troops Discover 35-Meter Narco-Submersible in Nature Reserve",
+      "description": "Ecuador's military uncovered a 35-meter-long drug-trafficking submersible laden with fuel and prepared for deployment, hidden in a protected nature reserve.",
+      "context": "This discovery underscores the intensifying battle against narco-trafficking networks in Latin America, where submersibles are increasingly used to evade detection. It highlights Ecuador's collaboration with international partners amid rising violence linked to drug cartels.",
       "timeline": [
         {
-          "date": "2003-03-20",
-          "label": "US invasion of Iraq topples Saddam Hussein",
+          "date": "2026-02-28",
+          "label": "Increase in narco-sub seizures reported by Ecuadorian authorities",
           "type": "background"
         },
         {
-          "date": "2026-03-03",
-          "label": "US deploys additional carriers to Persian Gulf",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Hegseth addresses media on war progress",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Pete Hegseth",
-          "definition": "US Secretary of Defense appointed in 2025, former Fox News host"
-        },
-        {
-          "term": "Persian Gulf",
-          "definition": "Body of water bordering Iran, vital for 30% of global oil trade"
-        }
-      ],
-      "link": "https://www.reuters.com/video/world-news"
-    },
-    {
-      "headline": "Iran Retaliates with Drone and Missile Barrages",
-      "description": "Iran fired over 50 drones and missiles at US bases in Iraq and Israel on March 4, 2026, in response to coalition strikes, causing minor damage and one injury.",
-      "context": "This escalation tests allied defenses; prolonged exchanges could spike insurance rates for shipping and accelerate diplomatic pushes for ceasefire by EU and China.",
-      "timeline": [
-        {
-          "date": "2019-06-20",
-          "label": "US strikes kill IRGC commander Qasem Soleimani",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Iran mobilizes proxy militias",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Missile launches intercepted over Iraq",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "IRGC",
-          "definition": "Islamic Revolutionary Guard Corps, Iran's elite military branch"
-        },
-        {
-          "term": "Iron Dome",
-          "definition": "Israeli missile defense system intercepting short-range threats"
-        }
-      ],
-      "link": "https://www.aljazeera.com/news/2026/3/4/israel-iran-continue-attacks-as-war-enters-its-fifth-day-engulfs-region"
-    },
-    {
-      "headline": "US Adapts Iranian Drone Tech for Counterstrikes",
-      "description": "Coalition forces deployed modified Shahed-136 drones against Iranian targets on March 4, 2026, reversing engineering from captured units.",
-      "context": "Technological adaptation shortens supply chains; it raises ethical concerns over proliferation and could prompt Iran to accelerate hypersonic missile development.",
-      "timeline": [
-        {
-          "date": "2022-09-13",
-          "label": "Iran supplies drones to Russia for Ukraine war",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-02",
-          "label": "US captures Iranian drone fleet",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Modified drones used in strikes",
+          "date": "2026-03-05",
+          "label": "Discovery of submersible in nature reserve",
           "type": "event"
         }
       ],
       "importance_score": 3,
       "category": "world",
-      "region": "Middle East",
+      "region": "Latin America",
       "key_terms": [
         {
-          "term": "Shahed-136",
-          "definition": "Loitering munition drone with 2,500 km range produced by Iran"
-        },
-        {
-          "term": "Hypersonic missile",
-          "definition": "Weapon traveling over Mach 5, evading traditional defenses"
+          "term": "Narco-submersible",
+          "definition": "Semi-submerged vessel used by drug traffickers to transport narcotics undetected across oceans"
         }
       ],
-      "link": "https://www.cnn.com/2026/03/04/world/video/us-israel-war-iran-shahed-lucas-drone-watson-ldn-digvid"
+      "link": "https://www.bbc.com/news/world/latin_america"
     },
     {
-      "headline": "Air Raid Sirens Echo in Tel Aviv Amid Missile Alerts",
-      "description": "Residents sheltered as Iranian missiles triggered sirens across Tel Aviv on March 3, 2026, with 90% intercepted by defenses.",
-      "context": "Civil defense activation underscores urban vulnerability; it may fuel domestic support for aggressive policies while straining Israel's economy with overtime defense costs.",
+      "headline": "Emergency Calls Expose Severe Conditions at Largest US ICE Detention Facility",
+      "description": "911 recordings from the US Immigration and Customs Enforcement's primary detention center reveal incidents of attempted suicides, physical altercations, and untreated medical pain among detainees.",
+      "context": "The facility, the largest operated by ICE, has faced persistent allegations of inadequate care and overcrowding. These disclosures amplify calls for oversight reforms in the US immigration detention system amid broader debates on migrant treatment.",
       "timeline": [
         {
-          "date": "1991-01-18",
-          "label": "Scud missiles launched during Gulf War",
+          "date": "2026-02-01",
+          "label": "Initial reports of overcrowding at ICE facilities",
           "type": "background"
         },
         {
-          "date": "2026-03-03",
-          "label": "Iran announces retaliatory launches",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Sirens activate in major cities",
+          "date": "2026-03-06",
+          "label": "Release of 911 call recordings highlighting detainee crises",
           "type": "event"
         }
       ],
       "importance_score": 4,
       "category": "world",
-      "region": "Middle East",
+      "region": "North America",
       "key_terms": [
         {
-          "term": "David's Sling",
-          "definition": "Israeli air defense system for medium-range threats"
+          "term": "ICE",
+          "definition": "US Immigration and Customs Enforcement, agency managing migrant detention"
         }
       ],
-      "link": "https://www.cnn.com/2026/03/03/world/video/israel-air-raid-sirens-tel-aviv-iran-missiles-burnett-digvid"
-    },
-    {
-      "headline": "Qatar Halts LNG Production Amid Regional Attacks",
-      "description": "QatarEnergy suspended liquefied natural gas output at North Field on March 3, 2026, after strikes on facilities, impacting 77 million tonnes annual capacity.",
-      "context": "Disruption threatens Europe and Asia supplies; it exacerbates energy inflation and prompts diversification to US and Australian sources.",
-      "timeline": [
-        {
-          "date": "2017-06-05",
-          "label": "Qatar diplomatic crisis begins",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Strikes hit Qatari energy infrastructure",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Production halt announced",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "North Field",
-          "definition": "World's largest non-associated gas field shared with Iran"
-        },
-        {
-          "term": "LNG",
-          "definition": "Liquefied natural gas, cooled to -162°C for transport"
-        }
-      ],
-      "link": "https://www.reuters.com/info-pages/transcript/9017c928-16df-11f1-9e73-2fe366ce2129"
-    },
-    {
-      "headline": "EU Urges Immediate Ceasefire in Iran Conflict",
-      "description": "European Commission President called for de-escalation on March 4, 2026, offering mediation amid fears of refugee surges and trade halts.",
-      "context": "EU's stance balances energy needs with human rights; failure could isolate Europe economically, boosting Russian gas leverage.",
-      "timeline": [
-        {
-          "date": "2015-07-14",
-          "label": "Iran nuclear deal JCPOA signed",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "EU convenes emergency summit",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Ceasefire proposal issued",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {
-          "term": "JCPOA",
-          "definition": "Joint Comprehensive Plan of Action limiting Iran's nuclear activities"
-        }
-      ],
-      "link": "https://ec.europa.eu"
-    },
-    {
-      "headline": "NATO Activates Article 5 Consultations Over Iran Threats",
-      "description": "NATO ambassadors met virtually on March 4, 2026, to discuss collective defense after Iranian warnings to European bases hosting US troops.",
-      "context": "Invocation risks alliance-wide mobilization; it tests unity post-Ukraine and could redirect resources from Eastern flank.",
-      "timeline": [
-        {
-          "date": "1949-04-04",
-          "label": "NATO founded as collective defense pact",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Iran threatens NATO members",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Consultations commence",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {
-          "term": "Article 5",
-          "definition": "NATO clause treating attack on one as attack on all"
-        }
-      ],
-      "link": "https://www.nato.int"
-    },
-    {
-      "headline": "China Brokers Talks Between Iran and Gulf States",
-      "description": "Beijing hosted preliminary discussions on March 4, 2026, involving Iranian and Saudi delegates to secure shipping lanes.",
-      "context": "China's mediation leverages Belt and Road investments; success could stabilize oil prices but challenge US influence in Asia-Pacific.",
-      "timeline": [
-        {
-          "date": "2023-03-10",
-          "label": "China mediates Saudi-Iran reconciliation",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Gulf states request Chinese intervention",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Talks initiate in Shanghai",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "world",
-      "region": "Asia",
-      "key_terms": [
-        {
-          "term": "Belt and Road Initiative",
-          "definition": "Chinese global infrastructure development strategy launched in 2013"
-        }
-      ],
-      "link": "https://www.aljazeera.com/"
-    },
-    {
-      "headline": "UN Security Council Deadlocks on Iran Resolution",
-      "description": "Russia and China vetoed a US-drafted condemnation of Iran on March 4, 2026, blocking sanctions renewal.",
-      "context": "Paralysis hampers humanitarian aid; it exposes fractures in multilateralism, potentially leading to ad-hoc coalitions.",
-      "timeline": [
-        {
-          "date": "2006-12-23",
-          "label": "First UN sanctions on Iran nuclear program",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "US submits emergency resolution",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Vetoes cast in New York",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "UNSC",
-          "definition": "United Nations Security Council with 15 members deciding on peace threats"
-        }
-      ],
-      "link": "https://www.un.org"
-    },
-    {
-      "headline": "Oil Prices Surge 15% on Hormuz Closure Fears",
-      "description": "Brent crude hit $95 per barrel on March 4, 2026, as traders priced in potential Strait blockade by Iran.",
-      "context": "Spike threatens recession in import-dependent economies; it benefits US shale producers while straining OPEC+ quotas.",
-      "timeline": [
-        {
-          "date": "2019-07-14",
-          "label": "Iran seizes British tanker in Hormuz",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Iran deploys naval mines",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Futures markets react sharply",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "OPEC+",
-          "definition": "Oil cartel including OPEC members and allies like Russia"
-        },
-        {
-          "term": "Brent crude",
-          "definition": "Global benchmark oil price from North Sea production"
-        }
-      ],
-      "link": "https://www.bloomberg.com/"
-    },
-    {
-      "headline": "India Evacuates Citizens from Gulf Amid War",
-      "description": "Operation Ajay II airlifted 5,000 Indians from UAE and Qatar on March 4, 2026, as flights grounded.",
-      "context": "Evacuation protects 10 million diaspora; it strains bilateral ties and remittances worth $100 billion annually.",
-      "timeline": [
-        {
-          "date": "1990-08-02",
-          "label": "Operation Cactus Lily evacuates during Gulf War",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "MEA issues travel advisory",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "First flights depart Dubai",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "world",
-      "region": "Asia",
-      "key_terms": [
-        {
-          "term": "MEA",
-          "definition": "Ministry of External Affairs of India handling diplomacy"
-        }
-      ],
-      "link": "https://www.reuters.com/"
-    },
-    {
-      "headline": "Japan Stock Market Plunges on Energy Import Risks",
-      "description": "Nikkei 225 fell 8% on March 4, 2026, as 90% energy import-dependent Japan braces for shortages.",
-      "context": "Decline erodes $2 trillion in value; it accelerates yen interventions and renewable investments.",
-      "timeline": [
-        {
-          "date": "1973-10-06",
-          "label": "OPEC embargo triggers global crisis",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Japan requests US base alerts",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Market closes in freefall",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Asia",
-      "key_terms": [
-        {
-          "term": "Nikkei 225",
-          "definition": "Japan's primary stock index tracking 225 blue-chip companies"
-        }
-      ],
-      "link": "https://asia.nikkei.com/"
-    },
-    {
-      "headline": "African Union Condemns Strikes on Oil Facilities",
-      "description": "AU Commission chair denounced attacks on Nigerian and Algerian fields on March 4, 2026, fearing famine in Sahel region.",
-      "context": "Condemnation highlights south-south solidarity; disruptions could double food prices, exacerbating 20 million displacements.",
-      "timeline": [
-        {
-          "date": "2001-09-11",
-          "label": "AU predecessor OAU addresses post-9/11 invasions",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Collateral damage reported in Africa",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "AU issues joint statement",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "world",
-      "region": "Africa",
-      "key_terms": [
-        {
-          "term": "Sahel",
-          "definition": "Semi-arid region across Africa facing jihadist insurgencies and climate change"
-        }
-      ],
-      "link": "https://www.bbc.com/"
+      "link": "https://apnews.com/hub/donald-trump"
     }
   ],
   "national": [
     {
-      "headline": "DMK Slams Centre Over Hindi Imposition in Tamil Nadu Railways",
-      "description": "Tamil Nadu CM MK Stalin criticized BJP government on March 4, 2026, for installing Hindi signage at Chennai railway office, calling it cultural overreach.",
-      "context": "Protest revives language debates; it could mobilize southern voters ahead of 2026 polls, impacting coalition dynamics.",
+      "headline": "Karnataka and Andhra Pradesh Advance Legislation to Restrict Social Media for Minors",
+      "description": "Andhra Pradesh Chief Minister Chandrababu Naidu announced a 90-day deadline to implement a ban on social media access for children under 13, while Karnataka Chief Minister Siddaramaiah proposed restrictions for those under 16.",
+      "context": "These measures address rising concerns over online harms to youth, including cyberbullying and addiction, aligning with national efforts to enhance child digital safety through regulatory frameworks.",
       "timeline": [
         {
-          "date": "1965-01-26",
-          "label": "Anti-Hindi agitations erupt in Tamil Nadu",
+          "date": "2026-02-15",
+          "label": "National consultations on child online protection initiated",
           "type": "background"
         },
         {
-          "date": "2026-03-03",
-          "label": "Signage installed without state consent",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Stalin addresses assembly",
+          "date": "2026-03-06",
+          "label": "State announcements on social media bans for minors",
           "type": "event"
         }
       ],
@@ -540,709 +108,325 @@
       "region": "South India",
       "key_terms": [
         {
-          "term": "DMK",
-          "definition": "Dravida Munnetra Kazhagam, regional party advocating Tamil rights"
-        },
-        {
-          "term": "Official Languages Act 1963",
-          "definition": "Indian law promoting Hindi alongside English, sparking southern resistance"
+          "term": "Digital Safety for Children",
+          "definition": "Policy framework to limit minors' exposure to harmful online content"
         }
       ],
-      "link": "https://www.ndtv.com/india-news/dmks-sharp-attack-at-centre-after-hindi-board-at-tamil-nadu-railway-office-11168256"
+      "link": "https://indianexpress.com/section/india"
     },
     {
-      "headline": "Qatar LNG Halt Sparks Gas Supply Warnings in India",
-      "description": "Petronet LNG flagged disruptions on March 4, 2026, after Qatar ceased production, threatening 20% of India's imports.",
-      "context": "Shortfall risks power outages; government eyes spot market buys, potentially raising tariffs by 15%.",
+      "headline": "Jharkhand Headmaster Suspended Over Inappropriate Dance Video with Students",
+      "description": "A school headmaster in Jharkhand was suspended, and two para-teachers placed under inquiry following a video of them dancing to explicit songs with Class 8 students at a farewell event.",
+      "context": "The incident has sparked public outrage and renewed focus on teacher conduct and child safeguarding protocols in Indian schools, prompting swift administrative action.",
       "timeline": [
         {
-          "date": "2018-07-15",
-          "label": "India-Qatar LNG deal signed for 7.5 mtpa",
+          "date": "2026-03-05",
+          "label": "Video surfaces on social media",
           "type": "background"
         },
         {
-          "date": "2026-03-03",
-          "label": "Qatar announces shutdown",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Petronet issues alert",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Petronet LNG",
-          "definition": "India's largest LNG importer handling 17.5 mtpa"
-        },
-        {
-          "term": "mtpa",
-          "definition": "Million tonnes per annum, unit for gas production capacity"
-        }
-      ],
-      "link": "https://www.ndtv.com/india-news/experts-caution-as-india-faces-possible-gas-crunch-after-qatar-halts-production-11167389"
-    },
-    {
-      "headline": "West Asia War Strands 22 Indian Tankers in Gulf",
-      "description": "Shipping Corporation of India reported 22 vessels with 400 crew trapped on March 4, 2026, due to closed sea lanes.",
-      "context": "Delay halts 5 million barrels delivery; it endangers seafarers and prompts naval escorts.",
-      "timeline": [
-        {
-          "date": "2003-03-20",
-          "label": "Iraq war disrupts Indian shipping",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Gulf routes sealed",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "SCI seeks intervention",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "SCI",
-          "definition": "Shipping Corporation of India, state-owned fleet operator"
-        }
-      ],
-      "link": "https://www.thehindu.com/business/war-puts-indias-oil-gas-imports-under-stress/article70704445.ece"
-    },
-    {
-      "headline": "40% of India's Crude Flows Via Hormuz Under Threat",
-      "description": "Officials noted 40% import reliance on Strait on March 4, 2026, linking war to inflation risks.",
-      "context": "Vulnerability exposes 80% import dependency; diversification to Russia urged, cushioning 5-7% GDP hit.",
-      "timeline": [
-        {
-          "date": "2019-05-12",
-          "label": "Oil tanker attacks in Gulf of Oman",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Iran threatens closure",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Economic briefing issued",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Strategic Petroleum Reserves",
-          "definition": "India's 5.33 mt underground oil storage for emergencies"
-        }
-      ],
-      "link": "https://www.ndtv.com/world-news/strait-of-hormuz-when-a-narrow-waterway-dictates-indias-economic-weather-11164822"
-    },
-    {
-      "headline": "Cardamom Prices Drop Rs 150 on War Disruptions",
-      "description": "Kerala prices fell to Rs 2,500/kg on March 4, 2026, as Middle East conflict halts exports.",
-      "context": "Decline affects 1 lakh farmers; domestic demand absorbs, but global markets volatile.",
-      "timeline": [
-        {
-          "date": "2020-03-01",
-          "label": "COVID spikes spice prices",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Export routes blocked",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Auction prices crash",
-          "type": "event"
+          "date": "2026-03-06",
+          "label": "Suspension and inquiry initiated",
+          "type": "consequence"
         }
       ],
       "importance_score": 2,
       "category": "national",
-      "region": "South India",
+      "region": "East India",
       "key_terms": [
         {
-          "term": "Spices Board India",
-          "definition": "Agency regulating 70 spice exports under Ministry of Commerce"
+          "term": "Child Safeguarding",
+          "definition": "Institutional measures to protect minors from exploitation in educational settings"
         }
       ],
-      "link": "https://www.thehindu.com/news/national/kerala/as-war-in-west-asia-intensifies-cardamom-prices-take-a-hit/article70703886.ece"
+      "link": "https://indianexpress.com/section/india"
     },
     {
-      "headline": "Rupee Hits Record Low of 92.16 Amid Oil Spike",
-      "description": "Currency depreciated 67 paise on March 4, 2026, closing at 92.16/USD on FII outflows of Rs 3,296 crore.",
-      "context": "Weakness fuels import costs; RBI intervenes with $5 billion, eyeing rate hike.",
+      "headline": "Indian Railways Upgrades 42nd Vande Bharat Train to 20-Coach Capacity",
+      "description": "Two years post-launch, the 42nd Vande Bharat express train has been enhanced to accommodate 20 coaches, improving passenger capacity on its designated route.",
+      "context": "This upgrade supports India's rail modernization drive, aiming to boost efficiency and reduce travel times amid growing demand for high-speed connectivity.",
       "timeline": [
         {
-          "date": "2022-07-01",
-          "label": "Rupee breaches 80/USD",
+          "date": "2024-03-06",
+          "label": "Initial launch of Vande Bharat fleet",
           "type": "background"
         },
         {
-          "date": "2026-03-03",
-          "label": "Oil surges past $90",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "RBI sells dollars",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "FII",
-          "definition": "Foreign Institutional Investors trading in Indian securities"
-        },
-        {
-          "term": "RBI",
-          "definition": "Reserve Bank of India managing monetary policy and forex reserves"
-        }
-      ],
-      "link": "https://www.ndtv.com/india-news/rupee-falls-to-all-time-low-of-92-16-against-us-dollar-amid-middle-east-war-11167880"
-    },
-    {
-      "headline": "BJP Accuses Sonia Gandhi of Selective Outrage on Khamenei",
-      "description": "Party sources rebuked Gandhi's article on March 4, 2026, questioning India's silence on Iranian leader's assassination.",
-      "context": "Exchange highlights opposition faultlines; it influences foreign policy narrative in election year.",
-      "timeline": [
-        {
-          "date": "2014-05-26",
-          "label": "Modi government assumes office",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-01",
-          "label": "Khamenei killed in airstrike",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Gandhi publishes critique",
+          "date": "2026-03-06",
+          "label": "Upgrade to 20-coach configuration",
           "type": "event"
         }
       ],
       "importance_score": 3,
       "category": "national",
-      "region": "India",
+      "region": "Nationwide",
       "key_terms": [
         {
-          "term": "Ayatollah Ali Khamenei",
-          "definition": "Iran's Supreme Leader assassinated on March 1, 2026"
+          "term": "Vande Bharat",
+          "definition": "Semi-high-speed train service enhancing intra-city connectivity"
         }
       ],
-      "link": "https://www.ndtv.com/india-news/selective-outrage-bjp-sources-on-sonia-gandhis-khamenei-article-11162879"
+      "link": "https://indianexpress.com/section/india"
     },
     {
-      "headline": "Fertiliser Imports Disrupted, Shipping Costs Double",
-      "description": "War closes Red Sea route on March 4, 2026, doubling freight to $10,000/container for urea shipments.",
-      "context": "Supply gap threatens kharif sowing; subsidies may rise Rs 20,000 crore, hitting farmer incomes.",
+      "headline": "Srinagar Court Rejects ED's Bid to Add Charges in JKCA Scam Case",
+      "description": "A Srinagar court blocked the Enforcement Directorate's attempt to supplement charges in the Jammu and Kashmir Cricket Association scam, citing the CBI's prior chargesheet filing.",
+      "context": "The ruling underscores jurisdictional boundaries between investigative agencies, potentially impacting ongoing probes into sports corruption in India.",
       "timeline": [
         {
-          "date": "2023-10-19",
-          "label": "Houthi attacks begin on shipping",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Fertiliser tankers rerouted",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Industry reports shortages",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Urea",
-          "definition": "Nitrogen fertiliser subsidised at Rs 242/kg for farmers"
-        }
-      ],
-      "link": "https://www.hindustantimes.com/india-news/west-asia-conflict-war-like-conditions-disrupt-india-s-fertiliser-supply-shipping-cost-doubles-101772566529963.html"
-    },
-    {
-      "headline": "RBI Intervenes as Rupee Slips Past 92/USD",
-      "description": "Central bank sold $2 billion on March 4, 2026, to stem fall triggered by 0.9% intraday drop.",
-      "context": "Action preserves reserves at $650 billion; persistent pressure may force capital controls.",
-      "timeline": [
-        {
-          "date": "2013-08-01",
-          "label": "Rupee hits 68/USD crisis",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "FIIs net sell Rs 3,295 crore",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Spot intervention executed",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Forex reserves",
-          "definition": "India's $650 billion foreign currency holdings for stability"
-        }
-      ],
-      "link": "https://www.hindustantimes.com/india-news/why-is-the-indian-rupee-at-record-low-today-and-whats-next-amid-iran-us-war-101772607440430.html"
-    },
-    {
-      "headline": "Government Prepares for Gulf War Impacts on Diaspora",
-      "description": "MEA prioritised 10 million expatriates' safety on March 4, 2026, estimating 6-month conflict scenario.",
-      "context": "Plans cushion remittances drop of 20%; diplomatic outreach to UAE, Saudi for evacuations.",
-      "timeline": [
-        {
-          "date": "1990-08-02",
-          "label": "Gulf War evacuates 1 lakh Indians",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "War assessment internalised",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Three-front strategy outlined",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "NRIs",
-          "definition": "Non-Resident Indians, 35% of UAE population"
-        }
-      ],
-      "link": "https://indianexpress.com/article/live-news/daily-briefing-india-united-states-israel-iran-war-top-news-today-10564139"
-    },
-    {
-      "headline": "NCERT Textbook Ban Sparks Education Row",
-      "description": "Supreme Court upheld ban on Class 8 book over judiciary corruption chapter on March 4, 2026.",
-      "context": "Ruling enforces curriculum oversight; it delays 10 million textbooks, questioning academic freedom.",
-      "timeline": [
-        {
-          "date": "2020-06-01",
-          "label": "NEP 2020 mandates rationalised content",
+          "date": "2023-01-01",
+          "label": "Initial JKCA scam investigation begins",
           "type": "background"
         },
         {
           "date": "2026-03-02",
-          "label": "Petition filed against chapter",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "SC affirms blanket ban",
-          "type": "event"
+          "label": "Court order denying ED's charge addition",
+          "type": "consequence"
         }
       ],
-      "importance_score": 3,
+      "importance_score": 2,
       "category": "national",
-      "region": "India",
+      "region": "North India",
       "key_terms": [
         {
-          "term": "NEP 2020",
-          "definition": "National Education Policy aiming 50% GER by 2035"
+          "term": "JKCA Scam",
+          "definition": "Financial irregularities case involving Jammu and Kashmir Cricket Association"
         }
       ],
-      "link": "https://indianexpress.com/article/live-news/daily-briefing-india-united-states-israel-iran-war-top-news-today-10564139"
+      "link": "https://indianexpress.com/section/india"
     },
     {
-      "headline": "Sensex Tanks 1,123 Points on War Fears",
-      "description": "BSE index closed at 79,116 on March 4, 2026, down 1.4% on oil shock and FII exits.",
-      "context": "Rout wipes Rs 5 lakh crore; recovery hinges on ceasefire, boosting defensives like pharma.",
+      "headline": "Amit Shah Launches Digital Tools and Mascots for Census 2027",
+      "description": "Union Home Minister Amit Shah introduced 'Pragati' and 'Vikas' mascots alongside four digital platforms integrating satellite imagery and mobile apps for efficient Census 2027 enumeration.",
+      "context": "These innovations aim to modernize India's decennial census process, ensuring accuracy and coverage through technology amid logistical challenges.",
       "timeline": [
         {
-          "date": "2020-03-23",
-          "label": "COVID crash hits 25,000 low",
+          "date": "2021-03-01",
+          "label": "Previous census delayed due to pandemic",
           "type": "background"
         },
         {
-          "date": "2026-03-03",
-          "label": "Global cues turn negative",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Historic single-day drop",
+          "date": "2026-03-06",
+          "label": "Launch of digital census tools",
           "type": "event"
         }
       ],
       "importance_score": 4,
       "category": "national",
-      "region": "India",
+      "region": "Nationwide",
       "key_terms": [
         {
-          "term": "BSE Sensex",
-          "definition": "Bombay Stock Exchange benchmark of 30 companies"
+          "term": "Census 2027",
+          "definition": "India's upcoming national population enumeration using advanced digital integration"
         }
       ],
-      "link": "https://www.economictimes.indiatimes.com/"
+      "link": "https://indianexpress.com/section/india"
     },
     {
-      "headline": "Kerala Declares Spice Export Emergency",
-      "description": "State government invoked crisis powers on March 4, 2026, for 50,000 tonne cardamom stockpile amid war halts.",
-      "context": "Measure secures farmer loans; alternative routes via Africa eyed, mitigating 30% revenue loss.",
+      "headline": "Lok Sabha Set to Debate Resolution for Speaker Om Birla's Removal",
+      "description": "The Lok Sabha is slated to discuss a resolution by 118 Opposition MPs seeking the removal of Speaker Om Birla over alleged partisan conduct, with party whips issued for the session starting March 9.",
+      "context": "This move reflects deepening parliamentary tensions between ruling and opposition benches, potentially affecting legislative proceedings and democratic norms.",
       "timeline": [
         {
-          "date": "2016-11-01",
-          "label": "Demonetisation impacts spice trade",
+          "date": "2024-06-01",
+          "label": "Initial complaints on Speaker's impartiality raised",
           "type": "background"
         },
         {
-          "date": "2026-03-03",
-          "label": "Middle East buyers cancel orders",
+          "date": "2026-03-06",
+          "label": "Resolution debate scheduled",
           "type": "escalation"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "Nationwide",
+      "key_terms": [
+        {
+          "term": "Lok Sabha",
+          "definition": "Lower house of India's Parliament, site of proposed Speaker removal debate"
+        }
+      ],
+      "link": "https://www.thehindu.com/news/national/"
+    },
+    {
+      "headline": "Haryana CM's Son Secures Third Rank in UPSC Civil Services Exam",
+      "description": "Haryana Chief Minister Nayab Singh Saini's son, Akansh, achieved All India Rank 3 in the UPSC Civil Services Examination, prompting emotional celebrations.",
+      "context": "The achievement highlights the competitive nature of India's premier civil services recruitment, inspiring youth while underscoring familial influences in public service aspirants.",
+      "timeline": [
+        {
+          "date": "2025-06-01",
+          "label": "UPSC preliminary exams conducted",
+          "type": "background"
         },
         {
-          "date": "2026-03-04",
-          "label": "Emergency procurement starts",
+          "date": "2026-03-06",
+          "label": "Final results announced with Akansh Saini at AIR 3",
           "type": "event"
         }
       ],
       "importance_score": 2,
       "category": "national",
-      "region": "South India",
+      "region": "North India",
       "key_terms": [
         {
-          "term": "Idukki",
-          "definition": "Kerala's primary cardamom producing district yielding 70% output"
+          "term": "UPSC",
+          "definition": "Union Public Service Commission, conducts India's top civil services recruitment"
         }
       ],
-      "link": "https://www.thehindu.com/"
+      "link": "https://www.hindustantimes.com/india-news"
     },
     {
-      "headline": "SEBI Tightens FII Norms Amid Rupee Volatility",
-      "description": "Regulator proposed 20% cap on single stock exposure on March 4, 2026, to curb outflows.",
-      "context": "Move stabilises markets; it may deter $50 billion inflows, affecting startup funding.",
+      "headline": "Central Administrative Tribunal Mandates IAS Officer for Kerala Excise Commissioner Role",
+      "description": "The Central Administrative Tribunal ruled that the Kerala Excise Commissioner position must be held by an Indian Administrative Service officer, overturning prior appointments.",
+      "context": "This decision reinforces cadre-specific eligibility for key administrative posts, aiming to maintain expertise and uniformity in state governance structures.",
       "timeline": [
         {
-          "date": "2018-06-01",
-          "label": "SEBI eases FPI registration",
+          "date": "2025-12-01",
+          "label": "Dispute over non-IAS appointment raised",
           "type": "background"
         },
         {
-          "date": "2026-03-03",
-          "label": "Outflows exceed Rs 10,000 crore",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Draft norms circulated",
-          "type": "event"
+          "date": "2026-03-06",
+          "label": "CAT ruling issued",
+          "type": "consequence"
         }
       ],
       "importance_score": 3,
       "category": "national",
-      "region": "India",
+      "region": "South India",
       "key_terms": [
         {
-          "term": "SEBI",
-          "definition": "Securities and Exchange Board of India overseeing capital markets"
+          "term": "IAS",
+          "definition": "Indian Administrative Service, elite civil service cadre for senior governance roles"
         }
       ],
-      "link": "https://www.sebi.gov.in"
+      "link": "https://www.hindustantimes.com/india-news"
+    },
+    {
+      "headline": "Indian Railways Achieves Near-Complete Electrification Enhancing Energy Security",
+      "description": "A report notes that Indian Railways' 100% electrification milestone bolsters national energy resilience, particularly amid global supply disruptions.",
+      "context": "The transition to electric traction reduces fossil fuel dependence, cutting costs and emissions while aligning with India's sustainable transport goals.",
+      "timeline": [
+        {
+          "date": "2020-01-01",
+          "label": "Electrification drive accelerated under national rail plan",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-06",
+          "label": "Achievement of full network electrification confirmed",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "Nationwide",
+      "key_terms": [
+        {
+          "term": "Railway Electrification",
+          "definition": "Conversion of rail tracks to electric power, reducing diesel usage by 100%"
+        }
+      ],
+      "link": "https://www.hindustantimes.com/india-news"
     }
   ],
   "science": [
     {
-      "headline": "SWOT Satellite Reveals Lower River Variability",
-      "description": "NASA-CNES SWOT mission data released March 4, 2026, shows global river levels fluctuate 20% less than prior models.",
-      "context": "Findings refine flood predictions; they aid 500 million riparian dwellers, enhancing climate adaptation strategies.",
+      "headline": "Climate Change Acceleration Reaches 0.35°C Per Decade, Analysis Reveals",
+      "description": "Fresh data indicates Earth's warming rate has nearly doubled to 0.35°C per decade over the past ten years, driven by intensified greenhouse gas emissions.",
+      "context": "This rapid pace exacerbates extreme weather events and sea-level rise, urging accelerated global mitigation strategies under frameworks like the Paris Agreement.",
       "timeline": [
         {
-          "date": "2018-11-01",
-          "label": "SWOT launched from Vandenberg",
+          "date": "2016-01-01",
+          "label": "Paris Agreement adoption sets warming limits",
           "type": "background"
         },
         {
-          "date": "2025-12-01",
-          "label": "Full dataset calibration complete",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Variability analysis published",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "SWOT",
-          "definition": "Surface Water and Ocean Topography satellite measuring water heights"
-        },
-        {
-          "term": "Riparian",
-          "definition": "Relating to riverbank ecosystems supporting biodiversity"
-        }
-      ],
-      "link": "https://www.jpl.nasa.gov/home/news/us-french-satellite-takes-stock-of-worlds-river-water"
-    },
-    {
-      "headline": "Quantum Fluorescent Proteins Enable Cellular Qubits",
-      "description": "University of Chicago team engineered GFP variants as qubits on March 3, 2026, detecting neuronal signals at 10nm resolution.",
-      "context": "Breakthrough merges biology and quantum tech; it promises non-invasive brain mapping, revolutionising neuroscience.",
-      "timeline": [
-        {
-          "date": "1994-01-01",
-          "label": "GFP cloned from jellyfish",
-          "type": "background"
-        },
-        {
-          "date": "2024-06-01",
-          "label": "Quantum entanglement in proteins demonstrated",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Qubit functionality validated",
+          "date": "2026-03-06",
+          "label": "Publication of updated warming rate analysis",
           "type": "event"
         }
       ],
       "importance_score": 5,
       "category": "science",
-      "region": "North America",
+      "region": "Global",
       "key_terms": [
         {
-          "term": "GFP",
-          "definition": "Green Fluorescent Protein used in 50,000+ studies for tagging"
-        },
-        {
-          "term": "Qubit",
-          "definition": "Quantum bit leveraging superposition for computation"
+          "term": "Greenhouse Gas Emissions",
+          "definition": "Primary drivers of global warming, including CO2 and methane from human activities"
         }
       ],
-      "link": "https://www.nature.com/articles/d41586-026-00662-1"
+      "link": "https://www.nature.com/news"
     },
     {
-      "headline": "Magnetic Hydrogel Plug Prevents Strokes in Pig Model",
-      "description": "Injectable gel sealed left atrial appendage in porcine trials on March 4, 2026, reducing clot risk by 85%.",
-      "context": "Device offers minimally invasive alternative to surgery; it could save 1 million annual stroke deaths globally.",
+      "headline": "Genetically Modified Pig Liver Sustains Human Patient Until Transplant",
+      "description": "A patient survived for weeks on a genetically engineered pig liver transplant, marking a milestone in xenotransplantation research.",
+      "context": "This breakthrough addresses organ shortages by adapting animal organs for human use, potentially revolutionizing transplant medicine through genetic editing techniques.",
       "timeline": [
         {
-          "date": "2002-01-01",
-          "label": "Watchman device FDA approved for appendage closure",
+          "date": "2022-01-01",
+          "label": "First pig-to-human heart transplant trials begin",
           "type": "background"
         },
         {
-          "date": "2025-09-01",
-          "label": "Hydrogel magnetisation achieved",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Efficacy confirmed in vivo",
+          "date": "2026-03-06",
+          "label": "Successful pig liver sustainment case reported",
           "type": "event"
         }
       ],
-      "importance_score": 4,
+      "importance_score": 5,
       "category": "science",
       "region": "Global",
       "key_terms": [
         {
-          "term": "Left atrial appendage",
-          "definition": "Heart pouch where 90% of atrial fibrillation clots form"
-        },
-        {
-          "term": "Atrial fibrillation",
-          "definition": "Irregular heartbeat affecting 59 million worldwide"
+          "term": "Xenotransplantation",
+          "definition": "Transplantation of organs or tissues between different species, here pig to human"
         }
       ],
-      "link": "https://www.nature.com/articles/d41586-026-00740-4"
+      "link": "https://www.nature.com/news"
     },
     {
-      "headline": "Mexican Scientists Face Funding Instability",
-      "description": "CONACYT budget cuts led to 30% researcher exodus on March 4, 2026, per union report.",
-      "context": "Crisis hampers Latin American innovation; international collaborations urged to retain 5,000 PhDs.",
+      "headline": "New HIV Strategy Activates Latent Virus to Trigger Immune Response",
+      "description": "Researchers developed a method to expose hidden HIV reservoirs, forcing the virus to activate immune sensors for potential cure advancement.",
+      "context": "Current antiretroviral therapies suppress but do not eradicate HIV; this approach targets latency, offering hope for functional cures in chronic infections.",
       "timeline": [
         {
-          "date": "2018-12-01",
-          "label": "AMLO administration begins reforms",
+          "date": "1980s-01-01",
+          "label": "HIV identified as global pandemic",
           "type": "background"
         },
         {
-          "date": "2025-11-01",
-          "label": "CONACYT restructuring announced",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Exodus data released",
+          "date": "2026-03-05",
+          "label": "Immune sensor activation technique published",
           "type": "event"
         }
       ],
-      "importance_score": 3,
-      "category": "science",
-      "region": "Latin America",
-      "key_terms": [
-        {
-          "term": "CONACYT",
-          "definition": "National Council of Science and Technology funding body"
-        }
-      ],
-      "link": "https://www.nature.com/articles/d41586-026-00442-x"
-    },
-    {
-      "headline": "Radiology AI Merlin Achieves Cross-Site Consistency",
-      "description": "Vision-language model trained on 10,000 CT scans outperformed peers by 20% on March 4, 2026, across US hospitals.",
-      "context": "Tool standardises diagnoses; it reduces errors by 15%, aiding 1.5 billion annual imaging studies.",
-      "timeline": [
-        {
-          "date": "2017-03-01",
-          "label": "DeepMind partners NHS for eye AI",
-          "type": "background"
-        },
-        {
-          "date": "2025-07-01",
-          "label": "Merlin dataset aggregated",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Multi-site validation published",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "science",
-      "region": "North America",
-      "key_terms": [
-        {
-          "term": "Vision-language model",
-          "definition": "AI integrating image and text for multimodal analysis"
-        },
-        {
-          "term": "CT scan",
-          "definition": "Computed tomography using X-rays for 3D body images"
-        }
-      ],
-      "link": "https://www.nature.com/articles/d41586-026-00645-2"
-    },
-    {
-      "headline": "Galleri MCED Test Fails RCT Endpoint",
-      "description": "UK NHS trial on March 4, 2026, showed Galleri detected cancers but not at earlier stages as claimed.",
-      "context": "Setback questions 40 MCED viability; regulators demand larger trials, delaying market entry.",
-      "timeline": [
-        {
-          "date": "2020-01-01",
-          "label": "Galleri launches with 50-cancer claim",
-          "type": "background"
-        },
-        {
-          "date": "2025-06-01",
-          "label": "NHS PATHFINDER trial initiates",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Interim results disappoint",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "science",
-      "region": "Europe",
-      "key_terms": [
-        {
-          "term": "MCED",
-          "definition": "Multi-cancer early detection via blood biomarkers"
-        },
-        {
-          "term": "RCT",
-          "definition": "Randomised controlled trial, gold standard for efficacy"
-        }
-      ],
-      "link": "https://www.nature.com/articles/d41586-026-00661-2"
-    },
-    {
-      "headline": "Diazo Metabolites Discovered in Pathogen Biochemistry",
-      "description": "arXiv preprint on March 4, 2026, details diazo group synthesis in Staphylococcus, aiding antibiotic design.",
-      "context": "Unusual chemistry unlocks new drug targets; it combats 700,000 annual resistance deaths.",
-      "timeline": [
-        {
-          "date": "1920-01-01",
-          "label": "Diazo compounds first synthesized",
-          "type": "background"
-        },
-        {
-          "date": "2025-10-01",
-          "label": "Metabolomics screening starts",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Mechanism elucidated",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
+      "importance_score": 5,
       "category": "science",
       "region": "Global",
       "key_terms": [
         {
-          "term": "Diazo group",
-          "definition": "N2+ functional group reactive in organic synthesis"
-        },
-        {
-          "term": "Staphylococcus",
-          "definition": "Bacterial genus causing skin infections and MRSA"
+          "term": "Latent HIV Reservoirs",
+          "definition": "Dormant viral sites in the body evading standard treatments"
         }
       ],
-      "link": "https://www.nature.com/articles/d41586-026-00652-3"
+      "link": "https://www.sciencemag.org/news"
     },
     {
-      "headline": "Robert Bullard Champions Environmental Justice Action",
-      "description": "Interview on March 4, 2026, urges scientists to advocate policy amid US EPA rollbacks affecting Black communities.",
-      "context": "Call mobilises 10,000 researchers; it links climate data to equity, influencing $100 billion green funds.",
+      "headline": "NIH Refuses Union Recognition for Early-Career Researchers",
+      "description": "The National Institutes of Health declared lab trainees as non-employees, denying unionization rights to early-career scientists.",
+      "context": "This decision impacts labor protections for thousands in biomedical research, amid growing movements for better working conditions in US academia.",
       "timeline": [
         {
-          "date": "1987-01-01",
-          "label": "Bullard publishes Dumping in Dixie",
+          "date": "2024-01-01",
+          "label": "Union drives gain momentum in NIH labs",
           "type": "background"
         },
         {
-          "date": "2025-12-01",
-          "label": "EPA proposes deregulation",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Advocacy interview released",
-          "type": "event"
+          "date": "2026-03-05",
+          "label": "Official refusal to recognize union",
+          "type": "consequence"
         }
       ],
       "importance_score": 3,
@@ -1250,358 +434,146 @@
       "region": "North America",
       "key_terms": [
         {
-          "term": "Environmental justice",
-          "definition": "Fair treatment in policy preventing disproportionate pollution impacts"
+          "term": "NIH",
+          "definition": "US National Institutes of Health, primary federal biomedical research agency"
         }
       ],
-      "link": "https://www.nature.com/careers"
-    },
-    {
-      "headline": "Roman Telescope to Survey 100 Million Galaxies",
-      "description": "NASA announced March 3, 2026, Roman's wide-field survey will map cosmic structure over 2,000 sq degrees.",
-      "context": "Data accelerates dark energy probes; it equips 1,000 astronomers with petabytes for exoplanet hunts.",
-      "timeline": [
-        {
-          "date": "2019-05-01",
-          "label": "Roman mission selected",
-          "type": "background"
-        },
-        {
-          "date": "2026-05-01",
-          "label": "Launch scheduled",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-03",
-          "label": "Survey parameters finalised",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Dark energy",
-          "definition": "Mysterious force accelerating universe expansion discovered 1998"
-        }
-      ],
-      "link": "https://science.gsfc.nasa.gov/sci/pressreleases"
-    },
-    {
-      "headline": "Terraforming Lab Discovered on Exoplanet Arden B",
-      "description": "Nature fiction piece on March 4, 2026, speculates abandoned Progress-era lab behind anomalous forest growth.",
-      "context": "Narrative inspires astrobiology; it debates ethics of planetary engineering in SETI searches.",
-      "timeline": [
-        {
-          "date": "2050-01-01",
-          "label": "First Arden B probe lands",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Fictional discovery revealed",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-04",
-          "label": "Story published",
-          "type": "event"
-        }
-      ],
-      "importance_score": 2,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Terraforming",
-          "definition": "Planetary engineering to make habitable like Earth"
-        },
-        {
-          "term": "SETI",
-          "definition": "Search for Extraterrestrial Intelligence scanning signals"
-        }
-      ],
-      "link": "https://www.nature.com/articles/d41586-026-00131-9"
-    },
-    {
-      "headline": "Volcanic Hills Detected on Mars by Orbital Radar",
-      "description": "GSFC analysis on March 2, 2026, identifies explosive features from ancient eruptions.",
-      "context": "Discovery rewrites Martian geology; it informs sample return missions targeting volatiles.",
-      "timeline": [
-        {
-          "date": "1976-07-20",
-          "label": "Viking 1 lands, first photos",
-          "type": "background"
-        },
-        {
-          "date": "2025-11-01",
-          "label": "SHARAD data reprocessed",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-02",
-          "label": "Hills confirmed volcanic",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "SHARAD",
-          "definition": "Shallow Radar on Mars Reconnaissance Orbiter penetrating 1km"
-        }
-      ],
-      "link": "https://science.gsfc.nasa.gov/sci/pressreleases"
-    },
-    {
-      "headline": "Floods Swamp Colombian Villages After Record Rains",
-      "description": "Landsat imagery on February 28, 2026, captured Sinú River overflow displacing 5,000.",
-      "context": "Event links to La Niña; it underscores need for $2 billion resilient infrastructure.",
-      "timeline": [
-        {
-          "date": "2010-12-01",
-          "label": "La Niña floods kill 300 in Colombia",
-          "type": "background"
-        },
-        {
-          "date": "2026-02-01",
-          "label": "Early rains intensify",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-02-28",
-          "label": "Satellite images released",
-          "type": "event"
-        }
-      ],
-      "importance_score": 2,
-      "category": "science",
-      "region": "South America",
-      "key_terms": [
-        {
-          "term": "La Niña",
-          "definition": "Cool Pacific phase boosting Atlantic hurricanes and rains"
-        },
-        {
-          "term": "Landsat",
-          "definition": "NASA-USGS Earth observation program since 1972"
-        }
-      ],
-      "link": "https://science.gsfc.nasa.gov/sci/pressreleases"
+      "link": "https://www.sciencemag.org/news"
     }
   ],
   "sports": [
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Copa del Rey",
-      "match_date": "2026-03-03",
-      "venue": "Barcelona, Spain",
+      "tournament": "Indian Super League",
+      "match_date": "2026-03-05",
+      "venue": "Vivekananda Yuba Bharati Krirangan Stadium, Kolkata, India",
       "status": "completed",
       "teams": {
-        "home": "Barcelona",
-        "away": "Atlético Madrid"
+        "home": "Mohun Bagan Super Giant",
+        "away": "Odisha FC"
       },
       "score": {
-        "home": 3,
-        "away": 0
+        "home": "5",
+        "away": "1"
       },
-      "result": "Atlético Madrid advances 4-3 on aggregate",
-      "stage": "Semifinal",
-      "official_source": "https://www.espn.com/soccer/report/_/gameId/401859850"
+      "result": "Mohun Bagan Super Giant defeated Odisha FC 5-1",
+      "stage": "league match",
+      "official_source": "https://www.espn.com/soccer/scoreboard"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Premier League",
-      "match_date": "2026-03-03",
-      "venue": "Wolverhampton, England",
+      "tournament": "Indian Super League",
+      "match_date": "2026-03-05",
+      "venue": "JRD Tata Sports Complex Stadium, Jamshedpur, India",
       "status": "completed",
       "teams": {
-        "home": "Wolverhampton Wanderers",
-        "away": "Liverpool"
+        "home": "Jamshedpur FC",
+        "away": "Inter Kashi"
       },
       "score": {
-        "home": 2,
-        "away": 1
+        "home": "1",
+        "away": "0"
       },
-      "result": "Wolverhampton Wanderers wins 2-1",
-      "stage": "League Match",
-      "official_source": "https://www.espn.com/soccer/report/_/gameId/740885"
+      "result": "Jamshedpur FC defeated Inter Kashi 1-0",
+      "stage": "league match",
+      "official_source": "https://www.espn.com/soccer/scoreboard"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "English League Two",
-      "match_date": "2026-03-03",
-      "venue": "Bromley, England",
+      "tournament": "Indian I-League",
+      "match_date": "2026-03-05",
+      "venue": "Rajiv Gandhi Stadium, Aizawl, India",
       "status": "completed",
       "teams": {
-        "home": "Bromley",
-        "away": "Oldham Athletic"
+        "home": "Aizawl FC",
+        "away": "Rajasthan United"
       },
       "score": {
-        "home": 0,
-        "away": 0
+        "home": "3",
+        "away": "1"
       },
-      "result": "Bromley and Oldham Athletic draw 0-0",
-      "stage": "League Match",
-      "official_source": "https://www.espn.com/football/match/_/gameId/745994/oldham-athletic-bromley"
+      "result": "Aizawl FC defeated Rajasthan United 3-1",
+      "stage": "league match",
+      "official_source": "https://www.espn.com/soccer/scoreboard"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Argentine Primera C",
-      "match_date": "2026-03-03",
-      "venue": "Rosario, Argentina",
+      "tournament": "Australian A-League Men",
+      "match_date": "2026-03-05",
+      "venue": "Hindmarsh Stadium, Adelaide, Australia",
       "status": "completed",
       "teams": {
-        "home": "Central Córdoba (Rosario)",
-        "away": "Cañuelas"
+        "home": "Adelaide United",
+        "away": "Wellington Phoenix FC"
       },
       "score": {
-        "home": 1,
-        "away": 1
+        "home": "1",
+        "away": "1"
       },
-      "result": "Central Córdoba (Rosario) and Cañuelas draw 1-1",
-      "stage": "League Match",
-      "official_source": "https://www.espn.com/football/match/_/gameId/401844289/canuelas-central-cordoba-rosario"
+      "result": "Adelaide United drew with Wellington Phoenix FC 1-1",
+      "stage": "league match",
+      "official_source": "https://www.espn.com/soccer/scoreboard"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Scottish Championship",
-      "match_date": "2026-03-03",
-      "venue": "Dunfermline, Scotland",
+      "tournament": "AFC Women's Asian Cup",
+      "match_date": "2026-03-05",
+      "venue": "CommBank Stadium, Sydney, Australia",
       "status": "completed",
       "teams": {
-        "home": "Dunfermline Athletic",
-        "away": "Ross County"
+        "home": "Uzbekistan",
+        "away": "China"
       },
       "score": {
-        "home": 3,
-        "away": 0
+        "home": "0",
+        "away": "3"
       },
-      "result": "Dunfermline Athletic wins 3-0",
-      "stage": "League Match",
-      "official_source": "https://www.espn.com/football/match/_/gameId/742874/ross-county-dunfermline-athletic"
+      "result": "China defeated Uzbekistan 3-0",
+      "stage": "group stage",
+      "official_source": "https://www.espn.com/soccer/scoreboard"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Premier League",
-      "match_date": "2026-03-03",
-      "venue": "Leeds, England",
+      "tournament": "Chinese Super League",
+      "match_date": "2026-03-05",
+      "venue": "Chengdu Phoenix Mountain Sports Park, Chengdu, China PR",
       "status": "completed",
       "teams": {
-        "home": "Leeds United",
-        "away": "Sunderland"
+        "home": "Chengdu Rongcheng",
+        "away": "Shenzhen Xinpengcheng"
       },
       "score": {
-        "home": 0,
-        "away": 1
+        "home": "5",
+        "away": "1"
       },
-      "result": "Sunderland wins 1-0",
-      "stage": "League Match",
-      "official_source": "https://www.espn.com/soccer/report/_/gameId/740881"
+      "result": "Chengdu Rongcheng defeated Shenzhen Xinpengcheng 5-1",
+      "stage": "league match",
+      "official_source": "https://www.espn.com/soccer/scoreboard"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "FIFA Women's World Cup Qualifying",
-      "match_date": "2026-03-03",
-      "venue": "Antalya, Turkey",
+      "tournament": "Indonesian Super League",
+      "match_date": "2026-03-05",
+      "venue": "Kanjuruhan Stadium, Malang Regency, Indonesia",
       "status": "completed",
       "teams": {
-        "home": "Ukraine",
-        "away": "England"
+        "home": "Arema Indonesia",
+        "away": "Bali United"
       },
       "score": {
-        "home": 1,
-        "away": 6
+        "home": "3",
+        "away": "4"
       },
-      "result": "England wins 6-1",
-      "stage": "Group Stage",
-      "official_source": "https://www.espn.com/soccer/report/_/gameId/761156"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "Argentine Primera B",
-      "match_date": "2026-03-03",
-      "venue": "Remedios de Escalada, Argentina",
-      "status": "completed",
-      "teams": {
-        "home": "Talleres",
-        "away": "Deportivo Armenio"
-      },
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "result": "Talleres wins 2-1",
-      "stage": "League Match",
-      "official_source": "https://www.espn.com/football/match/_/gameId/401844751/deportivo-armenio-talleres"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "Coppa Italia",
-      "match_date": "2026-03-03",
-      "venue": "Como, Italy",
-      "status": "completed",
-      "teams": {
-        "home": "Como",
-        "away": "Inter Milan"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "result": "Como and Inter Milan draw 0-0",
-      "stage": "Semifinal",
-      "official_source": "https://www.espn.com/soccer/match/_/gameId/762437/internazionale-como"
-    },
-    {
-      "category": "sports",
-      "sport": "cricket",
-      "tournament": "Bangladesh Cricket League One-Day",
-      "match_date": "2026-03-03",
-      "venue": "Dhaka, Bangladesh",
-      "status": "completed",
-      "teams": {
-        "home": "North Zone Bangladesh",
-        "away": "Central Zone Bangladesh"
-      },
-      "score": {
-        "home": "238 (49.3 overs)",
-        "away": "239/5 (38 overs)"
-      },
-      "result": "Central Zone Bangladesh wins by 5 wickets",
-      "stage": "Final",
-      "official_source": "https://www.espncricinfo.com/series/bangladesh-cricket-league-one-day-2025-26-1525578/north-zone-bangladesh-vs-central-zone-bangladesh-final-1525586/full-scorecard"
-    },
-    {
-      "category": "sports",
-      "sport": "cricket",
-      "tournament": "ICC Men's T20 World Cup",
-      "match_date": "2026-03-03",
-      "venue": "Kolkata, India",
-      "status": "completed",
-      "teams": {
-        "home": "South Africa",
-        "away": "New Zealand"
-      },
-      "score": {
-        "home": "169/8 (20 overs)",
-        "away": "173/1 (12.5 overs)"
-      },
-      "result": "New Zealand wins by 9 wickets",
-      "stage": "Semifinal",
-      "official_source": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/matches/268127/south-africa-vs-new-zealand"
+      "result": "Bali United defeated Arema Indonesia 4-3",
+      "stage": "league match",
+      "official_source": "https://www.espn.com/soccer/scoreboard"
     }
   ]
 }
