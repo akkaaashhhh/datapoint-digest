@@ -1,19 +1,29 @@
 {
   "world": [
     {
-      "headline": "US President Trump Demands Unconditional Surrender from Iran Amid Escalating Airstrikes",
-      "description": "US President Donald Trump declared no negotiations with Iran until its unconditional surrender, as Israel launched extensive airstrikes on Tehran and Beirut, resulting in explosions, heavy smoke, and civilian evacuations. The strikes targeted Hezbollah infrastructure and caused significant disruptions to regional energy supplies via the Strait of Hormuz.",
-      "context": "The ongoing US-Israel-Iran conflict stems from the assassination of Iran's Supreme Leader Ayatollah Ali Khamenei in prior bombings, prompting Iranian retaliation supported by Russian intelligence. This escalation has displaced nearly 500,000 in Lebanon and raised US gas prices by 34 cents per gallon, highlighting risks to global energy markets and humanitarian crises.",
+      "headline": "Trump signals plans to escalate attacks on Iran",
+      "description": "US President Donald Trump indicated intentions to intensify military actions against Iran over the weekend, amid ongoing conflict.",
+      "context": "This escalation risks broadening the Middle East war, potentially involving more regional actors and disrupting global energy supplies.",
       "timeline": [
         {
           "date": "2026-03-01",
-          "label": "Assassination of Ayatollah Ali Khamenei",
+          "label": "Initial US-Israel strikes begin following Khamenei's death",
           "type": "background"
         },
         {
-          "date": "2026-03-06",
-          "label": "Israeli airstrikes on Tehran and Beirut",
+          "date": "2026-03-07",
+          "label": "Intensified aerial campaigns across Iran",
           "type": "escalation"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Trump announces plans for further attacks",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Iran vows continued retaliation, raising civilian risks",
+          "type": "consequence"
         }
       ],
       "importance_score": 5,
@@ -21,57 +31,348 @@
       "region": "Middle East",
       "key_terms": [
         {
-          "term": "Strait of Hormuz",
-          "definition": "Critical maritime chokepoint for global oil transport, currently disrupted by conflict-related shipping avoidance"
+          "term": "Donald Trump",
+          "definition": "President of the United States leading the military response."
         },
         {
-          "term": "Hezbollah",
-          "definition": "Lebanese militant group targeted in Israeli strikes, allied with Iran"
+          "term": "Iran",
+          "definition": "Islamic Republic targeted in the ongoing conflict."
         }
       ],
-      "link": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-06-26"
+      "link": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-07-26?post-id=cmmglic7n00023b6tc231o2xz"
     },
     {
-      "headline": "Ecuadorian Troops Discover 35-Meter Narco-Submersible in Nature Reserve",
-      "description": "Ecuador's military uncovered a 35-meter-long drug-trafficking submersible laden with fuel and prepared for deployment, hidden in a protected nature reserve.",
-      "context": "This discovery underscores the intensifying battle against narco-trafficking networks in Latin America, where submersibles are increasingly used to evade detection. It highlights Ecuador's collaboration with international partners amid rising violence linked to drug cartels.",
+      "headline": "Israel strikes oil storage depots in Tehran for first time",
+      "description": "Israeli forces targeted four oil storage facilities and a production center in Tehran and Alborz, causing large fires and killing four.",
+      "context": "Targeting energy infrastructure could cripple Iran's economy and fuel global oil price spikes, prolonging the humanitarian crisis.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "War initiation with initial bombings",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-07",
+          "label": "Shift to critical infrastructure attacks",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "First strikes on Tehran's oil depots",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Fires and smoke engulf capital, disrupting supplies",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Tehran",
+          "definition": "Capital city of Iran, site of the strikes."
+        },
+        {
+          "term": "Oil storage depots",
+          "definition": "Facilities storing petroleum products essential for Iran's energy sector."
+        },
+        {
+          "term": "Alborz",
+          "definition": "Province near Tehran housing additional targets."
+        }
+      ],
+      "link": "https://www.aljazeera.com/news/2026/3/8/israel-strikes-irans-oil-facilities-for-first-time-as-war-enters-ninth-day"
+    },
+    {
+      "headline": "Iran nears decision on new supreme leader after Khamenei's death",
+      "description": "Iran's Assembly of Experts is finalizing the selection of a successor to Ayatollah Ali Khamenei, amid wartime leadership vacuum.",
+      "context": "The choice of leader will shape Iran's response to the war and internal stability, influencing regional alliances.",
       "timeline": [
         {
           "date": "2026-02-28",
-          "label": "Increase in narco-sub seizures reported by Ecuadorian authorities",
+          "label": "Death of Supreme Leader Ayatollah Ali Khamenei",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-01",
+          "label": "Assembly convenes emergency sessions",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Consensus reached on successor candidate",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Israel threatens to target new leader",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Assembly of Experts",
+          "definition": "Iranian body responsible for selecting the Supreme Leader."
+        },
+        {
+          "term": "Ayatollah Ali Khamenei",
+          "definition": "Former Supreme Leader of Iran whose death triggered the succession."
+        }
+      ],
+      "link": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-08-26?post-id=cmmheqp7x00043b6qo0qfndw9"
+    },
+    {
+      "headline": "Iranians face fuel shortages in Tehran after US-Israel strikes",
+      "description": "Overnight strikes on storage tanks have disrupted fuel distribution in Tehran, leading to widespread shortages.",
+      "context": "This exacerbates civilian suffering in the war-torn capital, potentially sparking unrest and hindering military logistics.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "Onset of US-Israel air campaign",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Strikes hit fuel infrastructure",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Governor reports distribution disruptions",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Civilians queue amid black market surge",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Tehran",
+          "definition": "Iran's capital experiencing acute fuel crisis."
+        },
+        {
+          "term": "US-Israel strikes",
+          "definition": "Joint military operations targeting Iranian assets."
+        }
+      ],
+      "link": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-08-26"
+    },
+    {
+      "headline": "Iran's president threatens more attacks on US targets",
+      "description": "President Masoud Pezeshkian warned of escalated strikes on American bases across the Middle East in response to ongoing bombings.",
+      "context": "Such threats could draw in US allies, escalating to a wider regional conflict with severe global repercussions.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "US-Israel commence operations",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-07",
+          "label": "Iran launches initial retaliatory drones",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "President issues direct threat",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Attacks hit Gulf states, killing civilians",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Masoud Pezeshkian",
+          "definition": "President of Iran vowing retaliation."
+        },
+        {
+          "term": "US targets",
+          "definition": "American military installations in the region."
+        }
+      ],
+      "link": "https://apnews.com/live/iran-war-israel-trump-03-08-2026"
+    },
+    {
+      "headline": "Bahrain desalination plant struck by Iranian drone",
+      "description": "An Iranian drone caused material damage to a key water desalination plant in Bahrain, injuring three and threatening supplies.",
+      "context": "Attacks on water infrastructure highlight Iran's asymmetric warfare, risking humanitarian disasters in water-scarce Gulf.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "Iran begins drone campaigns against Gulf allies",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Drone targets Bahrain facility",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Damage assessed, injuries reported",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Desalination plant",
+          "definition": "Facility converting seawater to freshwater, vital for Bahrain."
+        },
+        {
+          "term": "Iranian drone",
+          "definition": "Unmanned aerial vehicle used in retaliatory strikes."
+        }
+      ],
+      "link": "https://www.aljazeera.com/news/2026/3/8/bahrain-says-water-desalination-plant-damaged-in-iranian-drone-attack"
+    },
+    {
+      "headline": "Iran's Assembly of Experts reaches consensus on Khamenei's successor",
+      "description": "The Assembly selected a candidate advised by the late Khamenei to be 'hated by the enemy' as the next Supreme Leader.",
+      "context": "This wartime succession aims to maintain regime continuity but invites external threats to the new leadership.",
+      "timeline": [
+        {
+          "date": "2026-02-28",
+          "label": "Khamenei's death announced",
           "type": "background"
         },
         {
           "date": "2026-03-05",
-          "label": "Discovery of submersible in nature reserve",
+          "label": "Deliberations intensify amid war",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Consensus achieved on successor",
           "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Foreign minister notes uncertainty in announcement",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Assembly of Experts",
+          "definition": "Constitutional body electing Iran's Supreme Leader."
+        },
+        {
+          "term": "Supreme Leader",
+          "definition": "Highest authority in Iran's theocratic government."
+        }
+      ],
+      "link": "https://www.aljazeera.com/news/2026/3/8/irans-assembly-of-experts-says-consensus-reached-on-khameneis-successor"
+    },
+    {
+      "headline": "US chose war with Iran and must decide how to end it",
+      "description": "Analysis urges the US to define clear objectives and exit strategy as the conflict enters its ninth day.",
+      "context": "Indefinite engagement drains resources and risks broader escalation, affecting global stability.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "US commits to strikes",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Calls for endgame strategy emerge",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Iran warns of hitting US bases",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "Iran war",
+          "definition": "Ongoing US-led military campaign against Iran."
+        }
+      ],
+      "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682"
+    },
+    {
+      "headline": "Adam Smith's lessons for the global economy in 2026",
+      "description": "Marking 250 years of 'Wealth of Nations', experts revisit Smith's ideas on taxes, tariffs, and monopolies amid current crises.",
+      "context": "Smith's principles offer timeless guidance for addressing inequality and trade wars in today's volatile economy.",
+      "timeline": [
+        {
+          "date": "1776",
+          "label": "Publication of 'The Wealth of Nations'",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "250th anniversary reflections published",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Relevance to modern policies discussed",
+          "type": "consequence"
         }
       ],
       "importance_score": 3,
       "category": "world",
-      "region": "Latin America",
+      "region": "Global",
       "key_terms": [
         {
-          "term": "Narco-submersible",
-          "definition": "Semi-submerged vessel used by drug traffickers to transport narcotics undetected across oceans"
+          "term": "Adam Smith",
+          "definition": "18th-century economist and philosopher, author of 'The Wealth of Nations'."
+        },
+        {
+          "term": "Wealth of Nations",
+          "definition": "Foundational text on free markets and division of labor."
         }
       ],
-      "link": "https://www.bbc.com/news/world/latin_america"
+      "link": "https://www.reuters.com/business/media-telecom/1776-2026-adam-smiths-lessons-global-economy-2026-03-08"
     },
     {
-      "headline": "Emergency Calls Expose Severe Conditions at Largest US ICE Detention Facility",
-      "description": "911 recordings from the US Immigration and Customs Enforcement's primary detention center reveal incidents of attempted suicides, physical altercations, and untreated medical pain among detainees.",
-      "context": "The facility, the largest operated by ICE, has faced persistent allegations of inadequate care and overcrowding. These disclosures amplify calls for oversight reforms in the US immigration detention system amid broader debates on migrant treatment.",
+      "headline": "OpenAI hardware leader resigns after Pentagon deal",
+      "description": "Caitlin Kalinowski, OpenAI's hardware overseer, resigned citing ethical concerns over a military contract.",
+      "context": "The departure highlights tensions between AI advancement and defense applications, impacting tech-military ties.",
       "timeline": [
         {
-          "date": "2026-02-01",
-          "label": "Initial reports of overcrowding at ICE facilities",
+          "date": "2026-03-03",
+          "label": "OpenAI signs deal with Pentagon",
           "type": "background"
         },
         {
-          "date": "2026-03-06",
-          "label": "Release of 911 call recordings highlighting detainee crises",
+          "date": "2026-03-07",
+          "label": "Resignation announced publicly",
           "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Discussions on AI ethics intensify",
+          "type": "consequence"
         }
       ],
       "importance_score": 4,
@@ -79,501 +380,426 @@
       "region": "North America",
       "key_terms": [
         {
-          "term": "ICE",
-          "definition": "US Immigration and Customs Enforcement, agency managing migrant detention"
+          "term": "OpenAI",
+          "definition": "AI research company involved in hardware development."
+        },
+        {
+          "term": "Pentagon",
+          "definition": "US Department of Defense headquarters."
+        },
+        {
+          "term": "Caitlin Kalinowski",
+          "definition": "Former head of hardware at OpenAI."
         }
       ],
-      "link": "https://apnews.com/hub/donald-trump"
+      "link": "https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07"
     }
   ],
   "national": [
     {
-      "headline": "Karnataka and Andhra Pradesh Advance Legislation to Restrict Social Media for Minors",
-      "description": "Andhra Pradesh Chief Minister Chandrababu Naidu announced a 90-day deadline to implement a ban on social media access for children under 13, while Karnataka Chief Minister Siddaramaiah proposed restrictions for those under 16.",
-      "context": "These measures address rising concerns over online harms to youth, including cyberbullying and addiction, aligning with national efforts to enhance child digital safety through regulatory frameworks.",
+      "headline": "Prime Minister Narendra Modi inaugurates development projects worth ₹33,500 crore in Delhi",
+      "description": "PM Modi launched projects including Delhi Metro expansion and residential complexes to boost infrastructure.",
+      "context": "These initiatives enhance urban mobility and housing, aligning with India's development goals on International Women's Day.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "Project approvals finalized",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Inauguration ceremony in Delhi",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Focus on women's empowerment highlighted",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "Delhi",
+      "key_terms": [
+        {
+          "term": "Narendra Modi",
+          "definition": "Prime Minister of India overseeing the launch."
+        },
+        {
+          "term": "Delhi Metro",
+          "definition": "Rapid transit system in the capital."
+        }
+      ],
+      "link": "https://ddnews.gov.in/en/pm-modi-launches-development-projects-worth-%E2%82%B933500-crore-in-delhi"
+    },
+    {
+      "headline": "Indian Railways launches 'SHINE' app to empower women employees and report workplace harassment",
+      "description": "The app enables confidential reporting of harassment and support for women railway staff.",
+      "context": "This tool advances gender equity in a male-dominated sector, promoting safer workplaces nationwide.",
+      "timeline": [
+        {
+          "date": "2026-02-01",
+          "label": "Development of SHINE initiated",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "App launched on Women's Day",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Training sessions for users begin",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "SHINE app",
+          "definition": "Mobile application for harassment reporting in Indian Railways."
+        },
+        {
+          "term": "Indian Railways",
+          "definition": "State-owned railway network employing millions."
+        }
+      ],
+      "link": "https://www.thehindu.com/news/national/indian-railways-launch-shine-to-empower-women-at-workplace/article70718792.ece/amp"
+    },
+    {
+      "headline": "President Droupadi Murmu graces National Convention of Women Thought Leaders in New Delhi",
+      "description": "President Murmu addressed the convention organized by Bharatiya Vidvat Parishad, emphasizing women's roles.",
+      "context": "The event fosters intellectual leadership among women, contributing to gender parity in policy-making.",
       "timeline": [
         {
           "date": "2026-02-15",
-          "label": "National consultations on child online protection initiated",
+          "label": "Convention planning announced",
           "type": "background"
         },
         {
-          "date": "2026-03-06",
-          "label": "State announcements on social media bans for minors",
+          "date": "2026-03-08",
+          "label": "President's address delivered",
           "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Commitments for women's initiatives pledged",
+          "type": "consequence"
         }
       ],
       "importance_score": 3,
       "category": "national",
-      "region": "South India",
+      "region": "New Delhi",
       "key_terms": [
         {
-          "term": "Digital Safety for Children",
-          "definition": "Policy framework to limit minors' exposure to harmful online content"
+          "term": "Droupadi Murmu",
+          "definition": "President of India and event chief guest."
+        },
+        {
+          "term": "Bharatiya Vidvat Parishad",
+          "definition": "Organization hosting the thought leaders' convention."
         }
       ],
-      "link": "https://indianexpress.com/section/india"
+      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2236666"
     },
     {
-      "headline": "Jharkhand Headmaster Suspended Over Inappropriate Dance Video with Students",
-      "description": "A school headmaster in Jharkhand was suspended, and two para-teachers placed under inquiry following a video of them dancing to explicit songs with Class 8 students at a farewell event.",
-      "context": "The incident has sparked public outrage and renewed focus on teacher conduct and child safeguarding protocols in Indian schools, prompting swift administrative action.",
+      "headline": "PM Modi hands over keys of newly constructed GPRA Type-5 quarters to women allottees in Sarojini Nagar",
+      "description": "PM Modi distributed keys to women for modern residential units under the GPRA redevelopment.",
+      "context": "This promotes housing equity for government employees, symbolizing women's empowerment in urban development.",
       "timeline": [
         {
-          "date": "2026-03-05",
-          "label": "Video surfaces on social media",
+          "date": "2025-01-01",
+          "label": "GPRA redevelopment project starts",
           "type": "background"
         },
         {
-          "date": "2026-03-06",
-          "label": "Suspension and inquiry initiated",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 2,
-      "category": "national",
-      "region": "East India",
-      "key_terms": [
-        {
-          "term": "Child Safeguarding",
-          "definition": "Institutional measures to protect minors from exploitation in educational settings"
-        }
-      ],
-      "link": "https://indianexpress.com/section/india"
-    },
-    {
-      "headline": "Indian Railways Upgrades 42nd Vande Bharat Train to 20-Coach Capacity",
-      "description": "Two years post-launch, the 42nd Vande Bharat express train has been enhanced to accommodate 20 coaches, improving passenger capacity on its designated route.",
-      "context": "This upgrade supports India's rail modernization drive, aiming to boost efficiency and reduce travel times amid growing demand for high-speed connectivity.",
-      "timeline": [
-        {
-          "date": "2024-03-06",
-          "label": "Initial launch of Vande Bharat fleet",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-06",
-          "label": "Upgrade to 20-coach configuration",
+          "date": "2026-03-08",
+          "label": "Keys handed over to allottees",
           "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Occupancy begins for new residents",
+          "type": "consequence"
         }
       ],
       "importance_score": 3,
       "category": "national",
-      "region": "Nationwide",
+      "region": "Delhi",
       "key_terms": [
         {
-          "term": "Vande Bharat",
-          "definition": "Semi-high-speed train service enhancing intra-city connectivity"
+          "term": "GPRA",
+          "definition": "General Pool Residential Accommodation for government staff."
+        },
+        {
+          "term": "Sarojini Nagar",
+          "definition": "Locality in Delhi hosting the new quarters."
         }
       ],
-      "link": "https://indianexpress.com/section/india"
+      "link": "https://ddnews.gov.in/en/pm-modi-hands-over-gpra-type-5-quarter-keys-to-women-allottees-in-sarojini-nagar"
     },
     {
-      "headline": "Srinagar Court Rejects ED's Bid to Add Charges in JKCA Scam Case",
-      "description": "A Srinagar court blocked the Enforcement Directorate's attempt to supplement charges in the Jammu and Kashmir Cricket Association scam, citing the CBI's prior chargesheet filing.",
-      "context": "The ruling underscores jurisdictional boundaries between investigative agencies, potentially impacting ongoing probes into sports corruption in India.",
+      "headline": "'Shakti Walk #SheLeadsBharat' held at Kartavya Path to mark International Women's Day",
+      "description": "A women-led walk along Kartavya Path celebrated Nari Shakti and women's contributions to India.",
+      "context": "The event underscores government commitment to gender equality, inspiring national discourse on inclusion.",
       "timeline": [
         {
-          "date": "2023-01-01",
-          "label": "Initial JKCA scam investigation begins",
+          "date": "2026-03-06",
+          "label": "Event organization announced",
           "type": "background"
         },
         {
-          "date": "2026-03-02",
-          "label": "Court order denying ED's charge addition",
+          "date": "2026-03-08",
+          "label": "Shakti Walk conducted",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Media coverage amplifies message",
           "type": "consequence"
         }
       ],
-      "importance_score": 2,
+      "importance_score": 3,
       "category": "national",
-      "region": "North India",
+      "region": "New Delhi",
       "key_terms": [
         {
-          "term": "JKCA Scam",
-          "definition": "Financial irregularities case involving Jammu and Kashmir Cricket Association"
-        }
-      ],
-      "link": "https://indianexpress.com/section/india"
-    },
-    {
-      "headline": "Amit Shah Launches Digital Tools and Mascots for Census 2027",
-      "description": "Union Home Minister Amit Shah introduced 'Pragati' and 'Vikas' mascots alongside four digital platforms integrating satellite imagery and mobile apps for efficient Census 2027 enumeration.",
-      "context": "These innovations aim to modernize India's decennial census process, ensuring accuracy and coverage through technology amid logistical challenges.",
-      "timeline": [
-        {
-          "date": "2021-03-01",
-          "label": "Previous census delayed due to pandemic",
-          "type": "background"
+          "term": "Kartavya Path",
+          "definition": "Ceremonial boulevard in New Delhi, former Rajpath."
         },
         {
-          "date": "2026-03-06",
-          "label": "Launch of digital census tools",
-          "type": "event"
+          "term": "Nari Shakti",
+          "definition": "Hindi term for women's power and empowerment."
         }
       ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "Nationwide",
-      "key_terms": [
-        {
-          "term": "Census 2027",
-          "definition": "India's upcoming national population enumeration using advanced digital integration"
-        }
-      ],
-      "link": "https://indianexpress.com/section/india"
+      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2236675&lang=1&reg=3"
     },
     {
-      "headline": "Lok Sabha Set to Debate Resolution for Speaker Om Birla's Removal",
-      "description": "The Lok Sabha is slated to discuss a resolution by 118 Opposition MPs seeking the removal of Speaker Om Birla over alleged partisan conduct, with party whips issued for the session starting March 9.",
-      "context": "This move reflects deepening parliamentary tensions between ruling and opposition benches, potentially affecting legislative proceedings and democratic norms.",
-      "timeline": [
-        {
-          "date": "2024-06-01",
-          "label": "Initial complaints on Speaker's impartiality raised",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-06",
-          "label": "Resolution debate scheduled",
-          "type": "escalation"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "Nationwide",
-      "key_terms": [
-        {
-          "term": "Lok Sabha",
-          "definition": "Lower house of India's Parliament, site of proposed Speaker removal debate"
-        }
-      ],
-      "link": "https://www.thehindu.com/news/national/"
-    },
-    {
-      "headline": "Haryana CM's Son Secures Third Rank in UPSC Civil Services Exam",
-      "description": "Haryana Chief Minister Nayab Singh Saini's son, Akansh, achieved All India Rank 3 in the UPSC Civil Services Examination, prompting emotional celebrations.",
-      "context": "The achievement highlights the competitive nature of India's premier civil services recruitment, inspiring youth while underscoring familial influences in public service aspirants.",
-      "timeline": [
-        {
-          "date": "2025-06-01",
-          "label": "UPSC preliminary exams conducted",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-06",
-          "label": "Final results announced with Akansh Saini at AIR 3",
-          "type": "event"
-        }
-      ],
-      "importance_score": 2,
-      "category": "national",
-      "region": "North India",
-      "key_terms": [
-        {
-          "term": "UPSC",
-          "definition": "Union Public Service Commission, conducts India's top civil services recruitment"
-        }
-      ],
-      "link": "https://www.hindustantimes.com/india-news"
-    },
-    {
-      "headline": "Central Administrative Tribunal Mandates IAS Officer for Kerala Excise Commissioner Role",
-      "description": "The Central Administrative Tribunal ruled that the Kerala Excise Commissioner position must be held by an Indian Administrative Service officer, overturning prior appointments.",
-      "context": "This decision reinforces cadre-specific eligibility for key administrative posts, aiming to maintain expertise and uniformity in state governance structures.",
+      "headline": "Enforcement Directorate to challenge interim bail granted to Al-Falah chairman in money laundering probe",
+      "description": "ED will contest the bail of Al-Falah University chairman in a money laundering investigation.",
+      "context": "This action ensures accountability in financial crimes, deterring institutional involvement in laundering.",
       "timeline": [
         {
           "date": "2025-12-01",
-          "label": "Dispute over non-IAS appointment raised",
+          "label": "Probe into Al-Falah initiated",
           "type": "background"
         },
         {
-          "date": "2026-03-06",
-          "label": "CAT ruling issued",
+          "date": "2026-03-01",
+          "label": "Interim bail granted by court",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "ED announces challenge",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Enforcement Directorate",
+          "definition": "Indian agency investigating money laundering."
+        },
+        {
+          "term": "Al-Falah",
+          "definition": "University whose chairman faces probe."
+        }
+      ],
+      "link": "https://www.thehindu.com/news/national/ed-to-challenge-interim-bail-granted-to-al-falah-chairman/article70718435.ece"
+    },
+    {
+      "headline": "Second part of the Budget Session of Parliament set for a stormy start as opposition flags pollution concerns",
+      "description": "Opposition parties prepare to disrupt proceedings over air quality standards and other issues.",
+      "context": "Debates on pollution could lead to policy reforms, addressing public health in urban areas.",
+      "timeline": [
+        {
+          "date": "2026-02-01",
+          "label": "First part of Budget Session concludes",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-09",
+          "label": "Second part commences with protests",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Opposition raises pre-session demands",
+          "type": "escalation"
+        }
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "New Delhi",
+      "key_terms": [
+        {
+          "term": "Budget Session",
+          "definition": "Annual parliamentary session discussing finances."
+        },
+        {
+          "term": "National Ambient Air Quality Standards",
+          "definition": "Regulations governing air pollution limits in India."
+        }
+      ],
+      "link": "https://www.thehindu.com/news/national/second-part-of-budget-session-all-set-for-stormy-start/article70718707.ece"
+    },
+    {
+      "headline": "National Tiger Conservation Authority reports Cheetahs moving from Kuno to Rajasthan display territorial behavior",
+      "description": "Reintroduced cheetahs from Kuno National Park are showing natural territorial instincts in Rajasthan.",
+      "context": "This milestone supports India's cheetah reintroduction project, aiding biodiversity restoration.",
+      "timeline": [
+        {
+          "date": "2022-09-17",
+          "label": "First cheetahs translocated to Kuno",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-01",
+          "label": "Movement to Rajasthan observed",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "NTCA confirms territorial displays",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Monitoring intensified for adaptation",
           "type": "consequence"
         }
       ],
       "importance_score": 3,
       "category": "national",
-      "region": "South India",
+      "region": "Madhya Pradesh/Rajasthan",
       "key_terms": [
         {
-          "term": "IAS",
-          "definition": "Indian Administrative Service, elite civil service cadre for senior governance roles"
-        }
-      ],
-      "link": "https://www.hindustantimes.com/india-news"
-    },
-    {
-      "headline": "Indian Railways Achieves Near-Complete Electrification Enhancing Energy Security",
-      "description": "A report notes that Indian Railways' 100% electrification milestone bolsters national energy resilience, particularly amid global supply disruptions.",
-      "context": "The transition to electric traction reduces fossil fuel dependence, cutting costs and emissions while aligning with India's sustainable transport goals.",
-      "timeline": [
-        {
-          "date": "2020-01-01",
-          "label": "Electrification drive accelerated under national rail plan",
-          "type": "background"
+          "term": "National Tiger Conservation Authority",
+          "definition": "Indian body overseeing Project Cheetah."
         },
         {
-          "date": "2026-03-06",
-          "label": "Achievement of full network electrification confirmed",
-          "type": "event"
+          "term": "Kuno National Park",
+          "definition": "Sanctuary in Madhya Pradesh for cheetah reintroduction."
         }
       ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "Nationwide",
-      "key_terms": [
-        {
-          "term": "Railway Electrification",
-          "definition": "Conversion of rail tracks to electric power, reducing diesel usage by 100%"
-        }
-      ],
-      "link": "https://www.hindustantimes.com/india-news"
+      "link": "https://www.thehindu.com/news/national/cheetahs-moving-from-kuno-to-rajasthan-show-natural-territorial-behaviour-ntca/article70718800.ece"
     }
   ],
   "science": [
     {
-      "headline": "Climate Change Acceleration Reaches 0.35°C Per Decade, Analysis Reveals",
-      "description": "Fresh data indicates Earth's warming rate has nearly doubled to 0.35°C per decade over the past ten years, driven by intensified greenhouse gas emissions.",
-      "context": "This rapid pace exacerbates extreme weather events and sea-level rise, urging accelerated global mitigation strategies under frameworks like the Paris Agreement.",
+      "headline": "China could see brain-computer interface technology reach practical public use within 3–5 years",
+      "description": "Experts predict widespread BCI adoption in China by 2029-2031, with market reaching $809 million by 2027.",
+      "context": "Rapid BCI progress could revolutionize healthcare and human augmentation, but raises ethical and security issues.",
       "timeline": [
         {
-          "date": "2016-01-01",
-          "label": "Paris Agreement adoption sets warming limits",
+          "date": "2020",
+          "label": "China invests heavily in BCI research",
           "type": "background"
         },
         {
-          "date": "2026-03-06",
-          "label": "Publication of updated warming rate analysis",
+          "date": "2026-03-07",
+          "label": "Expert forecasts 3-5 year timeline",
           "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Greenhouse Gas Emissions",
-          "definition": "Primary drivers of global warming, including CO2 and methane from human activities"
-        }
-      ],
-      "link": "https://www.nature.com/news"
-    },
-    {
-      "headline": "Genetically Modified Pig Liver Sustains Human Patient Until Transplant",
-      "description": "A patient survived for weeks on a genetically engineered pig liver transplant, marking a milestone in xenotransplantation research.",
-      "context": "This breakthrough addresses organ shortages by adapting animal organs for human use, potentially revolutionizing transplant medicine through genetic editing techniques.",
-      "timeline": [
-        {
-          "date": "2022-01-01",
-          "label": "First pig-to-human heart transplant trials begin",
-          "type": "background"
         },
         {
-          "date": "2026-03-06",
-          "label": "Successful pig liver sustainment case reported",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Xenotransplantation",
-          "definition": "Transplantation of organs or tissues between different species, here pig to human"
-        }
-      ],
-      "link": "https://www.nature.com/news"
-    },
-    {
-      "headline": "New HIV Strategy Activates Latent Virus to Trigger Immune Response",
-      "description": "Researchers developed a method to expose hidden HIV reservoirs, forcing the virus to activate immune sensors for potential cure advancement.",
-      "context": "Current antiretroviral therapies suppress but do not eradicate HIV; this approach targets latency, offering hope for functional cures in chronic infections.",
-      "timeline": [
-        {
-          "date": "1980s-01-01",
-          "label": "HIV identified as global pandemic",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-05",
-          "label": "Immune sensor activation technique published",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Latent HIV Reservoirs",
-          "definition": "Dormant viral sites in the body evading standard treatments"
-        }
-      ],
-      "link": "https://www.sciencemag.org/news"
-    },
-    {
-      "headline": "NIH Refuses Union Recognition for Early-Career Researchers",
-      "description": "The National Institutes of Health declared lab trainees as non-employees, denying unionization rights to early-career scientists.",
-      "context": "This decision impacts labor protections for thousands in biomedical research, amid growing movements for better working conditions in US academia.",
-      "timeline": [
-        {
-          "date": "2024-01-01",
-          "label": "Union drives gain momentum in NIH labs",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-05",
-          "label": "Official refusal to recognize union",
+          "date": "2027",
+          "label": "Projected market growth to $809 million",
           "type": "consequence"
         }
       ],
-      "importance_score": 3,
+      "importance_score": 4,
       "category": "science",
-      "region": "North America",
+      "region": "Asia",
       "key_terms": [
         {
-          "term": "NIH",
-          "definition": "US National Institutes of Health, primary federal biomedical research agency"
+          "term": "Brain-computer interface",
+          "definition": "Technology enabling direct brain-device communication."
         }
       ],
-      "link": "https://www.sciencemag.org/news"
+      "link": "https://www.reuters.com/world/asia-pacific/china-could-see-widespread-use-brain-computer-tech-3-5-years-expert-says-2026-03-07"
     }
   ],
   "sports": [
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Indian Super League",
-      "match_date": "2026-03-05",
-      "venue": "Vivekananda Yuba Bharati Krirangan Stadium, Kolkata, India",
+      "tournament": "FA Cup",
+      "match_date": "2026-03-07",
+      "venue": "St. James' Park, Newcastle",
       "status": "completed",
       "teams": {
-        "home": "Mohun Bagan Super Giant",
-        "away": "Odisha FC"
-      },
-      "score": {
-        "home": "5",
-        "away": "1"
-      },
-      "result": "Mohun Bagan Super Giant defeated Odisha FC 5-1",
-      "stage": "league match",
-      "official_source": "https://www.espn.com/soccer/scoreboard"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "Indian Super League",
-      "match_date": "2026-03-05",
-      "venue": "JRD Tata Sports Complex Stadium, Jamshedpur, India",
-      "status": "completed",
-      "teams": {
-        "home": "Jamshedpur FC",
-        "away": "Inter Kashi"
+        "home": "Newcastle United",
+        "away": "Manchester City"
       },
       "score": {
         "home": "1",
-        "away": "0"
-      },
-      "result": "Jamshedpur FC defeated Inter Kashi 1-0",
-      "stage": "league match",
-      "official_source": "https://www.espn.com/soccer/scoreboard"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "Indian I-League",
-      "match_date": "2026-03-05",
-      "venue": "Rajiv Gandhi Stadium, Aizawl, India",
-      "status": "completed",
-      "teams": {
-        "home": "Aizawl FC",
-        "away": "Rajasthan United"
-      },
-      "score": {
-        "home": "3",
-        "away": "1"
-      },
-      "result": "Aizawl FC defeated Rajasthan United 3-1",
-      "stage": "league match",
-      "official_source": "https://www.espn.com/soccer/scoreboard"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "Australian A-League Men",
-      "match_date": "2026-03-05",
-      "venue": "Hindmarsh Stadium, Adelaide, Australia",
-      "status": "completed",
-      "teams": {
-        "home": "Adelaide United",
-        "away": "Wellington Phoenix FC"
-      },
-      "score": {
-        "home": "1",
-        "away": "1"
-      },
-      "result": "Adelaide United drew with Wellington Phoenix FC 1-1",
-      "stage": "league match",
-      "official_source": "https://www.espn.com/soccer/scoreboard"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "AFC Women's Asian Cup",
-      "match_date": "2026-03-05",
-      "venue": "CommBank Stadium, Sydney, Australia",
-      "status": "completed",
-      "teams": {
-        "home": "Uzbekistan",
-        "away": "China"
-      },
-      "score": {
-        "home": "0",
         "away": "3"
       },
-      "result": "China defeated Uzbekistan 3-0",
-      "stage": "group stage",
-      "official_source": "https://www.espn.com/soccer/scoreboard"
+      "result": "Manchester City wins",
+      "stage": "Fifth Round",
+      "official_source": "beinsports.com"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Chinese Super League",
-      "match_date": "2026-03-05",
-      "venue": "Chengdu Phoenix Mountain Sports Park, Chengdu, China PR",
+      "tournament": "FA Cup",
+      "match_date": "2026-03-07",
+      "venue": "Racecourse Ground, Wrexham",
       "status": "completed",
       "teams": {
-        "home": "Chengdu Rongcheng",
-        "away": "Shenzhen Xinpengcheng"
+        "home": "Wrexham",
+        "away": "Chelsea"
       },
       "score": {
-        "home": "5",
-        "away": "1"
-      },
-      "result": "Chengdu Rongcheng defeated Shenzhen Xinpengcheng 5-1",
-      "stage": "league match",
-      "official_source": "https://www.espn.com/soccer/scoreboard"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "Indonesian Super League",
-      "match_date": "2026-03-05",
-      "venue": "Kanjuruhan Stadium, Malang Regency, Indonesia",
-      "status": "completed",
-      "teams": {
-        "home": "Arema Indonesia",
-        "away": "Bali United"
-      },
-      "score": {
-        "home": "3",
+        "home": "2",
         "away": "4"
       },
-      "result": "Bali United defeated Arema Indonesia 4-3",
-      "stage": "league match",
-      "official_source": "https://www.espn.com/soccer/scoreboard"
+      "result": "Chelsea wins (AET)",
+      "stage": "Fifth Round",
+      "official_source": "chelseafc.com"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "FA Cup",
+      "match_date": "2026-03-07",
+      "venue": "Field Mill, Mansfield",
+      "status": "completed",
+      "teams": {
+        "home": "Mansfield Town",
+        "away": "Arsenal"
+      },
+      "score": {
+        "home": "1",
+        "away": "2"
+      },
+      "result": "Arsenal wins",
+      "stage": "Fifth Round",
+      "official_source": "beinsports.com"
+    },
+    {
+      "category": "sports",
+      "sport": "cricket",
+      "tournament": "ICC T20 World Cup",
+      "match_date": "2026-03-08",
+      "venue": "",
+      "status": "completed",
+      "teams": {
+        "home": "India",
+        "away": "New Zealand"
+      },
+      "score": {
+        "home": "255/5",
+        "away": "159"
+      },
+      "result": "India wins",
+      "stage": "Super 12",
+      "official_source": "en.wikipedia.org"
     }
   ]
 }
