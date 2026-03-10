@@ -1,144 +1,185 @@
 {
+  "date": "2026-03-10",
   "questions": [
     {
-      "id": "1",
-      "question": "Which country hosted the COP28 climate summit in late 2023, with global climate policy discussions continuing into 2025–2026?",
-      "options": ["Germany", "United Arab Emirates", "Brazil", "India"],
+      "id": "q_01",
+      "question": "What strategic objective is most directly associated with the heaviest U.S.–Israeli bombing campaign against Iran reported on March 10?",
+      "options": [
+        "To secure maritime trade routes in the Red Sea",
+        "To force Iran to negotiate through overwhelming military pressure",
+        "To prevent Russia from supplying weapons to Iran",
+        "To establish permanent NATO bases in the Gulf"
+      ],
       "correct_index": 1,
-      "explanation": "COP28 was hosted in Dubai, UAE, where global leaders discussed fossil fuel transition and climate financing."
+      "explanation": "The strikes represent a strategic attempt by Washington and Tel Aviv to pressure Tehran into negotiations through intensified military force."
     },
     {
-      "id": "2",
-      "question": "Which company became the world's most valuable semiconductor manufacturer during the AI chip boom?",
-      "options": ["Intel", "NVIDIA", "TSMC", "AMD"],
+      "id": "q_02",
+      "question": "Which concept best explains the contradiction between falling oil prices and escalating military strikes in the Iran conflict?",
+      "options": [
+        "Commodity hedging equilibrium",
+        "Market-military disconnect",
+        "Supply elasticity inversion",
+        "Fiscal contraction pressure"
+      ],
       "correct_index": 1,
-      "explanation": "NVIDIA surged in valuation due to massive demand for GPUs used in AI model training."
+      "explanation": "Oil markets were pricing in a ceasefire even while military escalation continued, reflecting a market-military disconnect."
     },
     {
-      "id": "3",
-      "question": "Which conflict region has seen continued ceasefire negotiations mediated by multiple countries in recent global diplomacy efforts?",
-      "options": ["Korean Peninsula", "Middle East (Israel–Gaza)", "South America", "Antarctica"],
-      "correct_index": 1,
-      "explanation": "The Israel–Gaza conflict has remained a major international diplomatic focus."
-    },
-    {
-      "id": "4",
-      "question": "Which organization regulates global monetary cooperation and frequently publishes global growth forecasts?",
-      "options": ["UNESCO", "IMF", "WHO", "NATO"],
-      "correct_index": 1,
-      "explanation": "The International Monetary Fund (IMF) publishes global economic outlook reports."
-    },
-    {
-      "id": "5",
-      "question": "Which space agency launched the Artemis program to return humans to the Moon?",
-      "options": ["ISRO", "NASA", "ESA", "JAXA"],
-      "correct_index": 1,
-      "explanation": "NASA’s Artemis program aims to establish long-term human presence on the Moon."
-    },
-    {
-      "id": "6",
-      "question": "Which technology trend has driven massive investment in data centers worldwide?",
-      "options": ["Blockchain gaming", "Artificial Intelligence", "DVD streaming", "MP3 players"],
-      "correct_index": 1,
-      "explanation": "AI infrastructure demand has accelerated global data-center construction."
-    },
-    {
-      "id": "7",
-      "question": "Which country recently became the most populous nation in the world?",
-      "options": ["United States", "China", "India", "Indonesia"],
+      "id": "q_03",
+      "question": "According to internal estimates, how much did the first 48 hours of U.S. military operations against Iran cost?",
+      "options": [
+        "$2.1 billion",
+        "$3.8 billion",
+        "$5.6 billion",
+        "$9.4 billion"
+      ],
       "correct_index": 2,
-      "explanation": "India surpassed China in population according to UN estimates."
+      "explanation": "U.S. government estimates indicate the first two days of the conflict consumed about $5.6 billion in operational costs."
     },
     {
-      "id": "8",
-      "question": "Which global sporting event is scheduled to be hosted by the United States, Canada, and Mexico?",
-      "options": ["Olympics 2028", "FIFA World Cup 2026", "Cricket World Cup", "Asian Games"],
+      "id": "q_04",
+      "question": "Why did the Tomahawk missile strike near a school in Iran raise international legal concerns?",
+      "options": [
+        "Tomahawk missiles are prohibited by international treaties",
+        "The strike involved chemical weapons",
+        "Civilian casualties raised questions about compliance with the laws of armed conflict",
+        "The missile was launched from a NATO base"
+      ],
+      "correct_index": 2,
+      "explanation": "The strike killed over 165 civilians near a school, raising concerns about collateral damage and compliance with international humanitarian law."
+    },
+    {
+      "id": "q_05",
+      "question": "Which legal classification did a UN inquiry apply to Russia's deportation of Ukrainian children?",
+      "options": [
+        "War reparations violations",
+        "Crimes against humanity",
+        "Genocide",
+        "Illegal military occupation"
+      ],
       "correct_index": 1,
-      "explanation": "The FIFA World Cup 2026 will be jointly hosted by the U.S., Canada, and Mexico."
+      "explanation": "The UN inquiry concluded that systematic deportation and relocation of Ukrainian children constituted crimes against humanity."
     },
     {
-      "id": "9",
-      "question": "Which central bank controls monetary policy in the United States?",
-      "options": ["Federal Reserve", "World Bank", "Treasury Department", "SEC"],
+      "id": "q_06",
+      "question": "Human Rights Watch accused Israel of illegally using which type of weapon in populated areas of southern Lebanon?",
+      "options": [
+        "Cluster munitions",
+        "White phosphorus",
+        "Depleted uranium shells",
+        "Thermobaric bombs"
+      ],
+      "correct_index": 1,
+      "explanation": "Human Rights Watch documented Israel's use of white phosphorus munitions in populated areas, which may violate international humanitarian law."
+    },
+    {
+      "id": "q_07",
+      "question": "Why did India increase its imports of Russian oil despite previous pressure from the United States?",
+      "options": [
+        "Sanctions on Middle Eastern oil exporters",
+        "Collapse of domestic Indian oil production",
+        "Disruption of Gulf oil supplies due to the Iran conflict",
+        "A new trade agreement with Russia"
+      ],
+      "correct_index": 2,
+      "explanation": "The Iran conflict disrupted Gulf oil supplies, forcing India to increase Russian oil imports despite U.S. pressure."
+    },
+    {
+      "id": "q_08",
+      "question": "Which mechanism helped drive oil prices down from nearly $120 to below $90 per barrel during the Iran conflict?",
+      "options": [
+        "Release of strategic petroleum reserves",
+        "Expansion of OPEC production quotas",
+        "European Union energy subsidies",
+        "Closure of Asian refineries"
+      ],
       "correct_index": 0,
-      "explanation": "The Federal Reserve sets interest rates and manages U.S. monetary policy."
+      "explanation": "Major consuming nations released strategic petroleum reserves and markets anticipated a ceasefire, driving prices lower."
     },
     {
-      "id": "10",
-      "question": "Which renewable energy source has seen the fastest global installation growth recently?",
-      "options": ["Coal", "Solar power", "Oil", "Diesel"],
-      "correct_index": 1,
-      "explanation": "Solar energy installations have grown rapidly due to falling costs and policy incentives."
+      "id": "q_09",
+      "question": "Which militant group was identified by Human Rights Watch as responsible for killing truck drivers in Mali?",
+      "options": [
+        "Islamic State West Africa Province",
+        "Boko Haram",
+        "Jama'at Nasr al-Islam wal Muslimin",
+        "Ansar al-Sharia"
+      ],
+      "correct_index": 2,
+      "explanation": "The Al Qaeda-linked group Jama'at Nasr al-Islam wal Muslimin was blamed for coordinated attacks on commercial convoys."
     },
     {
-      "id": "11",
-      "question": "Which country successfully landed the Chandrayaan-3 mission near the Moon’s south pole?",
-      "options": ["China", "India", "USA", "Russia"],
+      "id": "q_10",
+      "question": "Why is Turkey considered a credible mediator in Russia–Ukraine negotiations?",
+      "options": [
+        "It is a NATO member that imposed sanctions on Russia",
+        "It maintains diplomatic relations with both Russia and Ukraine",
+        "It controls all major Black Sea shipping routes",
+        "It provides the largest financial aid package to Ukraine"
+      ],
       "correct_index": 1,
-      "explanation": "India became the first country to land near the lunar south pole with Chandrayaan-3."
+      "explanation": "Turkey maintains diplomatic ties with both Moscow and Kyiv, making it a viable mediator for trilateral peace talks."
     },
     {
-      "id": "12",
-      "question": "Which organization governs international football competitions?",
-      "options": ["IOC", "FIFA", "UEFA", "ICC"],
+      "id": "q_11",
+      "question": "What is the primary objective of India's Jal Jeevan Mission extension to 2028?",
+      "options": [
+        "To build desalination plants across coastal regions",
+        "To provide universal rural piped drinking water access",
+        "To privatize India's water distribution infrastructure",
+        "To reduce groundwater extraction in urban areas"
+      ],
       "correct_index": 1,
-      "explanation": "FIFA organizes the Football World Cup and oversees global football governance."
+      "explanation": "The Jal Jeevan Mission aims to provide functional household tap connections delivering safe drinking water to rural households."
     },
     {
-      "id": "13",
-      "question": "Which global tech company is known for developing the GPT series of AI models?",
-      "options": ["Google", "OpenAI", "Meta", "Amazon"],
+      "id": "q_12",
+      "question": "Why did the Indian stock market enter a correction zone during the Iran conflict?",
+      "options": [
+        "Technology sector layoffs in India",
+        "Concerns about rising oil prices and imported inflation",
+        "A banking sector liquidity crisis",
+        "Restrictions on foreign direct investment"
+      ],
       "correct_index": 1,
-      "explanation": "OpenAI developed the GPT family of large language models."
+      "explanation": "India's dependence on imported oil means rising global prices increase inflation risks and pressure equity markets."
     },
     {
-      "id": "14",
-      "question": "Which country is the largest producer of crude oil globally?",
-      "options": ["Saudi Arabia", "United States", "Russia", "Iran"],
-      "correct_index": 1,
-      "explanation": "The United States has led global oil production in recent years."
+      "id": "q_13",
+      "question": "What monetary policy tool did the Reserve Bank of India use to inject ₹50,000 crore of liquidity into the financial system?",
+      "options": [
+        "Quantitative easing",
+        "Foreign exchange swaps",
+        "Open Market Operations",
+        "Reverse repo auctions"
+      ],
+      "correct_index": 2,
+      "explanation": "The RBI purchased government securities through Open Market Operations to inject liquidity into the banking system."
     },
     {
-      "id": "15",
-      "question": "Which organization conducts global public-health emergency coordination?",
-      "options": ["UNICEF", "WHO", "WTO", "ILO"],
-      "correct_index": 1,
-      "explanation": "The World Health Organization coordinates global health responses."
+      "id": "q_14",
+      "question": "Why did the Indian government prioritize natural gas allocation to CNG and LPG sectors under the Essential Commodities Act?",
+      "options": [
+        "To support export industries",
+        "To stabilize the domestic stock market",
+        "To protect essential fuel supplies during global energy disruptions",
+        "To reduce coal imports"
+      ],
+      "correct_index": 2,
+      "explanation": "The government prioritized CNG and LPG supply to protect household cooking fuel and transportation during energy disruptions."
     },
     {
-      "id": "16",
-      "question": "Which country hosted the G20 Summit in 2023, influencing ongoing global economic discussions?",
-      "options": ["Japan", "India", "Italy", "Australia"],
+      "id": "q_15",
+      "question": "Why is access to Nvidia's H100 and B200 GPUs strategically important for AI startups like Thinking Machines?",
+      "options": [
+        "They reduce internet latency in cloud networks",
+        "They provide high-performance computing necessary for training large AI models",
+        "They allow AI systems to operate without datasets",
+        "They eliminate the need for data centers"
+      ],
       "correct_index": 1,
-      "explanation": "India hosted the G20 Summit in New Delhi."
-    },
-    {
-      "id": "17",
-      "question": "Which electric-vehicle company has remained a global market leader in EV sales?",
-      "options": ["Ford", "Tesla", "Toyota", "Honda"],
-      "correct_index": 1,
-      "explanation": "Tesla continues to be a major leader in global EV adoption."
-    },
-    {
-      "id": "18",
-      "question": "Which currency is used across most European Union countries?",
-      "options": ["Pound", "Euro", "Dollar", "Franc"],
-      "correct_index": 1,
-      "explanation": "The euro is the common currency of the Eurozone."
-    },
-    {
-      "id": "19",
-      "question": "Which organization regulates international trade rules?",
-      "options": ["IMF", "WTO", "UNDP", "OECD"],
-      "correct_index": 1,
-      "explanation": "The World Trade Organization sets rules for global trade."
-    },
-    {
-      "id": "20",
-      "question": "Which technology sector has driven stock-market growth due to AI infrastructure demand?",
-      "options": ["Textiles", "Semiconductors", "Agriculture", "Shipping"],
-      "correct_index": 1,
-      "explanation": "Semiconductor companies have surged due to AI computing demand."
+      "explanation": "Advanced GPUs such as Nvidia's H100 and B200 provide the massive parallel computing power required for training large-scale AI models."
     }
   ]
 }
