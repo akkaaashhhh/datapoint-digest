@@ -1,727 +1,449 @@
 {
   "world": [
     {
-      "headline": "Trump signals plans to escalate attacks on Iran",
-      "description": "US President Donald Trump indicated intentions to intensify military actions against Iran over the weekend, amid ongoing conflict.",
-      "context": "This escalation risks broadening the Middle East war, potentially involving more regional actors and disrupting global energy supplies.",
-      "timeline": [
-        {
-          "date": "2026-03-01",
-          "label": "Initial US-Israel strikes begin following Khamenei's death",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-07",
-          "label": "Intensified aerial campaigns across Iran",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Trump announces plans for further attacks",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Iran vows continued retaliation, raising civilian risks",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Donald Trump",
-          "definition": "President of the United States leading the military response."
-        },
-        {
-          "term": "Iran",
-          "definition": "Islamic Republic targeted in the ongoing conflict."
-        }
-      ],
-      "link": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-07-26?post-id=cmmglic7n00023b6tc231o2xz"
-    },
-    {
-      "headline": "Israel strikes oil storage depots in Tehran for first time",
-      "description": "Israeli forces targeted four oil storage facilities and a production center in Tehran and Alborz, causing large fires and killing four.",
-      "context": "Targeting energy infrastructure could cripple Iran's economy and fuel global oil price spikes, prolonging the humanitarian crisis.",
-      "timeline": [
-        {
-          "date": "2026-03-01",
-          "label": "War initiation with initial bombings",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-07",
-          "label": "Shift to critical infrastructure attacks",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "First strikes on Tehran's oil depots",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Fires and smoke engulf capital, disrupting supplies",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Tehran",
-          "definition": "Capital city of Iran, site of the strikes."
-        },
-        {
-          "term": "Oil storage depots",
-          "definition": "Facilities storing petroleum products essential for Iran's energy sector."
-        },
-        {
-          "term": "Alborz",
-          "definition": "Province near Tehran housing additional targets."
-        }
-      ],
-      "link": "https://www.aljazeera.com/news/2026/3/8/israel-strikes-irans-oil-facilities-for-first-time-as-war-enters-ninth-day"
-    },
-    {
-      "headline": "Iran nears decision on new supreme leader after Khamenei's death",
-      "description": "Iran's Assembly of Experts is finalizing the selection of a successor to Ayatollah Ali Khamenei, amid wartime leadership vacuum.",
-      "context": "The choice of leader will shape Iran's response to the war and internal stability, influencing regional alliances.",
+      "headline": "Iran hardliners rally behind new leader, unsettling global markets",
+      "description": "Iranian hardline factions, including the Revolutionary Guards, have publicly rallied behind a newly appointed leader, issuing warnings to ships against passage through the Strait of Hormuz amid escalating US-Iran tensions.",
+      "context": "This show of unity among hardliners signals potential for prolonged conflict, threatening global oil supplies and driving market volatility as investors brace for supply disruptions.",
       "timeline": [
         {
           "date": "2026-02-28",
-          "label": "Death of Supreme Leader Ayatollah Ali Khamenei",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-01",
-          "label": "Assembly convenes emergency sessions",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Consensus reached on successor candidate",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Israel threatens to target new leader",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Assembly of Experts",
-          "definition": "Iranian body responsible for selecting the Supreme Leader."
-        },
-        {
-          "term": "Ayatollah Ali Khamenei",
-          "definition": "Former Supreme Leader of Iran whose death triggered the succession."
-        }
-      ],
-      "link": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-08-26?post-id=cmmheqp7x00043b6qo0qfndw9"
-    },
-    {
-      "headline": "Iranians face fuel shortages in Tehran after US-Israel strikes",
-      "description": "Overnight strikes on storage tanks have disrupted fuel distribution in Tehran, leading to widespread shortages.",
-      "context": "This exacerbates civilian suffering in the war-torn capital, potentially sparking unrest and hindering military logistics.",
-      "timeline": [
-        {
-          "date": "2026-03-01",
-          "label": "Onset of US-Israel air campaign",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Strikes hit fuel infrastructure",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Governor reports distribution disruptions",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Civilians queue amid black market surge",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Tehran",
-          "definition": "Iran's capital experiencing acute fuel crisis."
-        },
-        {
-          "term": "US-Israel strikes",
-          "definition": "Joint military operations targeting Iranian assets."
-        }
-      ],
-      "link": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-08-26"
-    },
-    {
-      "headline": "Iran's president threatens more attacks on US targets",
-      "description": "President Masoud Pezeshkian warned of escalated strikes on American bases across the Middle East in response to ongoing bombings.",
-      "context": "Such threats could draw in US allies, escalating to a wider regional conflict with severe global repercussions.",
-      "timeline": [
-        {
-          "date": "2026-03-01",
-          "label": "US-Israel commence operations",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-07",
-          "label": "Iran launches initial retaliatory drones",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "President issues direct threat",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Attacks hit Gulf states, killing civilians",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Masoud Pezeshkian",
-          "definition": "President of Iran vowing retaliation."
-        },
-        {
-          "term": "US targets",
-          "definition": "American military installations in the region."
-        }
-      ],
-      "link": "https://apnews.com/live/iran-war-israel-trump-03-08-2026"
-    },
-    {
-      "headline": "Bahrain desalination plant struck by Iranian drone",
-      "description": "An Iranian drone caused material damage to a key water desalination plant in Bahrain, injuring three and threatening supplies.",
-      "context": "Attacks on water infrastructure highlight Iran's asymmetric warfare, risking humanitarian disasters in water-scarce Gulf.",
-      "timeline": [
-        {
-          "date": "2026-03-01",
-          "label": "Iran begins drone campaigns against Gulf allies",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Drone targets Bahrain facility",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Damage assessed, injuries reported",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Desalination plant",
-          "definition": "Facility converting seawater to freshwater, vital for Bahrain."
-        },
-        {
-          "term": "Iranian drone",
-          "definition": "Unmanned aerial vehicle used in retaliatory strikes."
-        }
-      ],
-      "link": "https://www.aljazeera.com/news/2026/3/8/bahrain-says-water-desalination-plant-damaged-in-iranian-drone-attack"
-    },
-    {
-      "headline": "Iran's Assembly of Experts reaches consensus on Khamenei's successor",
-      "description": "The Assembly selected a candidate advised by the late Khamenei to be 'hated by the enemy' as the next Supreme Leader.",
-      "context": "This wartime succession aims to maintain regime continuity but invites external threats to the new leadership.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "Khamenei's death announced",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-05",
-          "label": "Deliberations intensify amid war",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Consensus achieved on successor",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Foreign minister notes uncertainty in announcement",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Assembly of Experts",
-          "definition": "Constitutional body electing Iran's Supreme Leader."
-        },
-        {
-          "term": "Supreme Leader",
-          "definition": "Highest authority in Iran's theocratic government."
-        }
-      ],
-      "link": "https://www.aljazeera.com/news/2026/3/8/irans-assembly-of-experts-says-consensus-reached-on-khameneis-successor"
-    },
-    {
-      "headline": "US chose war with Iran and must decide how to end it",
-      "description": "Analysis urges the US to define clear objectives and exit strategy as the conflict enters its ninth day.",
-      "context": "Indefinite engagement drains resources and risks broader escalation, affecting global stability.",
-      "timeline": [
-        {
-          "date": "2026-03-01",
-          "label": "US commits to strikes",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Calls for endgame strategy emerge",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Iran warns of hitting US bases",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Iran war",
-          "definition": "Ongoing US-led military campaign against Iran."
-        }
-      ],
-      "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682"
-    },
-    {
-      "headline": "Adam Smith's lessons for the global economy in 2026",
-      "description": "Marking 250 years of 'Wealth of Nations', experts revisit Smith's ideas on taxes, tariffs, and monopolies amid current crises.",
-      "context": "Smith's principles offer timeless guidance for addressing inequality and trade wars in today's volatile economy.",
-      "timeline": [
-        {
-          "date": "1776",
-          "label": "Publication of 'The Wealth of Nations'",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "250th anniversary reflections published",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Relevance to modern policies discussed",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 3,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Adam Smith",
-          "definition": "18th-century economist and philosopher, author of 'The Wealth of Nations'."
-        },
-        {
-          "term": "Wealth of Nations",
-          "definition": "Foundational text on free markets and division of labor."
-        }
-      ],
-      "link": "https://www.reuters.com/business/media-telecom/1776-2026-adam-smiths-lessons-global-economy-2026-03-08"
-    },
-    {
-      "headline": "OpenAI hardware leader resigns after Pentagon deal",
-      "description": "Caitlin Kalinowski, OpenAI's hardware overseer, resigned citing ethical concerns over a military contract.",
-      "context": "The departure highlights tensions between AI advancement and defense applications, impacting tech-military ties.",
-      "timeline": [
-        {
-          "date": "2026-03-03",
-          "label": "OpenAI signs deal with Pentagon",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-07",
-          "label": "Resignation announced publicly",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Discussions on AI ethics intensify",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "North America",
-      "key_terms": [
-        {
-          "term": "OpenAI",
-          "definition": "AI research company involved in hardware development."
-        },
-        {
-          "term": "Pentagon",
-          "definition": "US Department of Defense headquarters."
-        },
-        {
-          "term": "Caitlin Kalinowski",
-          "definition": "Former head of hardware at OpenAI."
-        }
-      ],
-      "link": "https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07"
-    }
-  ],
-  "national": [
-    {
-      "headline": "Prime Minister Narendra Modi inaugurates development projects worth ₹33,500 crore in Delhi",
-      "description": "PM Modi launched projects including Delhi Metro expansion and residential complexes to boost infrastructure.",
-      "context": "These initiatives enhance urban mobility and housing, aligning with India's development goals on International Women's Day.",
-      "timeline": [
-        {
-          "date": "2026-03-01",
-          "label": "Project approvals finalized",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Inauguration ceremony in Delhi",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Focus on women's empowerment highlighted",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "Delhi",
-      "key_terms": [
-        {
-          "term": "Narendra Modi",
-          "definition": "Prime Minister of India overseeing the launch."
-        },
-        {
-          "term": "Delhi Metro",
-          "definition": "Rapid transit system in the capital."
-        }
-      ],
-      "link": "https://ddnews.gov.in/en/pm-modi-launches-development-projects-worth-%E2%82%B933500-crore-in-delhi"
-    },
-    {
-      "headline": "Indian Railways launches 'SHINE' app to empower women employees and report workplace harassment",
-      "description": "The app enables confidential reporting of harassment and support for women railway staff.",
-      "context": "This tool advances gender equity in a male-dominated sector, promoting safer workplaces nationwide.",
-      "timeline": [
-        {
-          "date": "2026-02-01",
-          "label": "Development of SHINE initiated",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "App launched on Women's Day",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Training sessions for users begin",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "SHINE app",
-          "definition": "Mobile application for harassment reporting in Indian Railways."
-        },
-        {
-          "term": "Indian Railways",
-          "definition": "State-owned railway network employing millions."
-        }
-      ],
-      "link": "https://www.thehindu.com/news/national/indian-railways-launch-shine-to-empower-women-at-workplace/article70718792.ece/amp"
-    },
-    {
-      "headline": "President Droupadi Murmu graces National Convention of Women Thought Leaders in New Delhi",
-      "description": "President Murmu addressed the convention organized by Bharatiya Vidvat Parishad, emphasizing women's roles.",
-      "context": "The event fosters intellectual leadership among women, contributing to gender parity in policy-making.",
-      "timeline": [
-        {
-          "date": "2026-02-15",
-          "label": "Convention planning announced",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "President's address delivered",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Commitments for women's initiatives pledged",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "New Delhi",
-      "key_terms": [
-        {
-          "term": "Droupadi Murmu",
-          "definition": "President of India and event chief guest."
-        },
-        {
-          "term": "Bharatiya Vidvat Parishad",
-          "definition": "Organization hosting the thought leaders' convention."
-        }
-      ],
-      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2236666"
-    },
-    {
-      "headline": "PM Modi hands over keys of newly constructed GPRA Type-5 quarters to women allottees in Sarojini Nagar",
-      "description": "PM Modi distributed keys to women for modern residential units under the GPRA redevelopment.",
-      "context": "This promotes housing equity for government employees, symbolizing women's empowerment in urban development.",
-      "timeline": [
-        {
-          "date": "2025-01-01",
-          "label": "GPRA redevelopment project starts",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Keys handed over to allottees",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Occupancy begins for new residents",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "Delhi",
-      "key_terms": [
-        {
-          "term": "GPRA",
-          "definition": "General Pool Residential Accommodation for government staff."
-        },
-        {
-          "term": "Sarojini Nagar",
-          "definition": "Locality in Delhi hosting the new quarters."
-        }
-      ],
-      "link": "https://ddnews.gov.in/en/pm-modi-hands-over-gpra-type-5-quarter-keys-to-women-allottees-in-sarojini-nagar"
-    },
-    {
-      "headline": "'Shakti Walk #SheLeadsBharat' held at Kartavya Path to mark International Women's Day",
-      "description": "A women-led walk along Kartavya Path celebrated Nari Shakti and women's contributions to India.",
-      "context": "The event underscores government commitment to gender equality, inspiring national discourse on inclusion.",
-      "timeline": [
-        {
-          "date": "2026-03-06",
-          "label": "Event organization announced",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Shakti Walk conducted",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Media coverage amplifies message",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "New Delhi",
-      "key_terms": [
-        {
-          "term": "Kartavya Path",
-          "definition": "Ceremonial boulevard in New Delhi, former Rajpath."
-        },
-        {
-          "term": "Nari Shakti",
-          "definition": "Hindi term for women's power and empowerment."
-        }
-      ],
-      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2236675&lang=1&reg=3"
-    },
-    {
-      "headline": "Enforcement Directorate to challenge interim bail granted to Al-Falah chairman in money laundering probe",
-      "description": "ED will contest the bail of Al-Falah University chairman in a money laundering investigation.",
-      "context": "This action ensures accountability in financial crimes, deterring institutional involvement in laundering.",
-      "timeline": [
-        {
-          "date": "2025-12-01",
-          "label": "Probe into Al-Falah initiated",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-01",
-          "label": "Interim bail granted by court",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "ED announces challenge",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Enforcement Directorate",
-          "definition": "Indian agency investigating money laundering."
-        },
-        {
-          "term": "Al-Falah",
-          "definition": "University whose chairman faces probe."
-        }
-      ],
-      "link": "https://www.thehindu.com/news/national/ed-to-challenge-interim-bail-granted-to-al-falah-chairman/article70718435.ece"
-    },
-    {
-      "headline": "Second part of the Budget Session of Parliament set for a stormy start as opposition flags pollution concerns",
-      "description": "Opposition parties prepare to disrupt proceedings over air quality standards and other issues.",
-      "context": "Debates on pollution could lead to policy reforms, addressing public health in urban areas.",
-      "timeline": [
-        {
-          "date": "2026-02-01",
-          "label": "First part of Budget Session concludes",
+          "label": "Appointment of new hardline leader",
           "type": "background"
         },
         {
           "date": "2026-03-09",
-          "label": "Second part commences with protests",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Opposition raises pre-session demands",
+          "label": "Public rally and Strait warnings issued",
           "type": "escalation"
         }
       ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "New Delhi",
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East",
       "key_terms": [
         {
-          "term": "Budget Session",
-          "definition": "Annual parliamentary session discussing finances."
+          "term": "Revolutionary Guards",
+          "definition": "Iran's elite military force responsible for protecting the Islamic Republic and enforcing ideological purity."
         },
         {
-          "term": "National Ambient Air Quality Standards",
-          "definition": "Regulations governing air pollution limits in India."
+          "term": "Strait of Hormuz",
+          "definition": "Narrow waterway connecting the Persian Gulf to the Arabian Sea, through which 20% of global oil passes."
         }
       ],
-      "link": "https://www.thehindu.com/news/national/second-part-of-budget-session-all-set-for-stormy-start/article70718707.ece"
+      "link": "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-tell-ships-passage-through-strait-hormuz-not-allowed-2026-02-28"
     },
     {
-      "headline": "National Tiger Conservation Authority reports Cheetahs moving from Kuno to Rajasthan display territorial behavior",
-      "description": "Reintroduced cheetahs from Kuno National Park are showing natural territorial instincts in Rajasthan.",
-      "context": "This milestone supports India's cheetah reintroduction project, aiding biodiversity restoration.",
+      "headline": "LIVE Pentagon identifies seventh US service member killed in Iran war",
+      "description": "The Pentagon has identified the seventh US service member killed in ongoing military operations against Iran, highlighting the rising human cost of the conflict.",
+      "context": "This casualty underscores the intensifying ground engagements, potentially eroding public support for the war and pressuring US leadership to seek diplomatic resolutions.",
       "timeline": [
         {
-          "date": "2022-09-17",
-          "label": "First cheetahs translocated to Kuno",
+          "date": "2026-03-01",
+          "label": "Initial US strikes on Iranian targets",
           "type": "background"
         },
         {
-          "date": "2026-02-01",
-          "label": "Movement to Rajasthan observed",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "NTCA confirms territorial displays",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Monitoring intensified for adaptation",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "Madhya Pradesh/Rajasthan",
-      "key_terms": [
-        {
-          "term": "National Tiger Conservation Authority",
-          "definition": "Indian body overseeing Project Cheetah."
-        },
-        {
-          "term": "Kuno National Park",
-          "definition": "Sanctuary in Madhya Pradesh for cheetah reintroduction."
-        }
-      ],
-      "link": "https://www.thehindu.com/news/national/cheetahs-moving-from-kuno-to-rajasthan-show-natural-territorial-behaviour-ntca/article70718800.ece"
-    }
-  ],
-  "science": [
-    {
-      "headline": "China could see brain-computer interface technology reach practical public use within 3–5 years",
-      "description": "Experts predict widespread BCI adoption in China by 2029-2031, with market reaching $809 million by 2027.",
-      "context": "Rapid BCI progress could revolutionize healthcare and human augmentation, but raises ethical and security issues.",
-      "timeline": [
-        {
-          "date": "2020",
-          "label": "China invests heavily in BCI research",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-07",
-          "label": "Expert forecasts 3-5 year timeline",
-          "type": "event"
-        },
-        {
-          "date": "2027",
-          "label": "Projected market growth to $809 million",
+          "date": "2026-03-09",
+          "label": "Seventh service member identified",
           "type": "consequence"
         }
       ],
       "importance_score": 4,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Pentagon",
+          "definition": "Headquarters of the US Department of Defense, overseeing military operations."
+        }
+      ],
+      "link": "https://apnews.com/live/iran-war-israel-trump-khamenei-03-09-2026"
+    },
+    {
+      "headline": "Almost 700,000 displaced in Lebanon as war enters second week",
+      "description": "Nearly 700,000 people, including 200,000 children, have been displaced in Lebanon due to intensified Israeli raids linked to the broader Iran conflict entering its second week.",
+      "context": "The humanitarian crisis strains regional resources and risks destabilizing neighboring countries, amplifying calls for international intervention.",
+      "timeline": [
+        {
+          "date": "2026-02-24",
+          "label": "War initiation in Lebanon",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-09",
+          "label": "Displacement reaches 700,000",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Hezbollah",
+          "definition": "Lebanese Shia militant group and political party involved in regional conflicts."
+        },
+        {
+          "term": "UNICEF",
+          "definition": "UN agency focused on children's welfare and humanitarian aid."
+        }
+      ],
+      "link": "https://www.reuters.com/world/middle-east/hezbollah-reports-israeli-raid-east-lebanon-war-enters-second-week-2026-03-09"
+    },
+    {
+      "headline": "New footage raises likelihood the US struck an Iranian school where a blast killed at least 165",
+      "description": "Emerging video evidence suggests a US airstrike targeted a school in Minab, Iran, resulting in at least 165 deaths, prompting investigations into potential war crimes.",
+      "context": "Confirmation of civilian casualties could fuel anti-US sentiment globally and complicate diplomatic efforts to de-escalate the conflict.",
+      "timeline": [
+        {
+          "date": "2026-03-05",
+          "label": "Airstrike on Minab facility",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-09",
+          "label": "Footage release and investigations begin",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Minab",
+          "definition": "City in southern Iran near the Strait of Hormuz."
+        }
+      ],
+      "link": "https://apnews.com/article/iran-war-strike-school-minab-us-3f55b6ca193a3295bef5735a45a06368"
+    },
+    {
+      "headline": "At least 10 killed in Ukraine’s Kharkiv as Russian missile hits apartment building",
+      "description": "A Russian missile struck a residential apartment building in Kharkiv, Ukraine, killing at least 10 civilians and injuring dozens more.",
+      "context": "This attack highlights the ongoing civilian toll of the Russia-Ukraine war, intensifying international pressure for ceasefires amid parallel global conflicts.",
+      "timeline": [
+        {
+          "date": "2022-02-24",
+          "label": "Russian invasion begins",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-09",
+          "label": "Missile strike on Kharkiv apartments",
+          "type": "escalation"
+        }
+      ],
+      "importance_score": 3,
+      "category": "world",
+      "region": "Europe",
+      "key_terms": [
+        {
+          "term": "Kharkiv",
+          "definition": "Major city in northeastern Ukraine near the Russian border."
+        }
+      ],
+      "link": "https://apnews.com/article/russia-ukraine-war-kharkiv-f555c370a7439a41393e74a6e603db43"
+    }
+  ],
+  "national": [
+    {
+      "headline": "External Affairs Minister S. Jaishankar makes statement in Parliament on rescue efforts for Indians in West Asia",
+      "description": "External Affairs Minister S. Jaishankar addressed Parliament on India's evacuation operations for citizens stranded in West Asia due to the escalating Iran conflict.",
+      "context": "The statement reassures the public on government actions while highlighting diplomatic challenges in a volatile region critical to India's energy imports.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "Conflict escalation in West Asia",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-09",
+          "label": "Jaishankar's parliamentary statement",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "West Asia",
+          "definition": "Region encompassing the Middle East, vital for India's oil supplies."
+        },
+        {
+          "term": "S. Jaishankar",
+          "definition": "India's Minister of External Affairs overseeing foreign policy."
+        }
+      ],
+      "link": "https://www.thehindu.com/news/national/west-asia-conflict-jaishankar-to-speak-in-parliament-on-march-9-2026/article70719801.ece"
+    },
+    {
+      "headline": "RBI conducts ₹50,000 crore Open Market Operation to manage liquidity amid market volatility",
+      "description": "The Reserve Bank of India injected ₹50,000 crore into the banking system through an Open Market Operation to stabilize liquidity shaken by global market turmoil.",
+      "context": "This intervention aims to curb volatility from geopolitical tensions, supporting economic growth and investor confidence in India.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "Global markets react to Iran war",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-09",
+          "label": "RBI OMO injection",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Reserve Bank of India (RBI)",
+          "definition": "India's central bank regulating monetary policy and financial stability."
+        },
+        {
+          "term": "Open Market Operation (OMO)",
+          "definition": "Central bank tool to control money supply by buying/selling securities."
+        }
+      ],
+      "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-injects-rs-50000-crore-durable-liquidity-in-banking-system-via-omo-purchases/articleshow/129330262.cms"
+    },
+    {
+      "headline": "Parliament Budget Session: Lok Sabha and Rajya Sabha adjourned amid protests over West Asia crisis",
+      "description": "Both houses of Parliament were adjourned following opposition protests demanding discussions on the West Asia crisis and its impact on India.",
+      "context": "The disruptions reflect domestic political tensions over foreign policy, potentially delaying key budget approvals amid economic pressures.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "West Asia crisis intensifies",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-09",
+          "label": "Parliamentary adjournments due to protests",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Lok Sabha",
+          "definition": "Lower house of India's Parliament, representing the people."
+        },
+        {
+          "term": "Rajya Sabha",
+          "definition": "Upper house of India's Parliament, representing states."
+        }
+      ],
+      "link": "https://indianexpress.com/article/india/parliament-budget-session-live-updates-om-birla-no-confidence-motion-lok-sabha-debate-us-trade-deal-iran-war-jaishankar-march-9-latest-news-10572325"
+    },
+    {
+      "headline": "Air India and AI Express operate 56 special flights to evacuate stranded Indians from Gulf region",
+      "description": "Air India and Air India Express launched 56 special flights to evacuate over 10,000 Indians stranded in the Gulf amid the Iran war disruptions.",
+      "context": "This operation demonstrates India's proactive crisis management, safeguarding its large expatriate workforce in the region.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "Evacuation operations commence",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-09",
+          "label": "56 flights operated",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Air India",
+          "definition": "India's flag carrier airline, now under Tata Group."
+        },
+        {
+          "term": "Gulf region",
+          "definition": "Middle Eastern countries bordering the Persian Gulf, hosting millions of Indian workers."
+        }
+      ],
+      "link": "https://m.economictimes.com/nri/latest-updates/iran-israel-war-air-india-air-india-express-to-operate-56-flights-on-march-9-add-extra-services-to-uae/articleshow/129312280.cms"
+    },
+    {
+      "headline": "Prime Minister Narendra Modi inaugurates development and infrastructure projects worth ₹33,500 crore in Delhi",
+      "description": "PM Narendra Modi launched multiple infrastructure projects valued at ₹33,500 crore in Delhi, focusing on urban development and connectivity.",
+      "context": "These initiatives boost economic activity and job creation, countering global uncertainties with domestic growth momentum.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "Project planning announced",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-09",
+          "label": "Inauguration ceremony",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Narendra Modi",
+          "definition": "Prime Minister of India since 2014, leading the BJP government."
+        }
+      ],
+      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2236572&lang=1&reg=3"
+    }
+  ],
+  "science": [
+    {
+      "headline": "X investigates offensive posts generated by xAI's Grok chatbot",
+      "description": "Platform X is probing racist and offensive content produced by xAI's Grok AI chatbot, following user complaints about biased outputs.",
+      "context": "This incident raises ethical concerns over AI moderation, potentially impacting trust in AI-driven social media tools.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "Grok updates deployed",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Offensive posts reported and investigation starts",
+          "type": "event"
+        }
+      ],
+      "importance_score": 2,
+      "category": "science",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "xAI",
+          "definition": "AI company founded by Elon Musk to advance scientific discovery."
+        },
+        {
+          "term": "Grok",
+          "definition": "xAI's conversational AI model inspired by Hitchhiker's Guide."
+        }
+      ],
+      "link": "https://www.reuters.com/technology/x-probes-offensive-posts-by-xais-grok-chatbot-sky-news-reports-2026-03-08"
+    },
+    {
+      "headline": "Marvell forecasts strong long-term revenue growth driven by AI data center demand",
+      "description": "Semiconductor firm Marvell projects nearly 40% revenue growth to $15 billion by fiscal 2028, fueled by AI data center expansions.",
+      "context": "The surge reflects booming AI infrastructure needs, positioning Marvell as a key player in the tech supply chain.",
+      "timeline": [
+        {
+          "date": "2026-03-05",
+          "label": "Q4 earnings report",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Long-term forecast announced",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "science",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "Marvell Technology",
+          "definition": "US-based semiconductor company specializing in data infrastructure solutions."
+        },
+        {
+          "term": "AI data centers",
+          "definition": "Facilities housing servers for artificial intelligence computing."
+        }
+      ],
+      "link": "https://www.reuters.com/technology/marvell-forecasts-first-quarter-revenue-above-estimates-2026-03-05"
+    },
+    {
+      "headline": "Broadcom projects more than $100 billion in AI chip revenue amid surging demand",
+      "description": "Broadcom anticipates over $100 billion in AI chip sales by 2027, with Q1 AI revenue doubling to $8.4 billion from custom accelerators.",
+      "context": "Explosive AI adoption drives semiconductor demand, bolstering Broadcom's market dominance and tech sector growth.",
+      "timeline": [
+        {
+          "date": "2026-03-04",
+          "label": "Q2 revenue forecast",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "AI chip projection released",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "Broadcom",
+          "definition": "Semiconductor and infrastructure software company serving enterprise markets."
+        },
+        {
+          "term": "Custom AI accelerators",
+          "definition": "Specialized hardware optimizing AI workloads."
+        }
+      ],
+      "link": "https://www.reuters.com/technology/broadcom-forecasts-second-quarter-revenue-above-estimates-2026-03-04"
+    },
+    {
+      "headline": "Global semiconductor supply concerns rise as geopolitical tensions threaten chip materials",
+      "description": "Geopolitical strife, including the Iran crisis, endangers supplies of critical semiconductor materials, alarming South Korean chipmakers.",
+      "context": "Disruptions could halt global tech production, exacerbating shortages and inflating costs for electronics.",
+      "timeline": [
+        {
+          "date": "2026-03-01",
+          "label": "Iran conflict impacts supply chains",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Supply concerns voiced by executives",
+          "type": "escalation"
+        }
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "Semiconductors",
+          "definition": "Materials like silicon used in integrated circuits for electronics."
+        }
+      ],
+      "link": "https://www.reuters.com/business/retail-consumer/south-korean-chip-industry-worried-iran-crisis-affect-middle-east-data-center-2026-03-05"
+    },
+    {
+      "headline": "Chinese semiconductor executives call for national push to develop domestic lithography systems",
+      "description": "Top Chinese chip executives urge government support for lithography tech development during 2026-2030 to reduce foreign dependencies.",
+      "context": "This push addresses US export curbs, aiming for self-sufficiency in advanced chip manufacturing amid tech rivalry.",
+      "timeline": [
+        {
+          "date": "2026-03-05",
+          "label": "Executive forum on chip policies",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-08",
+          "label": "Call for national lithography initiative",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
       "category": "science",
       "region": "Asia",
       "key_terms": [
         {
-          "term": "Brain-computer interface",
-          "definition": "Technology enabling direct brain-device communication."
+          "term": "Lithography systems",
+          "definition": "Technology for patterning circuits on semiconductor wafers."
         }
       ],
-      "link": "https://www.reuters.com/world/asia-pacific/china-could-see-widespread-use-brain-computer-tech-3-5-years-expert-says-2026-03-07"
+      "link": "https://www.reuters.com/world/china/chinas-top-chip-bosses-urge-supportive-policies-create-chinas-asml-2026-03-05"
     }
   ],
   "sports": [
@@ -729,65 +451,65 @@
       "category": "sports",
       "sport": "football",
       "tournament": "FA Cup",
-      "match_date": "2026-03-07",
-      "venue": "St. James' Park, Newcastle",
+      "match_date": "2026-03-08",
+      "venue": "Craven Cottage, London",
       "status": "completed",
       "teams": {
-        "home": "Newcastle United",
-        "away": "Manchester City"
+        "home": "Fulham",
+        "away": "Southampton"
       },
       "score": {
-        "home": "1",
-        "away": "3"
+        "home": "0",
+        "away": "1"
       },
-      "result": "Manchester City wins",
+      "result": "Southampton defeats Fulham 1-0",
       "stage": "Fifth Round",
-      "official_source": "beinsports.com"
+      "official_source": "ESPN"
     },
     {
       "category": "sports",
       "sport": "football",
       "tournament": "FA Cup",
-      "match_date": "2026-03-07",
-      "venue": "Racecourse Ground, Wrexham",
+      "match_date": "2026-03-08",
+      "venue": "Vale Park, Stoke-on-Trent",
       "status": "completed",
       "teams": {
-        "home": "Wrexham",
-        "away": "Chelsea"
+        "home": "Port Vale",
+        "away": "Sunderland"
       },
       "score": {
-        "home": "2",
-        "away": "4"
+        "home": "1",
+        "away": "0"
       },
-      "result": "Chelsea wins (AET)",
+      "result": "Port Vale defeats Sunderland 1-0",
       "stage": "Fifth Round",
-      "official_source": "chelseafc.com"
+      "official_source": "BBC"
     },
     {
       "category": "sports",
       "sport": "football",
       "tournament": "FA Cup",
-      "match_date": "2026-03-07",
-      "venue": "Field Mill, Mansfield",
+      "match_date": "2026-03-08",
+      "venue": "Elland Road, Leeds",
       "status": "completed",
       "teams": {
-        "home": "Mansfield Town",
-        "away": "Arsenal"
+        "home": "Leeds United",
+        "away": "Norwich City"
       },
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": "3",
+        "away": "0"
       },
-      "result": "Arsenal wins",
+      "result": "Leeds United defeats Norwich City 3-0",
       "stage": "Fifth Round",
-      "official_source": "beinsports.com"
+      "official_source": "ESPN"
     },
     {
       "category": "sports",
       "sport": "cricket",
       "tournament": "ICC T20 World Cup",
       "match_date": "2026-03-08",
-      "venue": "",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
       "status": "completed",
       "teams": {
         "home": "India",
@@ -797,9 +519,9 @@
         "home": "255/5",
         "away": "159"
       },
-      "result": "India wins",
-      "stage": "Super 12",
-      "official_source": "en.wikipedia.org"
+      "result": "India defeats New Zealand by 96 runs",
+      "stage": "Final",
+      "official_source": "ESPNcricinfo"
     }
   ]
 }
