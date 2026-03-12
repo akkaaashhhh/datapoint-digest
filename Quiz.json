@@ -1,185 +1,185 @@
 {
-  "date": "2026-03-10",
+  "date": "2026-03-12",
   "questions": [
     {
       "id": "q_01",
-      "question": "What strategic objective is most directly associated with the heaviest U.S.–Israeli bombing campaign against Iran reported on March 10?",
+      "question": "The recent closure of the Strait of Hormuz and the subsequent declaration of the 'biggest-ever oil market disruption' by the IEA primarily highlights which geopolitical vulnerability for energy-importing nations?",
       "options": [
-        "To secure maritime trade routes in the Red Sea",
-        "To force Iran to negotiate through overwhelming military pressure",
-        "To prevent Russia from supplying weapons to Iran",
-        "To establish permanent NATO bases in the Gulf"
+        "The complete lack of alternative maritime routes for Gulf-produced energy exports.",
+        "The inadequacy of Strategic Petroleum Reserves (SPRs) in mitigating long-term structural supply shocks.",
+        "The failure of 'Chokepoint Diplomacy' to prevent the weaponization of maritime transit by regional actors.",
+        "The shift from 'Just-in-Time' to 'Just-in-Case' energy procurement models in the Global South."
       ],
-      "correct_index": 1,
-      "explanation": "The strikes represent a strategic attempt by Washington and Tel Aviv to pressure Tehran into negotiations through intensified military force."
+      "correct_index": 2,
+      "explanation": "While SPRs (Option B) are meant for shocks, the core geopolitical concept here is the 'weaponization of chokepoints.' Option C is the analytical answer as it addresses the strategic failure of international norms (UNCLOS) to keep vital waterways neutral during conflict. Option A is factually incorrect as some pipelines exist (e.g., East-West Pipeline in Saudi), though they lack the total capacity to replace the Strait."
     },
     {
       "id": "q_02",
-      "question": "Which concept best explains the contradiction between falling oil prices and escalating military strikes in the Iran conflict?",
+      "question": "India's Consumer Price Index (CPI) rising to a 10-month high due to global energy pressures illustrates which macroeconomic transmission mechanism?",
       "options": [
-        "Commodity hedging equilibrium",
-        "Market-military disconnect",
-        "Supply elasticity inversion",
-        "Fiscal contraction pressure"
+        "Demand-pull inflation triggered by excessive fiscal stimulus in the energy sector.",
+        "Cost-push inflation where the 'inflation pass-through' from imported energy impacts domestic production costs.",
+        "Monetary contraction leading to the 'Fisher Effect' in the domestic bond market.",
+        "Currency appreciation leading to an 'Imported Inflation' trap for essential commodities."
       ],
       "correct_index": 1,
-      "explanation": "Oil markets were pricing in a ceasefire even while military escalation continued, reflecting a market-military disconnect."
+      "explanation": "The current event shows oil prices impacting domestic inflation. This is a classic 'Cost-push' scenario (Option B). The 'inflation pass-through' refers to how rising raw material costs (oil/energy) eventually reach the consumer via transportation and manufacturing price hikes, complicating the RBI's 'Inflation Targeting' mandate (Static Syllabus: Economy)."
     },
     {
       "id": "q_03",
-      "question": "According to internal estimates, how much did the first 48 hours of U.S. military operations against Iran cost?",
+      "question": "The Supreme Court’s agreement to examine the definition of 'personal data' under the DPDPA 2023 indicates a judicial attempt to balance which two conflicting legal doctrines?",
       "options": [
-        "$2.1 billion",
-        "$3.8 billion",
-        "$5.6 billion",
-        "$9.4 billion"
+        "The Doctrine of Pith and Substance versus the Doctrine of Colorable Legislation.",
+        "The 'Right to be Forgotten' versus the 'Sovereign Right to Information'.",
+        "Informational Privacy as a Fundamental Right versus the 'Right to Carry on Trade' for digital fiduciaries.",
+        "Judicial Activism versus the Doctrine of Separation of Powers regarding technical definitions."
       ],
       "correct_index": 2,
-      "explanation": "U.S. government estimates indicate the first two days of the conflict consumed about $5.6 billion in operational costs."
+      "explanation": "The DPDPA concerns privacy (Art 21) and business compliance (Art 19(1)(g)). Option C correctly identifies the friction between individual rights (Puttaswamy judgment) and the ease of doing business for 'Data Fiduciaries'. Clarifying definitions is essential to prevent 'Regulatory Overreach' while ensuring citizen protection."
     },
     {
       "id": "q_04",
-      "question": "Why did the Tomahawk missile strike near a school in Iran raise international legal concerns?",
+      "question": "The Supreme Court's ruling that 'parental income alone cannot decide OBC creamy layer status' essentially shifts the reservation eligibility framework towards:",
       "options": [
-        "Tomahawk missiles are prohibited by international treaties",
-        "The strike involved chemical weapons",
-        "Civilian casualties raised questions about compliance with the laws of armed conflict",
-        "The missile was launched from a NATO base"
+        "A purely merit-based exclusion within backward classes.",
+        "A holistic socio-economic assessment consistent with the Indra Sawhney principles.",
+        "The total abolition of the 'creamy layer' concept in favor of a caste-based census.",
+        "A shift from 'Horizontal Reservation' to 'Vertical Reservation' models."
       ],
-      "correct_index": 2,
-      "explanation": "The strike killed over 165 civilians near a school, raising concerns about collateral damage and compliance with international humanitarian law."
+      "correct_index": 1,
+      "explanation": "Static Link: Indra Sawhney (1992). The Court emphasizes that 'Social Backwardness' is not always equivalent to 'Economic Backwardness.' Option B is correct because the Court seeks to include factors like education, social standing, and occupation, rather than using income as a proxy for social progress."
     },
     {
       "id": "q_05",
-      "question": "Which legal classification did a UN inquiry apply to Russia's deportation of Ukrainian children?",
+      "question": "The discovery of 'Dark Oxygen' produced by polymetallic nodules in the deep Pacific Ocean has the most profound impact on which environmental governance debate?",
       "options": [
-        "War reparations violations",
-        "Crimes against humanity",
-        "Genocide",
-        "Illegal military occupation"
+        "The ethics of Carbon Capture and Storage (CCS) in deep-sea aquifers.",
+        "The regulatory framework for Deep-Sea Mining managed by the International Seabed Authority (ISA).",
+        "The viability of Ocean Thermal Energy Conversion (OTEC) in the photic zone.",
+        "The expansion of 'Blue Carbon' credits under the Paris Agreement."
       ],
       "correct_index": 1,
-      "explanation": "The UN inquiry concluded that systematic deportation and relocation of Ukrainian children constituted crimes against humanity."
+      "explanation": "Dark Oxygen production suggests that the deep sea is not just an oxygen sink but an abiotic producer. If mining nodules (polymetallic nodules) destroys this process, it risks deep-sea ecosystems. This provides a scientific hurdle for the ISA (Option B) in approving deep-sea mining licenses (Static Syllabus: Environment/Geography)."
     },
     {
       "id": "q_06",
-      "question": "Human Rights Watch accused Israel of illegally using which type of weapon in populated areas of southern Lebanon?",
+      "question": "The amendment of FDI rules for countries sharing land borders with India, while streamlining approvals, primarily reflects India's:",
       "options": [
-        "Cluster munitions",
-        "White phosphorus",
-        "Depleted uranium shells",
-        "Thermobaric bombs"
+        "Commitment to the 'Most Favored Nation' (MFN) status under WTO norms.",
+        "Strategic intent to decouple completely from the Chinese industrial supply chain.",
+        "Balancing act between 'Economic Realism' and 'National Security Oversight'.",
+        "Effort to promote 'Regional Economic Integration' under the BIMSTEC framework."
       ],
-      "correct_index": 1,
-      "explanation": "Human Rights Watch documented Israel's use of white phosphorus munitions in populated areas, which may violate international humanitarian law."
+      "correct_index": 2,
+      "explanation": "Option C is the most analytical. By streamlining while maintaining oversight, India acknowledges that capital is needed (Realism) but security risks from land-border neighbors (specifically Press Note 3 of 2020) require a 'Vetting Mechanism' (Security Oversight)."
     },
     {
       "id": "q_07",
-      "question": "Why did India increase its imports of Russian oil despite previous pressure from the United States?",
+      "question": "India's commissioning of an Ocean Thermal Energy Conversion (OTEC) plant in Lakshadweep illustrates a strategic focus on:",
       "options": [
-        "Sanctions on Middle Eastern oil exporters",
-        "Collapse of domestic Indian oil production",
-        "Disruption of Gulf oil supplies due to the Iran conflict",
-        "A new trade agreement with Russia"
+        "Harnessing the 'Kinetic Energy' of tidal currents for base-load power.",
+        "Utilizing 'Ocean Thermal Gradients' for decentralized renewable energy and freshwater security.",
+        "Achieving 'Grid Parity' with solar energy in island territories.",
+        "Replacing traditional desalination with 'Reverse Osmosis' driven by thermal power."
       ],
-      "correct_index": 2,
-      "explanation": "The Iran conflict disrupted Gulf oil supplies, forcing India to increase Russian oil imports despite U.S. pressure."
+      "correct_index": 1,
+      "explanation": "OTEC uses the temperature difference (gradient) between surface and deep water. Option B is correct as it highlights the 'dual-use' nature of the tech (power + water), which is vital for the 'Blue Economy' and island self-sufficiency (Static Syllabus: S&T/Geography)."
     },
     {
       "id": "q_08",
-      "question": "Which mechanism helped drive oil prices down from nearly $120 to below $90 per barrel during the Iran conflict?",
+      "question": "The Supreme Court granting permission for 'Passive Euthanasia' for a patient in PVS for 13 years is a reaffirmation of the principle that:",
       "options": [
-        "Release of strategic petroleum reserves",
-        "Expansion of OPEC production quotas",
-        "European Union energy subsidies",
-        "Closure of Asian refineries"
+        "The 'Right to Life' under Article 21 includes an absolute 'Right to Die'.",
+        "The 'State's Interest' in preserving life outweighs individual autonomy in terminal cases.",
+        "The 'Right to Die with Dignity' is a subset of the 'Right to Life' rather than its antithesis.",
+        "Advance Medical Directives are mandatory for the withdrawal of life support."
       ],
-      "correct_index": 0,
-      "explanation": "Major consuming nations released strategic petroleum reserves and markets anticipated a ceasefire, driving prices lower."
+      "correct_index": 2,
+      "explanation": "Static Link: Common Cause v. Union of India (2018). Option C is the correct analytical stance. The Court distinguishes between 'Active Euthanasia' (prohibited) and 'Passive Euthanasia' (allowed), framing the latter as a way to ensure a dignified end to life, which is part of the 'Right to Life' (Art 21)."
     },
     {
       "id": "q_09",
-      "question": "Which militant group was identified by Human Rights Watch as responsible for killing truck drivers in Mali?",
+      "question": "The NCB's dismantling of a 'Darknet' drug network using cryptocurrency highlights which emerging challenge to India's 'Internal Security' doctrine?",
       "options": [
-        "Islamic State West Africa Province",
-        "Boko Haram",
-        "Jama'at Nasr al-Islam wal Muslimin",
-        "Ansar al-Sharia"
+        "The failure of physical border fencing in preventing narcotics smuggling.",
+        "The 'Anonymization of Crime' where technology acts as a force multiplier for transnational syndicates.",
+        "The inability of the MHA to regulate 'End-to-End Encryption' in messaging apps.",
+        "The complete obsolescence of the NDPS Act, 1985 in the digital era."
       ],
-      "correct_index": 2,
-      "explanation": "The Al Qaeda-linked group Jama'at Nasr al-Islam wal Muslimin was blamed for coordinated attacks on commercial convoys."
+      "correct_index": 1,
+      "explanation": "The core security challenge here is 'cyber-enabled crime.' Option B correctly identifies that the Darknet and Crypto provide 'anonymity,' which allows syndicates to operate pan-India without physical footprints, requiring a shift in 'Intelligence-led Policing'."
     },
     {
       "id": "q_10",
-      "question": "Why is Turkey considered a credible mediator in Russia–Ukraine negotiations?",
+      "question": "The ICC opening a probe into Belarus for 'crimes against humanity' primarily exercises the principle of:",
       "options": [
-        "It is a NATO member that imposed sanctions on Russia",
-        "It maintains diplomatic relations with both Russia and Ukraine",
-        "It controls all major Black Sea shipping routes",
-        "It provides the largest financial aid package to Ukraine"
+        "Universal Jurisdiction where any state can prosecute international crimes.",
+        "Individual Criminal Responsibility for state-sponsored systematic attacks on civilians.",
+        "Diplomatic Immunity for heads of state in non-signatory nations.",
+        "The Doctrine of 'Responsibility to Protect' (R2P) via military intervention."
       ],
       "correct_index": 1,
-      "explanation": "Turkey maintains diplomatic ties with both Moscow and Kyiv, making it a viable mediator for trilateral peace talks."
+      "explanation": "The ICC (Rome Statute) focuses on individuals, not states. Option B is the correct legal concept. It seeks to hold leaders accountable for 'systematic' attacks, distinguishing this from 'War Crimes' which can be isolated incidents (Static Syllabus: IR/International Law)."
     },
     {
       "id": "q_11",
-      "question": "What is the primary objective of India's Jal Jeevan Mission extension to 2028?",
+      "question": "The RBI’s revised prudential norms for bank dividend declarations are an example of which type of regulatory tool?",
       "options": [
-        "To build desalination plants across coastal regions",
-        "To provide universal rural piped drinking water access",
-        "To privatize India's water distribution infrastructure",
-        "To reduce groundwater extraction in urban areas"
+        "Monetary Easing to stimulate credit growth in the private sector.",
+        "Counter-cyclical Capital Buffer management to ensure systemic resilience.",
+        "Fiscal Consolidation measures to reduce the government's budget deficit.",
+        "Quantitative Tightening to absorb excess liquidity from the stock market."
       ],
       "correct_index": 1,
-      "explanation": "The Jal Jeevan Mission aims to provide functional household tap connections delivering safe drinking water to rural households."
+      "explanation": "By limiting dividends, RBI ensures banks keep profits as 'Capital Buffers' (Option B). This is a 'Macro-prudential' tool designed to ensure that banks have enough 'Common Equity Tier 1' capital to survive financial stress without requiring a taxpayer-funded bailout."
     },
     {
       "id": "q_12",
-      "question": "Why did the Indian stock market enter a correction zone during the Iran conflict?",
+      "question": "China's new ethnic minority law prioritizing Mandarin over regional languages signifies a shift from 'Multi-culturalism' to:",
       "options": [
-        "Technology sector layoffs in India",
-        "Concerns about rising oil prices and imported inflation",
-        "A banking sector liquidity crisis",
-        "Restrictions on foreign direct investment"
+        "Federal decentralization based on linguistic identities.",
+        "A policy of 'Linguistic Assimilation' to create a unified national identity.",
+        "The protection of 'Intangible Cultural Heritage' under UNESCO norms.",
+        "Economic liberalization of autonomous minority regions."
       ],
       "correct_index": 1,
-      "explanation": "India's dependence on imported oil means rising global prices increase inflation risks and pressure equity markets."
+      "explanation": "The law mandates Mandarin (Putonghua) in instruction. Option B accurately describes the 'Sinicization' or 'Assimilation' policy, which prioritizes national homogeneity over the 'Pluralist' protections previously granted to autonomous regions (Static Syllabus: IR/Society)."
     },
     {
       "id": "q_13",
-      "question": "What monetary policy tool did the Reserve Bank of India use to inject ₹50,000 crore of liquidity into the financial system?",
+      "question": "The joint defense production deal between Romania (a NATO member) and Ukraine for military drones illustrates which trend in modern warfare?",
       "options": [
-        "Quantitative easing",
-        "Foreign exchange swaps",
-        "Open Market Operations",
-        "Reverse repo auctions"
+        "The total 'Neutralization' of NATO’s Eastern Flank.",
+        "The 'Industrialization of Conflict' where NATO members act as 'Industrial Rear-guards' for non-member allies.",
+        "The shift from 'Conventional Deterrence' to 'Nuclear Brinkmanship' by mid-sized powers.",
+        "The failure of 'Multilateral Export Control Regimes' (MECRs)."
       ],
-      "correct_index": 2,
-      "explanation": "The RBI purchased government securities through Open Market Operations to inject liquidity into the banking system."
+      "correct_index": 1,
+      "explanation": "Option B is a high-level IR concept. By producing weapons in Romania for Ukraine, NATO creates a secure production base that is technically outside the conflict zone but functionally part of Ukraine's 'Kill Chain'—a strategy of 'Industrial Entanglement'."
     },
     {
       "id": "q_14",
-      "question": "Why did the Indian government prioritize natural gas allocation to CNG and LPG sectors under the Essential Commodities Act?",
+      "question": "India's dominance in the global 'AI Training' workforce (7% share) suggests that the country's economic future in the digital economy is currently heavily reliant on:",
       "options": [
-        "To support export industries",
-        "To stabilize the domestic stock market",
-        "To protect essential fuel supplies during global energy disruptions",
-        "To reduce coal imports"
+        "High-end 'Algorithmic Research' and semiconductor design.",
+        "The 'Data Annotation' layer of the AI value chain, characterized by gig-economy labor.",
+        "Sovereign control over 'Large Language Models' (LLMs).",
+        "The complete automation of the BPO sector via Generative AI."
       ],
-      "correct_index": 2,
-      "explanation": "The government prioritized CNG and LPG supply to protect household cooking fuel and transportation during energy disruptions."
+      "correct_index": 1,
+      "explanation": "The report highlights India's role in 'AI training' (labeling data). Option B correctly identifies that India is providing the 'manual labor' (annotation) of the AI world. This creates a 'Digital Labor' dependency and raises questions about moving up the 'Value Chain' to R&D."
     },
     {
       "id": "q_15",
-      "question": "Why is access to Nvidia's H100 and B200 GPUs strategically important for AI startups like Thinking Machines?",
+      "question": "The US Supreme Court striking down executive-order tariffs and the administration initiating a new process illustrates which constitutional principle?",
       "options": [
-        "They reduce internet latency in cloud networks",
-        "They provide high-performance computing necessary for training large AI models",
-        "They allow AI systems to operate without datasets",
-        "They eliminate the need for data centers"
+        "The Doctrine of 'Pleasure' in trade appointments.",
+        "The concept of 'Judicial Review' checking the limits of 'Executive Trade Authority'.",
+        "The 'Non-Delegation Doctrine' regarding tax and tariff powers.",
+        "The principle of 'Federalism' where states control import duties."
       ],
       "correct_index": 1,
-      "explanation": "Advanced GPUs such as Nvidia's H100 and B200 provide the massive parallel computing power required for training large-scale AI models."
+      "explanation": "In most democracies (including the US and India), the power to tax/tariff is a legislative function. Option B shows how the Judiciary acts as a 'Check and Balance' when the Executive tries to use emergency powers to bypass the legislature (Static Syllabus: Polity/Comparative Constitution)."
     }
   ]
 }
