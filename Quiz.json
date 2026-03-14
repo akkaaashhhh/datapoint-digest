@@ -1,185 +1,188 @@
+```json
 {
-  "date": "2026-03-12",
+  "date": "2026-03-14",
   "questions": [
     {
       "id": "q_01",
-      "question": "The recent closure of the Strait of Hormuz and the subsequent declaration of the 'biggest-ever oil market disruption' by the IEA primarily highlights which geopolitical vulnerability for energy-importing nations?",
+      "question": "The United States' decision to grant a 30-day waiver on Russian oil sanctions while simultaneously escalating military operations against Iran primarily illustrates which geopolitical doctrine?",
       "options": [
-        "The complete lack of alternative maritime routes for Gulf-produced energy exports.",
-        "The inadequacy of Strategic Petroleum Reserves (SPRs) in mitigating long-term structural supply shocks.",
-        "The failure of 'Chokepoint Diplomacy' to prevent the weaponization of maritime transit by regional actors.",
-        "The shift from 'Just-in-Time' to 'Just-in-Case' energy procurement models in the Global South."
+        "The Doctrine of Selective Engagement, prioritizing ideological alignment over market stability.",
+        "Strategic Realism, where acute energy security imperatives override long-term normative sanction regimes.",
+        "The Principle of Multipolarity, balancing the influence of Eurasian powers against Middle Eastern rivals.",
+        "Liberal Institutionalism, utilizing temporary waivers to strengthen international consensus on energy caps."
       ],
-      "correct_index": 2,
-      "explanation": "While SPRs (Option B) are meant for shocks, the core geopolitical concept here is the 'weaponization of chokepoints.' Option C is the analytical answer as it addresses the strategic failure of international norms (UNCLOS) to keep vital waterways neutral during conflict. Option A is factually incorrect as some pipelines exist (e.g., East-West Pipeline in Saudi), though they lack the total capacity to replace the Strait."
+      "correct_index": 1,
+      "explanation": "The decision reflects 'Realpolitik' or Strategic Realism. By easing pressure on one adversary (Russia) to mitigate an energy shock caused by another (Iran), the US demonstrates that immediate survival and economic stability (Energy Security) often supersede consistent application of normative policies (Sanctions). It illustrates the 'Strategic Dilemma' in a multi-theater conflict."
     },
     {
       "id": "q_02",
-      "question": "India's Consumer Price Index (CPI) rising to a 10-month high due to global energy pressures illustrates which macroeconomic transmission mechanism?",
+      "question": "The emerging threat to the global food supply chain due to the US-Iran war is best explained by which structural economic link?",
       "options": [
-        "Demand-pull inflation triggered by excessive fiscal stimulus in the energy sector.",
-        "Cost-push inflation where the 'inflation pass-through' from imported energy impacts domestic production costs.",
-        "Monetary contraction leading to the 'Fisher Effect' in the domestic bond market.",
-        "Currency appreciation leading to an 'Imported Inflation' trap for essential commodities."
+        "The 'Haber-Bosch' dependency, where natural gas disruptions directly impact nitrogenous fertilizer production.",
+        "Demand-pull inflation in the agricultural sector driven by speculative hoarding of grain futures.",
+        "The 'Gresham's Law' of commodities, where high-cost synthetic fertilizers drive organic alternatives out of the market.",
+        "The 'Dutch Disease' effect, where surging oil prices cause an overvaluation of currencies in food-exporting nations."
       ],
-      "correct_index": 1,
-      "explanation": "The current event shows oil prices impacting domestic inflation. This is a classic 'Cost-push' scenario (Option B). The 'inflation pass-through' refers to how rising raw material costs (oil/energy) eventually reach the consumer via transportation and manufacturing price hikes, complicating the RBI's 'Inflation Targeting' mandate (Static Syllabus: Economy)."
+      "correct_index": 0,
+      "explanation": "Modern agriculture is heavily dependent on the Haber-Bosch process, which uses natural gas (CH4) to produce ammonia for nitrogenous fertilizers. As the Iran war disrupts natural gas flows and surges prices, fertilizer production falls, creating a 'cascading supply shock' that threatens global caloric security (Static Syllabus: Economy/Geography)."
     },
     {
       "id": "q_03",
-      "question": "The Supreme Court’s agreement to examine the definition of 'personal data' under the DPDPA 2023 indicates a judicial attempt to balance which two conflicting legal doctrines?",
+      "question": "Iran's targeting of US Air Force refueling tankers in Saudi Arabia represents a tactical shift toward 'Asymmetric Attrition.' This development primarily targets which critical component of air superiority?",
       "options": [
-        "The Doctrine of Pith and Substance versus the Doctrine of Colorable Legislation.",
-        "The 'Right to be Forgotten' versus the 'Sovereign Right to Information'.",
-        "Informational Privacy as a Fundamental Right versus the 'Right to Carry on Trade' for digital fiduciaries.",
-        "Judicial Activism versus the Doctrine of Separation of Powers regarding technical definitions."
+        "Kinetic Lethality: The ability of strike aircraft to deliver precision-guided munitions.",
+        "Operational Depth: The capacity to project power and maintain air presence far from base facilities.",
+        "Electronic Warfare: The disruption of enemy radar and communication through jamming.",
+        "Stealth Integrity: The preservation of low-observable characteristics in contested airspace."
       ],
-      "correct_index": 2,
-      "explanation": "The DPDPA concerns privacy (Art 21) and business compliance (Art 19(1)(g)). Option C correctly identifies the friction between individual rights (Puttaswamy judgment) and the ease of doing business for 'Data Fiduciaries'. Clarifying definitions is essential to prevent 'Regulatory Overreach' while ensuring citizen protection."
+      "correct_index": 1,
+      "explanation": "Refueling tankers are 'force multipliers' that provide operational depth and endurance. By disabling tankers, Iran effectively 'shortens' the range of US aircraft, forcing them to operate from closer, more vulnerable bases or reducing their time-on-station, illustrating the vulnerability of logistics in high-intensity conflict (Static Syllabus: Defense/IR)."
     },
     {
       "id": "q_04",
-      "question": "The Supreme Court's ruling that 'parental income alone cannot decide OBC creamy layer status' essentially shifts the reservation eligibility framework towards:",
+      "question": "The formal notice filed by Opposition MPs for the removal of the Chief Election Commissioner (CEC) under Article 324(5) implies that the procedural requirements for such removal are identical to those of:",
       "options": [
-        "A purely merit-based exclusion within backward classes.",
-        "A holistic socio-economic assessment consistent with the Indra Sawhney principles.",
-        "The total abolition of the 'creamy layer' concept in favor of a caste-based census.",
-        "A shift from 'Horizontal Reservation' to 'Vertical Reservation' models."
+        "The Comptroller and Auditor General (CAG) of India.",
+        "A Judge of the Supreme Court of India.",
+        "The Chairperson of the Union Public Service Commission (UPSC).",
+        "The Attorney General of India."
       ],
       "correct_index": 1,
-      "explanation": "Static Link: Indra Sawhney (1992). The Court emphasizes that 'Social Backwardness' is not always equivalent to 'Economic Backwardness.' Option B is correct because the Court seeks to include factors like education, social standing, and occupation, rather than using income as a proxy for social progress."
+      "explanation": "Under Article 324(5), the CEC can only be removed from office in 'like manner and on like grounds' as a Judge of the Supreme Court. This ensures the independence of the ECI. Note: Other Election Commissioners can be removed by the President on the recommendation of the CEC (Static Syllabus: Indian Polity)."
     },
     {
       "id": "q_05",
-      "question": "The discovery of 'Dark Oxygen' produced by polymetallic nodules in the deep Pacific Ocean has the most profound impact on which environmental governance debate?",
+      "question": "The record 12-minute sustained fusion plasma achieved in the Wendelstein 7-X stellarator provides a conceptual advantage over the traditional Tokamak design because it:",
       "options": [
-        "The ethics of Carbon Capture and Storage (CCS) in deep-sea aquifers.",
-        "The regulatory framework for Deep-Sea Mining managed by the International Seabed Authority (ISA).",
-        "The viability of Ocean Thermal Energy Conversion (OTEC) in the photic zone.",
-        "The expansion of 'Blue Carbon' credits under the Paris Agreement."
-      ],
-      "correct_index": 1,
-      "explanation": "Dark Oxygen production suggests that the deep sea is not just an oxygen sink but an abiotic producer. If mining nodules (polymetallic nodules) destroys this process, it risks deep-sea ecosystems. This provides a scientific hurdle for the ISA (Option B) in approving deep-sea mining licenses (Static Syllabus: Environment/Geography)."
-    },
-    {
-      "id": "q_06",
-      "question": "The amendment of FDI rules for countries sharing land borders with India, while streamlining approvals, primarily reflects India's:",
-      "options": [
-        "Commitment to the 'Most Favored Nation' (MFN) status under WTO norms.",
-        "Strategic intent to decouple completely from the Chinese industrial supply chain.",
-        "Balancing act between 'Economic Realism' and 'National Security Oversight'.",
-        "Effort to promote 'Regional Economic Integration' under the BIMSTEC framework."
+        "Eliminates the need for external magnetic fields to confine the superheated plasma.",
+        "Utilizes cold-fusion technology to bypass the Coulomb barrier at room temperature.",
+        "Avoids 'disruptions' caused by the instability of plasma-generated internal electric currents.",
+        "Requires significantly lower energy input to achieve the Lawson Criterion for ignition."
       ],
       "correct_index": 2,
-      "explanation": "Option C is the most analytical. By streamlining while maintaining oversight, India acknowledges that capital is needed (Realism) but security risks from land-border neighbors (specifically Press Note 3 of 2020) require a 'Vetting Mechanism' (Security Oversight)."
-    },
-    {
-      "id": "q_07",
-      "question": "India's commissioning of an Ocean Thermal Energy Conversion (OTEC) plant in Lakshadweep illustrates a strategic focus on:",
-      "options": [
-        "Harnessing the 'Kinetic Energy' of tidal currents for base-load power.",
-        "Utilizing 'Ocean Thermal Gradients' for decentralized renewable energy and freshwater security.",
-        "Achieving 'Grid Parity' with solar energy in island territories.",
-        "Replacing traditional desalination with 'Reverse Osmosis' driven by thermal power."
-      ],
-      "correct_index": 1,
-      "explanation": "OTEC uses the temperature difference (gradient) between surface and deep water. Option B is correct as it highlights the 'dual-use' nature of the tech (power + water), which is vital for the 'Blue Economy' and island self-sufficiency (Static Syllabus: S&T/Geography)."
-    },
-    {
-      "id": "q_08",
-      "question": "The Supreme Court granting permission for 'Passive Euthanasia' for a patient in PVS for 13 years is a reaffirmation of the principle that:",
-      "options": [
-        "The 'Right to Life' under Article 21 includes an absolute 'Right to Die'.",
-        "The 'State's Interest' in preserving life outweighs individual autonomy in terminal cases.",
-        "The 'Right to Die with Dignity' is a subset of the 'Right to Life' rather than its antithesis.",
-        "Advance Medical Directives are mandatory for the withdrawal of life support."
-      ],
-      "correct_index": 2,
-      "explanation": "Static Link: Common Cause v. Union of India (2018). Option C is the correct analytical stance. The Court distinguishes between 'Active Euthanasia' (prohibited) and 'Passive Euthanasia' (allowed), framing the latter as a way to ensure a dignified end to life, which is part of the 'Right to Life' (Art 21)."
-    },
-    {
-      "id": "q_09",
-      "question": "The NCB's dismantling of a 'Darknet' drug network using cryptocurrency highlights which emerging challenge to India's 'Internal Security' doctrine?",
-      "options": [
-        "The failure of physical border fencing in preventing narcotics smuggling.",
-        "The 'Anonymization of Crime' where technology acts as a force multiplier for transnational syndicates.",
-        "The inability of the MHA to regulate 'End-to-End Encryption' in messaging apps.",
-        "The complete obsolescence of the NDPS Act, 1985 in the digital era."
-      ],
-      "correct_index": 1,
-      "explanation": "The core security challenge here is 'cyber-enabled crime.' Option B correctly identifies that the Darknet and Crypto provide 'anonymity,' which allows syndicates to operate pan-India without physical footprints, requiring a shift in 'Intelligence-led Policing'."
+      "explanation": "Unlike Tokamaks, which rely on a current flowing through the plasma (inducing instabilities/disruptions), Stellarators like W7-X use complex, externally generated twisted magnetic fields to confine the plasma. This makes them inherently more stable for 'steady-state' (continuous) operation, a major hurdle in commercial fusion (Static Syllabus: S&T)."
     },
     {
       "id": "q_10",
-      "question": "The ICC opening a probe into Belarus for 'crimes against humanity' primarily exercises the principle of:",
+      "question": "The WHO’s approval of a CRISPR-based malaria vaccine for trials illustrates a shift in vaccinology from 'Immunogenic Mimicry' to 'Precision Engineering.' What is the primary advantage of this approach?",
       "options": [
-        "Universal Jurisdiction where any state can prosecute international crimes.",
-        "Individual Criminal Responsibility for state-sponsored systematic attacks on civilians.",
-        "Diplomatic Immunity for heads of state in non-signatory nations.",
-        "The Doctrine of 'Responsibility to Protect' (R2P) via military intervention."
+        "It uses live-attenuated parasites to provide a broader spectrum of natural immunity.",
+        "It allows for the precise modification of viral/parasitic antigens to trigger highly specific T-cell responses.",
+        "It eliminates the need for cold-chain logistics by making vaccines thermally stable at the molecular level.",
+        "It utilizes 'Gene Drives' to immunize the mosquito vector rather than the human host."
       ],
       "correct_index": 1,
-      "explanation": "The ICC (Rome Statute) focuses on individuals, not states. Option B is the correct legal concept. It seeks to hold leaders accountable for 'systematic' attacks, distinguishing this from 'War Crimes' which can be isolated incidents (Static Syllabus: IR/International Law)."
+      "explanation": "CRISPR allows researchers to precisely edit the DNA of antigens to induce a robust and specific immune response, bypassing the limitations of traditional subunit or mRNA vaccines that may struggle with the complex life cycle of the malaria parasite (Static Syllabus: Science/Health)."
+    },
+    {
+      "id": "q_06",
+      "question": "SEBI's decision to reduce the 'minimum public float' requirement for mega-cap companies primarily aims to address which market phenomenon?",
+      "options": [
+        "Pump and Dump schemes: Preventing large shareholders from exiting quickly after listing.",
+        "Market Thinness: Preventing a lack of liquidity by ensuring a diverse set of retail investors.",
+        "Absorptive Capacity: Avoiding the exhaustion of market capital by massive, single-instance offerings.",
+        "Regulatory Capture: Limiting the influence of institutional investors over the listing process."
+      ],
+      "correct_index": 2,
+      "explanation": "For companies with massive valuations (like Reliance Jio or NSE), a standard 25% or 10% float would require billions of dollars in public capital, potentially 'crowding out' other investments or failing to find enough buyers. Tweak in norms ensures these 'Mega IPOs' can list without overwhelming the market's liquidity (Static Syllabus: Economy)."
+    },
+    {
+      "id": "q_07",
+      "question": "The independent diplomatic initiatives by France and Italy to Iranian authorities, bypassing the coordinated US-led military strategy, primarily signals:",
+      "options": [
+        "The obsolescence of the North Atlantic Treaty's Article 5 in energy-related conflicts.",
+        "A push for 'Strategic Autonomy' where national energy security diverges from alliance-wide military objectives.",
+        "The transition of European diplomacy toward a 'Middle Power' mediation framework.",
+        "The formal dissolution of the P5+1 coalition regarding Iranian nuclear oversight."
+      ],
+      "correct_index": 1,
+      "explanation": "This illustrates a divergence in 'National Interest' vs 'Alliance Cohesion.' France and Italy, heavily reliant on Mediterranean and Gulf energy, are pursuing a Realist survival strategy (Strategic Autonomy) to protect their supply lines through Hormuz, even as their major ally (US) is in active combat with the host state (IR/Syllabus)."
+    },
+    {
+      "id": "q_08",
+      "question": "The achievement of logical qubits with an 800x improvement in error rates over physical qubits is a critical milestone toward 'Fault-Tolerant Quantum Computing.' This relies on:",
+      "options": [
+        "Room-temperature superconductors to eliminate thermal decoherence.",
+        "The principle of 'Quantum Redundancy,' where information is spread across multiple physical qubits.",
+        "Utilizing 'Silicon Spin' qubits to replace fragile superconducting loops.",
+        "The 'Holographic Principle' to encode data in a lower-dimensional quantum field."
+      ],
+      "correct_index": 1,
+      "explanation": "Physical qubits are prone to error (decoherence). 'Logical qubits' use error-correction codes to spread one bit of quantum information across many physical ones. If one physical qubit fails, the logical state remains intact due to redundancy, allowing for complex, sustained calculations (Static Syllabus: S&T/Quantum)."
+    },
+    {
+      "id": "q_09",
+      "question": "The US Army’s $20 billion contract to Anduril Industries for 'autonomous systems' signals a fundamental shift in the 'Security Dilemma,' moving toward:",
+      "options": [
+        "Mutual Assured Destruction (MAD) based on legacy nuclear silos.",
+        "Algorithmic Warfare, where decision-making speed (OODA loop) is delegated to AI systems.",
+        "Counter-Insurgency (COIN) strategies focused on 'Hearts and Minds' in urban centers.",
+        "The complete 'De-militarization' of space-based reconnaissance assets."
+      ],
+      "correct_index": 1,
+      "explanation": "The scale of this contract for an AI-focused firm illustrates the 'Revolution in Military Affairs' (RMA). Modern defense is shifting toward autonomous drones and AI-driven surveillance to accelerate the OODA (Observe-Orient-Decide-Act) loop, effectively making 'speed of algorithm' a primary deterrent (Internal Security/Defense)."
     },
     {
       "id": "q_11",
-      "question": "The RBI’s revised prudential norms for bank dividend declarations are an example of which type of regulatory tool?",
+      "question": "Fitch's upgrade of India's FY26 growth forecast to 7.5% despite a global oil shock ($100/bbl) primarily reinforces which economic theory regarding the Indian economy?",
       "options": [
-        "Monetary Easing to stimulate credit growth in the private sector.",
-        "Counter-cyclical Capital Buffer management to ensure systemic resilience.",
-        "Fiscal Consolidation measures to reduce the government's budget deficit.",
-        "Quantitative Tightening to absorb excess liquidity from the stock market."
+        "Export-Led Growth: India's growth is driven by rising global demand for services.",
+        "Domestic Consumption Resilience: Growth is insulated by a large, internal demand-driven market.",
+        "Supply-Side Structuralism: Growth is entirely dependent on central government capital expenditure.",
+        "Monetary Dominance: RBI's management of the exchange rate is the sole driver of GDP growth."
       ],
       "correct_index": 1,
-      "explanation": "By limiting dividends, RBI ensures banks keep profits as 'Capital Buffers' (Option B). This is a 'Macro-prudential' tool designed to ensure that banks have enough 'Common Equity Tier 1' capital to survive financial stress without requiring a taxpayer-funded bailout."
+      "explanation": "India is often described as a 'Domestic Demand' story. While high oil prices act as a 'tax' on consumers, the scale of internal consumption and infrastructure spending provides a buffer (resilience) compared to export-dependent economies that are more vulnerable to global shipping and trade disruptions (Static Syllabus: Economy)."
     },
     {
       "id": "q_12",
-      "question": "China's new ethnic minority law prioritizing Mandarin over regional languages signifies a shift from 'Multi-culturalism' to:",
+      "question": "The Petroleum Ministry’s directive to increase domestic LPG production by 30% is a strategic response to 'Import Dependency,' focusing on:",
       "options": [
-        "Federal decentralization based on linguistic identities.",
-        "A policy of 'Linguistic Assimilation' to create a unified national identity.",
-        "The protection of 'Intangible Cultural Heritage' under UNESCO norms.",
-        "Economic liberalization of autonomous minority regions."
+        "Upstream Diversification: Finding new gas fields in the KG Basin.",
+        "Downstream Capacity Utilization: Maximizing the extraction of propane and butane during refining.",
+        "Fiscal Consolidation: Reducing the subsidy burden under the PM Ujjwala Yojana.",
+        "Renewable Integration: Blending green hydrogen with existing LPG supplies."
       ],
       "correct_index": 1,
-      "explanation": "The law mandates Mandarin (Putonghua) in instruction. Option B accurately describes the 'Sinicization' or 'Assimilation' policy, which prioritizes national homogeneity over the 'Pluralist' protections previously granted to autonomous regions (Static Syllabus: IR/Society)."
+      "explanation": "Since LPG is a byproduct of crude oil refining, increasing production 'at home' (Downstream) allows the government to utilize imported crude more effectively to meet cooking fuel needs, reducing the 'Just-in-Time' reliance on imported refined LPG from the conflict-prone Gulf (Energy Security/Geography)."
     },
     {
       "id": "q_13",
-      "question": "The joint defense production deal between Romania (a NATO member) and Ukraine for military drones illustrates which trend in modern warfare?",
+      "question": "SpaceX's successful reusability of the Starship booster and ship splashdown is expected to disrupt the space economy primarily through:",
       "options": [
-        "The total 'Neutralization' of NATO’s Eastern Flank.",
-        "The 'Industrialization of Conflict' where NATO members act as 'Industrial Rear-guards' for non-member allies.",
-        "The shift from 'Conventional Deterrence' to 'Nuclear Brinkmanship' by mid-sized powers.",
-        "The failure of 'Multilateral Export Control Regimes' (MECRs)."
+        "Eliminating the need for 'Geostationary Transfer Orbits' (GTO).",
+        "The 'Marginal Cost' shift: Moving space launches from a capital-expenditure model to an operating-expense model.",
+        "The 'Kessler Syndrome' mitigation: Reducing orbital debris through controlled re-entry.",
+        "Expanding the 'Outer Space Treaty' to allow for private lunar land grabs."
       ],
       "correct_index": 1,
-      "explanation": "Option B is a high-level IR concept. By producing weapons in Romania for Ukraine, NATO creates a secure production base that is technically outside the conflict zone but functionally part of Ukraine's 'Kill Chain'—a strategy of 'Industrial Entanglement'."
+      "explanation": "Reusability is about economics. By not throwing away the rocket (the most expensive part), the 'cost per kilogram' to orbit drops significantly. This shifts the industry from expensive, one-off missions to high-frequency, low-marginal-cost operations, democratizing access to space (S&T/Economy)."
     },
     {
       "id": "q_14",
-      "question": "India's dominance in the global 'AI Training' workforce (7% share) suggests that the country's economic future in the digital economy is currently heavily reliant on:",
+      "question": "The significant infrastructure investment in Silchar and the Barak Valley (Assam) is a critical component of India’s strategic posture toward:",
       "options": [
-        "High-end 'Algorithmic Research' and semiconductor design.",
-        "The 'Data Annotation' layer of the AI value chain, characterized by gig-economy labor.",
-        "Sovereign control over 'Large Language Models' (LLMs).",
-        "The complete automation of the BPO sector via Generative AI."
+        "Internal Security: Curbing insurgencies in the Bodoland Territorial Region.",
+        "Bilateral Hydropolitics: Controlling the flow of the Teesta River into Bangladesh.",
+        "The Act East Policy: Strengthening the 'Sub-Regional' gateway to Southeast Asia and the Bay of Bengal.",
+        "Border Defense: Fortifying the 'Chicken's Neck' corridor against Himalayan incursions."
       ],
-      "correct_index": 1,
-      "explanation": "The report highlights India's role in 'AI training' (labeling data). Option B correctly identifies that India is providing the 'manual labor' (annotation) of the AI world. This creates a 'Digital Labor' dependency and raises questions about moving up the 'Value Chain' to R&D."
+      "correct_index": 2,
+      "explanation": "Silchar acts as a gateway to Manipur, Mizoram, and Tripura, and provides a corridor toward the Kaladan Multi-Modal Project in Myanmar. Developing the Barak Valley is essential for 'Neighborhood First' and 'Act East' to create an integrated economic zone with Bangladesh and ASEAN (Static Syllabus: Geography/IR)."
     },
     {
       "id": "q_15",
-      "question": "The US Supreme Court striking down executive-order tariffs and the administration initiating a new process illustrates which constitutional principle?",
+      "question": "The International Humanitarian Law (IHL) implications of the drone strike on a market in Sudan, as compared to strikes on energy infrastructure in Russia, center on the principle of:",
       "options": [
-        "The Doctrine of 'Pleasure' in trade appointments.",
-        "The concept of 'Judicial Review' checking the limits of 'Executive Trade Authority'.",
-        "The 'Non-Delegation Doctrine' regarding tax and tariff powers.",
-        "The principle of 'Federalism' where states control import duties."
+        "Universal Jurisdiction: The right of any court to prosecute war crimes.",
+        "Distinction: The obligation to differentiate between 'Combatants/Military Objectives' and 'Civilians/Civilian Objects'.",
+        "Pre-emption: The right to strike first to prevent an imminent attack.",
+        "Neutrality: The obligation of third-party nations to avoid providing drone technology to combatants."
       ],
       "correct_index": 1,
-      "explanation": "In most democracies (including the US and India), the power to tax/tariff is a legislative function. Option B shows how the Judiciary acts as a 'Check and Balance' when the Executive tries to use emergency powers to bypass the legislature (Static Syllabus: Polity/Comparative Constitution)."
+      "explanation": "Under IHL, the Principle of Distinction is foundational. Striking a 'market' (civilian gathering) is a clear violation. Conversely, strikes on 'energy infrastructure' (like refineries or ports) are often legally debated as 'Dual-Use' objects that provide a 'definite military advantage' to the war effort, thus becoming legitimate military targets (Static Syllabus: Ethics/IR)."
     }
   ]
 }
+
+```
