@@ -1,28 +1,28 @@
 {
   "world": [
     {
-      "headline": "Heaviest day of strikes yet on Iran despite market bets that war will end soon",
-      "description": "US and Israeli forces conducted their most intense bombing campaign against Iranian military installations on March 10, marking the heaviest single day of strikes since hostilities began 11 days earlier. The escalation comes as oil markets paradoxically price in expectations of a near-term ceasefire.",
-      "context": "The intensification represents a strategic gamble by Washington and Tel Aviv to force Tehran to the negotiating table through overwhelming military pressure. Oil traders' confidence in a quick resolution conflicts sharply with on-ground military reality, creating potential for severe market corrections if the conflict extends beyond current expectations.",
+      "headline": "Iran vows to keep Strait of Hormuz closed in new leader's first statement",
+      "description": "Iran's new leadership issued its first formal statement vowing to maintain the closure of the Strait of Hormuz, the critical waterway through which approximately 20% of global oil trade passes, escalating the ongoing conflict with the US and Israel.",
+      "context": "The Strait of Hormuz closure represents a severe chokepoint for global energy markets. With Iran's new leader doubling down on this posture, the international community faces prolonged supply disruptions, pushing oil prices above $100 per barrel and threatening global economic stability.",
       "timeline": [
         {
-          "date": "2026-02-28",
-          "label": "US-Israel military operations against Iran begin",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-09",
-          "label": "Oil prices surge to nearly $120 per barrel",
+          "date": "2026-03-11",
+          "label": "Six vessels attacked in the Gulf and Strait of Hormuz as war intensifies",
           "type": "escalation"
         },
         {
-          "date": "2026-03-10",
-          "label": "Heaviest bombing day recorded; oil prices fall to below $90",
+          "date": "2026-03-12",
+          "label": "Iran's new leader issues first statement vowing to keep Strait of Hormuz closed",
           "type": "event"
         },
         {
-          "date": "2026-03-10",
-          "label": "Markets bet on imminent ceasefire despite military escalation",
+          "date": "2026-03-12",
+          "label": "Oil prices surge past $100 per barrel; IEA declares biggest-ever oil market disruption",
+          "type": "consequence"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Wealthy nations pledge record emergency oil reserve releases to stabilize prices",
           "type": "consequence"
         }
       ],
@@ -31,251 +31,664 @@
       "region": "Middle East",
       "key_terms": [
         {
-          "term": "Strategic bombing campaign",
-          "definition": "Coordinated military strikes targeting critical infrastructure and command centers to degrade operational capacity"
+          "term": "Strait of Hormuz",
+          "definition": "A narrow waterway between Iran and Oman through which approximately 20% of global oil and a significant share of LNG transits; strategically vital to world energy supply."
         },
         {
-          "term": "Market-military disconnect",
-          "definition": "Divergence between financial market optimism and actual military escalation patterns"
+          "term": "IEA",
+          "definition": "International Energy Agency, an intergovernmental organisation coordinating energy policies among member countries and managing emergency oil reserves."
         },
         {
-          "term": "Ceasefire expectations",
-          "definition": "Trader positioning based on anticipated diplomatic resolution despite ongoing hostilities"
+          "term": "Oil market disruption",
+          "definition": "A severe interruption in global crude oil supply chains leading to price spikes and potential economic recession if sustained."
         }
       ],
-      "link": "https://www.reuters.com/world/middle-east/iran-strikes-2026-03-10/"
+      "link": "https://www.reuters.com/world/middle-east/iran-vows-keep-strait-hormuz-closed-new-leaders-first-statement-2026-03-12/"
     },
     {
-      "headline": "Trump administration estimates cost of Iran war's first two days at $5.6 billion",
-      "description": "The US government has calculated that the opening 48 hours of military operations against Iran consumed $5.6 billion in direct costs, according to internal estimates shared by administration sources. The figure covers munitions, fuel, deployed personnel, and immediate operational expenses.",
-      "context": "The staggering financial burn rate underscores the unsustainability of extended operations at current intensity. With no clear exit strategy and Iran showing no signs of capitulation, the economic burden threatens to become a domestic political liability for the Trump administration ahead of the 2028 election cycle.",
+      "headline": "Oil jumps to $100 per barrel and stocks sink worldwide with no clear end in sight for the Iran war",
+      "description": "Global oil prices crossed the $100 per barrel threshold for the first time in years as the Iran war showed no signs of resolution, triggering worldwide stock market sell-offs and intensifying fears of a global recession.",
+      "context": "The psychological and economic significance of $100 oil triggers inflation across all sectors reliant on energy. Combined with global bond markets erasing 2026 gains, the financial impact of the Iran conflict is rapidly spreading beyond the Middle East into developed economies.",
       "timeline": [
         {
-          "date": "2026-02-28",
-          "label": "Military operations commence",
+          "date": "2026-03-11",
+          "label": "EU warns Iran conflict could push bloc's inflation above 3%",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Oil prices breach $100 per barrel; global equities fall sharply",
           "type": "event"
         },
         {
-          "date": "2026-03-01",
-          "label": "First 48 hours incur $5.6 billion in costs",
+          "date": "2026-03-12",
+          "label": "Global bonds erase all 2026 gains as war fuels inflation anxiety",
+          "type": "consequence"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Wealthy nations pledge record emergency oil reserve releases to calm markets",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "Brent Crude",
+          "definition": "The international benchmark for oil pricing, used to set prices for two-thirds of globally traded crude oil supplies."
+        },
+        {
+          "term": "Strategic Petroleum Reserve",
+          "definition": "Emergency crude oil stockpiles held by governments, released during supply crises to dampen price spikes."
+        },
+        {
+          "term": "Global bond market",
+          "definition": "The market for government and corporate debt instruments; rising inflation erodes bond values, signalling broader economic stress."
+        }
+      ],
+      "link": "https://apnews.com/article/iran-war-oil-prices-100-barrel-global-stocks-2026-03-12"
+    },
+    {
+      "headline": "Iran War Causes Biggest-Ever Oil Market Disruption, IEA Says",
+      "description": "The International Energy Agency declared the Iran war has caused the largest disruption to global oil markets ever recorded, surpassing previous crises including the 1973 Arab oil embargo and the 1990 Gulf War shock.",
+      "context": "The IEA's designation as the biggest-ever oil market disruption signals the severity of the crisis. This will pressure member states to enact coordinated emergency measures and may fundamentally reshape global energy trade routes and security arrangements for years.",
+      "timeline": [
+        {
+          "date": "2026-03-11",
+          "label": "Multiple vessels attacked in Gulf and Strait of Hormuz, disrupting tanker traffic",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Iraq shuts down oil port operations following deadly tanker attacks",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "IEA declares Iran war the biggest-ever oil market disruption in recorded history",
           "type": "event"
         },
         {
-          "date": "2026-03-10",
-          "label": "Internal cost estimates leaked to media",
+          "date": "2026-03-12",
+          "label": "Wealthy nations coordinate record emergency oil reserve releases",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "IEA",
+          "definition": "International Energy Agency, coordinates energy policy among 31 member nations and manages collective emergency oil stocks."
+        },
+        {
+          "term": "1973 Arab Oil Embargo",
+          "definition": "OPEC oil embargo targeting nations supporting Israel in the Yom Kippur War, causing a global energy crisis used as a historical baseline for oil disruptions."
+        },
+        {
+          "term": "Emergency oil reserves",
+          "definition": "Stockpiles of crude oil held by IEA member governments, releasable during crises to offset supply shortfalls and moderate price spikes."
+        }
+      ],
+      "link": "https://www.bloomberg.com/news/articles/2026-03-12/iran-war-causes-biggest-ever-oil-market-disruption-iea-says"
+    },
+    {
+      "headline": "Six vessels attacked in Gulf, Strait of Hormuz as war puts merchant ships on front lines",
+      "description": "At least six commercial vessels were attacked in the Gulf and Strait of Hormuz region as the US-Iran-Israel conflict expanded its reach to merchant shipping, drawing parallels to the 'Tanker War' of the 1980s.",
+      "context": "Attacks on civilian merchant vessels internationalise the conflict beyond military actors, threatening global trade supply chains and forcing insurance underwriters to dramatically raise war-risk premiums, which will further elevate the cost of goods globally.",
+      "timeline": [
+        {
+          "date": "2026-03-11",
+          "label": "Six vessels attacked in Gulf and Strait of Hormuz as merchant shipping becomes a front line",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Iran escalates attacks on shipping and Dubai",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Iraq shuts oil port operations after deadly attacks on tankers",
+          "type": "consequence"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Mideast shipping crisis widens with more tankers hit in Gulf",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East / Persian Gulf",
+      "key_terms": [
+        {
+          "term": "Tanker War",
+          "definition": "Phase of the 1980–88 Iran-Iraq War in which both sides targeted oil tankers in the Persian Gulf, disrupting global energy shipping."
+        },
+        {
+          "term": "War-risk insurance",
+          "definition": "Specialist marine insurance covering vessels operating in conflict zones; premium spikes raise shipping costs and ultimately consumer prices."
+        },
+        {
+          "term": "Iraq oil ports",
+          "definition": "Iraq's southern oil export terminals at Basra and Khor al-Amaya, handling a significant share of Iraq's crude exports."
+        }
+      ],
+      "link": "https://www.reuters.com/world/middle-east/six-vessels-attacked-gulf-strait-hormuz-war-puts-merchant-ships-front-lines-2026-03-11/"
+    },
+    {
+      "headline": "Outdated intel likely led US to carry out deadly strike on Iranian elementary school, AP sources say",
+      "description": "US officials acting on intelligence later determined to be outdated carried out an airstrike that destroyed an Iranian elementary school, killing an unconfirmed number of civilians including children, according to sources cited by the Associated Press.",
+      "context": "The strike on a civilian school risks severe international condemnation and legal scrutiny under international humanitarian law. It threatens to undermine domestic and allied support for US military operations and may galvanize Iranian public resistance to any negotiated settlement.",
+      "timeline": [
+        {
+          "date": "2026-03-11",
+          "label": "Trump administration estimates Iran war costs exceed $11 billion in six days",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "US airstrike hits Iranian elementary school based on outdated intelligence, AP reports",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Pentagon blocks photographers from Hegseth briefings on the Iran war",
+          "type": "consequence"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "UN reports up to 3.2 million people displaced across Iran amid US-Israeli attacks",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East / Iran",
+      "key_terms": [
+        {
+          "term": "International Humanitarian Law",
+          "definition": "Body of law (including Geneva Conventions) governing the conduct of armed conflict, prohibiting deliberate attacks on civilian infrastructure."
+        },
+        {
+          "term": "Pete Hegseth",
+          "definition": "US Secretary of Defense overseeing military operations against Iran; referenced in context of media access restrictions at Pentagon briefings."
+        },
+        {
+          "term": "Collateral damage",
+          "definition": "Unintended civilian casualties or destruction of civilian property resulting from military operations, subject to international legal scrutiny."
+        }
+      ],
+      "link": "https://apnews.com/article/us-strike-iran-elementary-school-outdated-intelligence-2026-03-12"
+    },
+    {
+      "headline": "Up to 3.2 million people displaced across Iran amid US-Israeli attacks: UN",
+      "description": "The United Nations reported that up to 3.2 million people have been internally displaced within Iran as a result of ongoing US and Israeli military strikes, creating one of the largest displacement crises since the Syrian civil war.",
+      "context": "Mass civilian displacement on this scale overwhelms humanitarian response capacity, creates conditions for disease outbreaks, and generates a potential long-term refugee crisis that could destabilise neighbouring countries including Iraq, Turkey, and Pakistan.",
+      "timeline": [
+        {
+          "date": "2026-03-11",
+          "label": "Trump administration estimates Iran war cost at over $11 billion in six days",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "US airstrike hits Iranian elementary school based on outdated intelligence",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "UN reports up to 3.2 million displaced across Iran from US-Israeli strikes",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "War pushes Iran's water supply infrastructure to the brink of collapse, Bloomberg reports",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East / Iran",
+      "key_terms": [
+        {
+          "term": "UNHCR",
+          "definition": "UN Refugee Agency, responsible for protecting and assisting refugees and internally displaced persons globally."
+        },
+        {
+          "term": "Internal displacement",
+          "definition": "Forced movement of people within their own country's borders due to conflict, violence, or disaster, without crossing an international boundary."
+        },
+        {
+          "term": "Humanitarian corridor",
+          "definition": "A safe passage negotiated during conflicts to allow civilians to flee combat zones or receive aid."
+        }
+      ],
+      "link": "https://www.aljazeera.com/news/2026/3/12/up-to-3-2-million-displaced-across-iran-amid-us-israeli-attacks-un"
+    },
+    {
+      "headline": "Israel pounds Beirut suburbs after Hezbollah fires volley of rockets",
+      "description": "Israeli forces conducted sustained airstrikes on southern Beirut suburbs following a significant Hezbollah rocket barrage into northern Israel, widening the active front in the broader regional conflict.",
+      "context": "The reopening of the Lebanon front alongside the Iran war stretches Israeli military resources and signals Hezbollah's intent to coordinate with Iran under pressure. It risks drawing Lebanon deeper into a devastating conflict at a time when the country remains economically fragile.",
+      "timeline": [
+        {
+          "date": "2026-03-11",
+          "label": "Hezbollah fires volley of rockets into northern Israel",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-11",
+          "label": "Israel pounds Beirut suburbs in response to Hezbollah rocket attacks",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Israel threatens to take Lebanese territory if Hezbollah attacks continue",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East / Lebanon",
+      "key_terms": [
+        {
+          "term": "Hezbollah",
+          "definition": "Lebanese Shia political and military organisation, designated a terrorist group by the US and EU, closely allied with Iran."
+        },
+        {
+          "term": "Dahieh",
+          "definition": "The southern suburbs of Beirut, a Hezbollah stronghold that has historically been targeted by Israeli airstrikes."
+        },
+        {
+          "term": "Multi-front war",
+          "definition": "A military scenario in which a combatant nation faces simultaneous active conflicts across multiple geographic theatres."
+        }
+      ],
+      "link": "https://www.reuters.com/world/middle-east/israel-pounds-beirut-suburbs-hezbollah-fires-rockets-2026-03-11/"
+    },
+    {
+      "headline": "Iran Says Truce Depends on US, Israel Pledging Not to Strike",
+      "description": "Iranian officials stated that any ceasefire agreement is conditional upon binding pledges from both the United States and Israel to permanently halt offensive military operations against Iranian territory and infrastructure.",
+      "context": "Iran's precondition of a no-strike pledge effectively makes a near-term truce unlikely given US and Israeli stated objectives. This signals a protracted conflict with significant implications for global energy markets, regional stability, and diplomatic relations.",
+      "timeline": [
+        {
+          "date": "2026-03-12",
+          "label": "Iran's new leader vows to keep Strait of Hormuz closed in first statement",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Iran issues truce conditions demanding US and Israel pledge no further strikes",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Wealthy nations pledge record emergency oil releases as ceasefire prospects dim",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East / Iran",
+      "key_terms": [
+        {
+          "term": "Ceasefire",
+          "definition": "A temporary or permanent halt to military hostilities, typically negotiated through diplomatic channels."
+        },
+        {
+          "term": "No-strike pledge",
+          "definition": "A formal diplomatic commitment by a nation not to conduct offensive military operations against a specified target."
+        },
+        {
+          "term": "Trump administration",
+          "definition": "The executive branch of the US government under President Donald Trump's second term, overseeing US military engagement against Iran."
+        }
+      ],
+      "link": "https://www.bloomberg.com/news/articles/2026-03-12/iran-says-truce-depends-on-us-israel-pledging-not-to-strike"
+    },
+    {
+      "headline": "Russia says eight medics killed in Ukrainian drone attack in Donetsk region",
+      "description": "Russia's Defence Ministry reported that eight medical personnel were killed in a Ukrainian drone strike targeting a medical facility in the Donetsk region, escalating tensions as US-brokered peace talks remain suspended.",
+      "context": "Strikes on medical personnel constitute a potential violation of international humanitarian law under the Geneva Conventions. The incident is likely to be leveraged by Russia diplomatically to undermine Western support for Ukraine even as both sides claim battlefield progress.",
+      "timeline": [
+        {
+          "date": "2026-03-12",
+          "label": "Russia claims eight medics killed in Ukrainian drone strike in Donetsk",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Russia and Ukraine both claim front-line progress as US-brokered talks remain on hold",
+          "type": "consequence"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Ukraine strikes key hub for oil pipelines in southern Russia",
+          "type": "escalation"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Eastern Europe / Ukraine",
+      "key_terms": [
+        {
+          "term": "Donetsk region",
+          "definition": "Partially Russian-occupied eastern Ukrainian oblast and a primary front line in the Russia-Ukraine war."
+        },
+        {
+          "term": "Geneva Conventions",
+          "definition": "International treaties establishing legal standards for humanitarian treatment in war, including the protection of medical personnel."
+        },
+        {
+          "term": "FPV drone",
+          "definition": "First-Person View drone, widely used in the Ukraine war for precision strikes on military and infrastructure targets."
+        }
+      ],
+      "link": "https://www.reuters.com/world/europe/russia-says-eight-medics-killed-ukrainian-drone-attack-donetsk-2026-03-12/"
+    },
+    {
+      "headline": "Ukraine Strikes Key Hub for Oil Pipelines in Southern Russia",
+      "description": "Ukraine carried out a long-range strike on a major oil pipeline hub in southern Russia, targeting energy infrastructure in what analysts describe as an escalation intended to impose economic costs on Moscow.",
+      "context": "Strikes on Russian energy infrastructure directly reduce Moscow's oil export revenue, which has already sunk to its lowest level since the war began. This dual pressure of Iran war-driven market disruption and Ukrainian strikes compounds Russia's fiscal strain.",
+      "timeline": [
+        {
+          "date": "2026-03-12",
+          "label": "Russia's oil-export revenue sinks to lowest level since start of Ukraine war, Bloomberg reports",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Ukraine strikes key oil pipeline hub in southern Russia",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Russia and Ukraine both claim front-line gains as US-brokered peace talks remain stalled",
           "type": "consequence"
         }
       ],
       "importance_score": 4,
       "category": "world",
-      "region": "Middle East",
+      "region": "Eastern Europe / Russia",
       "key_terms": [
         {
-          "term": "Operational burn rate",
-          "definition": "Rate of financial expenditure for sustained military operations including munitions and logistics"
+          "term": "Druzhba pipeline",
+          "definition": "One of the world's longest oil pipeline systems, transporting Russian crude westward through Ukraine and Belarus into Europe."
         },
         {
-          "term": "Munitions depletion",
-          "definition": "Consumption of precision-guided weapons stockpiles requiring costly replenishment"
+          "term": "Russian oil export revenue",
+          "definition": "Income generated by Russia from crude oil and petroleum product exports, a primary source of government budget financing."
         },
         {
-          "term": "Fiscal sustainability",
-          "definition": "Ability to maintain military operations within acceptable budgetary constraints"
+          "term": "Long-range strike capability",
+          "definition": "Ukraine's ability to hit targets deep inside Russian territory using drones or missiles, a capability that has expanded significantly during the war."
         }
       ],
-      "link": "https://www.reuters.com/world/us-iran-war-cost-2026-03-10/"
+      "link": "https://www.bloomberg.com/news/articles/2026-03-12/ukraine-strikes-key-hub-for-oil-pipelines-in-southern-russia"
     },
     {
-      "headline": "Experts confirm footage shows US Tomahawk hitting Iranian base near school where 165 killed",
-      "description": "Independent weapons analysts have verified video evidence showing a US Tomahawk cruise missile striking an Iranian Revolutionary Guard facility adjacent to a civilian school in which at least 165 people were killed. The attack represents the single deadliest incident involving civilians since operations began.",
-      "context": "The strike raises severe questions about targeting protocols and collateral damage assessment procedures. If the school was known to be operational, the attack could violate laws of armed conflict. The incident provides Iran with significant propaganda value and may complicate diplomatic efforts to wind down hostilities.",
+      "headline": "ICC opens probe into alleged crimes against humanity by Belarus",
+      "description": "The International Criminal Court announced the opening of a formal investigation into alleged crimes against humanity committed by Belarusian authorities, following years of documented political repression and violence against protesters and dissidents.",
+      "context": "The ICC probe represents a significant escalation of international legal pressure on the Lukashenko government. It signals growing institutional willingness to prosecute authoritarian leaders and may complicate Belarus's diplomatic relations with non-Western partners.",
       "timeline": [
         {
-          "date": "2026-03-08",
-          "label": "Tomahawk strike hits facility near active school",
-          "type": "event"
+          "date": "2020-08-09",
+          "label": "Disputed Belarusian presidential election triggers mass protests and violent crackdown",
+          "type": "background"
         },
         {
-          "date": "2026-03-09",
-          "label": "Iran reports 165 civilian casualties including children",
-          "type": "consequence"
+          "date": "2021-05-23",
+          "label": "Belarus forces Ryanair flight to land in Minsk to arrest dissident journalist Roman Protasevich",
+          "type": "escalation"
         },
         {
-          "date": "2026-03-10",
-          "label": "Weapons experts verify US munition via video analysis",
+          "date": "2026-03-12",
+          "label": "ICC formally opens probe into alleged crimes against humanity by Belarus",
           "type": "event"
         }
       ],
-      "importance_score": 5,
+      "importance_score": 4,
       "category": "world",
-      "region": "Middle East",
+      "region": "Europe / Belarus",
       "key_terms": [
         {
-          "term": "Tomahawk cruise missile",
-          "definition": "Long-range precision-guided munition capable of striking targets from ships or submarines at distances exceeding 1,000 miles"
+          "term": "ICC",
+          "definition": "International Criminal Court, a Hague-based permanent tribunal that prosecutes individuals for genocide, war crimes, and crimes against humanity."
         },
         {
-          "term": "Collateral damage assessment",
-          "definition": "Military process evaluating potential civilian casualties before authorizing strikes on military targets"
+          "term": "Crimes against humanity",
+          "definition": "Systematic acts such as murder, torture, and imprisonment committed against civilian populations as part of a widespread or systematic attack."
         },
         {
-          "term": "Laws of armed conflict",
-          "definition": "International humanitarian law governing conduct during warfare, including protection of civilians and civilian infrastructure"
-        },
-        {
-          "term": "Dual-use facilities",
-          "definition": "Structures serving both military and civilian purposes, complicating targeting decisions"
+          "term": "Alexander Lukashenko",
+          "definition": "President of Belarus since 1994, widely considered Europe's last authoritarian leader; his government has been accused of systematic human rights abuses."
         }
       ],
-      "link": "https://apnews.com/article/iran-school-tomahawk-strike-2026"
+      "link": "https://www.reuters.com/world/europe/icc-opens-probe-alleged-crimes-against-humanity-belarus-2026-03-12/"
     },
     {
-      "headline": "Russia's deportations of Ukrainian children amount to crimes against humanity, UN inquiry finds",
-      "description": "A United Nations investigative commission has formally concluded that Russia's systematic deportation and forced relocation of Ukrainian children constitutes crimes against humanity under international law. The inquiry documented thousands of cases involving forcible transfer, family separation, and coerced adoption processes.",
-      "context": "The finding carries significant legal weight and could form the basis for future International Criminal Court prosecutions. It escalates the legal jeopardy facing Russian officials and provides additional justification for continued Western sanctions. The designation as crimes against humanity requires proof of systematic and widespread attacks against civilian populations.",
+      "headline": "China passes new ethnic minority law, prioritises use of Mandarin language",
+      "description": "China's National People's Congress passed a new ethnic minority affairs law that prioritises Mandarin Chinese as the primary language of instruction and public life in minority regions, replacing provisions that previously protected regional languages.",
+      "context": "The law accelerates Beijing's longstanding assimilation policies in regions including Tibet, Xinjiang, and Inner Mongolia. Critics argue it systematically erodes minority cultural identities; Beijing frames it as promoting national unity and economic integration.",
+      "timeline": [
+        {
+          "date": "2017-01-01",
+          "label": "China introduces Mandarin-first education policies in Tibetan schools",
+          "type": "background"
+        },
+        {
+          "date": "2020-08-01",
+          "label": "Inner Mongolia protests erupt over replacement of Mongolian-language curriculum with Mandarin",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "China passes new ethnic minority law mandating priority use of Mandarin language nationwide",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Asia / China",
+      "key_terms": [
+        {
+          "term": "National People's Congress",
+          "definition": "China's highest legislative body, responsible for enacting national laws and approving major government policies."
+        },
+        {
+          "term": "Ethnic minority regions",
+          "definition": "Autonomous regions within China including Tibet, Xinjiang, Inner Mongolia, and Yunnan, home to over 55 officially recognised ethnic minority groups."
+        },
+        {
+          "term": "Linguistic assimilation",
+          "definition": "The policy process by which a dominant culture systematically replaces minority languages in public life, education, and governance."
+        }
+      ],
+      "link": "https://www.reuters.com/world/china/china-passes-new-ethnic-minority-law-prioritises-mandarin-language-2026-03-12/"
+    },
+    {
+      "headline": "Romania signs deal with Ukraine on joint defence production including drones",
+      "description": "Romania and Ukraine signed a bilateral agreement to jointly develop and produce defence equipment, including military drones, marking one of the most significant industrial defence partnerships between a NATO member and Ukraine since the war began.",
+      "context": "The agreement deepens NATO's industrial entanglement with Ukraine's war effort and accelerates Ukraine's domestic defence production capacity. For Romania, it represents a strategic alignment of its defence industry with the collective Western support framework for Kyiv.",
       "timeline": [
         {
           "date": "2022-02-24",
-          "label": "Russia invades Ukraine; child deportations begin",
+          "label": "Russia launches full-scale invasion of Ukraine; NATO members begin coordinating military aid",
           "type": "background"
         },
         {
-          "date": "2023-03-17",
-          "label": "ICC issues arrest warrant for Putin over child deportations",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "UN inquiry formally classifies deportations as crimes against humanity",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Eastern Europe",
-      "key_terms": [
-        {
-          "term": "Crimes against humanity",
-          "definition": "Systematic attacks against civilian populations including murder, deportation, torture, and persecution under international criminal law"
-        },
-        {
-          "term": "Forcible transfer",
-          "definition": "Illegal deportation or displacement of protected persons from areas they lawfully occupy"
-        },
-        {
-          "term": "International Criminal Court",
-          "definition": "Permanent tribunal with jurisdiction over genocide, war crimes, and crimes against humanity"
-        },
-        {
-          "term": "Systematic attack",
-          "definition": "Pattern of conduct involving repetition of criminal acts pursuant to state policy"
-        }
-      ],
-      "link": "https://www.reuters.com/world/europe/un-ukraine-children-deportation-2026-03-10/"
-    },
-    {
-      "headline": "Human Rights Watch says Israel illegally using white phosphorus in Lebanon",
-      "description": "Human Rights Watch has documented Israeli forces deploying white phosphorus munitions in populated areas of southern Lebanon, constituting illegal use of incendiary weapons under international humanitarian law. The organization verified incidents through witness testimony, medical records, and munition remnant analysis.",
-      "context": "White phosphorus use in populated areas violates Protocol III of the Convention on Certain Conventional Weapons when used as an incendiary weapon rather than for legitimate military purposes like smoke screening. The allegations compound international scrutiny of Israeli military conduct and may trigger additional legal challenges at the International Criminal Court.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "Israeli operations in Lebanon intensify",
+          "date": "2025-06-01",
+          "label": "Romania increases defence spending to 3% of GDP, among the highest in NATO",
           "type": "background"
         },
         {
-          "date": "2026-03-05",
-          "label": "First reports of white phosphorus use emerge from southern Lebanon",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "Human Rights Watch publishes documentation of illegal incendiary weapon use",
+          "date": "2026-03-12",
+          "label": "Romania and Ukraine sign joint defence production deal covering drones and other equipment",
           "type": "event"
         }
       ],
       "importance_score": 4,
       "category": "world",
-      "region": "Middle East",
+      "region": "Europe / Romania-Ukraine",
       "key_terms": [
         {
-          "term": "White phosphorus",
-          "definition": "Chemical substance that ignites upon contact with oxygen, causing severe burns and capable of penetrating to bone"
+          "term": "NATO",
+          "definition": "North Atlantic Treaty Organization, a military alliance of 32 member states committed to collective defence under Article 5 of the Washington Treaty."
         },
         {
-          "term": "Protocol III",
-          "definition": "International treaty prohibiting use of incendiary weapons against civilian populations or military targets within civilian concentrations"
+          "term": "Defence industrial base",
+          "definition": "The network of companies, research institutions, and government entities that design, develop, and manufacture military equipment."
         },
         {
-          "term": "Incendiary weapons",
-          "definition": "Munitions primarily designed to set fire to objects or cause burn injuries through chemical reaction"
-        },
-        {
-          "term": "International humanitarian law",
-          "definition": "Rules governing conduct during armed conflict to limit suffering and protect civilians"
+          "term": "Military drone",
+          "definition": "Unmanned aerial vehicles used for reconnaissance, surveillance, and offensive strike missions, which have proven decisive in the Ukraine war."
         }
       ],
-      "link": "https://www.reuters.com/world/middle-east/israel-white-phosphorus-lebanon-2026-03-10/"
+      "link": "https://www.reuters.com/world/europe/romania-signs-deal-ukraine-joint-defence-production-including-drones-2026-03-12/"
     },
     {
-      "headline": "Trump wanted India off Russian oil but Iran war undermines that goal",
-      "description": "The escalating conflict with Iran is forcing India to increase Russian oil imports despite US pressure to curtail them, as alternative Middle Eastern supplies become unreliable and prices spike. India's Russian crude purchases have risen 23% since the war began, reversing months of gradual reduction.",
-      "context": "The contradiction highlights how the Iran conflict undermines other US strategic objectives. Trump's tariff reduction deal with India in February was explicitly conditioned on cutting Russian oil imports, but the war's disruption of Gulf supplies now makes that economically untenable for New Delhi. This creates diplomatic tension and demonstrates the interconnected complexity of global energy security.",
+      "headline": "Trump administration kicks off new process to replace tariffs struck down by Supreme Court",
+      "description": "The Trump administration initiated a new legislative and regulatory process to reimpose trade tariffs after the US Supreme Court struck down a previous set of executive-order-based tariffs as unconstitutional, signalling continued trade protectionist ambitions.",
+      "context": "The Supreme Court's ruling represents a significant constraint on executive trade authority. The administration's effort to replace tariffs through a new legal mechanism will reshape US trade policy with major implications for bilateral relations with China, the EU, and Canada.",
       "timeline": [
         {
-          "date": "2026-02-02",
-          "label": "Trump reduces India tariffs in exchange for commitment to stop Russian oil purchases",
+          "date": "2025-01-20",
+          "label": "Trump reinstated broad executive tariffs on imports from multiple countries upon taking office",
           "type": "background"
         },
         {
-          "date": "2026-02-28",
-          "label": "US-Iran conflict begins; Gulf oil supplies disrupted",
+          "date": "2026-02-15",
+          "label": "US Supreme Court strikes down executive-order tariffs as unconstitutional overreach",
           "type": "escalation"
         },
         {
-          "date": "2026-03-10",
-          "label": "India's Russian oil imports surge 23% despite US deal",
-          "type": "consequence"
+          "date": "2026-03-12",
+          "label": "Trump administration launches new process to replace struck-down tariffs",
+          "type": "event"
         }
       ],
       "importance_score": 4,
       "category": "world",
-      "region": "South Asia",
+      "region": "North America / USA",
       "key_terms": [
         {
-          "term": "Energy security",
-          "definition": "Reliable access to affordable energy supplies essential for economic stability"
+          "term": "Tariff",
+          "definition": "A tax levied by a government on imported goods, used to protect domestic industries or as a tool of economic leverage in trade disputes."
         },
         {
-          "term": "Sanctions compliance",
-          "definition": "Adherence to restrictions on trade with targeted nations"
+          "term": "US Supreme Court",
+          "definition": "The highest court in the United States, with authority to strike down executive and legislative actions that violate the Constitution."
         },
         {
-          "term": "Strategic autonomy",
-          "definition": "Policy of maintaining independent decision-making in foreign relations and economic matters"
+          "term": "Executive trade authority",
+          "definition": "The constitutional and statutory powers granted to the US President to impose trade measures; subject to judicial review and congressional oversight."
         }
       ],
-      "link": "https://www.cnn.com/2026/03/10/asia/trump-india-russia-oil-iran-war"
+      "link": "https://apnews.com/article/trump-tariffs-supreme-court-new-process-2026-03-12"
     },
     {
-      "headline": "Crude oil prices plunge below $90 per barrel following surge to almost $120 amid Iran conflict",
-      "description": "Global oil prices experienced a dramatic 25% collapse from near $120 to below $90 per barrel within 48 hours, driven by trader expectations of an imminent ceasefire and reports of strategic petroleum reserve releases by major consuming nations.",
-      "context": "The sharp reversal represents one of the most volatile periods in oil markets since the 2020 pandemic crash. The price collapse suggests markets are pricing in a swift resolution to the Iran conflict, but this optimism may prove premature given continued military escalation. The disconnect between market sentiment and battlefield reality creates significant risk of renewed price spikes if diplomatic efforts fail.",
+      "headline": "A drone strike hits school and medical center in southern Sudan, killing 17, mostly schoolgirls",
+      "description": "A drone strike struck a school and adjacent medical centre in southern Sudan, killing at least 17 people, the majority of whom were schoolgirls, in an attack that drew immediate international condemnation.",
+      "context": "The strike represents a devastating escalation of civilian targeting in Sudan's ongoing internal conflict. The targeting of children in educational settings violates core principles of international humanitarian law and is likely to trigger UN Security Council emergency discussions.",
       "timeline": [
         {
-          "date": "2026-03-08",
-          "label": "Oil prices peak near $120 per barrel on conflict fears",
+          "date": "2023-04-15",
+          "label": "Armed conflict between Sudanese Armed Forces and Rapid Support Forces erupts in Khartoum",
+          "type": "background"
+        },
+        {
+          "date": "2025-11-01",
+          "label": "UN reports over 10 million displaced in Sudan, the world's largest internal displacement crisis",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Drone strike hits school and medical centre in southern Sudan, killing 17 including schoolgirls",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Africa / Sudan",
+      "key_terms": [
+        {
+          "term": "Rapid Support Forces (RSF)",
+          "definition": "Sudanese paramilitary group formerly led by Mohamed Hamdan Dagalo, involved in the ongoing Sudanese civil war."
+        },
+        {
+          "term": "UN Security Council",
+          "definition": "The United Nations body with primary responsibility for international peace and security, empowered to authorise sanctions and peacekeeping missions."
+        },
+        {
+          "term": "Civilian protection",
+          "definition": "Obligations under international humanitarian law to distinguish between combatants and civilians and to avoid attacks on civilian populations."
+        }
+      ],
+      "link": "https://apnews.com/article/sudan-drone-strike-school-medical-center-schoolgirls-killed-2026-03-12"
+    },
+    {
+      "headline": "Hungary's Orbán orders authorities to hold $82 million in seized Ukrainian cash and gold",
+      "description": "Hungarian Prime Minister Viktor Orbán directed authorities to retain approximately $82 million in Ukrainian assets seized by Hungarian law enforcement rather than returning them, creating a fresh diplomatic crisis between Budapest and Kyiv.",
+      "context": "Orbán's move is widely interpreted as leverage in his ongoing dispute with Ukraine and with EU partners over Hungary's pro-Russia foreign policy stance. It risks triggering EU legal proceedings against Hungary and further undermining alliance cohesion on Ukraine support.",
+      "timeline": [
+        {
+          "date": "2022-02-24",
+          "label": "Russia invades Ukraine; Orbán refuses to allow NATO weapons transit through Hungary",
+          "type": "background"
+        },
+        {
+          "date": "2025-06-01",
+          "label": "Hungary blocks multiple EU aid packages to Ukraine, drawing Brussels sanctions threats",
           "type": "escalation"
         },
         {
-          "date": "2026-03-09",
-          "label": "Major consuming nations announce strategic reserve releases",
+          "date": "2026-03-12",
+          "label": "Orbán orders Hungarian authorities to hold $82 million in seized Ukrainian cash and gold",
           "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "world",
+      "region": "Europe / Hungary",
+      "key_terms": [
+        {
+          "term": "Viktor Orbán",
+          "definition": "Prime Minister of Hungary since 2010, known for his eurosceptic and pro-Russia positions that frequently put him at odds with EU and NATO partners."
         },
         {
-          "date": "2026-03-10",
-          "label": "Prices crash below $90 on ceasefire expectations",
-          "type": "consequence"
+          "term": "Asset seizure",
+          "definition": "The confiscation of funds or property by government authorities, typically under anti-money-laundering or sanctions enforcement powers."
+        },
+        {
+          "term": "EU Article 7 proceedings",
+          "definition": "A Treaty on European Union mechanism for addressing member states that breach core EU values, potentially leading to suspension of voting rights."
+        }
+      ],
+      "link": "https://apnews.com/article/hungary-orban-ukrainian-assets-seized-2026-03-12"
+    },
+    {
+      "headline": "Wealthy nations pledge record release of emergency oil reserves in a bid to calm surging prices",
+      "description": "IEA member nations collectively pledged an unprecedented coordinated release of emergency oil reserves as oil prices breached $100 per barrel, aiming to inject additional supply into global markets and dampen inflationary pressure.",
+      "context": "Record reserve releases signal the severity of the supply disruption caused by the Iran war. While intended to stabilise markets in the short term, analysts warn that sustained Hormuz closure will overwhelm reserve capacity, making a diplomatic resolution the only durable solution.",
+      "timeline": [
+        {
+          "date": "2026-03-12",
+          "label": "Oil prices breach $100 per barrel as Iran war shows no signs of resolution",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "IEA declares Iran war the biggest-ever disruption to global oil markets",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Wealthy nations pledge record emergency oil reserve releases to calm surging prices",
+          "type": "event"
         }
       ],
       "importance_score": 4,
@@ -283,160 +696,245 @@
       "region": "Global",
       "key_terms": [
         {
-          "term": "Strategic Petroleum Reserve",
-          "definition": "Emergency stockpiles of crude oil maintained by governments to cushion against supply disruptions"
+          "term": "Strategic Petroleum Reserve (SPR)",
+          "definition": "Emergency crude oil stockpiles maintained by governments; the US SPR is the world's largest at approximately 700 million barrels capacity."
         },
         {
-          "term": "Geopolitical risk premium",
-          "definition": "Additional price traders demand for commodities due to conflict-related supply uncertainty"
+          "term": "Coordinated reserve release",
+          "definition": "A simultaneous release of emergency oil stocks by multiple IEA member nations, designed to have a greater market-calming effect than unilateral releases."
         },
         {
-          "term": "Market volatility",
-          "definition": "Degree of price fluctuation in financial or commodity markets over time"
+          "term": "Inflation pass-through",
+          "definition": "The mechanism by which rising energy costs increase prices across all sectors of the economy, from transportation to food production."
         }
       ],
-      "link": "https://www.aljazeera.com/economy/2026/3/10/oil-price-crash-iran-conflict"
-    },
-    {
-      "headline": "Al Qaeda-linked group killed at least 12 truck drivers in Mali, HRW says",
-      "description": "Human Rights Watch has documented that an Al Qaeda affiliate operating in northern Mali executed at least 12 civilian truck drivers in coordinated attacks on commercial convoys during early March 2026, marking an escalation in terrorist targeting of economic infrastructure.",
-      "context": "The attacks represent a shift in jihadist tactics toward economic warfare, deliberately targeting supply chains to undermine government authority and commercial activity. Mali's transportation networks are critical lifelines for the landlocked Sahel region, and systematic attacks on drivers threaten to further isolate already vulnerable populations and destabilize regional trade.",
-      "timeline": [
-        {
-          "date": "2026-03-04",
-          "label": "First convoy attack kills 5 drivers in northern Mali",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-07",
-          "label": "Second attack kills 7 additional drivers",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "Human Rights Watch confirms Al Qaeda affiliate responsibility",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 3,
-      "category": "world",
-      "region": "West Africa",
-      "key_terms": [
-        {
-          "term": "Jama'at Nasr al-Islam wal Muslimin",
-          "definition": "Al Qaeda-linked coalition of jihadist groups operating across the Sahel region"
-        },
-        {
-          "term": "Economic warfare",
-          "definition": "Deliberate targeting of commercial infrastructure and economic actors to undermine state capacity"
-        },
-        {
-          "term": "Sahel region",
-          "definition": "Semi-arid zone spanning West and Central Africa facing severe security and humanitarian challenges"
-        }
-      ],
-      "link": "https://www.reuters.com/world/africa/mali-truck-drivers-attack-hrw-2026-03-10/"
-    },
-    {
-      "headline": "Trump, Putin discuss war and peace as US weighs easing Russian oil sanctions",
-      "description": "President Trump held direct talks with Russian President Vladimir Putin focused on potential pathways to end the Ukraine war, while the administration simultaneously evaluates relaxing sanctions on Russian oil exports as global energy prices spike due to the Iran conflict.",
-      "context": "The diplomatic outreach represents a significant shift in US-Russia relations and raises questions about potential quid pro quo arrangements. Easing oil sanctions would provide Moscow with crucial revenue but could undermine Western leverage over Ukraine. The timing suggests the Iran war's energy market disruption is forcing recalibration of previously rigid sanctions policy.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "Iran conflict begins; global oil prices surge",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-09",
-          "label": "Trump-Putin direct talks on Ukraine resolution",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "US administration evaluates easing Russian oil sanctions",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Eastern Europe",
-      "key_terms": [
-        {
-          "term": "Sanctions relief",
-          "definition": "Removal or reduction of economic penalties imposed to modify targeted nation's behavior"
-        },
-        {
-          "term": "Energy diplomacy",
-          "definition": "Use of energy resources and markets as tools of foreign policy and geopolitical influence"
-        },
-        {
-          "term": "Leverage asymmetry",
-          "definition": "Imbalance in bargaining power between parties in diplomatic negotiations"
-        }
-      ],
-      "link": "https://www.reuters.com/world/trump-putin-talks-sanctions-2026-03-09/"
-    },
-    {
-      "headline": "Zelenskiy says Turkey ready to host next trilateral peace talks",
-      "description": "Ukrainian President Volodymyr Zelenskiy announced that Turkey has agreed to host the next round of trilateral negotiations involving Ukraine, Russia, and the United States, signaling renewed diplomatic momentum toward a potential settlement of the nearly four-year conflict.",
-      "context": "Turkey's role as mediator reflects its unique position maintaining relations with both Moscow and Kyiv. Previous Turkish-hosted talks in 2022 nearly produced a settlement before collapsing. The renewed diplomatic track comes as battlefield dynamics have reached relative stalemate and Western attention is divided by the Iran crisis.",
-      "timeline": [
-        {
-          "date": "2022-03-29",
-          "label": "First Turkey-hosted Ukraine-Russia talks held in Istanbul",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-09",
-          "label": "Trump-Putin direct talks signal diplomatic opening",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "Zelenskiy confirms Turkey will host next trilateral summit",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Eastern Europe",
-      "key_terms": [
-        {
-          "term": "Trilateral negotiations",
-          "definition": "Diplomatic talks involving three parties with distinct interests seeking common ground"
-        },
-        {
-          "term": "Mediator credibility",
-          "definition": "Trustworthiness of neutral party facilitating negotiations between adversaries"
-        },
-        {
-          "term": "Diplomatic momentum",
-          "definition": "Acceleration of peace process driven by alignment of incentives and political will"
-        }
-      ],
-      "link": "https://www.reuters.com/world/europe/zelenskiy-turkey-peace-talks-2026-03-10/"
+      "link": "https://apnews.com/article/wealthy-nations-emergency-oil-reserves-iran-war-2026-03-12"
     }
   ],
   "national": [
     {
-      "headline": "Union Cabinet extends Jal Jeevan Mission to December 2028 with enhanced outlay of ₹8.69 lakh crore",
-      "description": "The Union Cabinet approved a three-year extension of the Jal Jeevan Mission with a massive budgetary increase from ₹3.6 lakh crore to ₹8.69 lakh crore, aiming to provide piped water connections to all remaining rural households by December 2028.",
-      "context": "The extension acknowledges that the original 2024 deadline was overly ambitious given infrastructure challenges in remote and difficult terrain. The enhanced funding addresses cost escalations and aims to cover approximately 60 million households still lacking piped water access. Success is critical for rural health outcomes and the government's 2029 electoral prospects.",
+      "headline": "Oil Minister Hardeep Singh Puri assures Parliament of fuel security; non-Hormuz crude imports rise to 70%",
+      "description": "Oil Minister Hardeep Singh Puri told Parliament that India has successfully diversified its crude oil import routes, with 70% of imports now sourced through non-Strait of Hormuz channels, shielding India from the worst effects of the current Gulf conflict.",
+      "context": "India's ability to redirect crude imports is critical given the Iran-US war disrupting Hormuz traffic. The 70% non-Hormuz sourcing figure, if accurate, significantly reduces India's immediate vulnerability, though domestic LPG and kerosene shortages indicate supply chain stress remains real.",
       "timeline": [
         {
-          "date": "2019-08-15",
-          "label": "Jal Jeevan Mission launched with target of universal rural water coverage by 2024",
+          "date": "2026-03-11",
+          "label": "Iran vows to keep Strait of Hormuz closed, threatening a fifth of global oil supply",
           "type": "background"
         },
         {
-          "date": "2024-12-31",
-          "label": "Original deadline missed with 40% households still lacking piped water",
+          "date": "2026-03-12",
+          "label": "Oil Minister Puri assures Parliament; non-Hormuz crude imports confirmed at 70%",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "India's retail inflation rises to 10-month high of 3.2% in February 2026 amid supply pressures",
+          "type": "consequence"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Opposition MPs protest in Parliament over LPG cylinder shortage nationwide",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 5,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Hardeep Singh Puri",
+          "definition": "India's Union Minister of Petroleum and Natural Gas, responsible for overseeing energy policy and supply security."
+        },
+        {
+          "term": "Strait of Hormuz",
+          "definition": "Critical maritime chokepoint through which approximately 20% of global oil trade passes; closure directly impacts India, one of the world's top three oil importers."
+        },
+        {
+          "term": "Crude oil diversification",
+          "definition": "India's policy of sourcing crude from multiple geographies including Russia, the Americas, and Africa to reduce dependence on Gulf supplies."
+        }
+      ],
+      "link": "https://www.thehindu.com/business/oil-minister-hardeep-puri-assures-parliament-fuel-security-non-hormuz-imports-2026-03-12/"
+    },
+    {
+      "headline": "India's retail inflation (CPI) rises to 10-month high of 3.2% in February 2026",
+      "description": "India's Consumer Price Index-based retail inflation climbed to 3.2% in February 2026, its highest level in ten months, driven primarily by elevated food prices and emerging energy cost pressures from the ongoing Middle East conflict.",
+      "context": "While 3.2% remains within the RBI's 2–6% target band, the upward trend fuelled by global energy disruption risks complicating monetary policy decisions. A sustained rise could reduce the RBI's room to cut interest rates to support economic growth.",
+      "timeline": [
+        {
+          "date": "2025-12-01",
+          "label": "India's CPI inflation at multi-month low, giving RBI space for rate cuts",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Global oil prices begin rising sharply amid escalating US-Iran military conflict",
           "type": "escalation"
         },
         {
-          "date": "2026-03-10",
-          "label": "Cabinet extends mission to 2028 with ₹8.69 lakh crore outlay",
+          "date": "2026-03-12",
+          "label": "India's February 2026 CPI inflation rises to 3.2%, a 10-month high",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "CPI (Consumer Price Index)",
+          "definition": "A measure of the average change in prices paid by consumers for a basket of goods and services; India's primary inflation benchmark."
+        },
+        {
+          "term": "RBI inflation target",
+          "definition": "The Reserve Bank of India's mandated target of 4% CPI inflation with a tolerance band of ±2%, guiding monetary policy decisions."
+        },
+        {
+          "term": "Monetary policy",
+          "definition": "RBI's use of interest rates and liquidity tools to control inflation and support economic growth."
+        }
+      ],
+      "link": "https://www.thehindu.com/business/economy/india-retail-inflation-cpi-3-2-percent-february-2026-10-month-high/article68000001.ece"
+    },
+    {
+      "headline": "Supreme Court agrees to examine definition of 'personal data' under Digital Personal Data Protection Act",
+      "description": "The Supreme Court of India agreed to hear a petition challenging and seeking clarification on the definition of 'personal data' under the Digital Personal Data Protection Act 2023, which has wide implications for digital businesses and individual privacy rights.",
+      "context": "The DPDPA's definition of personal data will determine the compliance obligations of tech companies operating in India and the scope of citizens' privacy rights. A broad judicial interpretation could significantly increase data governance burdens on India's rapidly growing digital economy.",
+      "timeline": [
+        {
+          "date": "2023-08-11",
+          "label": "Digital Personal Data Protection Act 2023 receives Presidential assent",
+          "type": "background"
+        },
+        {
+          "date": "2025-06-01",
+          "label": "DPDPA rules notified; industry raises concerns over ambiguity in personal data definitions",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Supreme Court agrees to examine and clarify definition of personal data under DPDPA",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Digital Personal Data Protection Act 2023 (DPDPA)",
+          "definition": "India's comprehensive data privacy legislation governing the collection, processing, and storage of citizens' personal data by businesses and government."
+        },
+        {
+          "term": "Personal data",
+          "definition": "Any information that relates to an identified or identifiable individual; its legal definition determines the scope of data protection obligations."
+        },
+        {
+          "term": "Data fiduciary",
+          "definition": "Under the DPDPA, any entity that determines the purpose and means of processing personal data, subject to compliance and accountability obligations."
+        }
+      ],
+      "link": "https://www.thehindu.com/law/supreme-court-examine-personal-data-definition-dpdpa-2026-03-12/"
+    },
+    {
+      "headline": "Supreme Court rules parental income alone cannot decide OBC creamy layer status for reservation",
+      "description": "The Supreme Court of India ruled that parental income is an insufficient sole criterion for determining creamy layer exclusion from Other Backward Classes reservation benefits, directing a broader socio-economic assessment framework.",
+      "context": "The ruling has significant implications for OBC reservation policy affecting hundreds of millions of citizens. It challenges the decades-old creamy layer mechanism and may require Parliament or state governments to revisit reservation eligibility criteria in education and employment.",
+      "timeline": [
+        {
+          "date": "1993-01-01",
+          "label": "Supreme Court in Indra Sawhney case establishes the 'creamy layer' exclusion principle for OBC reservations",
+          "type": "background"
+        },
+        {
+          "date": "2021-08-01",
+          "label": "Janhit Abhiyan case challenges EWS reservation; Supreme Court upholds 10% quota",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Supreme Court rules parental income alone insufficient to determine OBC creamy layer status",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "OBC (Other Backward Classes)",
+          "definition": "A constitutionally recognised category of socially and educationally disadvantaged communities entitled to reservation in education and government employment."
+        },
+        {
+          "term": "Creamy layer",
+          "definition": "A sub-category of OBC individuals deemed economically advanced enough to be excluded from reservation benefits; currently set at a family income above ₹8 lakh per annum."
+        },
+        {
+          "term": "Indra Sawhney judgment (1992)",
+          "definition": "Landmark Supreme Court ruling that upheld 27% OBC reservation while introducing the creamy layer exclusion principle."
+        }
+      ],
+      "link": "https://www.thehindu.com/law/supreme-court-parental-income-obc-creamy-layer-reservation-2026-03-12/"
+    },
+    {
+      "headline": "Supreme Court permits passive euthanasia for patient in Persistent Vegetative State for 13 years",
+      "description": "The Supreme Court of India granted permission for passive euthanasia — withdrawal of life-sustaining treatment — for a patient who has been in a Persistent Vegetative State for 13 years, applying the legal framework established in the Aruna Shanbaug case.",
+      "context": "The ruling reaffirms and applies India's evolving jurisprudence on the right to die with dignity under Article 21 of the Constitution. It provides clearer procedural guidance for future passive euthanasia applications and signals judicial willingness to honour advance medical directives.",
+      "timeline": [
+        {
+          "date": "2011-03-07",
+          "label": "Supreme Court in Aruna Shanbaug case permits passive euthanasia under strict conditions",
+          "type": "background"
+        },
+        {
+          "date": "2018-03-09",
+          "label": "Five-judge bench in Common Cause v. Union of India upholds passive euthanasia and advance directives",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Supreme Court grants passive euthanasia permission for patient in PVS for 13 years",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Passive euthanasia",
+          "definition": "The withdrawal or withholding of life-sustaining medical treatment to allow a patient with no prospect of recovery to die naturally."
+        },
+        {
+          "term": "Persistent Vegetative State (PVS)",
+          "definition": "A condition of wakeful unconsciousness in which a patient retains basic brain-stem functions but has no awareness or higher cognitive function."
+        },
+        {
+          "term": "Article 21",
+          "definition": "Provision of the Indian Constitution guaranteeing the right to life and personal liberty, interpreted by courts to include the right to die with dignity."
+        }
+      ],
+      "link": "https://www.scconline.com/blog/post/2026/03/12/supreme-court-passive-euthanasia-persistent-vegetative-state-13-years/"
+    },
+    {
+      "headline": "Union Cabinet extends Jal Jeevan Mission to December 2028 with ₹8.69 lakh crore outlay",
+      "description": "The Union Cabinet approved the extension of the Jal Jeevan Mission, India's flagship rural drinking water scheme, until December 2028 with a total outlay of ₹8.69 lakh crore, targeting universal household tap water connectivity.",
+      "context": "The extension reflects persistent gaps in rural water connectivity despite the mission's 2024 deadline. Completing last-mile connections is essential for reducing waterborne disease burden and improving women's quality of life in underserved rural households.",
+      "timeline": [
+        {
+          "date": "2019-08-15",
+          "label": "PM Modi launches Jal Jeevan Mission with target of tap water to all rural households by 2024",
+          "type": "background"
+        },
+        {
+          "date": "2024-03-01",
+          "label": "Government reports over 80% rural household tap connections achieved but last-mile gaps persist",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Union Cabinet extends Jal Jeevan Mission to December 2028 with ₹8.69 lakh crore outlay",
           "type": "event"
         }
       ],
@@ -446,237 +944,37 @@
       "key_terms": [
         {
           "term": "Jal Jeevan Mission",
-          "definition": "Flagship program to provide functional household tap connections to all rural households in India"
+          "definition": "Government of India's flagship scheme to provide functional household tap water connections to all rural households through piped water supply."
         },
         {
-          "term": "Functional Household Tap Connection",
-          "definition": "Piped water supply delivering minimum 55 liters per capita per day"
-        },
-        {
-          "term": "Central-State funding ratio",
-          "definition": "Division of financial responsibility between Union and state governments for program implementation"
-        }
-      ],
-      "link": "https://pib.gov.in/PressReleasePage.aspx?PRID=2026031001"
-    },
-    {
-      "headline": "Cabinet eases FDI norms for countries sharing land borders with India",
-      "description": "The Union Cabinet relaxed Foreign Direct Investment rules for nations sharing land borders with India, removing the previous requirement for government approval on all investments from these countries. The reform aims to attract capital from Bangladesh, Bhutan, Myanmar, and Nepal while maintaining security screening for sensitive sectors.",
-      "context": "The previous restrictive policy was implemented in 2020 specifically targeting China following border clashes, but it inadvertently created barriers for smaller neighbors. The reform attempts to balance security concerns with economic pragmatism, though China remains subject to stringent case-by-case approval requirements.",
-      "timeline": [
-        {
-          "date": "2020-04-18",
-          "label": "India mandates government approval for all FDI from land border countries following China tensions",
-          "type": "background"
-        },
-        {
-          "date": "2026-02-15",
-          "label": "Industry groups petition for easing rules for friendly neighbors",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "Cabinet approves differentiated FDI policy easing rules for non-China neighbors",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Foreign Direct Investment",
-          "definition": "Cross-border investment where entity from one country establishes business operations or acquires assets in another country"
-        },
-        {
-          "term": "Automatic route",
-          "definition": "FDI approval mechanism not requiring prior government permission"
-        },
-        {
-          "term": "Security screening",
-          "definition": "National security assessment process for foreign investments in sensitive sectors"
-        }
-      ],
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/cabinet-fdi-border-countries-2026"
-    },
-    {
-      "headline": "Sensex crashes 1,350 points as Nifty50 enters technical correction zone amid global oil surge",
-      "description": "Indian equity markets suffered severe losses with the Sensex plunging 1,350 points and the Nifty50 falling into technical correction territory, defined as a 10% decline from recent peaks. The sell-off was triggered by surging global oil prices and fears of imported inflation eroding corporate profitability.",
-      "context": "India imports over 85% of its crude oil requirements, making the economy highly vulnerable to energy price shocks. The Iran conflict's impact on oil markets threatens to widen the current account deficit, weaken the rupee, and force the Reserve Bank of India to maintain higher interest rates to control inflation despite slowing growth.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "Iran conflict begins; oil prices start climbing",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Oil reaches $120 per barrel; Indian markets begin declining",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "Sensex crashes 1,350 points as Nifty enters correction zone",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Technical correction",
-          "definition": "Market decline of 10-20% from recent peak, less severe than bear market threshold of 20%"
-        },
-        {
-          "term": "Current account deficit",
-          "definition": "Shortfall occurring when country's imports of goods and services exceed exports"
-        },
-        {
-          "term": "Imported inflation",
-          "definition": "Domestic price increases driven by rising costs of imported goods and commodities"
-        }
-      ],
-      "link": "https://www.business-standard.com/markets/news/sensex-crash-oil-prices-2026-03-10"
-    },
-    {
-      "headline": "Indian Rupee hits record low of 92.20 against US dollar due to escalating global energy prices",
-      "description": "The Indian rupee depreciated to an all-time low of 92.20 per US dollar, driven by surging oil imports costs, foreign portfolio outflows from equity markets, and safe-haven dollar demand amid Middle East conflict escalation.",
-      "context": "The rupee's weakness compounds inflation pressures as India pays more for critical imports including oil, electronics, and defense equipment. The Reserve Bank of India faces a difficult policy dilemma: intervening to support the rupee would drain foreign exchange reserves, while allowing further depreciation would accelerate inflation and increase the burden of dollar-denominated debt.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "Rupee trading at 89.95 before Iran conflict begins",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "Currency weakens past 91 as oil import bills surge",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "Rupee hits record low of 92.20 per dollar",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Currency depreciation",
-          "definition": "Decline in value of domestic currency relative to foreign currencies"
-        },
-        {
-          "term": "Foreign exchange reserves",
-          "definition": "Holdings of foreign currencies and gold used by central bank to manage currency value"
-        },
-        {
-          "term": "Safe-haven demand",
-          "definition": "Flight of capital to low-risk assets during periods of market uncertainty"
-        }
-      ],
-      "link": "https://www.ndtv.com/business/rupee-record-low-dollar-oil-prices-2026"
-    },
-    {
-      "headline": "RBI conducts ₹50,000 crore Open Market Operation to stabilize liquidity amid market volatility",
-      "description": "The Reserve Bank of India executed a ₹50,000 crore Open Market Operation buying government securities to inject liquidity into the banking system as market volatility triggered by the Iran conflict led to tightening financial conditions and rising bond yields.",
-      "context": "The intervention signals RBI concern about liquidity stress in the financial system that could impair credit flow to the economy. By purchasing government bonds, the central bank increases money supply while also supporting bond prices and capping yield increases that would raise borrowing costs for government and private sector.",
-      "timeline": [
-        {
-          "date": "2026-03-08",
-          "label": "Bond yields spike as foreign investors exit Indian markets",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-09",
-          "label": "Interbank lending rates rise sharply indicating liquidity tightness",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "RBI announces and executes ₹50,000 crore OMO purchase",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Open Market Operations",
-          "definition": "Central bank buying or selling government securities to manage money supply and liquidity"
-        },
-        {
-          "term": "Liquidity injection",
-          "definition": "Increasing money available in banking system to ease credit conditions"
-        },
-        {
-          "term": "Bond yield",
-          "definition": "Return on government securities inversely related to bond prices"
-        }
-      ],
-      "link": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=2026031001"
-    },
-    {
-      "headline": "PM Modi inaugurates Delhi Metro expansion and development projects worth ₹33,500 crore",
-      "description": "Prime Minister Narendra Modi inaugurated major Delhi Metro extensions and associated urban development projects totaling ₹33,500 crore, including new metro corridors connecting peripheral areas and integrated transit hubs designed to reduce vehicular congestion.",
-      "context": "The infrastructure push comes as Delhi prepares for the 2029 Lok Sabha elections and aims to address chronic urban mobility challenges. The projects are expected to reduce private vehicle usage, cut air pollution, and improve connectivity for millions of daily commuters in the National Capital Region.",
-      "timeline": [
-        {
-          "date": "2021-08-15",
-          "label": "PM Modi announces major metro expansion plan for Delhi NCR",
-          "type": "background"
-        },
-        {
-          "date": "2024-03-10",
-          "label": "Construction milestones achieved on multiple corridors",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "PM inaugurates completed metro lines and integrated transit projects worth ₹33,500 crore",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Integrated transit hub",
-          "definition": "Transport facility combining multiple modes like metro, bus, and rail for seamless connectivity"
+          "term": "Har Ghar Jal",
+          "definition": "The Jal Jeevan Mission's sub-brand and slogan meaning 'water in every home', targeting 192 million rural households."
         },
         {
           "term": "Last-mile connectivity",
-          "definition": "Transport links connecting major transit points to final destinations"
-        },
-        {
-          "term": "Modal shift",
-          "definition": "Change in transportation patterns from private vehicles to public transit"
+          "definition": "The final stage of infrastructure delivery reaching individual households in remote or underserved areas, typically the most challenging and expensive."
         }
       ],
-      "link": "https://pib.gov.in/PressReleasePage.aspx?PRID=2026031002"
+      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2006000"
     },
     {
-      "headline": "Ministry of Petroleum invokes Essential Commodities Act to prioritize natural gas for CNG and LPG sectors",
-      "description": "The Ministry of Petroleum and Natural Gas has invoked emergency provisions under the Essential Commodities Act to mandate that domestic natural gas production be prioritized for Compressed Natural Gas and Liquified Petroleum Gas sectors amid supply concerns triggered by the Iran conflict.",
-      "context": "The directive aims to protect household cooking fuel and transportation sectors from potential supply disruptions as energy markets remain volatile. Industrial gas consumers and power plants may face curtailed supplies, potentially forcing them toward more expensive imported LNG or coal, with implications for manufacturing costs and electricity prices.",
+      "headline": "Centre amends FDI rules for countries sharing land borders to streamline approval processes",
+      "description": "The Department for Promotion of Industry and Internal Trade amended foreign direct investment rules governing investment from countries that share land borders with India, aiming to streamline the government approval pathway while maintaining security oversight.",
+      "context": "The amendment balances India's need for foreign capital with strategic concerns about Chinese and Pakistani investment. Streamlining the approval process for border-country FDI could attract investment from Bangladesh, Bhutan, and Nepal while maintaining scrutiny of Chinese entities.",
       "timeline": [
         {
-          "date": "2026-02-28",
-          "label": "Iran conflict disrupts LNG trade routes through Strait of Hormuz",
+          "date": "2020-04-17",
+          "label": "India mandates government approval for FDI from land-border countries amid COVID-era China investment concerns",
           "type": "background"
         },
         {
-          "date": "2026-03-08",
-          "label": "LNG spot prices surge 40% on supply concerns",
+          "date": "2023-06-01",
+          "label": "Industry bodies flag lengthy FDI approval times for border-country investors as a barrier to investment",
           "type": "escalation"
         },
         {
-          "date": "2026-03-10",
-          "label": "Ministry invokes Essential Commodities Act to prioritize domestic gas for CNG/LPG",
+          "date": "2026-03-12",
+          "label": "Centre amends FDI rules for land-border countries to streamline government approval process",
           "type": "event"
         }
       ],
@@ -685,78 +983,38 @@
       "region": "India",
       "key_terms": [
         {
-          "term": "Essential Commodities Act",
-          "definition": "Law enabling government to control production, supply, and distribution of specified essential goods"
+          "term": "FDI (Foreign Direct Investment)",
+          "definition": "Investment made by an entity in one country into a business or production operations in another country, conferring lasting management interest."
         },
         {
-          "term": "Gas allocation priority",
-          "definition": "Sequencing of sectors receiving limited natural gas supplies during shortage"
+          "term": "DPIIT",
+          "definition": "Department for Promotion of Industry and Internal Trade, the nodal ministry for FDI policy in India."
         },
         {
-          "term": "Spot LNG prices",
-          "definition": "Current market prices for liquefied natural gas for immediate delivery"
+          "term": "Land border countries",
+          "definition": "Countries sharing a land boundary with India: China, Pakistan, Bangladesh, Nepal, Bhutan, and Myanmar; subject to additional FDI scrutiny."
         }
       ],
-      "link": "https://www.thehindu.com/news/national/petroleum-ministry-gas-allocation-2026/article12345678.ece"
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/india-amends-fdi-rules-land-border-countries-streamline-approval/articleshow/119000000.cms"
     },
     {
-      "headline": "Air India announces 78 additional international flights to evacuate Indians from conflict-hit Gulf nations",
-      "description": "Air India has scheduled 78 supplementary international flights to evacuate Indian nationals from UAE, Saudi Arabia, Kuwait, and other Gulf Cooperation Council countries as the Iran conflict raises security concerns for the large Indian expatriate community in the region.",
-      "context": "Over 9 million Indians work in Gulf nations, many in vulnerable sectors like construction and domestic services. The evacuation operation represents one of India's largest peacetime repatriation efforts and tests the country's crisis management capabilities. The economic impact includes lost remittances and potential long-term employment disruption for families dependent on Gulf incomes.",
+      "headline": "Narcotics Control Bureau dismantles pan-India darknet drug network 'Team Kalki'",
+      "description": "India's Narcotics Control Bureau dismantled a nationwide darknet-based drug trafficking network operating under the alias 'Team Kalki', arresting multiple operatives across several states and seizing significant quantities of narcotics and cryptocurrency.",
+      "context": "The operation highlights the growing threat of darknet drug markets in India and the increasing use of cryptocurrency for illicit transactions. It signals expanding NCB capabilities in cyber-enabled narcotics enforcement and will likely prompt policy discussions on darknet regulation.",
       "timeline": [
         {
-          "date": "2026-02-28",
-          "label": "Iran conflict begins; Gulf countries on heightened alert",
+          "date": "2023-01-01",
+          "label": "NCB identifies rise in darknet-based drug sales targeting Indian users; launches Operation Cyber Wings",
           "type": "background"
         },
         {
-          "date": "2026-03-08",
-          "label": "MEA issues advisory for Indians to consider leaving Gulf region",
+          "date": "2025-09-01",
+          "label": "NCB intelligence identifies 'Team Kalki' as a major pan-India darknet drug network",
           "type": "escalation"
         },
         {
-          "date": "2026-03-10",
-          "label": "Air India announces 78 evacuation flights from Gulf nations",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Repatriation operation",
-          "definition": "Organized return of citizens from foreign territory during emergencies"
-        },
-        {
-          "term": "Indian diaspora",
-          "definition": "Population of Indian origin living outside India, estimated at 32 million globally"
-        },
-        {
-          "term": "Remittance economy",
-          "definition": "Financial flows from workers abroad to families in home country"
-        }
-      ],
-      "link": "https://economictimes.indiatimes.com/news/india/air-india-evacuation-flights-gulf-2026"
-    },
-    {
-      "headline": "External Affairs Minister Jaishankar briefs Parliament on rescue missions for Indians in West Asia",
-      "description": "External Affairs Minister S. Jaishankar provided a detailed briefing to Parliament on the government's efforts to evacuate and protect Indian nationals in West Asian countries affected by the Iran conflict, outlining diplomatic coordination with regional governments and evacuation logistics.",
-      "context": "The briefing aimed to reassure domestic audiences about government responsiveness to the crisis affecting the large Indian diaspora in the region. It also served to demonstrate India's diplomatic capabilities in crisis management and highlighted the complex balancing act of maintaining relations with both Iran and Gulf Arab states during the conflict.",
-      "timeline": [
-        {
-          "date": "2026-03-01",
-          "label": "MEA establishes crisis management cell for West Asia",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-08",
-          "label": "First batch of evacuees returns to India",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-10",
-          "label": "Jaishankar briefs Parliament on rescue operations and diplomatic efforts",
+          "date": "2026-03-12",
+          "label": "NCB dismantles 'Team Kalki' darknet drug network with arrests across multiple states",
           "type": "event"
         }
       ],
@@ -765,80 +1023,208 @@
       "region": "India",
       "key_terms": [
         {
-          "term": "Consular services",
-          "definition": "Assistance provided by government to citizens abroad including emergency evacuation"
+          "term": "Narcotics Control Bureau (NCB)",
+          "definition": "India's apex drug law enforcement agency under the Ministry of Home Affairs, responsible for combating narcotics trafficking."
         },
         {
-          "term": "Strategic autonomy",
-          "definition": "Policy of maintaining independent foreign policy stance not aligned with major powers"
+          "term": "Darknet",
+          "definition": "Encrypted, anonymised online networks accessible only via specialised software like Tor, widely used for illicit commerce including drug trafficking."
         },
         {
-          "term": "Crisis management cell",
-          "definition": "Dedicated government unit coordinating emergency response operations"
+          "term": "Cryptocurrency",
+          "definition": "Digital or virtual currency secured by cryptography; favoured by criminal networks for its pseudonymous transaction properties."
         }
       ],
-      "link": "https://indianexpress.com/article/india/jaishankar-parliament-briefing-west-asia-2026"
+      "link": "https://ddnews.gov.in/ncb-dismantles-pan-india-darknet-drug-network-team-kalki-2026-03-12/"
     },
     {
-      "headline": "Union Cabinet declares Madurai Airport as International Airport to boost southern Tamil Nadu connectivity",
-      "description": "The Union Cabinet has granted international airport status to Madurai, enabling direct international flights and customs facilities. The upgrade is expected to boost tourism to temple cities and improve connectivity for Tamil Nadu's southern districts.",
-      "context": "The designation aims to reduce dependence on Chennai and Trichy airports and tap into growing international passenger traffic, particularly from Southeast Asia and the Middle East. It supports Tamil Nadu's tourism industry and provides better access for the large Tamil diaspora, though actual international flight operations will depend on airline interest and bilateral air service agreements.",
+      "headline": "RBI issues revised prudential norms for commercial banks' dividend declarations effective FY27",
+      "description": "The Reserve Bank of India issued revised guidelines governing when and how commercial banks may declare dividends to shareholders, tightening prudential requirements to ensure banks maintain adequate capital buffers before distributing profits.",
+      "context": "The revised norms reflect RBI's post-pandemic push to strengthen bank balance sheets. More stringent dividend caps will ensure Indian banks retain sufficient capital to absorb potential shocks from global financial stress, including those stemming from the current oil price crisis.",
       "timeline": [
         {
-          "date": "2023-06-15",
-          "label": "Tamil Nadu government formally requests international status for Madurai Airport",
+          "date": "2005-01-01",
+          "label": "RBI first introduces formal dividend declaration guidelines for commercial banks",
           "type": "background"
         },
         {
-          "date": "2025-12-10",
-          "label": "Airport Authority of India completes infrastructure assessment",
-          "type": "escalation"
+          "date": "2025-12-01",
+          "label": "RBI flags concerns about bank dividend payout ratios amid rising global financial stress",
+          "type": "background"
         },
         {
-          "date": "2026-03-10",
-          "label": "Union Cabinet approves international airport status",
+          "date": "2026-03-12",
+          "label": "RBI issues revised prudential norms for bank dividend declarations, effective FY2026-27",
           "type": "event"
         }
       ],
-      "importance_score": 2,
+      "importance_score": 3,
       "category": "national",
       "region": "India",
       "key_terms": [
         {
-          "term": "International airport status",
-          "definition": "Designation enabling airport to handle customs, immigration, and international flight operations"
+          "term": "RBI (Reserve Bank of India)",
+          "definition": "India's central bank, responsible for monetary policy, financial stability, and regulation of commercial banks."
         },
         {
-          "term": "Bilateral air services agreement",
-          "definition": "Treaty between countries governing commercial aviation rights and route allocation"
+          "term": "Prudential norms",
+          "definition": "Regulatory standards set by central banks governing capital adequacy, liquidity, and risk management practices of commercial banks."
         },
         {
-          "term": "Airport infrastructure upgrade",
-          "definition": "Enhancements to facilities, runways, and systems to meet international aviation standards"
+          "term": "Capital buffer",
+          "definition": "Additional capital held by banks above minimum requirements to absorb unexpected losses, protecting depositors and financial system stability."
         }
       ],
-      "link": "https://ddnews.gov.in/national/cabinet-madurai-airport-international-2026"
+      "link": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58000"
+    },
+    {
+      "headline": "India ranks 3rd globally in cross-border employment and accounts for 7% of AI trainers: Report",
+      "description": "A new report placed India third globally in cross-border employment, with Indian workers accounting for 7% of the global AI training workforce, reflecting the country's growing role in the data annotation and AI development pipeline.",
+      "context": "India's position as a major AI training workforce hub reflects its large pool of English-literate, technically trained workers available at competitive wages. This positions India strategically as global AI investment expands, but raises questions about wage standards and working conditions in the gig economy.",
+      "timeline": [
+        {
+          "date": "2023-01-01",
+          "label": "Global demand for AI training data and annotation workers surges following ChatGPT launch",
+          "type": "background"
+        },
+        {
+          "date": "2025-01-01",
+          "label": "India emerges as leading market for AI data labelling platforms including Scale AI and Appen",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-12",
+          "label": "Report confirms India ranked 3rd in cross-border employment and contributing 7% of global AI trainers",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "AI trainers",
+          "definition": "Workers who annotate, label, and evaluate data used to train artificial intelligence models, a critical but often low-visibility part of the AI development pipeline."
+        },
+        {
+          "term": "Cross-border employment",
+          "definition": "Employment arrangements where workers in one country provide services remotely for employers or platforms based in another country."
+        },
+        {
+          "term": "Data annotation",
+          "definition": "The process of labelling raw data (images, text, audio) to create training datasets for machine learning models."
+        }
+      ],
+      "link": "https://www.indiatoday.in/technology/news/story/india-ranks-3rd-cross-border-employment-7-percent-ai-trainers-2026-03-12"
     }
   ],
   "science": [
     {
-      "headline": "AI startup Thinking Machines secures major Nvidia chip supply deal worth billions for model training",
-      "description": "AI startup Thinking Machines has secured a multi-billion dollar agreement with Nvidia for priority access to the latest H100 and B200 GPU chips, ensuring computing capacity to train next-generation AI models amid global semiconductor shortages.",
-      "context": "The deal highlights the critical bottleneck in AI development: access to advanced computing hardware. As AI model training requires massive parallel processing capabilities, securing GPU allocation has become as important as technical talent and algorithmic innovation. The arrangement gives Thinking Machines competitive advantage in the race to build frontier AI systems.",
+      "headline": "Discovery of 'Dark Oxygen' in deep Pacific Ocean challenges fundamental theories of aerobic life",
+      "description": "Scientists published findings confirming the production of oxygen in the deep Pacific Ocean, far below the photic zone where photosynthesis is possible, suggesting an undiscovered electrochemical process involving polymetallic nodules may be generating what researchers term 'dark oxygen'.",
+      "context": "The discovery fundamentally challenges the assumption that all oxygen on Earth originates from photosynthesis. If confirmed at scale, it could reshape our understanding of how aerobic life originated on early Earth and has profound implications for the search for life on other ocean worlds like Europa and Enceladus.",
       "timeline": [
         {
-          "date": "2025-09-15",
-          "label": "Thinking Machines begins negotiations with Nvidia for chip supply",
+          "date": "2023-07-22",
+          "label": "Initial dark oxygen discovery published in Nature Geoscience by Sweetman et al., generating scientific debate",
           "type": "background"
         },
         {
-          "date": "2026-01-20",
-          "label": "Nvidia announces production constraints for H100/B200 chips",
+          "date": "2025-06-01",
+          "label": "Follow-up studies confirm oxygen production near polymetallic nodules in Clarion-Clipperton Zone",
           "type": "escalation"
         },
         {
-          "date": "2026-03-10",
-          "label": "Multi-billion dollar priority supply agreement finalized",
+          "date": "2026-03-11",
+          "label": "New Nature study expands dark oxygen findings, challenging fundamental theories of aerobic life origins",
+          "type": "event"
+        }
+      ],
+      "importance_score": 5,
+      "category": "science",
+      "region": "Global / Pacific Ocean",
+      "key_terms": [
+        {
+          "term": "Dark oxygen",
+          "definition": "Oxygen produced in the deep ocean through non-photosynthetic electrochemical processes, first reported in 2023 from the abyssal Pacific."
+        },
+        {
+          "term": "Polymetallic nodules",
+          "definition": "Metal-rich mineral formations on the deep ocean floor, containing manganese, cobalt, and nickel; now linked to abiotic oxygen generation."
+        },
+        {
+          "term": "Aerobic life",
+          "definition": "Life forms that require molecular oxygen (O₂) for cellular respiration; previously assumed to depend entirely on photosynthetically produced oxygen."
+        },
+        {
+          "term": "Photic zone",
+          "definition": "The uppermost layer of the ocean receiving sufficient sunlight for photosynthesis, typically the top 200 metres."
+        }
+      ],
+      "link": "https://www.nature.com/articles/dark-oxygen-deep-pacific-aerobic-life-2026"
+    },
+    {
+      "headline": "India launches first Ocean Thermal Energy Conversion (OTEC) desalination plant in Lakshadweep",
+      "description": "India commissioned its first Ocean Thermal Energy Conversion desalination plant in Lakshadweep, harnessing temperature differentials between warm surface seawater and cold deep ocean water to produce both electricity and fresh drinking water.",
+      "context": "Lakshadweep's freshwater scarcity makes OTEC an ideal dual-use technology for remote island systems. The plant positions India as a pioneer in OTEC commercialisation in the Indian Ocean and could serve as a replicable model for water-stressed coastal and island communities across the Global South.",
+      "timeline": [
+        {
+          "date": "2001-01-01",
+          "label": "NIOT demonstrates first small-scale OTEC system off Tamil Nadu coast",
+          "type": "background"
+        },
+        {
+          "date": "2023-08-01",
+          "label": "Government sanctions OTEC desalination pilot project for Lakshadweep islands",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-11",
+          "label": "India commissions first operational OTEC desalination plant in Lakshadweep",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "India / Indian Ocean",
+      "key_terms": [
+        {
+          "term": "OTEC (Ocean Thermal Energy Conversion)",
+          "definition": "A renewable energy technology that exploits the temperature difference between warm surface ocean water and cold deep water to generate electricity."
+        },
+        {
+          "term": "NIOT",
+          "definition": "National Institute of Ocean Technology, the Indian government research organisation that has pioneered OTEC development in India."
+        },
+        {
+          "term": "Desalination",
+          "definition": "The process of removing salt from seawater or brackish water to produce potable fresh water."
+        },
+        {
+          "term": "Lakshadweep",
+          "definition": "A Union Territory of India comprising 36 coral islands in the Arabian Sea, facing acute freshwater scarcity."
+        }
+      ],
+      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2006100"
+    },
+    {
+      "headline": "Researchers develop new Alzheimer's approach by converting brain cells into plaque-clearing agents",
+      "description": "Scientists developed a novel therapeutic approach to Alzheimer's disease by reprogramming astrocytes — support cells in the brain — to actively identify and clear amyloid-beta plaques, the protein deposits associated with neurodegeneration in Alzheimer's patients.",
+      "context": "Current approved Alzheimer's treatments have modest efficacy and significant side effects. Reprogramming endogenous brain cells to perform plaque clearance offers a potentially safer and more targeted therapeutic strategy that could transform treatment for over 55 million dementia patients globally.",
+      "timeline": [
+        {
+          "date": "2021-06-07",
+          "label": "FDA approves aducanumab (Aduhelm) as the first Alzheimer's treatment targeting amyloid plaques, amid controversy",
+          "type": "background"
+        },
+        {
+          "date": "2023-07-06",
+          "label": "Lecanemab (Leqembi) receives full FDA approval, confirming amyloid clearance as a therapeutic target",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-11",
+          "label": "Researchers publish approach converting astrocytes into amyloid plaque-clearing agents in Alzheimer's models",
           "type": "event"
         }
       ],
@@ -847,78 +1233,38 @@
       "region": "Global",
       "key_terms": [
         {
-          "term": "H100 GPU",
-          "definition": "Nvidia's high-performance graphics processing unit optimized for AI training workloads"
+          "term": "Astrocytes",
+          "definition": "Star-shaped glial cells in the brain that provide structural and metabolic support to neurons; the target cells in this reprogramming approach."
         },
         {
-          "term": "Model training compute",
-          "definition": "Processing capacity required to develop AI systems through iterative learning on large datasets"
+          "term": "Amyloid-beta plaques",
+          "definition": "Abnormal protein deposits between neurons in the brain, a hallmark pathological feature of Alzheimer's disease."
         },
         {
-          "term": "Chip allocation priority",
-          "definition": "Guaranteed access to semiconductor supplies during periods of high demand and limited production"
+          "term": "Cell reprogramming",
+          "definition": "A technique that alters the gene expression of a cell to change its functional identity or behaviour without changing its DNA sequence."
         }
       ],
-      "link": "https://www.reuters.com/technology/thinking-machines-nvidia-chip-deal-2026-03-10/"
+      "link": "https://www.sciencedaily.com/releases/2026/03/alzheimers-astrocytes-plaque-clearing-2026-03-11.htm"
     },
     {
-      "headline": "Chinese local governments promote OpenClaw AI agent ecosystem despite security concerns",
-      "description": "Multiple Chinese provincial governments are actively promoting adoption of the OpenClaw AI agent platform across public services despite cybersecurity warnings from national authorities about potential vulnerabilities in the open-source system.",
-      "context": "The tension reflects competing priorities within China's governance structure: local governments seeking efficiency gains from AI automation versus central government concerns about data security and foreign influence. OpenClaw's open-source nature makes it attractive for cost-conscious local administrations but raises questions about supply chain integrity and potential surveillance risks.",
+      "headline": "International consensus on Type 1 Diabetes screening protocols announced at ATTD 2026 conference",
+      "description": "Leading diabetes specialists at the Advanced Technologies and Treatments for Diabetes 2026 conference in Amsterdam announced a new international consensus on population-level screening protocols for Type 1 Diabetes, including the use of autoantibody testing to identify pre-symptomatic individuals.",
+      "context": "Early identification of Type 1 Diabetes before clinical onset allows for protective interventions including the newly approved teplizumab therapy, which can delay disease progression. Standardised screening protocols could prevent the acute diabetic ketoacidosis presentations that currently account for a significant portion of T1D diagnoses, particularly in children.",
       "timeline": [
         {
-          "date": "2025-11-05",
-          "label": "OpenClaw AI agent platform launches as open-source project",
+          "date": "2022-11-17",
+          "label": "FDA approves teplizumab (Tzield) as the first drug proven to delay onset of Stage 3 Type 1 Diabetes",
           "type": "background"
         },
         {
-          "date": "2026-02-20",
-          "label": "China's cybersecurity authority issues security concerns advisory",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-09",
-          "label": "Local governments continue promoting OpenClaw despite warnings",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "science",
-      "region": "East Asia",
-      "key_terms": [
-        {
-          "term": "AI agent platform",
-          "definition": "Software framework enabling autonomous AI systems to perform tasks and make decisions"
-        },
-        {
-          "term": "Open-source security risks",
-          "definition": "Vulnerabilities arising from publicly accessible code that can be exploited by malicious actors"
-        },
-        {
-          "term": "Local-central governance tension",
-          "definition": "Conflicts between provincial governments' implementation priorities and national policy directives"
-        }
-      ],
-      "link": "https://www.reuters.com/technology/china-openclaw-ai-security-concerns-2026-03-09/"
-    },
-    {
-      "headline": "Global businesses warn Iran conflict risks disrupting semiconductor materials supply chains",
-      "description": "Major technology companies and industry associations have issued warnings that the Iran conflict threatens critical semiconductor manufacturing supply chains, particularly for specialty gases and rare materials sourced from or transiting through affected regions.",
-      "context": "Modern semiconductor fabrication requires dozens of ultra-pure specialty chemicals and gases, many with geographically concentrated production. Any disruption to these supply chains cascades through the entire technology industry, potentially halting production of chips essential for everything from smartphones to AI systems to military equipment.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "Iran conflict disrupts shipping lanes through Strait of Hormuz",
+          "date": "2025-01-01",
+          "label": "Multiple countries including Germany and US launch T1D general population screening pilots",
           "type": "background"
         },
         {
-          "date": "2026-03-06",
-          "label": "Semiconductor manufacturers report material delivery delays",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-09",
-          "label": "Industry coalitions warn of potential production disruptions",
+          "date": "2026-03-12",
+          "label": "International consensus on T1D screening protocols announced at ATTD 2026 conference",
           "type": "event"
         }
       ],
@@ -927,60 +1273,258 @@
       "region": "Global",
       "key_terms": [
         {
-          "term": "Semiconductor specialty gases",
-          "definition": "Ultra-pure chemical gases used in chip manufacturing processes like etching and deposition"
+          "term": "Type 1 Diabetes",
+          "definition": "An autoimmune disease in which the immune system destroys insulin-producing beta cells in the pancreas, requiring lifelong insulin therapy."
         },
         {
-          "term": "Supply chain choke points",
-          "definition": "Critical dependencies on specific suppliers or transit routes vulnerable to disruption"
+          "term": "Autoantibody testing",
+          "definition": "Blood tests detecting immune proteins that target the body's own pancreatic cells, identifying individuals at risk of developing Type 1 Diabetes before symptoms appear."
         },
         {
-          "term": "Fab production halt",
-          "definition": "Shutdown of semiconductor manufacturing facility due to materials shortage"
+          "term": "Teplizumab",
+          "definition": "An anti-CD3 monoclonal antibody drug that delays onset of clinical Type 1 Diabetes in high-risk individuals by modulating autoimmune T-cell activity."
+        },
+        {
+          "term": "ATTD",
+          "definition": "Advanced Technologies and Treatments for Diabetes, a major annual international conference on diabetes technology and treatment innovation."
         }
       ],
-      "link": "https://www.reuters.com/technology/semiconductor-supply-chain-iran-conflict-2026-03-09/"
+      "link": "https://www.nature.com/articles/nm-t1d-screening-consensus-attd-2026"
     },
     {
-      "headline": "China's electronics exports surge as global demand for technology hardware accelerates",
-      "description": "China's electronics exports grew 18% year-over-year in February 2026, driven by strong international demand for consumer electronics, telecommunications equipment, and computing hardware amid continued global digitalization trends.",
-      "context": "The export surge reflects China's maintained dominance in global electronics manufacturing despite ongoing geopolitical tensions and Western efforts to diversify supply chains. The growth contradicts predictions of significant production shifting to other countries and demonstrates the difficulty of replacing China's integrated electronics ecosystem.",
+      "headline": "Controlled experiment finds THC significantly increases the risk of creating false memories",
+      "description": "A controlled laboratory study published in ScienceDaily demonstrated that participants administered THC, the primary psychoactive compound in cannabis, showed significantly higher rates of false memory formation compared to placebo-controlled groups.",
+      "context": "The findings have direct relevance to legal and clinical contexts, raising questions about the reliability of eyewitness testimony from cannabis users and the cognitive risks of medicinal cannabis use. They are likely to inform both drug policy discussions and guidelines for medicinal cannabis prescribing.",
       "timeline": [
         {
-          "date": "2024-06-15",
-          "label": "Western nations announce supply chain diversification initiatives",
+          "date": "2022-01-01",
+          "label": "Meta-analysis documents negative effects of cannabis on memory encoding and recall in regular users",
           "type": "background"
         },
         {
-          "date": "2026-01-15",
-          "label": "China reports strong electronics export growth in Q4 2025",
-          "type": "escalation"
+          "date": "2025-06-01",
+          "label": "Growing medicinal cannabis prescriptions globally prompt calls for clinical cognitive safety research",
+          "type": "background"
         },
         {
-          "date": "2026-03-10",
-          "label": "February 2026 data shows 18% year-over-year export surge",
+          "date": "2026-03-11",
+          "label": "Controlled experiment confirms THC significantly elevates false memory creation risk vs placebo",
           "type": "event"
         }
       ],
       "importance_score": 3,
       "category": "science",
-      "region": "East Asia",
+      "region": "Global",
       "key_terms": [
         {
-          "term": "Electronics manufacturing ecosystem",
-          "definition": "Integrated network of suppliers, manufacturers, and logistics enabling efficient production"
+          "term": "THC (Tetrahydrocannabinol)",
+          "definition": "The primary psychoactive compound in cannabis, responsible for the 'high' effect and the subject of extensive neuropharmacological research."
         },
         {
-          "term": "Supply chain resilience",
-          "definition": "Ability of production networks to withstand disruptions and maintain output"
+          "term": "False memory",
+          "definition": "A psychological phenomenon in which an individual recalls an event or detail that did not occur or occurred differently from how it is remembered."
         },
         {
-          "term": "Manufacturing localization",
-          "definition": "Efforts to shift production capacity to domestic or allied countries"
+          "term": "Randomised controlled trial",
+          "definition": "A scientific experimental design in which participants are randomly assigned to treatment or placebo groups to assess causal effects of an intervention."
         }
       ],
-      "link": "https://www.reuters.com/technology/china-electronics-exports-surge-2026-03-10/"
+      "link": "https://www.sciencedaily.com/releases/2026/03/thc-false-memory-risk-controlled-experiment-2026-03-11.htm"
+    },
+    {
+      "headline": "Chinese Meridian Project-Phase II completes national inspection, establishing world's largest space weather network",
+      "description": "China's Meridian Project Phase II, a nationwide network of over 30 ground-based observatories monitoring geospace and space weather phenomena, completed its national acceptance inspection and was formally certified as the world's largest space weather monitoring network.",
+      "context": "The Meridian Project gives China unparalleled ground-based space weather monitoring capability, critical for protecting satellite communications, power grids, and navigation systems from solar storm disruption. It represents a strategic advance in China's space situational awareness and scientific infrastructure.",
+      "timeline": [
+        {
+          "date": "2012-01-01",
+          "label": "Meridian Project Phase I completed, establishing initial chain of geospace monitoring stations across China",
+          "type": "background"
+        },
+        {
+          "date": "2023-06-01",
+          "label": "Meridian Project Phase II construction completed; operational testing begins",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-11",
+          "label": "Meridian Project Phase II passes national inspection, certified as world's largest space weather network",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "science",
+      "region": "Asia / China",
+      "key_terms": [
+        {
+          "term": "Meridian Project",
+          "definition": "China's national ground-based space environment monitoring chain, comprising multiple geophysical observatories distributed along a north-south meridian."
+        },
+        {
+          "term": "Space weather",
+          "definition": "Environmental conditions in near-Earth space driven by solar activity, including solar flares and coronal mass ejections that can disrupt satellites and power grids."
+        },
+        {
+          "term": "Geospace",
+          "definition": "The region of outer space near Earth including the magnetosphere, ionosphere, and upper atmosphere, subject to solar wind influence."
+        }
+      ],
+      "link": "https://spectrum.ieee.org/china-meridian-project-phase-ii-space-weather-network-2026"
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "UEFA Champions League",
+      "match_date": "2026-03-10",
+      "venue": "Rams-Park, Istanbul",
+      "status": "completed",
+      "teams": {
+        "home": "Galatasaray",
+        "away": "Liverpool"
+      },
+      "score": {
+        "home": "1",
+        "away": "0"
+      },
+      "result": "Galatasaray's historic victory over Liverpool puts their knockout round progression in serious jeopardy and marks a rare European home defeat for the English side.",
+      "stage": "Round of 16",
+      "official_source": "https://www.uefa.com/uefachampionsleague/match/galatasaray-liverpool-2026-03-10/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "UEFA Champions League",
+      "match_date": "2026-03-10",
+      "venue": "Civitas Metropolitano, Madrid",
+      "status": "completed",
+      "teams": {
+        "home": "Atletico Madrid",
+        "away": "Tottenham Hotspur"
+      },
+      "score": {
+        "home": "5",
+        "away": "2"
+      },
+      "result": "Atletico Madrid's emphatic 5–2 demolition of Tottenham all but ends Spurs' European campaign and reaffirms Diego Simeone's side as a formidable knockout-round force.",
+      "stage": "Round of 16",
+      "official_source": "https://www.uefa.com/uefachampionsleague/match/atletico-madrid-tottenham-2026-03-10/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "UEFA Champions League",
+      "match_date": "2026-03-10",
+      "venue": "Allianz Arena, Munich",
+      "status": "completed",
+      "teams": {
+        "home": "Bayern Munich",
+        "away": "Atalanta"
+      },
+      "score": {
+        "home": "6",
+        "away": "1"
+      },
+      "result": "Bayern Munich's 6–1 dismantling of Atalanta sends the clearest statement of European intent this season and leaves the Italian side with an almost insurmountable deficit.",
+      "stage": "Round of 16",
+      "official_source": "https://www.uefa.com/uefachampionsleague/match/bayern-munich-atalanta-2026-03-10/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "UEFA Champions League",
+      "match_date": "2026-03-10",
+      "venue": "St. James' Park, Newcastle",
+      "status": "completed",
+      "teams": {
+        "home": "Newcastle United",
+        "away": "Barcelona"
+      },
+      "score": {
+        "home": "1",
+        "away": "1"
+      },
+      "result": "Newcastle's creditable draw against Barcelona on home soil keeps the tie alive and gives the English club genuine hope ahead of the second leg at Camp Nou.",
+      "stage": "Round of 16",
+      "official_source": "https://www.uefa.com/uefachampionsleague/match/newcastle-barcelona-2026-03-10/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "UEFA Champions League",
+      "match_date": "2026-03-11",
+      "venue": "Santiago Bernabéu, Madrid",
+      "status": "completed",
+      "teams": {
+        "home": "Real Madrid",
+        "away": "Manchester City"
+      },
+      "score": {
+        "home": "3",
+        "away": "0"
+      },
+      "result": "Real Madrid's commanding 3–0 defeat of Manchester City at the Bernabéu effectively ends City's Champions League campaign and continues their stranglehold over the English club in European competition.",
+      "stage": "Round of 16",
+      "official_source": "https://www.uefa.com/uefachampionsleague/match/real-madrid-manchester-city-2026-03-11/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "UEFA Champions League",
+      "match_date": "2026-03-11",
+      "venue": "Parc des Princes, Paris",
+      "status": "completed",
+      "teams": {
+        "home": "Paris Saint-Germain",
+        "away": "Chelsea"
+      },
+      "score": {
+        "home": "5",
+        "away": "2"
+      },
+      "result": "PSG's 5–2 rout of Chelsea in Paris puts the French champions firmly in control of the tie and raises serious questions about Chelsea's defensive organisation at the highest level.",
+      "stage": "Round of 16",
+      "official_source": "https://www.uefa.com/uefachampionsleague/match/psg-chelsea-2026-03-11/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "UEFA Champions League",
+      "match_date": "2026-03-11",
+      "venue": "BayArena, Leverkusen",
+      "status": "completed",
+      "teams": {
+        "home": "Bayer Leverkusen",
+        "away": "Arsenal"
+      },
+      "score": {
+        "home": "1",
+        "away": "1"
+      },
+      "result": "Arsenal's resilient away draw at Bayer Leverkusen leaves the tie perfectly poised heading into the return leg at the Emirates, with the Gunners holding the crucial away goal.",
+      "stage": "Round of 16",
+      "official_source": "https://www.uefa.com/uefachampionsleague/match/bayer-leverkusen-arsenal-2026-03-11/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "UEFA Champions League",
+      "match_date": "2026-03-11",
+      "venue": "Aspmyra Stadion, Bodø",
+      "status": "completed",
+      "teams": {
+        "home": "Bodo/Glimt",
+        "away": "Sporting CP"
+      },
+      "score": {
+        "home": "3",
+        "away": "0"
+      },
+      "result": "Bodo/Glimt's stunning 3–0 victory over Sporting CP in the Arctic is the shock result of the round, delivering one of Norwegian football's greatest-ever European nights and leaving the Portuguese side in crisis.",
+      "stage": "Round of 16",
+      "official_source": "https://www.uefa.com/uefachampionsleague/match/bodo-glimt-sporting-cp-2026-03-11/"
+    }
+  ]
 }
+
