@@ -3,186 +3,183 @@
   "questions": [
     {
       "id": "q_01",
-      "question": "The use of Omani intermediaries for indirect messages between the US and Iran illustrates which diplomatic doctrine in the Middle Eastern security architecture?",
+      "question": "The US strike on Kharg Island and subsequent Iranian retaliation against refueling tankers illustrates a shift in the Middle Eastern security paradigm. This development primarily underscores which strategic doctrine?",
       "options": [
-        "The Doctrine of Strategic Ambiguity, where a state maintains unclear red lines to deter aggression.",
-        "The Doctrine of 'Constructive Neutrality', utilizing a non-aligned actor to facilitate de-escalation without direct political cost.",
-        "The 'Pivot to Asia' strategy, where Middle Eastern actors seek European mediation to replace US influence.",
-        "The 'Minilateralism' framework, where small groups of powers resolve regional conflicts outside the UN framework."
+        "The Doctrine of 'Salami Slicing', where territory is captured in small, non-escalatory increments.",
+        "The shift from 'Gray Zone' proxy warfare to direct 'Kinetic Engagement' against sovereign high-value economic assets.",
+        "The 'Offshore Balancing' strategy, where the US utilizes local maritime militias to contain Iran.",
+        "The 'Strategic Depth' doctrine, wherein Iran uses Kharg Island as a mobile launch platform for ballistic missiles."
       ],
       "correct_index": 1,
-      "explanation": "Oman's role is a classic example of 'Constructive Neutrality'. Unlike 'mediation' (where the third party takes an active role in proposing solutions), Oman provides a secure 'backchannel' or 'conduit'. This allows adversaries to explore terms without the domestic or international audience perceiving it as a sign of weakness. (Static Link: International Relations - Diplomatic Tools)."
+      "explanation": "Kharg Island handles 90% of Iran's oil exports. Historically, the US and Iran engaged via 'Gray Zone' tactics (proxies, cyber-attacks). A direct strike on a primary sovereign economic hub, followed by a direct Iranian strike on US tankers in Saudi Arabia, signifies a collapse of deniability and a move into overt kinetic conflict. (Static Link: IR - Strategic Doctrines)."
     },
     {
       "id": "q_02",
-      "question": "The release of Sonam Wangchuk after 170 days of NSA detention has brought focus back to the 'Sixth Schedule'. Which of the following constitutional features distinguishes the Sixth Schedule from the Fifth Schedule of the Indian Constitution?",
+      "question": "The US decision to grant a 30-day waiver on Russian oil sanctions to mitigate the Iran-driven price shock illustrates which concept in international political economy?",
       "options": [
-        "The Sixth Schedule applies to tribal areas in all states, whereas the Fifth Schedule is limited to the Northeast.",
-        "The Governor's discretionary powers are significantly higher in the Fifth Schedule compared to the Sixth Schedule.",
-        "The Sixth Schedule provides for 'Autonomous District Councils' (ADCs) with legislative and judicial powers, which are absent in the Fifth Schedule.",
-        "Tribal Advisory Councils in the Fifth Schedule have more legislative autonomy than the ADCs in the Sixth Schedule."
+        "The 'Sanctions Paradox', where the imposition of restrictions on one adversary inadvertently empowers another due to market interdependencies.",
+        "The 'Most Favored Nation' (MFN) principle under WTO, which forbids discriminatory energy sanctions.",
+        "The 'Mercantilist' approach, prioritizing the accumulation of gold reserves over geopolitical alliances.",
+        "The 'Security Dilemma', where increasing the energy security of the EU decreases the national security of Ukraine."
       ],
-      "correct_index": 2,
-      "explanation": "The core distinction is the level of autonomy. The Sixth Schedule (Art 244(2) and 275(1)) creates ADCs which are essentially 'mini-states' within states, possessing legislative, executive, and limited judicial powers. The Fifth Schedule (Art 244(1)) provides for 'Tribal Advisory Councils' which are primarily advisory and do not have the same legislative character as ADCs. (Static Link: Indian Polity - Schedules)."
+      "correct_index": 0,
+      "explanation": "The US faces a dilemma: keep Russian sanctions strict (geopolitical goal) or ease them to lower global oil prices (economic goal). This 'Sanctions Paradox' shows that in a globalized economy, aggressive sanctions can become self-defeating if they trigger domestic inflation or force the sanctioning power to compromise its own policy architecture to prevent a global recession. (Static Link: Economy - International Trade)."
     },
     {
       "id": "q_03",
-      "question": "The surge in oil prices to $108/barrel amid the Iran conflict triggers 'Imported Inflation' in India. Which macroeconomic transmission channel most accurately describes this impact on India's 'Terms of Trade'?",
+      "question": "With crude oil breaching $100/barrel, the 'Fertiliser Supply Chain' is cited as a major risk to global food security. What is the precise scientific/economic link between natural gas prices and food production?",
       "options": [
-        "An improvement in the Terms of Trade as the value of Indian exports rises faster than oil prices.",
-        "A deterioration in the Terms of Trade as the price of imports rises relative to the price of exports.",
-        "A neutral effect, as the RBI's 'Exchange Rate Management' offsets the rise in crude costs.",
-        "A rise in 'Cost-push Inflation' driven exclusively by domestic supply chain bottlenecks rather than external shocks."
+        "Natural gas is used as a lubricant for industrial tractors, increasing the cost of harvesting.",
+        "The Haber-Bosch process uses natural gas as both a fuel and a feedstock to produce ammonia, the basis of nitrogenous fertilizers.",
+        "Natural gas is injected into soil to increase the 'Cation Exchange Capacity' for wheat cultivation.",
+        "High gas prices lead to 'Photo-inhibition' in cereal crops, reducing the rate of photosynthesis."
       ],
       "correct_index": 1,
-      "explanation": "Terms of Trade (ToT) is the ratio of export prices to import prices. As an oil-dependent importer, a spike in crude prices (without a corresponding rise in export prices) leads to a 'Deterioration of ToT'. This causes a wealth transfer from India to oil-exporting nations and puts pressure on the Current Account Deficit (CAD). (Static Link: Economy - External Sector)."
+      "explanation": "Modern agriculture relies on nitrogen fertilizers. These are produced via the Haber-Bosch process, which requires high pressure and temperature (fuel) and a source of hydrogen (feedstock). Natural gas ($CH_4$) provides both. When gas prices spike or supply is disrupted, fertilizer production drops, leading to lower crop yields and higher food prices globally. (Static Link: Geography/S&T - Agriculture)."
     },
     {
       "id": "q_04",
-      "question": "Researchers at the Max Planck Institute sustained a 12-minute fusion plasma using a 'Stellarator' (Wendelstein 7-X). How does this technology conceptually differ from the 'Tokamak' design used in ITER?",
+      "question": "The record 12-minute sustained fusion plasma in the Wendelstein 7-X stellarator is a milestone in clean energy. How does the magnetic confinement in a 'Stellarator' fundamentally differ from a 'Tokamak'?",
       "options": [
-        "Stellarators utilize 'Cold Fusion' at room temperature, while Tokamaks require millions of degrees.",
-        "Tokamaks rely on an internal current flowing through the plasma, while Stellarators use externally generated twisted magnetic fields.",
-        "Stellarators are only suitable for 'Pulsed Operation', whereas Tokamaks are designed for 'Steady-State' energy production.",
-        "The magnetic confinement in a Stellarator is achieved using 'Superconducting Gravity Wells' rather than electromagnets."
+        "Stellarators use 'Inertial Confinement' via laser beams, whereas Tokamaks use 'Gravitational Confinement'.",
+        "Tokamaks require a toroidal current to be driven through the plasma itself, while Stellarators use complex external coils to create a twisted magnetic field.",
+        "Stellarators utilize 'Cold Fusion' principles, whereas Tokamaks operate in the 'Plasma' state.",
+        "Tokamaks are limited to using 'Uranium-235', while Stellarators can fuse 'Lithium-6'."
       ],
       "correct_index": 1,
-      "explanation": "Tokamaks (like ITER) induce a current *within* the plasma to help with confinement, which can lead to instabilities (disruptions). Stellarators like W7-X use complex, computer-designed external coils to create the entire magnetic bottle, allowing for more stable, continuous (steady-state) operation.  (Static Link: S&T - Nuclear Fusion)."
+      "explanation": "Tokamaks (like ITER) are easier to build but prone to plasma instabilities because they rely on a current flowing *through* the plasma for confinement. Stellarators (like W7-X) use extremely complex, computer-optimized external magnets to shape the field, avoiding the need for a plasma current and allowing for more stable, continuous operation. (Static Link: S&T - Nuclear Fusion)."
     },
     {
       "id": "q_05",
-      "question": "The failure of 'Atomic Clocks' on ISRO's NavIC satellites highlights a strategic vulnerability. What is the primary role of these clocks in a satellite navigation system?",
+      "question": "The US Army’s $20 billion contract to Anduril for 'Autonomous Weapons' raises significant concerns regarding 'International Humanitarian Law' (IHL). Which principle is most challenged by the deployment of LAWS (Lethal Autonomous Weapons Systems)?",
       "options": [
-        "To measure the 'Orbital Velocity' of the satellite to prevent atmospheric re-entry.",
-        "To provide the 'Time-of-Flight' measurement for signals, which is essential for determining the user's precise distance (pseudorange).",
-        "To synchronize the 'Telecommand' signals between Ground Stations to prevent hacking.",
-        "To regulate the 'Solar Array' deployment to maximize energy absorption in deep space."
+        "The 'Principle of Distinction', as AI may struggle to differentiate between active combatants and wounded/surrendering soldiers.",
+        "The 'Doctrine of Universal Jurisdiction', which forbids the use of robots in international waters.",
+        "The 'Non-Proliferation Treaty' (NPT), which limits the number of autonomous drones a state can possess.",
+        "The 'Pacta Sunt Servanda' principle, which requires all weapons to be manually operated by a commissioned officer."
       ],
-      "correct_index": 1,
-      "explanation": "Navigation systems calculate a user's position by measuring the time it takes for a signal to travel from multiple satellites to a receiver. Since light travels at 3x10^8 m/s, even a nanosecond error in time leads to a 30cm error in position. Atomic clocks provide the extreme precision needed for this 'Trilateration' process. (Static Link: S&T - Space Technology)."
+      "correct_index": 0,
+      "explanation": "IHL requires combatants to distinguish between civilians and military targets (Distinction) and to ensure that the damage to civilians is not excessive relative to the military gain (Proportionality). The 'Accountability Gap' and the technical difficulty of AI in interpreting complex human behaviors (like surrendering) pose major challenges to these legal principles. (Static Link: IR/Ethics - Internal Security)."
     },
     {
       "id": "q_06",
-      "question": "The revocation of Sonam Wangchuk's NSA detention without trial after 170 days illustrates the 'Preventive Detention' framework in India. Under the Constitution, what is the maximum initial period a person can be detained without the opinion of an 'Advisory Board'?",
+      "question": "The Opposition's notice for the removal of the Chief Election Commissioner (CEC) follows the 2023 change in appointment laws. Under the Constitution, the procedure for the removal of the CEC is identical to that of:",
       "options": [
-        "Six months, as per the 44th Amendment Act, 1978.",
-        "Three months, under Article 22(4) of the Constitution.",
-        "Twelve months, if the detention is under the National Security Act.",
-        "There is no limit if the person is deemed an 'Enemy Alien'."
+        "The Prime Minister of India.",
+        "A Judge of the Supreme Court of India.",
+        "The Attorney General for India.",
+        "The Speaker of the Lok Sabha."
       ],
       "correct_index": 1,
-      "explanation": "Article 22(4) states that no law providing for preventive detention shall authorize the detention of a person for longer than *three months* unless an Advisory Board finds sufficient cause for such detention. Note: The 44th Amendment tried to reduce this to two months, but that specific provision was never notified. (Static Link: Indian Polity - Fundamental Rights)."
+      "explanation": "Under Article 324(5), the CEC shall not be removed from his office except in like manner and on the like grounds as a Judge of the Supreme Court. This requires a motion passed by both Houses of Parliament with a special majority (2/3rd of members present and voting and a majority of the total membership) on the grounds of 'proved misbehavior or incapacity'. (Static Link: Polity - Constitutional Bodies)."
     },
     {
       "id": "q_07",
-      "question": "The WHO-approved CRISPR-based malaria vaccine trials in West Africa represent a paradigm shift in global health. What is the fundamental mechanism of 'CRISPR-Cas9' as applied in such medical breakthroughs?",
+      "question": "The WHO's approval of CRISPR-based malaria vaccine trials marks a new frontier in biotechnology. Which structural feature of the CRISPR-Cas9 system allows for such high-precision antigen engineering?",
       "options": [
-        "It uses 'Messenger RNA' to instruct human cells to produce a harmless piece of the parasite protein.",
-        "It acts as 'Molecular Scissors' that can be programmed to cut and edit specific DNA sequences in the pathogen or the host.",
-        "It utilizes 'Inactivated Viruses' to deliver antibodies directly into the bone marrow.",
-        "It involves 'Quantum Sequencing' to predict the future mutations of the Plasmodium parasite."
+        "The use of 'Reverse Transcriptase' to convert RNA into DNA without a template.",
+        "The 'Guide RNA' (gRNA) component which is programmed to match a specific DNA sequence in the genome.",
+        "The 'Bacteriophage' shell which protects the vaccine from the human immune system.",
+        "The 'Quantum Entanglement' of proteins that allow for simultaneous editing of multiple cells."
       ],
       "correct_index": 1,
-      "explanation": "CRISPR-Cas9 is a gene-editing tool. The 'Cas9' protein acts as a pair of scissors, and the 'guide RNA' directs it to a specific spot on the genome to make a cut, allowing for the deletion or insertion of genetic material. 
-
-[Image of the CRISPR-Cas9 gene editing mechanism]
- (Static Link: S&T - Biotechnology)."
+      "explanation": "CRISPR-Cas9 acts as 'molecular scissors'. The Cas9 enzyme does the cutting, but the 'Guide RNA' is the GPS—it is a sequence of RNA designed to be complementary to the target DNA. This allows scientists to target a precise gene in the malaria parasite or the host to trigger a specific immune response. (Static Link: S&T - Biotechnology)."
     },
     {
       "id": "q_08",
-      "question": "The G7's coordination of a virtual summit to respond to the Iran conflict illustrates 'Economic Statecraft'. Which of the following is a primary characteristic of the G7 that differentiates it from the G20?",
+      "question": "Fitch's upgrade of India's GDP growth to 7.5% is attributed to 'Resilient Domestic Demand'. In macroeconomic terms, which 'Automatic Stabilizer' helps India maintain growth despite global energy price shocks?",
       "options": [
-        "The G7 includes major emerging economies like India and Brazil, which the G20 excludes.",
-        "The G7 is a formal organization with a permanent secretariat in Brussels, unlike the G20.",
-        "The G7 represents a 'like-minded' bloc of advanced industrialized democracies with high per capita wealth.",
-        "The G7 has the legal authority to impose binding military sanctions under the UN Charter."
+        "The 'Progressive Income Tax' system, which reduces the tax burden as household incomes drop.",
+        "The 'Strategic Petroleum Reserve' (SPR) release, which acts as a physical price buffer.",
+        "The 'Floating Exchange Rate', which allows the Rupee to depreciate and boost export competitiveness.",
+        "The 'Fixed Interest Rate' regime managed by the NITI Aayog."
       ],
-      "correct_index": 2,
-      "explanation": "The G7 is an informal forum of the world's most advanced *industrialized democracies*. It does not have a permanent secretariat or legal status. Its strength lies in its 'homogeneity' and 'shared values', allowing for faster coordination on sanctions and political strategy compared to the broader, more diverse G20. (Static Link: IR - International Forums)."
+      "correct_index": 0,
+      "explanation": "Automatic stabilizers are features of the structure of modern government budgets (like progressive taxes and welfare payments) that act to dampen fluctuations in real GDP without any explicit policy change. When growth slows due to high oil prices, tax revenues fall and welfare spending (like MNREGA) rises, naturally supporting aggregate demand. (Static Link: Economy - Fiscal Policy)."
     },
     {
       "id": "q_09",
-      "question": "The sinking of a tanker in the Strait of Hormuz raises questions about 'Maritime Chokepoints' and International Law. Which UNCLOS principle generally applies to the Strait of Hormuz?",
+      "question": "The Indian LPG carrier Shivalik's transit through the Strait of Hormuz was monitored by naval authorities. Under UNCLOS, what is the legal status of the 'Transit Passage' regime compared to 'Innocent Passage'?",
       "options": [
-        "The Principle of 'Innocent Passage', where submarines must navigate on the surface.",
-        "The Principle of 'Transit Passage', allowing for continuous and expeditious navigation of international straits.",
-        "The 'Exclusive Economic Zone' (EEZ) sovereignty, where Iran can block all non-commercial traffic.",
-        "The 'Archipelagic Waters' doctrine, treating the entire Gulf as internal Iranian territory."
+        "Transit passage allows for 'overflight' and 'submerged transit' by submarines, which are prohibited under innocent passage.",
+        "Innocent passage allows a coastal state to suspend all traffic for national security, whereas transit passage cannot be suspended.",
+        "Transit passage applies only to commercial vessels, while innocent passage applies only to warships.",
+        "Both (a) and (b) are correct."
       ],
-      "correct_index": 1,
-      "explanation": "Under UNCLOS (Part III), the 'Strait of Hormuz' is an international strait used for international navigation between one part of the high seas/EEZ and another. Therefore, the regime of 'Transit Passage' applies, which is more liberal than 'Innocent Passage' as it allows for overflight and submerged transit by submarines. (Static Link: Geography/IR - Maritime Law)."
+      "correct_index": 3,
+      "explanation": "Transit Passage (Art 38 of UNCLOS) applies to international straits. It is more permissive than 'Innocent Passage' because it allows aircraft to fly over and submarines to stay submerged. Crucially, while a state can temporarily suspend innocent passage in its territorial sea for security, it *cannot* suspend transit passage through an international strait. (Static Link: Geography/IR - Maritime Law)."
     },
     {
       "id": "q_10",
-      "question": "The ₹10,000 crore 'Shakti Scheme' for biopharmaceuticals targets 'Import Substitution'. Which of the following is a key hurdle for India in moving from 'Small Molecule' generics to 'Large Molecule' Biologics?",
+      "question": "The SEBI's decision to reduce 'Minimum Public Float' (MPF) requirements for mega-companies like Reliance Jio aims to facilitate deep-market liquidity. What is the primary risk associated with a very low public float?",
       "options": [
-        "India lacks the legal framework for Intellectual Property (IP) protection of patents.",
-        "Biologics are produced from living cells and require far more complex manufacturing and 'Cold Chain' logistics compared to chemical generics.",
-        "The Indian population is genetically resistant to monoclonal antibodies, reducing domestic demand.",
-        "The WTO forbids developing nations from producing 'Biosimilars' for 50 years."
+        "Increased 'Price Volatility' and susceptibility to 'Price Manipulation' due to fewer shares being available for trade.",
+        "A mandatory takeover by the 'Investor Education and Protection Fund' (IEPF).",
+        "A decrease in the 'Debt-to-Equity' ratio, making the company insolvent.",
+        "The inability of the company to issue 'Bonus Shares' to existing promoters."
       ],
-      "correct_index": 1,
-      "explanation": "Traditional 'Small Molecule' drugs are made by chemical synthesis. 'Biologics' are large, complex molecules produced in living organisms (bacteria, yeast, mammalian cells). This requires advanced bioreactors, sophisticated purification, and strict temperature control (Cold Chain), making the barrier to entry much higher. (Static Link: Economy - Industry Sector)."
+      "correct_index": 0,
+      "explanation": "Public float refers to the portion of shares held by the public (non-promoters). If the float is too low, a small number of trades can cause massive swings in the stock price (high volatility). It also makes it easier for operators to corner the market and manipulate prices. SEBI usually mandates 25% MPF, but reduces it for mega-IPOs to avoid flooding the market with too much supply at once. (Static Link: Economy - Capital Markets)."
     },
     {
       "id": "q_11",
-      "question": "The World Bank's warning of a 'Global Recession' due to the Iran war highlights the risk of 'Stagflation'. What best defines Stagflation?",
+      "question": "Microsoft and Quantinuum’s 800x improvement in 'Logical Qubit' error rates addresses the 'Decoherence' problem. Conceptually, how does a Logical Qubit function?",
       "options": [
-        "High economic growth accompanied by falling prices.",
-        "A period of high unemployment and high inflation with stagnant demand.",
-        "Low interest rates leading to a 'Liquidity Trap'.",
-        "Rapid currency appreciation leading to a collapse in exports."
+        "It uses 'Cold Trap' technology to stop all atomic movement.",
+        "It distributes quantum information across multiple physical qubits using 'Error Correction Codes' to detect and fix flips.",
+        "It replaces 'Superposition' with 'Binary Logic' to ensure 100% accuracy.",
+        "It utilizes 'Fiber Optic' cables to transmit quantum states at the speed of light."
       ],
       "correct_index": 1,
-      "explanation": "Stagflation = Stagnation + Inflation. It is a nightmare for central banks because raising interest rates to fight inflation worsens stagnation (unemployment), while lowering rates to boost growth further fuels inflation. The 1970s oil crisis is the classic precedent. (Static Link: Economy - Inflation)."
+      "explanation": "Physical qubits are fragile and lose their quantum state (decoherence) easily. A Logical Qubit is a 'virtual' qubit made by grouping many physical ones. By using redundancy (like checking multiple copies of a file for errors), the system can identify if a physical qubit has failed and correct it without losing the underlying data. (Static Link: S&T - Quantum Computing)."
     },
     {
       "id": "q_12",
-      "question": "SpaceX's 'Starship' achieves 6th flight success. How does the 'Full Reusability' of such heavy-lift rockets conceptually change the 'Space Economy'?",
+      "question": "The EU AI Board’s binding transparency guidelines for 'General Purpose AI' (GPAI) reflect a 'Risk-based approach'. Under this framework, why are LLMs (Large Language Models) categorized differently from 'Narrow AI'?",
       "options": [
-        "It eliminates the 'Kessler Syndrome' by destroying all satellites after use.",
-        "It shifts the 'Marginal Cost' of a launch toward fuel and operations rather than the manufacturing of the vehicle itself.",
-        "It makes 'Geostationary Orbits' obsolete by allowing all satellites to remain in 'Low Earth Orbit' indefinitely.",
-        "It bypasses the 'Van Allen Radiation Belt' through the use of anti-gravity thrusters."
+        "LLMs possess 'Systemic Risk' because their outputs can be used in an infinite variety of downstream applications.",
+        "Narrow AI is considered 'Sentient', whereas GPAI is purely mathematical.",
+        "The EU AI Act forbids LLMs from being used by government agencies.",
+        "Narrow AI requires more 'Training Data' than GPAI, making it harder to regulate."
       ],
-      "correct_index": 1,
-      "explanation": "Currently, the most expensive part of a rocket is the rocket itself, which is traditionally thrown away (expendable). Reusability (like an airplane) means the capital cost is spread over many flights, reducing the 'Marginal Cost' to just fuel and ground support. This democratizes space by drastically lowering the price per kg to orbit. (Static Link: S&T - Space Economy)."
+      "correct_index": 0,
+      "explanation": "Narrow AI (e.g., a spam filter) has a predictable, single use. General Purpose AI (like GPT-4) can write code, give medical advice, or generate propaganda. Because it is a 'foundation' for many other apps, any flaw in the GPAI creates a systemic risk across the entire digital ecosystem, necessitating stricter transparency and safety testing. (Static Link: S&T - AI Governance)."
     },
     {
       "id": "q_13",
-      "question": "The disbursement of the 22nd installment of 'PM-KISAN' illustrates the 'Direct Benefit Transfer' (DBT) framework. Which of the following is the primary technological backbone for DBT in India?",
+      "question": "The RBI’s 'National Compensation Scheme' for cyber fraud victims utilizes the principle of 'Limited Liability'. Under existing RBI norms, if a victim reports an unauthorized digital transaction within 3 days, their liability is:",
       "options": [
-        "The SWIFT network used for international bank transfers.",
-        "The 'Aadhaar-enabled Payment System' (AePS) and the 'National Payments Corporation of India' (NPCI).",
-        "The 'Blockchain' ledger managed by the NITI Aayog.",
-        "The 'Satellite-linked Rural ATM' network under the Lead Bank Scheme."
+        "100% of the lost amount.",
+        "Zero, regardless of the amount lost.",
+        "Limited to ₹5,000 only.",
+        "50% of the transaction value."
       ],
       "correct_index": 1,
-      "explanation": "DBT relies on the 'JAM' Trinity (Jan Dhan, Aadhaar, Mobile). The NPCI acts as the central clearing house, and Aadhaar serves as the unique identifier (Aadhaar Bridge Payment System) to ensure the money reaches the correct beneficiary's bank account without middlemen. (Static Link: Governance - Welfare Schemes)."
+      "explanation": "As per RBI's 'Customer Liability' circulars, if the fraud is not due to the customer's negligence (like sharing an OTP) and is reported within 3 working days, the customer has 'Zero Liability'. The new national scheme aims to standardize this process across all banks to ensure faster reimbursement without the need for police intervention. (Static Link: Economy - Banking/Governance)."
     },
     {
       "id": "q_14",
-      "question": "The cyber attack on the European energy grid attributed to Russia is an example of 'Hybrid Warfare'. This strategy primarily aims to:",
+      "question": "The 'Act East Policy' is the strategic driver behind PM Modi’s ₹23,550 crore infrastructure push in Silchar. How does the development of the 'Barak Valley' specifically enhance India’s 'Northeast Connectivity'?",
       "options": [
-        "Win a decisive conventional battle using tank divisions.",
-        "Target the 'Cognitive' and 'Infrastructural' vulnerabilities of a state to achieve political goals without full-scale kinetic war.",
-        "Completely isolate a nation from the 'Global Positioning System' (GPS).",
-        "Abolish all 'International Law' treaties through the use of deepfake technology."
+        "It provides a direct 'Land Bridge' to Thailand bypassing Myanmar.",
+        "It serves as a multi-modal hub connecting the Siliguri Corridor with the Chittagong port in Bangladesh.",
+        "It allows for the construction of India's first 'Undersea Tunnel' to Southeast Asia.",
+        "It eliminates the need for the 'Kaladan Multi-Modal Transit Transport Project'."
       ],
       "correct_index": 1,
-      "explanation": "Hybrid warfare blends 'Kinetic' (military) with 'Non-kinetic' tools (cyber, disinformation, economic pressure). By attacking a power grid, an adversary causes civilian unrest and economic paralysis, weakening the target's political will to resist without firing a single missile. (Static Link: Internal Security - Cyber Warfare)."
+      "explanation": "Silchar (Barak Valley) is geographically vital for connecting Tripura, Mizoram, and Manipur. Improving infrastructure here facilitates the use of the 'Chittagong and Mongla Ports' in Bangladesh for Indian goods, reducing the reliance on the narrow 'Chicken's Neck' (Siliguri Corridor) and integrating the NE economy with the Bay of Bengal. (Static Link: Geography/IR - Internal Security)."
     },
     {
       "id": "q_15",
-      "question": "The Microsoft-Quantinuum achievement in 'Logical Qubits' targets the 'Error Correction' problem in Quantum Computing. What is a 'Logical Qubit' conceptually?",
+      "question": "SpaceX’s Starship achieving 'Full Reusability' is compared to the 'Aviation Model' of transport. Which economic hurdle does this primarily overcome for Deep Space exploration?",
       "options": [
-        "A qubit that uses 'Binary Logic' (0 and 1) instead of Superposition.",
-        "A robust unit of quantum information encoded across multiple 'Physical Qubits' to protect against noise.",
-        "A high-speed transistor that can operate at 'Absolute Zero' temperature.",
-        "An algorithm that can solve the 'Traveling Salesman Problem' on a classical computer."
+        "The 'Kessler Syndrome' by allowing rockets to pick up space debris.",
+        "The 'High Fixed Cost' of discarding the first-stage hardware after every single launch.",
+        "The 'Van Allen Radiation' by using thick lead shielding that only reusable rockets can carry.",
+        "The 'Launch Window' constraint for Mars by allowing rockets to take off in any weather."
       ],
       "correct_index": 1,
-      "explanation": "Physical qubits are very unstable (prone to decoherence). To fix this, researchers use 'Quantum Error Correction' codes to spread one bit of quantum data (the Logical Qubit) over many physical ones. If one physical qubit has an error, the others can correct it, allowing the system to perform long calculations reliably. (Static Link: S&T - Quantum Computing)."
+      "explanation": "Currently, space travel is like flying a Boeing 747 from New York to London and then crashing the plane into the ocean. You have to build a new plane for the return flight. Full reusability means you only pay for fuel and maintenance, dropping the cost per kg to orbit by orders of magnitude, making missions to the Moon and Mars economically viable. (Static Link: S&T - Space Technology)."
     }
   ]
 }
