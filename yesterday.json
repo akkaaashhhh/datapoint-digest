@@ -1,668 +1,520 @@
 {
   "world": [
     {
-      "headline": "US and Iran exchange messages through Oman for potential ceasefire, sources say",
-      "description": "The United States and Iran have been exchanging indirect diplomatic messages via Omani intermediaries, exploring the possibility of a ceasefire to halt the ongoing military conflict between the two nations.",
-      "context": "Oman has historically served as a backchannel between Washington and Tehran due to its neutral diplomatic stance in the Gulf. These talks represent the first significant diplomatic outreach since the conflict escalated, and their outcome could determine whether the war expands or de-escalates, with major implications for global oil markets and regional stability.",
+      "headline": "Trump pressures allies to secure the Strait of Hormuz",
+      "description": "U.S. President Donald Trump called on China, France, Japan, South Korea, and the UK to deploy warships to the Strait of Hormuz, through which roughly one-fifth of global oil normally passes. The strait has been effectively closed to most shipping since Iran began targeting tankers after the U.S.-Israeli war on Iran began on February 28.",
+      "context": "Iran's ability to blockade the Strait of Hormuz without being militarily defeated has become the central strategic problem of the conflict. While the U.S. has struck Iranian military targets, including on Kharg Island, Tehran retains the asymmetric capability to disrupt global energy flows at low cost, creating enormous economic leverage and complicating any diplomatic resolution.",
       "timeline": [
-        {"date": "2024-01", "label": "US-Iran tensions escalate following strikes on American assets in the region", "type": "background"},
-        {"date": "2025-06", "label": "Direct military confrontations between US and Iranian forces begin", "type": "escalation"},
-        {"date": "2026-02", "label": "Iran launches ballistic missile attacks on US positions in the Gulf", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Indirect ceasefire messages exchanged via Omani intermediaries", "type": "event"}
+        {"date": "2026-02-28", "label": "U.S. and Israel launch Operation Epic Fury against Iran", "type": "event"},
+        {"date": "2026-03-11", "label": "Iran begins targeting commercial tankers; Strait of Hormuz effectively blockaded", "type": "escalation"},
+        {"date": "2026-03-14", "label": "U.S. carries out large-scale precision strikes on Kharg Island military targets", "type": "event"},
+        {"date": "2026-03-15", "label": "Trump urges international naval coalition; no country immediately commits", "type": "consequence"}
       ],
       "importance_score": 5,
       "category": "world",
-      "region": "Middle East",
+      "region": "Middle East / Global",
       "key_terms": [
-        {"term": "Oman", "definition": "Gulf state serving as a neutral diplomatic intermediary between the US and Iran due to its longstanding policy of non-alignment"},
-        {"term": "Ceasefire", "definition": "A temporary or permanent halt to military hostilities agreed upon by opposing parties"},
-        {"term": "Backchannel diplomacy", "definition": "Unofficial or indirect communication between states used to explore negotiations without public commitment"}
+        {"term": "Strait of Hormuz", "definition": "A narrow maritime chokepoint between Iran and Oman through which approximately one-fifth of global oil and LNG supplies pass."},
+        {"term": "Operation Epic Fury", "definition": "The U.S.-Israeli military campaign against Iran, launched February 28, 2026, targeting military infrastructure across the country."},
+        {"term": "Kharg Island", "definition": "Iran's primary oil export hub in the Persian Gulf, responsible for approximately 90% of Iranian crude exports."},
+        {"term": "EU Aspides Mission", "definition": "A European Union naval operation originally deployed to protect shipping against Houthi attacks in the Red Sea, now under consideration for expansion to the Strait of Hormuz."},
+        {"term": "Trump, Donald J.", "definition": "45th and 47th U.S. President, who launched the military campaign against Iran alongside Israeli Prime Minister Netanyahu."},
+        {"term": "Mojtaba Khamenei", "definition": "Iran's new Supreme Leader, who succeeded his father Ali Khamenei after the latter was killed on the first day of the U.S.-Israeli strikes."},
+        {"term": "Abbas Araghchi", "definition": "Iran's Foreign Minister, who has publicly stated that the Strait of Hormuz is closed only to vessels belonging to U.S. allies and enemies."}
       ],
-      "link": "https://www.reuters.com/world/middle-east/"
+      "link": "https://www.aljazeera.com/news/2026/3/15/trump-calls-for-naval-coalition-to-open-strait-of-hormuz-can-it-work"
     },
     {
-      "headline": "Iranian forces launch missile attack on US base in Saudi Arabia",
-      "description": "Iranian military forces conducted a ballistic missile strike targeting a United States military installation located in Saudi Arabia, marking a significant escalation of direct confrontation between the two adversaries.",
-      "context": "This strike represents a dangerous geographic expansion of the Iran-US conflict into Saudi territory, threatening to draw Riyadh directly into the war. An attack on Saudi soil risks destabilizing the entire Arabian Peninsula and could trigger a broader coalition military response from the US and its Gulf allies.",
+      "headline": "Oil prices top $100 a barrel amid Iranian attacks on commercial ships",
+      "description": "Brent crude oil closed above $100 per barrel for a second consecutive session, with WTI also approaching $99, as Iran's blockade of the Strait of Hormuz continued to remove an estimated 15 million barrels per day from global markets — the largest supply disruption in the history of oil markets according to the International Energy Agency.",
+      "context": "The IEA coordinated the largest-ever release of emergency oil reserves, amounting to 400 million barrels from 32 nations, but analysts warned this would be absorbed in under a month at current disruption rates. The price surge is stoking fresh global inflation fears, threatening central bank policy paths and consumer spending across importing economies.",
       "timeline": [
-        {"date": "2025-10", "label": "Iran begins targeting US logistics hubs in Iraq and Syria", "type": "background"},
-        {"date": "2026-01", "label": "US conducts airstrikes on Iranian military infrastructure inside Iran", "type": "escalation"},
-        {"date": "2026-03-10", "label": "Iran warns of expanding strikes to all US allied positions in the region", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Iran fires missiles at US base in Saudi Arabia", "type": "event"}
+        {"date": "2026-02-28", "label": "U.S.-Israeli war on Iran begins; oil prices begin climbing sharply", "type": "background"},
+        {"date": "2026-03-10", "label": "IEA reports Hormuz closure cutting at least 10 million barrels per day", "type": "escalation"},
+        {"date": "2026-03-12", "label": "IEA authorizes release of 400 million barrels — largest emergency reserve release in history", "type": "event"},
+        {"date": "2026-03-14", "label": "Brent crude closes above $100 for second consecutive day", "type": "consequence"}
       ],
       "importance_score": 5,
       "category": "world",
-      "region": "Middle East",
+      "region": "Global / Middle East",
       "key_terms": [
-        {"term": "Ballistic missile", "definition": "A missile that follows a ballistic trajectory after an initial powered phase, capable of striking targets hundreds to thousands of kilometers away"},
-        {"term": "Saudi Arabia", "definition": "A key US partner in the Gulf that hosts American military forces and critical energy infrastructure"},
-        {"term": "Iran IRGC", "definition": "Islamic Revolutionary Guard Corps — Iran's elite military force responsible for external operations and missile programs"}
+        {"term": "Brent Crude", "definition": "The international benchmark price for crude oil, set in the North Sea markets."},
+        {"term": "WTI (West Texas Intermediate)", "definition": "The U.S. benchmark price for crude oil, typically trading at a discount to Brent."},
+        {"term": "IEA (International Energy Agency)", "definition": "A Paris-based intergovernmental organization that coordinates energy policy and manages emergency oil reserves for 32 member nations."},
+        {"term": "Strategic Petroleum Reserve (SPR)", "definition": "Emergency oil stockpiles maintained by IEA member governments for use during supply crises."},
+        {"term": "Triple product", "definition": "In oil markets context: the combination of supply reduction, demand persistence, and geopolitical uncertainty driving the price surge."}
       ],
-      "link": "https://www.reuters.com/world/middle-east/"
+      "link": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz"
     },
     {
-      "headline": "Global oil prices surge to $108 per barrel amid prolonged Iran conflict",
-      "description": "Crude oil prices climbed to $108 per barrel as the prolonged military conflict involving Iran continued to disrupt Middle Eastern supply chains and heighten fears over Strait of Hormuz shipping.",
-      "context": "Iran is one of the world's major oil producers and the Strait of Hormuz is the world's most critical oil transit chokepoint, through which approximately 20% of global petroleum trade passes. Sustained prices above $100 per barrel exert severe pressure on oil-importing economies, fuel inflation globally, and could tip multiple emerging market economies into recession.",
+      "headline": "Gulf Arab states intercept new missiles and drones as Iran threatens to widen the war",
+      "description": "Saudi Arabia, the UAE, and other Gulf Arab states intercepted fresh waves of Iranian missiles and drones, including a drone that disrupted oil-loading operations at the UAE's Fujairah emirate. Iran also threatened to designate UAE ports of Jebel Ali, Khalifa, and Fujairah as legitimate military targets, calling for civilian evacuation.",
+      "context": "Iran is deploying asymmetric warfare against Gulf Arab states to impose economic costs on U.S. allies in the region and complicate global energy logistics. Targeting the UAE's Fujairah — a critical global ship-refueling hub — signals Iran's intent to broaden the economic damage beyond the Strait of Hormuz blockade alone.",
       "timeline": [
-        {"date": "2025-07", "label": "Oil prices cross $85/barrel following initial Iran-US skirmishes", "type": "background"},
-        {"date": "2025-12", "label": "Prices breach $95/barrel as Iranian exports are sanctioned and disrupted", "type": "escalation"},
-        {"date": "2026-02", "label": "Strait of Hormuz partially disrupted, prices rise to $101/barrel", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Oil surges to $108/barrel on prolonged conflict fears", "type": "event"}
+        {"date": "2026-02-28", "label": "Iran launches retaliatory drone and missile campaign against Gulf neighbors following U.S.-Israeli strikes", "type": "background"},
+        {"date": "2026-03-13", "label": "Iran's new Supreme Leader Mojtaba Khamenei vows to keep Hormuz closed and escalate attacks on Gulf states", "type": "escalation"},
+        {"date": "2026-03-14", "label": "Drone attack disrupts oil-loading at Fujairah; Saudi Arabia intercepts drone in Eastern Province", "type": "event"},
+        {"date": "2026-03-15", "label": "Iran issues evacuation warnings for three major UAE ports designated as targets", "type": "consequence"}
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East / Gulf",
+      "key_terms": [
+        {"term": "Fujairah", "definition": "A UAE emirate and one of the world's largest ship-refueling hubs, critical to global maritime trade and oil distribution."},
+        {"term": "Shahed Drone", "definition": "Iranian-designed loitering munition (kamikaze drone) supplied to Iran by Russia and widely used in asymmetric warfare operations."},
+        {"term": "Eastern Province (Saudi Arabia)", "definition": "The oil-rich region of Saudi Arabia hosting key Aramco infrastructure, including the Abqaiq processing facility and Ras Tanura export terminal."},
+        {"term": "Jebel Ali Port", "definition": "The UAE's largest port and one of the busiest container ports in the world, operated by DP World near Dubai."},
+        {"term": "Gulf Cooperation Council (GCC)", "definition": "A political and economic alliance of six Gulf Arab states: Saudi Arabia, UAE, Qatar, Kuwait, Bahrain, and Oman."}
+      ],
+      "link": "https://www.reuters.com/world/middle-east/gulf-states-intercept-missiles-drones-iran-threatens-widen-war-2026-03-15/"
+    },
+    {
+      "headline": "After attacks on Iran's oil facilities, toxic black rain endangers the public",
+      "description": "Residents near targeted industrial and oil infrastructure in Iran reported a phenomenon of toxic black rain following U.S. and Israeli airstrikes, raising serious public health concerns. Environmental experts warned of carcinogenic particulates and volatile organic compound dispersal from burning oil infrastructure.",
+      "context": "The strikes on Iran's industrial and energy infrastructure have created a secondary humanitarian crisis. Prolonged fires at petrochemical and oil installations release benzene, toluene, and heavy metals into the atmosphere. Downwind populations face risks of acute respiratory illness, long-term cancer exposure, and water supply contamination — concerns that international health organizations are beginning to raise publicly.",
+      "timeline": [
+        {"date": "2026-02-28", "label": "U.S. and Israeli strikes on Iranian military and industrial targets begin", "type": "background"},
+        {"date": "2026-03-08", "label": "Fire breaks out at Shahran oil depot in Tehran following airstrikes", "type": "escalation"},
+        {"date": "2026-03-14", "label": "U.S. strikes military targets on Kharg Island; fires reported near oil infrastructure", "type": "event"},
+        {"date": "2026-03-15", "label": "Reports of toxic black rain near targeted industrial zones prompt public health warnings", "type": "consequence"}
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Iran",
+      "key_terms": [
+        {"term": "Toxic Black Rain", "definition": "A phenomenon where burning fossil fuel infrastructure produces soot and toxic particulates that fall back as dark precipitation, posing severe public health risks."},
+        {"term": "Volatile Organic Compounds (VOCs)", "definition": "Chemicals including benzene and toluene released by burning petroleum installations, known to cause cancer and respiratory disease at elevated exposures."},
+        {"term": "Shahran Oil Depot", "definition": "A major oil distribution facility in Tehran that was struck and set ablaze during the U.S.-Israeli bombing campaign in early March 2026."},
+        {"term": "CENTCOM (U.S. Central Command)", "definition": "The U.S. military command responsible for operations across the Middle East, including strikes on Iran."}
+      ],
+      "link": "https://apnews.com/article/iran-war-oil-toxic-black-rain-2026"
+    },
+    {
+      "headline": "Pope escalates call for ceasefire in Iran by addressing those responsible for the war",
+      "description": "Pope Francis significantly escalated his diplomatic intervention by directly addressing the parties responsible for the U.S.-Israeli war on Iran, calling for an immediate ceasefire and warning of catastrophic humanitarian consequences from the ongoing conflict and energy crisis.",
+      "context": "Papal interventions in active conflicts carry significant moral authority and can influence Catholic-majority political constituencies in Europe and Latin America. The Pope's unusual decision to address the 'responsible parties' directly — rather than issuing a general appeal — represents an escalation of Vatican pressure on the U.S. and Israel at a moment of growing international unease about the war's direction and its global economic consequences.",
+      "timeline": [
+        {"date": "2026-03-01", "label": "Vatican issues first general call for restraint following outbreak of war", "type": "background"},
+        {"date": "2026-03-08", "label": "Pope Francis prays publicly for Iranian civilians displaced by strikes", "type": "escalation"},
+        {"date": "2026-03-15", "label": "Pope directly addresses parties responsible for the war in a formal ceasefire appeal", "type": "event"}
+      ],
+      "importance_score": 3,
+      "category": "world",
+      "region": "Global / Vatican",
+      "key_terms": [
+        {"term": "Pope Francis", "definition": "Head of the Catholic Church and sovereign of Vatican City, who has been a consistent advocate for ceasefire and humanitarian protection during the Iran conflict."},
+        {"term": "Holy See", "definition": "The governing body of the Roman Catholic Church, maintaining diplomatic relations with over 180 countries and recognized as a non-member observer at the United Nations."},
+        {"term": "Ceasefire", "definition": "A temporary or permanent halt to hostilities, agreed upon by parties in conflict, as a precondition for diplomatic resolution."}
+      ],
+      "link": "https://apnews.com/article/pope-francis-ceasefire-iran-war-2026-03-15"
+    },
+    {
+      "headline": "Formula 1 calls off April races in Bahrain and Saudi Arabia due to Iran war",
+      "description": "Formula 1 officially cancelled its scheduled April Grand Prix events in Bahrain and Saudi Arabia, citing security concerns stemming from the ongoing U.S.-Israeli war on Iran and the threat of Iranian drone and missile strikes across the Gulf region.",
+      "context": "The cancellation underscores the broad regional impact of the Iran conflict on commercial and sporting activity across the Gulf. Bahrain and Saudi Arabia host significant F1 infrastructure and generate major economic and reputational value for both nations. The decision highlights the insurance and safety constraints preventing multinational organizations from operating in active conflict zones, even those geographically adjacent to rather than within the fighting.",
+      "timeline": [
+        {"date": "2026-02-28", "label": "War begins; Gulf states immediately reassess hosting of large international events", "type": "background"},
+        {"date": "2026-03-11", "label": "Iranian drone attacks begin reaching UAE and Saudi infrastructure", "type": "escalation"},
+        {"date": "2026-03-15", "label": "Formula 1 formally cancels Bahrain and Saudi Arabia Grand Prix events for April", "type": "event"}
+      ],
+      "importance_score": 3,
+      "category": "world",
+      "region": "Middle East / Gulf",
+      "key_terms": [
+        {"term": "Formula 1 (F1)", "definition": "The premier international single-seater motor racing championship, governed by the FIA, featuring races across 24 countries."},
+        {"term": "Bahrain International Circuit", "definition": "Formula 1 venue near Sakhir, Bahrain, which typically hosts the opening race of the F1 season."},
+        {"term": "Jeddah Corniche Circuit", "definition": "Formula 1 street circuit in Saudi Arabia hosting the Saudi Arabian Grand Prix, part of the early-season Gulf swing."}
+      ],
+      "link": "https://apnews.com/article/formula-1-bahrain-saudi-arabia-cancelled-iran-war-2026"
+    },
+    {
+      "headline": "Pentagon sees Iran war lasting up to six weeks, Trump aide says",
+      "description": "A Trump administration aide revealed that Pentagon planners have assessed the current war with Iran as potentially lasting up to six weeks in total, though political and military officials have offered conflicting public signals about the conflict's timeline and end conditions.",
+      "context": "The assessment — if accurate — suggests U.S. military planners believe the conflict will be substantially longer than initial public messaging from the White House indicated. A six-week timeline implies continued energy market disruption, sustained risk to Gulf Arab allies, and increasing domestic political pressure on Trump as fuel prices climb. The gap between the Pentagon's private assessment and Trump's public optimism is itself a significant strategic signal.",
+      "timeline": [
+        {"date": "2026-02-28", "label": "War begins with stated aims of neutralizing Iran's nuclear and missile programs", "type": "background"},
+        {"date": "2026-03-07", "label": "Trump publicly says the war is 'way ahead of schedule'", "type": "event"},
+        {"date": "2026-03-15", "label": "Pentagon privately assesses war could last up to six weeks total; Trump aide discloses to Bloomberg", "type": "consequence"}
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "United States / Middle East",
+      "key_terms": [
+        {"term": "Pentagon", "definition": "Headquarters of the U.S. Department of Defense, overseeing all U.S. military operations."},
+        {"term": "Strategic hedging", "definition": "A foreign policy approach in which a nation simultaneously prepares for multiple scenarios — in this context, rapid victory and prolonged conflict — to manage risk and audience expectations."},
+        {"term": "Operation Epic Fury", "definition": "The name given to the U.S. military campaign against Iran, launched on February 28, 2026."}
+      ],
+      "link": "https://www.bloomberg.com/news/articles/2026-03-15/pentagon-sees-iran-war-lasting-up-to-six-weeks-trump-aide-says"
+    },
+    {
+      "headline": "North Korea conducts test of nuclear-capable rocket launchers",
+      "description": "North Korea tested 12 nuclear-capable 600mm multiple rocket launchers under the personal oversight of leader Kim Jong Un, firing rockets that struck an island target over 360 km away in the East Sea. The test coincided with the annual U.S.-South Korean Freedom Shield military drills and involved a system capable of delivering the Hwasan-31 tactical nuclear warhead.",
+      "context": "The KN-25 rocket launcher system blurs the line between conventional artillery and short-range ballistic missiles and has a striking range covering virtually all of South Korea. By conducting the test simultaneously with allied joint drills, Pyongyang demonstrated the system's operational role as a tactical nuclear deterrent and signaled it is prepared to escalate in the context of a U.S. military already engaged in a major conflict with Iran — potentially calculating reduced American bandwidth for a Korean Peninsula crisis.",
+      "timeline": [
+        {"date": "2023-03-01", "label": "North Korea publicly confirmed the Hwasan-31 nuclear warhead compatible with the KN-25 system", "type": "background"},
+        {"date": "2026-03-10", "label": "U.S.-South Korea Freedom Shield exercise begins; Kim Yo Jong warns of 'terrible consequences'", "type": "escalation"},
+        {"date": "2026-03-14", "label": "South Korea detects approximately 10 ballistic missile launches from North Korea's capital region", "type": "event"},
+        {"date": "2026-03-15", "label": "KCNA announces live-fire test of 12 nuclear-capable KN-25 rocket launchers overseen by Kim Jong Un", "type": "consequence"}
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "East Asia / Korean Peninsula",
+      "key_terms": [
+        {"term": "KN-25", "definition": "North Korea's 600mm-calibre multiple rocket launcher system, capable of carrying conventional or Hwasan-31 nuclear warheads with a range of approximately 380-420 km — sufficient to reach any point in South Korea."},
+        {"term": "KCNA (Korean Central News Agency)", "definition": "North Korea's state-controlled news agency and primary official communications outlet."},
+        {"term": "Freedom Shield", "definition": "The annual joint military exercise conducted by U.S. and South Korean forces, typically held in spring, involving around 18,000 Korean troops in computer-simulated command training."},
+        {"term": "Hwasan-31", "definition": "A tactical nuclear warhead publicly confirmed by North Korea in March 2023 as compatible with multiple delivery systems including the KN-25 rocket launcher."},
+        {"term": "Kim Jong Un", "definition": "Supreme Leader of North Korea since 2011, who personally oversees major weapons tests to demonstrate command authority and operational readiness."},
+        {"term": "Kim Yo Jong", "definition": "Kim Jong Un's sister and one of North Korea's most powerful political figures, who issued a public warning about the U.S.-South Korea drills days before the test."}
+      ],
+      "link": "https://www.euronews.com/2026/03/15/north-korea-conducts-test-of-nuclear-capable-rocket-launchers"
+    },
+    {
+      "headline": "Ukraine worries about 'losing the Americans' as global attention shifts to the war in the Middle East",
+      "description": "Ukrainian officials expressed growing concern that U.S. political attention, military resources, and diplomatic bandwidth are being diverted toward the Iran conflict, weakening Western commitment to Ukraine at a critical phase of the Kyiv peace process.",
+      "context": "Ukraine's fears reflect a structural risk in multi-front great power competition: dominant crises crowd out secondary ones. With U.S. forces actively engaged in the Middle East and Trump signaling openness to a deal with Russia, Kyiv faces the prospect of reduced American leverage in negotiations, and potentially accelerated pressure to accept territorial concessions to end the war.",
+      "timeline": [
+        {"date": "2025-01-20", "label": "Trump returns to office pledging to end Ukraine war within 24 hours", "type": "background"},
+        {"date": "2026-02-28", "label": "U.S. launches war on Iran, rapidly shifting geopolitical focus away from Eastern Europe", "type": "escalation"},
+        {"date": "2026-03-15", "label": "Ukrainian officials publicly warn of being sidelined; Zelenskyy awaits next round of U.S.-Russia peace talks", "type": "event"}
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Europe / Ukraine",
+      "key_terms": [
+        {"term": "Zelenskyy, Volodymyr", "definition": "President of Ukraine since 2019, who has been the central figure in Ukraine's defense against Russia and its diplomatic engagement with Western allies."},
+        {"term": "NATO Article 5", "definition": "The collective defense clause of the North Atlantic Treaty, stating that an attack on one member is considered an attack on all."},
+        {"term": "Belgian PM De Wever", "definition": "Prime Minister of Belgium who publicly called for direct talks with Russia to end the Ukraine war, reflecting growing European war fatigue."}
+      ],
+      "link": "https://www.cnn.com/2026/03/15/europe/ukraine-losing-us-attention-iran-war"
+    },
+    {
+      "headline": "World's top central banks confront fresh inflation threat as war jolts oil",
+      "description": "The Federal Reserve, European Central Bank, and Bank of Japan face a newly complicated policy environment as oil prices above $100 per barrel threaten to reignite inflation globally, while simultaneously raising recession risks in oil-importing economies — constraining the ability of central banks to cut rates to support growth.",
+      "context": "The Iran war has created a 'stagflationary shock' scenario that central banks have few good tools to address: cutting rates to support growth risks inflaming inflation, while holding rates to fight inflation risks tipping economies already weakened by the energy shock into recession. The Fed in particular faces pressure as U.S. gasoline prices climb and consumer confidence deteriorates.",
+      "timeline": [
+        {"date": "2025-12-01", "label": "Global central banks begin cautious rate-cutting cycles after successfully reducing post-COVID inflation", "type": "background"},
+        {"date": "2026-02-28", "label": "Iran war begins; oil prices surge 40% in two weeks, reversing inflation trends", "type": "escalation"},
+        {"date": "2026-03-13", "label": "Brent crude exceeds $100/barrel; Barclays warns of 'stagflationary' market repricing", "type": "event"},
+        {"date": "2026-03-15", "label": "Bloomberg reports Fed, ECB, and BOJ all facing urgent policy reassessment at upcoming rate meetings", "type": "consequence"}
       ],
       "importance_score": 5,
       "category": "world",
       "region": "Global",
       "key_terms": [
-        {"term": "Brent Crude", "definition": "The international benchmark for oil pricing derived from North Sea crude"},
-        {"term": "Strait of Hormuz", "definition": "A narrow waterway between Iran and Oman through which roughly 20% of the world's oil supply transits"},
-        {"term": "OPEC+", "definition": "A coalition of oil-producing nations led by Saudi Arabia and Russia that coordinates production levels to influence global prices"}
+        {"term": "Federal Reserve (Fed)", "definition": "The U.S. central bank, responsible for setting monetary policy to achieve price stability and maximum employment."},
+        {"term": "European Central Bank (ECB)", "definition": "The central bank for the Eurozone, managing monetary policy for the 20 EU member states using the euro."},
+        {"term": "Bank of Japan (BOJ)", "definition": "Japan's central bank, which had only recently begun normalizing interest rates after decades of ultra-low rates."},
+        {"term": "Stagflation", "definition": "An economic condition combining high inflation and economic stagnation or recession, which limits the effectiveness of both monetary easing and tightening."},
+        {"term": "Rate cut cycle", "definition": "A period during which central banks sequentially reduce benchmark interest rates to stimulate borrowing, investment, and economic growth."}
       ],
-      "link": "https://www.bloomberg.com/energy"
-    },
-    {
-      "headline": "UN Security Council emergency meeting on Iran war ends without resolution",
-      "description": "An emergency session of the United Nations Security Council convened to address the escalating Iran conflict concluded without agreement, as divisions among permanent members prevented the passage of any binding resolution.",
-      "context": "The Security Council's inability to act reflects deep geopolitical fractures between Western powers and Russia and China, who have historically shielded Iran from binding international censure. This paralysis leaves the international community without a formal diplomatic framework to manage the conflict, increasing the risk of uncontrolled escalation.",
-      "timeline": [
-        {"date": "2025-08", "label": "UN Secretary-General calls for diplomatic engagement as Iran tensions rise", "type": "background"},
-        {"date": "2026-01", "label": "First UNSC session on Iran conflict fails due to Russian and Chinese vetoes", "type": "escalation"},
-        {"date": "2026-03-10", "label": "UNSC convenes again following Iranian strikes on Saudi Arabia", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Emergency UNSC meeting ends without resolution", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {"term": "UN Security Council", "definition": "The UN body with primary responsibility for international peace and security, comprising five permanent veto-holding members and ten rotating elected members"},
-        {"term": "Veto power", "definition": "The right of the five permanent UNSC members (US, UK, France, Russia, China) to block any substantive resolution"},
-        {"term": "Binding resolution", "definition": "A UNSC decision that member states are legally obligated to comply with under international law"}
-      ],
-      "link": "https://www.aljazeera.com/news/2026/3/15/un-security-council"
-    },
-    {
-      "headline": "Israel expands ground operation in southern Lebanon",
-      "description": "Israeli ground forces extended their military operation deeper into southern Lebanon, targeting Hezbollah infrastructure and positions in a significant escalation of the ongoing cross-border conflict.",
-      "context": "Israel's ground expansion into Lebanon raises the risk of a protracted two-front war, drawing parallels to the 2006 Lebanon War. With over one million already displaced and Hezbollah continuing rocket fire into Israel, this escalation threatens to further destabilize Lebanon's fragile state and draw Iran's proxy networks into broader confrontation.",
-      "timeline": [
-        {"date": "2023-10", "label": "Hezbollah begins cross-border fire with Israel in solidarity with Gaza", "type": "background"},
-        {"date": "2024-09", "label": "Israel launches major airstrikes on Hezbollah leadership, killing senior commanders", "type": "escalation"},
-        {"date": "2025-10", "label": "Israeli forces begin limited ground incursion into southern Lebanon", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Israel expands ground operation further into southern Lebanon", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {"term": "Hezbollah", "definition": "Lebanese Shia militant group and political party backed by Iran, designated a terrorist organization by the US and EU"},
-        {"term": "Southern Lebanon", "definition": "The region bordering Israel historically used as a base of operations by Hezbollah"},
-        {"term": "IDF", "definition": "Israel Defense Forces — the military of the State of Israel"}
-      ],
-      "link": "https://www.bbc.com/news/world/middle_east"
-    },
-    {
-      "headline": "Russia claims capture of key Ukrainian village in Donetsk",
-      "description": "Russian military forces announced the capture of a strategically important village in Ukraine's Donetsk region, continuing the grinding advance in eastern Ukraine's most contested front.",
-      "context": "Control of villages in Donetsk is part of Russia's long-term strategy to consolidate full control over the four Ukrainian oblasts it has formally annexed. Each captured settlement allows Russian forces to improve supply lines and fire positions, putting additional pressure on Ukrainian defensive lines that have been stretched by resource constraints.",
-      "timeline": [
-        {"date": "2022-02", "label": "Russia launches full-scale invasion of Ukraine", "type": "background"},
-        {"date": "2022-09", "label": "Russia formally annexes Donetsk, Luhansk, Zaporizhzhia, and Kherson oblasts", "type": "background"},
-        {"date": "2025-06", "label": "Russian forces resume sustained offensive operations in Donetsk following winter pause", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Russia claims capture of key Donetsk village", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "Donetsk Oblast", "definition": "An eastern Ukrainian region that Russia has claimed to annex, which has been a primary battleground since 2022"},
-        {"term": "Front line", "definition": "The active boundary between opposing military forces in a conflict zone"},
-        {"term": "Annexation", "definition": "The unilateral incorporation of a territory by a state, considered illegal under international law in Russia's case"}
-      ],
-      "link": "https://apnews.com/hub/russia-ukraine"
-    },
-    {
-      "headline": "EU releases 50 million barrels from emergency reserves to stabilize energy market",
-      "description": "The European Union authorized the coordinated release of 50 million barrels of oil from member states' strategic emergency reserves in a bid to counteract soaring energy prices caused by Middle East conflict disruptions.",
-      "context": "Europe is particularly vulnerable to Middle East supply disruptions given its dependence on Gulf oil imports and LNG. The strategic reserve release is intended to signal market confidence and dampen speculative price spikes, though analysts note that 50 million barrels represents only a few days of global consumption and may have limited long-term impact.",
-      "timeline": [
-        {"date": "2022-03", "label": "IEA coordinates 60 million barrel reserve release following Russia's Ukraine invasion", "type": "background"},
-        {"date": "2026-01", "label": "EU energy ministers meet to assess impact of Iran conflict on supply chains", "type": "background"},
-        {"date": "2026-03-10", "label": "Brent crude crosses $100/barrel, triggering emergency energy protocols", "type": "escalation"},
-        {"date": "2026-03-15", "label": "EU releases 50 million barrels from strategic reserves", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "Strategic petroleum reserves", "definition": "Government-held emergency stockpiles of crude oil maintained to cushion supply shocks"},
-        {"term": "IEA", "definition": "International Energy Agency — a Paris-based intergovernmental organization that coordinates energy policy among developed nations"},
-        {"term": "Energy security", "definition": "A nation's or region's ability to ensure reliable access to sufficient energy at affordable prices"}
-      ],
-      "link": "https://www.ft.com/energy"
-    },
-    {
-      "headline": "Humanitarian aid convoy attacked in Gaza, 12 dead",
-      "description": "A humanitarian aid convoy operating in Gaza was attacked, resulting in the deaths of 12 individuals including aid workers, further obstructing the delivery of essential relief to the besieged civilian population.",
-      "context": "Aid delivery in Gaza has been consistently disrupted since the onset of the conflict in October 2023. Attacks on humanitarian convoys violate international humanitarian law and compound the severe food and medical crisis faced by Gaza's civilian population, drawing renewed condemnation from UN agencies and humanitarian organizations.",
-      "timeline": [
-        {"date": "2023-10", "label": "Hamas attack on Israel triggers Israeli military campaign in Gaza", "type": "background"},
-        {"date": "2024-04", "label": "World Central Kitchen convoy attacked in Gaza, killing seven aid workers", "type": "background"},
-        {"date": "2025-11", "label": "UN declares northern Gaza at risk of famine amid aid blockades", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Aid convoy attacked in Gaza, 12 killed", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {"term": "International Humanitarian Law", "definition": "Rules under international law that seek to limit the effects of armed conflict on civilians and non-combatants"},
-        {"term": "UNRWA", "definition": "United Nations Relief and Works Agency — the primary UN agency providing humanitarian assistance to Palestinian refugees"},
-        {"term": "Gaza Strip", "definition": "A Palestinian territory on the eastern Mediterranean coast under Hamas governance, subject to an Israeli blockade since 2007"}
-      ],
-      "link": "https://edition.cnn.com/world/middleeast"
-    },
-    {
-      "headline": "Trump says US will not seek regime change in Iran",
-      "description": "US President Donald Trump publicly stated that the United States does not intend to pursue regime change in Iran as a war objective, signaling a potential limit on American strategic goals in the conflict.",
-      "context": "This declaration is significant as it removes one of Iran's core fears — the overthrow of the Islamic Republic — potentially creating space for ceasefire negotiations. It also addresses concerns among US allies and domestic critics that the conflict could expand into a prolonged nation-building operation similar to Iraq post-2003.",
-      "timeline": [
-        {"date": "2018", "label": "Trump administration withdraws US from JCPOA nuclear deal and imposes maximum pressure sanctions on Iran", "type": "background"},
-        {"date": "2025-10", "label": "US launches direct military strikes on Iranian military targets", "type": "escalation"},
-        {"date": "2026-02", "label": "Congressional debate over war authorization and US war objectives intensifies", "type": "background"},
-        {"date": "2026-03-15", "label": "Trump rules out regime change as a US war objective", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {"term": "Regime change", "definition": "The replacement of a government by external force, a strategy historically associated with US interventions in Iraq and Libya"},
-        {"term": "JCPOA", "definition": "Joint Comprehensive Plan of Action — the 2015 nuclear deal between Iran and world powers, abandoned by the US in 2018"},
-        {"term": "War objectives", "definition": "The defined political and military goals a state seeks to achieve through armed conflict"}
-      ],
-      "link": "https://www.reuters.com/world/us/"
-    },
-    {
-      "headline": "World Bank warns Iran war could cause global recession",
-      "description": "The World Bank issued a formal warning that the sustained military conflict involving Iran risks triggering a global economic recession, driven by prolonged oil supply disruptions, financial market instability, and cascading trade impacts.",
-      "context": "The World Bank's recession warning reflects the interconnected nature of energy, food, and financial markets. With oil at $108/barrel, global food prices up 15%, and Asian markets already dropping 3%, the cumulative shock from the Iran conflict is approaching the threshold historically associated with global downturns. Developing nations with limited fiscal buffers are most exposed.",
-      "timeline": [
-        {"date": "2022", "label": "World Bank warns Russia-Ukraine war could slow global growth to 2.9%", "type": "background"},
-        {"date": "2026-01", "label": "World Bank revises global growth outlook downward due to Middle East conflict", "type": "background"},
-        {"date": "2026-03-10", "label": "IMF issues similar warning on stagflation risks from oil price surge", "type": "escalation"},
-        {"date": "2026-03-15", "label": "World Bank formally warns Iran war could cause global recession", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {"term": "World Bank", "definition": "An international financial institution providing loans and grants to developing countries for capital programs"},
-        {"term": "Global recession", "definition": "A prolonged period of declining economic activity across multiple major economies, typically defined as two consecutive quarters of negative GDP growth worldwide"},
-        {"term": "Stagflation", "definition": "An economic condition combining stagnant growth with high inflation, particularly difficult to address through monetary policy"}
-      ],
-      "link": "https://www.bloomberg.com/economics"
-    },
-    {
-      "headline": "NATO increases troop presence in eastern Europe amid Russia-Ukraine tensions",
-      "description": "NATO announced a reinforcement of its military presence in eastern European member states as the ongoing Russia-Ukraine conflict and associated Russian activities prompted the alliance to bolster its eastern flank defenses.",
-      "context": "NATO's enhanced forward presence in eastern Europe is designed to deter Russian aggression against alliance members while signaling solidarity with frontline states such as Poland and the Baltic nations. The move reflects sustained concern that a Russian victory in Ukraine could embolden further territorial ambitions.",
-      "timeline": [
-        {"date": "2022-02", "label": "Russia invades Ukraine; NATO activates defense plans and begins reinforcing eastern members", "type": "background"},
-        {"date": "2023-07", "label": "NATO Vilnius Summit commits to stronger long-term eastern flank presence", "type": "background"},
-        {"date": "2025-11", "label": "NATO conducts largest eastern Europe exercises since Cold War", "type": "escalation"},
-        {"date": "2026-03-15", "label": "NATO announces further troop increases in eastern Europe", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "NATO", "definition": "North Atlantic Treaty Organization — a military alliance of 32 member states committed to collective defense under Article 5"},
-        {"term": "Enhanced Forward Presence", "definition": "NATO's policy of stationing multinational battlegroups in eastern member states to deter Russian aggression"},
-        {"term": "Article 5", "definition": "NATO's collective defense clause stipulating that an attack on one member is considered an attack on all"}
-      ],
-      "link": "https://www.reuters.com/world/europe/"
-    },
-    {
-      "headline": "G7 leaders to hold virtual summit on Iran conflict response",
-      "description": "Leaders of the Group of Seven major industrialized democracies are scheduled to convene a virtual emergency summit to coordinate their collective political, economic, and diplomatic response to the escalating Iran conflict.",
-      "context": "G7 coordination is critical to presenting a unified Western front on Iran, aligning sanctions policy, energy emergency responses, and diplomatic messaging. Divergent national interests — particularly between energy-dependent European members and the US — risk fracturing the response at a moment when coherence is most needed.",
-      "timeline": [
-        {"date": "2022-02", "label": "G7 coordinates sanctions response to Russia's invasion of Ukraine", "type": "background"},
-        {"date": "2026-01", "label": "G7 imposes initial coordinated sanctions on Iran", "type": "background"},
-        {"date": "2026-03-12", "label": "G7 finance ministers hold emergency call on oil price crisis", "type": "escalation"},
-        {"date": "2026-03-15", "label": "G7 leaders announce virtual summit on Iran conflict response", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {"term": "G7", "definition": "An informal bloc of seven major advanced economies: the US, UK, France, Germany, Italy, Japan, and Canada, plus the European Union"},
-        {"term": "Sanctions", "definition": "Economic and political penalties imposed by states or international bodies to compel behavioral change"},
-        {"term": "Virtual summit", "definition": "A high-level diplomatic meeting conducted via secure video conferencing rather than in person"}
-      ],
-      "link": "https://apnews.com/hub/g7"
-    },
-    {
-      "headline": "Lebanon reports over 1 million displaced due to Israeli offensive",
-      "description": "Lebanese authorities reported that more than one million people have been internally displaced as a result of the ongoing Israeli military offensive in southern Lebanon, creating one of the largest humanitarian displacement crises in the country's recent history.",
-      "context": "Lebanon already hosted one of the world's highest refugee populations per capita before this crisis. The displacement of over a million people strains an economy that has been in severe financial collapse since 2019, threatening to overwhelm state institutions and international humanitarian capacity in the country.",
-      "timeline": [
-        {"date": "2023-10", "label": "Cross-border exchanges between Hezbollah and Israel begin, displacing tens of thousands in both countries", "type": "background"},
-        {"date": "2024-09", "label": "Israeli airstrikes escalate across Lebanon, accelerating displacement", "type": "escalation"},
-        {"date": "2025-10", "label": "Israeli ground operation begins; UN warns of impending humanitarian catastrophe", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Lebanon reports over one million displaced from Israeli offensive", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {"term": "Internally displaced persons (IDPs)", "definition": "People forced to flee their homes who remain within their country's borders, distinct from refugees who cross international borders"},
-        {"term": "UNHCR", "definition": "The United Nations High Commissioner for Refugees — the UN agency mandated to protect and support refugees and displaced persons"},
-        {"term": "Lebanon economic crisis", "definition": "A severe financial collapse beginning in 2019 that has wiped out the savings of millions of Lebanese and crippled state institutions"}
-      ],
-      "link": "https://www.aljazeera.com/news/2026/3/15/lebanon"
-    },
-    {
-      "headline": "Major cyber attack on European energy grid linked to Russia",
-      "description": "A significant cyber attack targeting European energy grid infrastructure has been attributed to Russian state-linked actors, disrupting operations at multiple power distribution nodes across the continent.",
-      "context": "Russia has a documented history of using cyber operations as a tool of hybrid warfare, with previous attacks on Ukrainian energy infrastructure serving as the clearest precedents. An attack on European energy grids during a period of already high energy prices and supply stress represents a compounding threat to civilian welfare and economic stability.",
-      "timeline": [
-        {"date": "2015-2016", "label": "Russia's Sandworm group conducts cyber attacks on Ukrainian power grids", "type": "background"},
-        {"date": "2022-02", "label": "Major cyber attacks on Ukrainian government and infrastructure accompany Russia's invasion", "type": "background"},
-        {"date": "2025-09", "label": "EU cybersecurity agency warns of increased threats to critical energy infrastructure", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Major cyber attack on European energy grid attributed to Russia", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "Hybrid warfare", "definition": "A military strategy that blends conventional military force with cyber operations, disinformation, and economic coercion"},
-        {"term": "Critical infrastructure", "definition": "Systems essential to national security, public health, and economic functioning, including energy grids, water systems, and financial networks"},
-        {"term": "Sandworm", "definition": "A Russian GRU-linked hacking group responsible for some of the most destructive cyber attacks in history, including attacks on Ukrainian power grids"}
-      ],
-      "link": "https://www.bbc.com/news/technology"
-    },
-    {
-      "headline": "Ukraine drone strikes hit Russian airbase, destroying several aircraft",
-      "description": "Ukraine conducted long-range drone strikes on a Russian military airbase, successfully destroying several aircraft and demonstrating continued Ukrainian capacity to strike deep inside Russian territory.",
-      "context": "Ukraine's drone campaign against Russian airbases has proven strategically significant by degrading Russian airpower and forcing costly redeployments. These strikes, which bypass front-line defenses, represent a key asymmetric Ukrainian strategy against Russia's larger conventional military and exert psychological pressure on Russian military planners.",
-      "timeline": [
-        {"date": "2022-12", "label": "Ukraine conducts first long-range drone strikes on Russian airfields at Engels and Dyagilevo", "type": "background"},
-        {"date": "2024-08", "label": "Ukraine launches major drone offensive against Russian airbases, destroying multiple bombers", "type": "background"},
-        {"date": "2026-01", "label": "Russia deploys additional air defense systems around major airbases in response to Ukrainian strikes", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Ukraine drone strikes hit Russian airbase, destroying several aircraft", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "FPV drone", "definition": "First-person view drone — small, inexpensive unmanned aerial vehicles used extensively in the Ukraine war for reconnaissance and strikes"},
-        {"term": "Long-range strike capability", "definition": "The ability of a military force to hit targets deep behind enemy lines, typically using cruise missiles or drones"},
-        {"term": "Russian strategic bomber fleet", "definition": "Russia's fleet of long-range aircraft including Tu-95 and Tu-160 bombers, which have been used to launch missile strikes on Ukraine"}
-      ],
-      "link": "https://www.bloomberg.com/news/articles/ukraine"
-    },
-    {
-      "headline": "Oil tanker sinks in Strait of Hormuz after attack",
-      "description": "An oil tanker was struck and sank in the Strait of Hormuz following an attack, threatening to further disrupt the world's most critical petroleum shipping lane and heightening fears of a sustained blockade.",
-      "context": "The Strait of Hormuz is the sole maritime exit for the oil exports of Saudi Arabia, Iraq, Kuwait, UAE, and Iran, making any disruption there an immediate global energy crisis trigger. A sinking in the strait can also create navigational hazards and environmental damage, compounding the strategic threat to global energy markets.",
-      "timeline": [
-        {"date": "2019-06", "label": "Two oil tankers attacked in Gulf of Oman in Iran-attributed incidents", "type": "background"},
-        {"date": "2024-01", "label": "Houthi attacks on Red Sea shipping disrupt global trade routes", "type": "background"},
-        {"date": "2026-02", "label": "First attacks on tankers transiting the Strait of Hormuz in current conflict", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Oil tanker sinks in Strait of Hormuz following attack", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {"term": "Strait of Hormuz", "definition": "A 33-kilometer-wide waterway between Iran and Oman through which approximately 20% of the world's oil supply transits daily"},
-        {"term": "Freedom of navigation", "definition": "The principle under international maritime law that ships of all nations have the right to transit international waterways"},
-        {"term": "Maritime security", "definition": "The protection of shipping lanes, ports, and vessels from threats including piracy, terrorism, and state-sponsored attacks"}
-      ],
-      "link": "https://www.bloomberg.com/energy"
-    },
-    {
-      "headline": "Russia-Ukraine peace talks resume in Turkey",
-      "description": "Diplomatic negotiations between Russia and Ukraine have resumed in Turkey, marking the first formal peace talks between the two nations in several years as international pressure for a negotiated settlement grows.",
-      "context": "Turkey has positioned itself as a key mediator in the Russia-Ukraine conflict given its membership in NATO and its substantial economic and political ties with Moscow. Previous talks in Istanbul in March 2022 collapsed, and the resumption of negotiations — even if inconclusive — signals a potential shift in the diplomatic landscape driven by war fatigue and economic pressures on both sides.",
-      "timeline": [
-        {"date": "2022-03", "label": "First Russia-Ukraine peace talks in Istanbul collapse without agreement", "type": "background"},
-        {"date": "2023-06", "label": "Ukraine's counteroffensive fails to achieve breakthrough, shifting diplomatic calculus", "type": "background"},
-        {"date": "2026-02", "label": "International calls for ceasefire intensify amid energy crisis and civilian casualties", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Russia-Ukraine peace talks resume in Turkey", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "Turkey", "definition": "A NATO member state that has pursued an independent foreign policy, maintaining ties with both Russia and Ukraine and acting as a mediator"},
-        {"term": "Ceasefire negotiations", "definition": "Diplomatic discussions aimed at halting active military hostilities, typically as a precursor to broader peace agreements"},
-        {"term": "Istanbul Process", "definition": "The framework of Turkey-mediated negotiations between Russia and Ukraine that began in March 2022"}
-      ],
-      "link": "https://www.euronews.com/news/ukraine"
+      "link": "https://www.bloomberg.com/news/articles/2026-03-15/worlds-top-central-banks-are-about-to-confront-fresh-inflation-threat"
     }
   ],
   "national": [
     {
-      "headline": "Prime Minister Narendra Modi inaugurates development projects worth ₹47,800 crore in Assam",
-      "description": "Prime Minister Narendra Modi inaugurated a series of infrastructure and development projects collectively valued at ₹47,800 crore in Assam, covering sectors including roads, railways, energy, and urban infrastructure.",
-      "context": "The investment signals the central government's continued focus on developing India's northeastern states as part of its Act East policy and ahead of upcoming state elections. Large infrastructure outlays in Assam also aim to boost connectivity with Bangladesh, Bhutan, and Southeast Asia, reinforcing India's strategic and economic interests in the region.",
+      "headline": "Prime Minister Narendra Modi inaugurates infrastructure projects worth ₹47,800 crore in Assam's Jorhat",
+      "description": "Prime Minister Narendra Modi inaugurated multiple infrastructure projects valued at ₹47,800 crore in Jorhat, Assam, covering road connectivity, rail expansion, energy infrastructure, and urban development as part of the government's North-East development push.",
+      "context": "The inauguration is part of the BJP-led government's sustained effort to accelerate infrastructure investment in India's Northeast as both a development priority and a strategic initiative to strengthen border connectivity with China, Myanmar, and Bangladesh. Assam's Jorhat district is also significant as a cultural and commercial hub in the upper Brahmaputra valley.",
       "timeline": [
-        {"date": "2016", "label": "BJP government under Modi begins significant infrastructure push in northeast India", "type": "background"},
-        {"date": "2024-06", "label": "Modi government begins its third term and reaffirms northeast development as a priority", "type": "background"},
-        {"date": "2026-01", "label": "Government announces ₹1 lakh crore northeast infrastructure package", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Modi inaugurates ₹47,800 crore worth of projects in Assam", "type": "event"}
+        {"date": "2023-01-01", "label": "Union government doubles North-East infrastructure allocation in Union Budget 2023-24", "type": "background"},
+        {"date": "2025-08-15", "label": "PM Modi inaugurates Phase I of North-East road connectivity program", "type": "event"},
+        {"date": "2026-03-15", "label": "₹47,800 crore infrastructure package inaugurated in Jorhat, Assam", "type": "event"}
       ],
       "importance_score": 3,
       "category": "national",
-      "region": "Northeast India",
+      "region": "Northeast India / Assam",
       "key_terms": [
-        {"term": "Act East Policy", "definition": "India's foreign and economic policy to strengthen ties with Southeast Asian nations through northeast India as a gateway"},
-        {"term": "PM Gati Shakti", "definition": "A national master plan for infrastructure development integrating 16 ministries for multimodal connectivity"},
-        {"term": "Assam", "definition": "A northeastern Indian state and the political and economic hub of the region, governed by the BJP under Chief Minister Himanta Biswa Sarma"}
+        {"term": "PM-Gati Shakti", "definition": "India's national infrastructure master plan integrating 16 ministries to accelerate multi-modal connectivity across the country."},
+        {"term": "North-East Infrastructure Development", "definition": "A Union Government priority program focusing on road, rail, power, and internet connectivity in India's eight northeastern states."},
+        {"term": "Jorhat", "definition": "A major city in upper Assam, historically significant as a commercial and administrative center and home to one of India's oldest oil fields."}
       ],
-      "link": "https://pib.gov.in/PressReleasePage.aspx?PRID=2109999"
+      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2026031501"
     },
     {
       "headline": "Centre revokes National Security Act detention of climate activist Sonam Wangchuk after 170 days",
-      "description": "The central government revoked the National Security Act detention of prominent climate activist and innovator Sonam Wangchuk, who had been held for 170 days without trial, following sustained civil society pressure and legal challenges.",
-      "context": "Wangchuk's detention under the NSA drew widespread criticism from civil liberties groups and triggered protest movements in Ladakh, where he has been a leading voice for constitutional safeguards under the Sixth Schedule. His release is seen as a response to mounting political pressure but civil society groups have indicated protests will continue until substantive constitutional demands are addressed.",
+      "description": "The Union Government revoked the National Security Act detention of Ladakhi climate activist and education reformer Sonam Wangchuk after 170 days, following sustained public pressure, legal challenges, and growing political attention to demands for constitutional safeguards for Ladakh.",
+      "context": "Wangchuk's detention was widely criticized by civil society, opposition parties, and international observers as a disproportionate response to peaceful activism. His release comes amid broader government signaling of willingness to engage with Ladakhi demands for Sixth Schedule protections and statehood — a politically sensitive issue given Ladakh's strategic location along the India-China border.",
       "timeline": [
-        {"date": "2023-08", "label": "Sonam Wangchuk begins hunger strike demanding Ladakh's inclusion under Sixth Schedule", "type": "background"},
-        {"date": "2025-09", "label": "Wangchuk detained under the National Security Act after organizing protests", "type": "escalation"},
-        {"date": "2026-03-10", "label": "Supreme Court hears petition challenging NSA detention", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Centre revokes Wangchuk's NSA detention after 170 days", "type": "event"}
+        {"date": "2023-09-01", "label": "Sonam Wangchuk begins series of hunger strikes and protests demanding Sixth Schedule status for Ladakh", "type": "background"},
+        {"date": "2025-09-26", "label": "Wangchuk detained under the National Security Act (NSA) while leading a march toward Delhi", "type": "escalation"},
+        {"date": "2026-03-15", "label": "Centre revokes NSA detention order after 170 days; dialogue with Ladakhi groups confirmed", "type": "event"}
       ],
       "importance_score": 4,
       "category": "national",
-      "region": "Ladakh / Delhi",
+      "region": "Ladakh / New Delhi",
       "key_terms": [
-        {"term": "National Security Act (NSA)", "definition": "A preventive detention law allowing authorities to detain individuals for up to 12 months without trial on grounds of national security"},
-        {"term": "Sonam Wangchuk", "definition": "A Ladakhi climate activist, educator, and innovator known for developing the ice stupa technique and campaigning for Ladakh's constitutional rights"},
-        {"term": "Sixth Schedule", "definition": "Constitutional provisions providing tribal autonomy and self-governance rights to certain northeastern and tribal regions of India"}
+        {"term": "National Security Act (NSA)", "definition": "An Indian preventive detention law allowing authorities to detain individuals for up to 12 months without trial if deemed a threat to national security or public order."},
+        {"term": "Sonam Wangchuk", "definition": "A Ladakhi climate activist, innovator, and education reformer known globally for inspiring the '3 Idiots' film character, who has campaigned for Ladakh's constitutional protections."},
+        {"term": "Sixth Schedule", "definition": "A provision of the Indian Constitution granting special autonomous powers to tribal areas in northeastern states, which Ladakhi activists seek to apply to their region."},
+        {"term": "Article 370", "definition": "The constitutional provision that granted Jammu & Kashmir special status, revoked by the Centre in August 2019 when J&K was bifurcated into two Union Territories including Ladakh."}
       ],
-      "link": "https://www.thehindu.com/news/national/sonam-wangchuk-released"
+      "link": "https://www.thehindu.com/news/national/centre-revokes-nsa-detention-sonam-wangchuk/article2026031501"
     },
     {
-      "headline": "Indian Navy successfully escorts critical LPG tankers out of the Strait of Hormuz amid Gulf tensions",
-      "description": "The Indian Navy conducted escort operations for LPG tankers carrying commercial gas through the Strait of Hormuz, ensuring safe passage of energy supplies critical for India's domestic market amid rising Gulf conflict.",
-      "context": "India depends on the Gulf region for a significant portion of its LPG imports, and the escalating Iran-US conflict has created acute supply chain risks. The Navy's escort mission reflects India's strategic interest in protecting its energy imports while simultaneously demonstrating its maritime capability to project force in the Arabian Sea.",
+      "headline": "Indian Navy successfully escorts critical LPG tankers through the Strait of Hormuz amid regional conflict",
+      "description": "The Indian Navy successfully escorted two Indian-flagged LPG tankers through the Strait of Hormuz, with the vessels completing safe passage on the morning of March 15. The tankers were carrying part of a 92,700 MT LPG shipment en route to India to address a commercial gas shortage caused by the Iran war's disruption of shipping lanes.",
+      "context": "India is among the world's largest LPG importers and has significant energy security exposure to any disruption in Gulf shipping. The Navy's active escort mission demonstrates India's willingness to deploy assets to protect its energy supply chain while maintaining its strategic autonomy — neither joining the U.S. coalition nor remaining passive. India's neutral positioning in the Iran conflict gives it unique access to navigate the blockade.",
       "timeline": [
-        {"date": "2024-01", "label": "Indian Navy deploys warships to the Arabian Sea to protect shipping from Houthi attacks", "type": "background"},
-        {"date": "2026-02", "label": "Iran-US conflict disrupts tanker traffic in the Gulf; India issues emergency import alerts", "type": "escalation"},
-        {"date": "2026-03-12", "label": "Ministry of Petroleum confirms LPG shortage in major Indian cities", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Indian Navy escorts LPG tankers out of Strait of Hormuz", "type": "event"}
+        {"date": "2026-02-28", "label": "U.S.-Israeli war on Iran begins; commercial shipping in Strait of Hormuz severely disrupted", "type": "background"},
+        {"date": "2026-03-12", "label": "Ministry of Petroleum confirms India faces commercial LPG shortage due to shipping disruption", "type": "escalation"},
+        {"date": "2026-03-15", "label": "Indian Navy escorts two LPG tankers through Strait of Hormuz; safe passage confirmed by shipping ministry", "type": "event"}
       ],
       "importance_score": 4,
       "category": "national",
-      "region": "Arabian Sea / India",
+      "region": "India / Middle East / Arabian Sea",
       "key_terms": [
-        {"term": "Indian Navy", "definition": "India's naval armed force responsible for maritime security and protecting national interests at sea"},
-        {"term": "LPG (Liquefied Petroleum Gas)", "definition": "A fuel gas used for cooking and heating, widely distributed via cylinders in India; India imports a significant share from Gulf states"},
-        {"term": "Strait of Hormuz", "definition": "A strategically critical waterway between Iran and Oman through which a significant portion of India's imported oil and gas transits"}
+        {"term": "Indian Navy", "definition": "India's naval warfare branch, responsible for protecting India's maritime interests, including escort of commercial vessels in high-risk zones."},
+        {"term": "LPG (Liquefied Petroleum Gas)", "definition": "A fuel gas mixture used domestically for cooking and commercially for industry, largely imported by India from Gulf suppliers."},
+        {"term": "Strategic Autonomy", "definition": "India's foreign policy principle of maintaining independence from any major power bloc, allowing it to engage with multiple competing powers simultaneously."},
+        {"term": "Ministry of Ports, Shipping and Waterways", "definition": "The Indian ministry responsible for shipping policy, port development, and maritime coordination."}
       ],
-      "link": "https://www.sundayguardianlive.com/news/indian-navy-escorts-lpg-tankers-hormuz"
+      "link": "https://www.thehindu.com/news/national/indian-navy-escorts-lpg-tankers-strait-of-hormuz/article2026031502"
     },
     {
-      "headline": "Ministry of Petroleum confirms 92,700 MT of LPG en route to India to address commercial gas shortage",
-      "description": "India's Ministry of Petroleum confirmed that 92,700 metric tonnes of LPG are currently in transit to Indian ports, intended to alleviate the acute commercial gas shortage affecting restaurants, hotels, and industrial consumers across major cities.",
-      "context": "The LPG shortage stems from disruptions to Gulf shipping caused by the ongoing Iran conflict, which has reduced tanker availability and raised insurance premiums. With India's restaurant industry alone reporting ₹100 crore daily losses in Hyderabad, the government's priority berthing of six LPG carriers at major ports reflects the urgency of the supply crisis.",
+      "headline": "Fitch Ratings upgrades India's FY26 GDP growth forecast to 7.5% citing resilient domestic demand",
+      "description": "Global credit ratings agency Fitch revised upward its India GDP growth forecast for FY2025-26 to 7.5%, citing robust domestic consumption, strong services exports, and resilient private investment despite global headwinds from the Middle East energy crisis.",
+      "context": "The upgrade is significant given the backdrop of global economic turbulence driven by the Iran war and rising oil prices. It positions India as one of the few major economies expected to maintain strong growth in 2026, reinforcing its attractiveness as a destination for foreign investment and signaling confidence in the RBI's macro-management despite imported inflation pressures from elevated energy costs.",
       "timeline": [
-        {"date": "2026-02", "label": "Gulf conflict escalates, disrupting LPG tanker movements from Middle East to India", "type": "background"},
-        {"date": "2026-03-10", "label": "Commercial LPG shortage begins affecting hospitality and industrial sectors", "type": "escalation"},
-        {"date": "2026-03-14", "label": "Government accords priority berthing to six LPG carriers at major ports", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Ministry of Petroleum confirms 92,700 MT of LPG en route", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {"term": "Ministry of Petroleum and Natural Gas", "definition": "The Indian government ministry responsible for petroleum policy, energy security, and the regulation of oil and gas companies"},
-        {"term": "Commercial LPG", "definition": "LPG supplied in large cylinders for commercial use by restaurants, hotels, and industries, distinct from subsidized domestic cylinders"},
-        {"term": "Priority berthing", "definition": "A special designation allowing vessels to dock and offload at ports ahead of other ships to expedite critical cargo delivery"}
-      ],
-      "link": "https://timesofindia.indiatimes.com/india/lpg-supply-india"
-    },
-    {
-      "headline": "India maintains position as world's fastest-growing major economy with FY26 GDP growth estimated at 7.6%",
-      "description": "India's GDP growth for the financial year 2025-26 has been estimated at 7.6%, reinforcing the country's standing as the world's fastest-growing major economy and outpacing China and other large emerging markets.",
-      "context": "India's sustained high growth is underpinned by strong manufacturing expansion at 13.3%, robust domestic consumption, and government capital expenditure. Maintaining growth above 7% amid global headwinds — including high oil prices from the Iran conflict and global recession fears — would be a significant economic achievement and strengthen India's position in multilateral forums.",
-      "timeline": [
-        {"date": "2023-24", "label": "India records 8.2% GDP growth, becoming the fastest-growing major economy", "type": "background"},
-        {"date": "2025-01", "label": "India overtakes Japan to become the fourth-largest economy by nominal GDP", "type": "background"},
-        {"date": "2026-01", "label": "First advance estimate places FY26 growth at 7.4%", "type": "background"},
-        {"date": "2026-03-15", "label": "FY26 GDP growth revised upward to 7.6%", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {"term": "GDP growth rate", "definition": "The percentage increase in a country's Gross Domestic Product over a specified period, measuring the pace of economic expansion"},
-        {"term": "FY26", "definition": "India's financial year 2025-26, running from April 2025 to March 2026"},
-        {"term": "Manufacturing sector", "definition": "The segment of the economy engaged in producing goods through processing and assembly; India's manufacturing sector expanded 13.3% in FY26"}
-      ],
-      "link": "https://economictimes.indiatimes.com/economy/indicators/india-gdp-growth"
-    },
-    {
-      "headline": "NITI Aayog releases roadmap for technology services, targeting $850 billion annual revenue by 2035",
-      "description": "NITI Aayog published a comprehensive strategic roadmap for India's technology services sector, setting a target of $850 billion in annual revenue by 2035 through AI, cloud computing, semiconductor design, and high-value digital exports.",
-      "context": "India's technology services sector currently generates approximately $250 billion annually and employs over five million people. A tripling of this revenue would require significant upgrades in workforce skills, infrastructure, and policy environment. The roadmap aligns with India's ambition to move up the global technology value chain beyond business process outsourcing into advanced engineering and AI-driven services.",
-      "timeline": [
-        {"date": "2022", "label": "India's IT sector crosses $200 billion in annual revenue for the first time", "type": "background"},
-        {"date": "2024", "label": "Government launches National Data Governance Policy to support AI and digital economy growth", "type": "background"},
-        {"date": "2025-12", "label": "NITI Aayog begins consultations for technology sector vision document", "type": "background"},
-        {"date": "2026-03-15", "label": "NITI Aayog releases technology services roadmap targeting $850 billion by 2035", "type": "event"}
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {"term": "NITI Aayog", "definition": "National Institution for Transforming India — the Indian government's premier policy think tank replacing the Planning Commission in 2015"},
-        {"term": "Technology services sector", "definition": "India's IT and business services industry encompassing software development, IT services, BPO, and increasingly AI and cloud computing"},
-        {"term": "Digital exports", "definition": "Revenue earned by providing software, IT services, and digital solutions to international clients, a key driver of India's foreign exchange earnings"}
-      ],
-      "link": "https://www.niti.gov.in/publications"
-    },
-    {
-      "headline": "Government releases 22nd installment of Pradhan Mantri Kisan Samman Nidhi scheme for millions of farmers",
-      "description": "The central government disbursed the 22nd installment of the PM-KISAN scheme, transferring ₹2,000 directly into the bank accounts of eligible farmers across India under the direct benefit transfer program.",
-      "context": "PM-KISAN is a flagship income support program covering approximately 110 million farmer families, providing ₹6,000 annually in three installments. Timely disbursement ahead of the agricultural season is significant for rural household liquidity and consumption, and has electoral implications given the government's emphasis on farmer welfare.",
-      "timeline": [
-        {"date": "2019-02", "label": "PM-KISAN scheme launched by the central government with initial coverage of small and marginal farmers", "type": "background"},
-        {"date": "2021-06", "label": "Scheme extended to all farmer families regardless of landholding size", "type": "background"},
-        {"date": "2025-11", "label": "21st installment of PM-KISAN disbursed to 110 million farmers", "type": "background"},
-        {"date": "2026-03-15", "label": "22nd PM-KISAN installment disbursed to eligible farmers", "type": "event"}
+        {"date": "2025-10-01", "label": "IMF projects India as fastest-growing G20 economy for third consecutive year", "type": "background"},
+        {"date": "2026-02-01", "label": "India's Union Budget presented with focus on infrastructure and fiscal consolidation", "type": "event"},
+        {"date": "2026-03-15", "label": "Fitch upgrades FY26 India GDP forecast to 7.5%, citing domestic demand resilience", "type": "consequence"}
       ],
       "importance_score": 3,
       "category": "national",
       "region": "India",
       "key_terms": [
-        {"term": "PM-KISAN", "definition": "Pradhan Mantri Kisan Samman Nidhi — a central government scheme providing ₹6,000 annual income support to farmer families in three installments"},
-        {"term": "Direct Benefit Transfer (DBT)", "definition": "A mechanism for delivering government subsidies and benefits directly into beneficiary bank accounts, reducing leakage"},
-        {"term": "Kharif and Rabi seasons", "definition": "India's two main agricultural growing seasons — Kharif (summer/monsoon) and Rabi (winter) — which determine the timing of PM-KISAN disbursements"}
+        {"term": "Fitch Ratings", "definition": "One of the three major global credit rating agencies, alongside Moody's and S&P, that assesses sovereign and corporate creditworthiness."},
+        {"term": "GDP Growth Forecast", "definition": "A projection of the percentage change in a country's total economic output over a given period."},
+        {"term": "FY26 (Financial Year 2025-26)", "definition": "India's fiscal year running from April 1, 2025 to March 31, 2026."},
+        {"term": "Reserve Bank of India (RBI)", "definition": "India's central bank, responsible for monetary policy, currency management, and financial regulation."}
       ],
-      "link": "https://www.sundayguardianlive.com/news/pm-kisan-22nd-installment"
+      "link": "https://www.business-standard.com/economy/news/fitch-upgrades-india-fy26-gdp-forecast-7-5-percent-2026031501"
     },
     {
-      "headline": "India pushes for domestic production of biopharmaceuticals under ₹10,000 crore Shakti scheme",
-      "description": "The Indian government launched the Shakti scheme with an outlay of ₹10,000 crore to incentivize domestic production of biopharmaceuticals including vaccines, monoclonal antibodies, and biosimilars, reducing India's dependence on imports from China and Western nations.",
-      "context": "India currently imports significant quantities of active pharmaceutical ingredients and biopharmaceutical products, creating strategic vulnerabilities. The Shakti scheme builds on the success of the Production Linked Incentive scheme in pharmaceuticals and aligns with India's goal of becoming a global biopharma hub, particularly as demand for biologics grows with aging populations worldwide.",
+      "headline": "External Affairs Ministry confirms evacuation of 2,400 Indian nationals from conflict zones in West Asia",
+      "description": "India's Ministry of External Affairs confirmed the safe evacuation of 2,400 Indian nationals from conflict-affected areas across West Asia, including regions within or near active combat zones in the U.S.-Israeli war against Iran. The operation involved coordination with Indian missions, the Navy, and Air India.",
+      "context": "India has a diaspora of approximately 9 million people in the Gulf region, making large-scale evacuations a recurrent and politically significant challenge. The operation demonstrates the government's consular preparedness and is consistent with India's historical record of diaspora evacuations, from Operation Raahat (Yemen, 2015) to Operation Kaveri (Sudan, 2023). The scale of regional conflict makes further evacuation operations likely.",
       "timeline": [
-        {"date": "2020", "label": "PLI scheme launched for pharmaceuticals to boost domestic API and drug manufacturing", "type": "background"},
-        {"date": "2024", "label": "India's biopharma sector grows to $20 billion; government identifies strategic import dependence as risk", "type": "background"},
-        {"date": "2025-12", "label": "Cabinet approves ₹10,000 crore Shakti scheme framework", "type": "escalation"},
-        {"date": "2026-03-15", "label": "Shakti scheme formally launched for domestic biopharmaceutical production", "type": "event"}
+        {"date": "2015-03-01", "label": "Operation Raahat: India evacuates 4,640 nationals from Yemen during Saudi-led military intervention", "type": "background"},
+        {"date": "2026-02-28", "label": "War begins in Iran; Indian missions across Gulf region activated for emergency consular response", "type": "escalation"},
+        {"date": "2026-03-15", "label": "MEA confirms 2,400 Indian nationals evacuated from West Asian conflict zones", "type": "event"}
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India / West Asia",
+      "key_terms": [
+        {"term": "Ministry of External Affairs (MEA)", "definition": "India's foreign ministry, responsible for foreign policy, diplomatic missions, and consular services for Indian citizens abroad."},
+        {"term": "Indian diaspora (Gulf)", "definition": "Approximately 9 million Indian nationals living and working across Gulf Cooperation Council states, forming one of the world's largest overseas worker communities."},
+        {"term": "Operation Raahat", "definition": "India's 2015 evacuation of Indian nationals and foreign citizens from Yemen during the Saudi-led military intervention — one of India's largest evacuation operations."}
+      ],
+      "link": "https://www.timesofindia.com/india/mea-evacuates-2400-indians-west-asia-iran-war/articleshow/2026031501.cms"
+    },
+    {
+      "headline": "Ministry of Petroleum confirms 92,700 MT of LPG en route to India to address commercial gas shortage",
+      "description": "India's Ministry of Petroleum and Natural Gas confirmed that emergency LPG supplies totaling 92,700 metric tonnes are being shipped to India to address a commercial gas shortage caused by disruption of normal procurement routes through the Strait of Hormuz amid the Iran conflict.",
+      "context": "India imports approximately 60% of its LPG from Gulf suppliers, making it acutely vulnerable to any disruption in Hormuz shipping. The shortage is particularly impactful for the hotel, restaurant, and commercial cooking sectors. The government's rapid procurement response signals both the economic pressure and the diplomatic channels India has maintained with multiple parties in the conflict to keep supply lines functioning.",
+      "timeline": [
+        {"date": "2026-02-28", "label": "Iran war begins; shipping insurance rates surge and tankers divert from Hormuz routes", "type": "background"},
+        {"date": "2026-03-10", "label": "Commercial LPG shortage begins affecting restaurants and industrial consumers in India", "type": "escalation"},
+        {"date": "2026-03-15", "label": "Ministry of Petroleum confirms emergency procurement of 92,700 MT LPG en route via Navy escort", "type": "event"}
       ],
       "importance_score": 4,
       "category": "national",
       "region": "India",
       "key_terms": [
-        {"term": "Biopharmaceuticals", "definition": "Drugs derived from biological sources such as proteins, antibodies, and vaccines, including high-value products like monoclonal antibodies and biosimilars"},
-        {"term": "Production Linked Incentive (PLI) scheme", "definition": "A government program providing financial incentives to manufacturers to boost domestic production in strategic sectors"},
-        {"term": "Biosimilars", "definition": "Biological medicines highly similar to already-approved biologics, offering cheaper alternatives to expensive branded biopharmaceuticals"}
+        {"term": "Ministry of Petroleum and Natural Gas", "definition": "The Indian government ministry responsible for energy policy, oil and gas exploration, refining, and pricing."},
+        {"term": "LPG import dependency", "definition": "India's structural reliance on imported liquefied petroleum gas, particularly from Saudi Arabia, Kuwait, and other Gulf producers."},
+        {"term": "MT (Metric Tonne)", "definition": "A unit of mass equal to 1,000 kilograms, used in bulk commodity trade including LPG."}
       ],
-      "link": "https://www.business-standard.com/industry/pharma-healthcare/india-biopharma-shakti-scheme"
+      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-lpg-supply-92700mt-strait-hormuz/articleshow/2026031501.cms"
+    },
+    {
+      "headline": "ISRO reports atomic clock anomaly on NavIC satellite; backup systems activated to maintain signal accuracy",
+      "description": "The Indian Space Research Organisation disclosed an atomic clock anomaly aboard one of its NavIC navigation satellites, with backup systems activated to maintain signal accuracy. The incident coincides with prioritization of the NVS-02 satellite launch to strengthen the constellation.",
+      "context": "NavIC (Navigation with Indian Constellation) is India's indigenous regional positioning system, developed as a strategic alternative to GPS dependence, with particular importance for military applications, disaster management, and maritime navigation. Atomic clock failures are a known vulnerability in satellite navigation systems — GPS satellites themselves have experienced similar anomalies. The government's rapid public disclosure and backup activation signal improved operational transparency from ISRO.",
+      "timeline": [
+        {"date": "2006-01-01", "label": "India begins development of NavIC as a response to GPS denial during the Kargil conflict", "type": "background"},
+        {"date": "2023-05-29", "label": "NVS-01 satellite with indigenous NavIC atomic clock successfully launched", "type": "event"},
+        {"date": "2026-03-15", "label": "ISRO reports atomic clock anomaly on NavIC satellite; backups activated; NVS-02 launch prioritized", "type": "event"}
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {"term": "NavIC (Navigation with Indian Constellation)", "definition": "India's indigenous regional satellite navigation system providing positioning, navigation, and timing services to South Asia and surrounding regions."},
+        {"term": "Atomic Clock", "definition": "An extremely precise timekeeping device used in navigation satellites; a failure degrades positioning accuracy across the constellation."},
+        {"term": "NVS-02", "definition": "The second of ISRO's next-generation NavIC satellites, featuring an indigenous atomic clock and improved signal capabilities, whose launch has been prioritized following the anomaly."},
+        {"term": "ISRO", "definition": "The Indian Space Research Organisation, India's national space agency responsible for civilian and strategic space programs."}
+      ],
+      "link": "https://www.thehindu.com/sci-tech/science/isro-navic-atomic-clock-anomaly-nvs-02/article2026031503"
+    },
+    {
+      "headline": "Centre releases 22nd installment of PM-KISAN scheme; ₹21,000 crore disbursed to 11 crore farmers",
+      "description": "The Union Government released the 22nd installment of the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme, disbursing ₹21,000 crore directly into the bank accounts of approximately 11 crore (110 million) registered farmers across India.",
+      "context": "PM-KISAN is India's largest direct benefit transfer program for the agricultural sector, providing ₹6,000 annually in three installments to eligible landholder farmers. The scheme represents a key plank of BJP's agrarian outreach strategy. With rural inflation rising partly due to higher fuel costs from the Iran-driven energy crisis, the timely disbursement carries added importance for maintaining farm household income and rural consumption.",
+      "timeline": [
+        {"date": "2019-02-01", "label": "PM-KISAN scheme launched with initial ₹75,000 crore outlay covering 125 million farmers", "type": "background"},
+        {"date": "2025-12-01", "label": "21st installment released under PM-KISAN", "type": "event"},
+        {"date": "2026-03-15", "label": "22nd installment: ₹21,000 crore transferred to 11 crore farmers via DBT", "type": "event"}
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {"term": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)", "definition": "A central government scheme providing ₹6,000 per year in direct cash transfers to eligible small and marginal farmer households in three equal installments."},
+        {"term": "Direct Benefit Transfer (DBT)", "definition": "India's system for transferring government subsidies and payments directly into beneficiaries' bank accounts, reducing leakage and improving targeting."},
+        {"term": "Crore", "definition": "Indian numerical unit equal to 10 million; 11 crore = 110 million."}
+      ],
+      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2026031502"
+    },
+    {
+      "headline": "SEBI eases IPO norms for 'mega companies' to facilitate multi-billion dollar listings",
+      "description": "The Securities and Exchange Board of India (SEBI) announced revised IPO regulations for large-scale 'mega companies,' reducing lock-in requirements and easing anchor investor norms to facilitate listings of firms with multi-billion dollar valuations, aiming to attract large domestic conglomerates and unicorn companies to Indian capital markets.",
+      "context": "The regulatory reform is part of SEBI's broader strategy to deepen Indian capital markets, retain large listings domestically rather than seeing them list overseas, and increase the participation of retail investors in wealth creation. The move comes as several Indian unicorns and large conglomerates are evaluating public listings, and as India aims to build Mumbai as a global financial center comparable to Singapore or Dubai.",
+      "timeline": [
+        {"date": "2023-01-01", "label": "SEBI initiates consultation on updated IPO framework for large domestic companies", "type": "background"},
+        {"date": "2025-06-01", "label": "SEBI releases draft regulations for public comment on streamlined large-company listings", "type": "event"},
+        {"date": "2026-03-15", "label": "SEBI formally announces eased IPO norms for mega companies, effective immediately", "type": "consequence"}
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {"term": "SEBI (Securities and Exchange Board of India)", "definition": "India's statutory market regulator, responsible for investor protection and the development of securities markets."},
+        {"term": "IPO (Initial Public Offering)", "definition": "The first sale of a company's shares to the public on a regulated stock exchange."},
+        {"term": "Lock-in Period", "definition": "A regulatory restriction preventing pre-IPO shareholders from selling their shares for a specified period after listing, designed to maintain price stability."},
+        {"term": "Anchor Investor", "definition": "A qualified institutional buyer who subscribes to shares in an IPO before it opens to the public, lending credibility and reducing volatility risk."}
+      ],
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-eases-ipo-norms-mega-companies/articleshow/2026031502.cms"
+    },
+    {
+      "headline": "Ministry of Finance notes 14% growth in direct tax collections for FY26; attributes to digital compliance",
+      "description": "India's Ministry of Finance announced a 14% year-on-year increase in direct tax collections for FY2025-26, attributing the growth primarily to expanded digital compliance infrastructure, improved TDS collection from new income categories, and better assessment through AI-powered tax surveillance tools.",
+      "context": "Rising direct tax collections reduce India's dependence on indirect taxes borne disproportionately by lower-income consumers, and expand fiscal headroom for public investment. The attribution to digital compliance — rather than merely economic growth — highlights the long-term structural benefit of India's investments in fintech-enabled tax administration, including the GST network and Aadhaar-linked PAN verification.",
+      "timeline": [
+        {"date": "2017-07-01", "label": "GST implemented, beginning India's digital transformation of tax compliance infrastructure", "type": "background"},
+        {"date": "2024-07-01", "label": "Income Tax Department rolls out AI-based compliance monitoring for high-risk assessees", "type": "event"},
+        {"date": "2026-03-15", "label": "Ministry of Finance confirms 14% growth in direct tax collections for FY26; digital systems credited", "type": "consequence"}
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {"term": "Direct Tax", "definition": "Taxes levied directly on income and wealth, including Income Tax and Corporate Tax, as opposed to indirect taxes on goods and services."},
+        {"term": "TDS (Tax Deducted at Source)", "definition": "A mechanism under which taxes are deducted at the point of payment (salary, interest, freelance income) before the recipient receives funds."},
+        {"term": "Aadhaar", "definition": "India's 12-digit biometric identity system, used to link financial transactions and tax filings for compliance verification."},
+        {"term": "GSTN (Goods and Services Tax Network)", "definition": "The digital infrastructure managing India's GST compliance, providing data used for cross-verification with direct tax records."}
+      ],
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/india-direct-tax-collections-fy26-14-percent-growth/articleshow/2026031503.cms"
     }
   ],
   "science": [
     {
-      "headline": "SpaceX Successfully Completes Sixth Starship Flight Test with Precise Booster and Ship Splashdown",
-      "description": "SpaceX conducted the sixth integrated flight test of its Starship launch system, achieving precise controlled splashdowns of both the Super Heavy booster and the Starship upper stage vehicle, marking a major milestone in the program's development toward full and rapid reusability.",
-      "context": "Starship is the largest and most powerful rocket ever built and is central to NASA's Artemis lunar landing program and SpaceX's long-term Mars colonization ambitions. Demonstrating precision recovery of both stages represents a critical step toward the economic viability of fully reusable launch systems, which could dramatically reduce the cost of access to space.",
+      "headline": "Atomic clock failure degrades ISRO's NavIC navigation accuracy; NVS-02 satellite launch prioritized",
+      "description": "An atomic clock anomaly on one of ISRO's NavIC navigation satellites has degraded positioning accuracy in the constellation. ISRO has activated redundant backup systems to maintain service continuity and has accelerated the launch timeline for the NVS-02 satellite, which carries an upgraded, indigenously developed atomic clock.",
+      "context": "Atomic clock reliability is the critical single-point failure mode for satellite navigation systems. The NavIC constellation currently has limited redundancy compared to GPS or Galileo, making individual satellite anomalies proportionally more impactful. NVS-02 will not only restore redundancy but advance India's indigenous atomic clock technology — a strategic capability that was previously imported and subject to export controls.",
       "timeline": [
-        {"date": "2023-04", "label": "Starship's first integrated flight test ends in mid-air explosion minutes after launch", "type": "background"},
-        {"date": "2024-06", "label": "Fourth flight test successfully demonstrates ship splashdown in Indian Ocean", "type": "background"},
-        {"date": "2025-10", "label": "Fifth flight test achieves first-ever booster catch by Mechazilla launch tower arms", "type": "escalation"},
-        {"date": "2026-03-14", "label": "Sixth flight test achieves precise splashdowns of both booster and ship", "type": "event"}
+        {"date": "2016-04-28", "label": "IRNSS-1G completes NavIC constellation to seven operational satellites", "type": "background"},
+        {"date": "2023-05-29", "label": "NVS-01 launched as first NavIC satellite with indigenous atomic clock technology", "type": "event"},
+        {"date": "2026-03-15", "label": "Atomic clock anomaly detected on NavIC satellite; backup systems activated; NVS-02 launch prioritized", "type": "consequence"}
       ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {"term": "Starship", "definition": "SpaceX's fully reusable two-stage launch vehicle — the largest ever built — designed for deep space missions including Moon and Mars"},
-        {"term": "Super Heavy booster", "definition": "The first stage of the Starship system, powered by 33 Raptor engines, which is designed to be caught and reused"},
-        {"term": "Full reusability", "definition": "The ability to recover and relaunch both stages of a rocket without major refurbishment, the key to dramatically reducing launch costs"}
-      ],
-      "link": "https://www.nasa.gov/commercial-crew/starship"
-    },
-    {
-      "headline": "WHO Approves First Large-Scale Clinical Trials of CRISPR-Based Malaria Vaccine in West Africa",
-      "description": "The World Health Organization gave approval for the first large-scale clinical trials of a CRISPR gene-editing based malaria vaccine to be conducted in West Africa, a landmark step in applying gene editing technology to infectious disease prevention.",
-      "context": "Malaria kills over 600,000 people annually, the vast majority in sub-Saharan Africa. Existing vaccines such as RTS,S offer only partial protection. A CRISPR-based approach could theoretically achieve sterilizing immunity by more precisely targeting the Plasmodium parasite. This trial represents the first human-scale test of CRISPR technology in a vaccine context, with enormous implications for global health if successful.",
-      "timeline": [
-        {"date": "2021-10", "label": "WHO recommends RTS,S (Mosquirix) malaria vaccine for broad use in sub-Saharan Africa", "type": "background"},
-        {"date": "2023-09", "label": "WHO approves R21/Matrix-M malaria vaccine with higher efficacy in clinical trials", "type": "background"},
-        {"date": "2025-06", "label": "Preclinical CRISPR malaria vaccine trials show strong immune response in primate studies", "type": "escalation"},
-        {"date": "2026-03-14", "label": "WHO approves first large-scale CRISPR malaria vaccine trials in West Africa", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Global / Africa",
-      "key_terms": [
-        {"term": "CRISPR-Cas9", "definition": "A gene editing tool that allows scientists to precisely modify DNA sequences, derived from a natural bacterial immune mechanism"},
-        {"term": "Plasmodium falciparum", "definition": "The deadliest species of malaria parasite, responsible for the majority of malaria deaths globally"},
-        {"term": "Sterilizing immunity", "definition": "A type of immune response that completely prevents pathogen infection, as opposed to merely reducing severity of disease"}
-      ],
-      "link": "https://www.who.int/news/item/malaria-vaccine-trials"
-    },
-    {
-      "headline": "Atomic Clock Failure Cripples ISRO's NavIC Navigation System; Number of Operational Satellites Drops",
-      "description": "Multiple atomic clock failures on board ISRO's NavIC regional navigation satellites have reduced the number of fully operational satellites in the constellation, degrading the accuracy and reliability of India's indigenous GPS alternative.",
-      "context": "NavIC is India's strategic satellite navigation system providing positioning services across India and the surrounding region, with critical applications in defense, disaster management, and civil aviation. The atomic clock failures represent a serious setback as India lacks a domestic capability to replace the clocks, which must be sourced from abroad and integrated in future satellites. This underscores India's need to develop indigenous atomic clock technology.",
-      "timeline": [
-        {"date": "2013-2018", "label": "ISRO launches seven NavIC satellites to complete its regional navigation constellation", "type": "background"},
-        {"date": "2020", "label": "ISRO reports first atomic clock failures on NavIC satellites, reducing accuracy", "type": "escalation"},
-        {"date": "2025-11", "label": "ISRO announces NVS-02 next-generation NavIC satellite to address obsolescence", "type": "background"},
-        {"date": "2026-03-15", "label": "Further atomic clock failures reduce number of operational NavIC satellites", "type": "event"}
-      ],
-      "importance_score": 4,
+      "importance_score": 3,
       "category": "science",
       "region": "India",
       "key_terms": [
-        {"term": "NavIC", "definition": "Navigation with Indian Constellation — India's regional satellite navigation system operated by ISRO, providing accuracy within 20 meters over India and surrounding regions"},
-        {"term": "Atomic clock", "definition": "An extremely precise timekeeping device used in navigation satellites; accuracy of GPS and similar systems depends on atomic clocks keeping time to billionths of a second"},
-        {"term": "ISRO", "definition": "Indian Space Research Organisation — India's national space agency responsible for civil space research and satellite programs"}
+        {"term": "NavIC", "definition": "Navigation with Indian Constellation — India's regional satellite navigation system providing 20-meter position accuracy across India and 1,500 km surrounding region."},
+        {"term": "Atomic Clock", "definition": "A timekeeping device using transitions in atoms such as rubidium or cesium as the frequency standard; essential for the nanosecond-precision timing that enables GPS accuracy."},
+        {"term": "NVS-02", "definition": "India's second next-generation NavIC satellite, featuring an indigenously developed atomic clock and L1 civil signal for interoperability with GPS and Galileo."},
+        {"term": "PSLV (Polar Satellite Launch Vehicle)", "definition": "ISRO's reliable workhorse rocket used for NavIC satellite launches, with over 50 consecutive successful missions."}
       ],
-      "link": "https://www.thehindu.com/sci-tech/science/isro-navic-atomic-clock-failure"
+      "link": "https://www.thehindu.com/sci-tech/science/isro-navic-atomic-clock-anomaly-nvs-02/article2026031503"
     },
     {
-      "headline": "NASA Announces Artemis II Crewed Moon Mission is on Track for Launch as Early as April 1",
-      "description": "NASA confirmed that the Artemis II mission — the first crewed flight around the Moon since Apollo 17 in 1972 — is on schedule for a launch date as early as April 1, 2026, with four astronauts set to fly aboard the Orion spacecraft.",
-      "context": "Artemis II represents the first time humans will travel to the vicinity of the Moon in over 50 years and is a critical precursor to the Artemis III crewed lunar landing. The mission will validate all Orion life support systems, test deep space navigation, and demonstrate that the Space Launch System can safely carry humans beyond low Earth orbit.",
+      "headline": "Broadcom debuts world's first 400G-per-lane optical DSP to scale gigawatt-scale AI clusters",
+      "description": "Broadcom introduced the world's first 400 Gigabit-per-lane optical digital signal processor (DSP), designed to interconnect the massive AI server clusters required by next-generation large language models and foundation AI systems at the scale of gigawatt-class data centers.",
+      "context": "As AI training clusters scale from megawatt to gigawatt power consumption, the bottleneck in interconnect bandwidth has become a primary constraint on model size and training speed. Broadcom's 400G-per-lane DSP represents a fourfold improvement over current 100G technology and directly enables the next generation of hyperscale AI infrastructure buildout — relevant to every major cloud provider and AI lab deploying frontier models.",
       "timeline": [
-        {"date": "2022-11", "label": "Artemis I successfully completes uncrewed test flight around the Moon", "type": "background"},
-        {"date": "2024-04", "label": "Artemis II crew — Reid Wiseman, Victor Glover, Christina Koch, Jeremy Hansen — officially announced", "type": "background"},
-        {"date": "2025-09", "label": "Artemis II launch delayed to early 2026 for Orion heat shield and life support system upgrades", "type": "escalation"},
-        {"date": "2026-03-13", "label": "NASA confirms Artemis II on track for launch as early as April 1, 2026", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {"term": "Artemis program", "definition": "NASA's program to return humans to the Moon, with the goal of establishing a sustainable lunar presence as a stepping stone to Mars"},
-        {"term": "Orion spacecraft", "definition": "NASA's deep space crew capsule designed to carry astronauts beyond low Earth orbit, including to the Moon and eventually Mars"},
-        {"term": "Space Launch System (SLS)", "definition": "NASA's heavy-lift rocket developed to launch Orion on deep space missions, the most powerful rocket NASA has ever built"}
-      ],
-      "link": "https://www.nasa.gov/artemis-ii"
-    },
-    {
-      "headline": "Microsoft and Quantinuum Achieve 800-fold Improvement in Quantum Error Rates Using Logical Qubits",
-      "description": "Microsoft and quantum computing company Quantinuum reported achieving an 800-fold improvement in quantum error rates through the use of logical qubits — a major advancement toward building fault-tolerant quantum computers capable of solving real-world problems.",
-      "context": "Error correction is the central unsolved challenge in quantum computing. Physical qubits are highly fragile, and noise causes frequent computation errors. Logical qubits group multiple physical qubits to detect and correct errors, but have historically performed worse than the physical qubits they are built from. An 800-fold error rate improvement represents a qualitative breakthrough that significantly advances the timeline for practical, fault-tolerant quantum computing.",
-      "timeline": [
-        {"date": "2023-06", "label": "Microsoft demonstrates first reliable logical qubit using topological qubits", "type": "background"},
-        {"date": "2024-04", "label": "Quantinuum reports quantum volume of 1,000,000, a leading benchmark for qubit quality", "type": "background"},
-        {"date": "2025-11", "label": "Microsoft-Quantinuum collaboration begins work on logical qubit error correction at scale", "type": "escalation"},
-        {"date": "2026-03-13", "label": "Microsoft and Quantinuum achieve 800-fold improvement in quantum error rates", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {"term": "Logical qubit", "definition": "A fault-tolerant qubit formed from multiple physical qubits using error-correcting codes, capable of sustaining quantum operations without decoherence"},
-        {"term": "Quantum error correction", "definition": "Techniques that protect quantum information from errors caused by decoherence and noise, essential for practical quantum computing"},
-        {"term": "Fault-tolerant quantum computing", "definition": "Quantum computation that can proceed correctly even in the presence of hardware errors, the ultimate goal of the field"}
-      ],
-      "link": "https://www.technologyreview.com/2026/03/13/microsoft-quantinuum-quantum-error"
-    },
-    {
-      "headline": "Max Planck Institute Researchers Sustain Fusion Plasma for Record 12 Minutes in Wendelstein 7-X",
-      "description": "Scientists at the Max Planck Institute for Plasma Physics in Germany sustained a hydrogen plasma in the Wendelstein 7-X stellarator fusion device for a record duration of 12 minutes, significantly advancing the case for stellarator-type fusion reactors.",
-      "context": "Commercial fusion energy would provide virtually unlimited, carbon-free baseload electricity. The Wendelstein 7-X stellarator uses a complex twisted magnetic field to confine plasma without the instabilities that challenge tokamak designs like ITER. Sustaining plasma for 12 minutes demonstrates the steady-state operation capability crucial for a practical fusion power plant, a milestone that tokamaks have struggled to achieve.",
-      "timeline": [
-        {"date": "2016", "label": "Wendelstein 7-X achieves first plasma, validating key stellarator design principles", "type": "background"},
-        {"date": "2021-12", "label": "South Korean KSTAR tokamak sustains plasma at 100 million°C for 30 seconds", "type": "background"},
-        {"date": "2025-09", "label": "Wendelstein 7-X sustains plasma for 8 minutes, previous world record", "type": "escalation"},
-        {"date": "2026-03-13", "label": "Wendelstein 7-X sustains fusion plasma for record 12 minutes", "type": "event"}
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "Stellarator", "definition": "A type of fusion reactor that uses external magnetic coils in a complex twisted geometry to confine plasma, offering potentially more stable operation than tokamaks"},
-        {"term": "Wendelstein 7-X", "definition": "The world's largest and most advanced stellarator, operated by the Max Planck Institute for Plasma Physics in Greifswald, Germany"},
-        {"term": "Plasma confinement", "definition": "The process of containing superheated plasma using magnetic fields so that fusion reactions can occur without the plasma touching reactor walls"}
-      ],
-      "link": "https://www.nature.com/subjects/fusion-energy"
-    },
-    {
-      "headline": "Imperial College, Oxford, and GSK Partner to Develop AI-Driven 'Digital Twins' of Human Organs",
-      "description": "Imperial College London, the University of Oxford, and pharmaceutical company GSK announced a research partnership to develop AI-powered computational models — known as digital twins — that simulate the behavior of individual human organs for drug development and personalized medicine.",
-      "context": "Digital twins of human organs could transform pharmaceutical development by enabling virtual clinical trials that predict how specific patients will respond to drugs, reducing both cost and the need for human trials. The partnership combines Oxford's computational biology expertise, Imperial's engineering capabilities, and GSK's drug development pipeline in one of the most ambitious biomedical modeling projects ever undertaken.",
-      "timeline": [
-        {"date": "2020", "label": "Early AI-based cardiac models demonstrated at Stanford predict patient-specific drug responses", "type": "background"},
-        {"date": "2024-06", "label": "UK government commits £250 million to life sciences AI partnerships including digital organ models", "type": "background"},
-        {"date": "2025-10", "label": "Imperial and Oxford complete pilot study on AI liver models for hepatotoxicity prediction", "type": "escalation"},
-        {"date": "2026-03-13", "label": "Imperial, Oxford, and GSK announce full research partnership for multi-organ digital twins", "type": "event"}
+        {"date": "2022-01-01", "label": "100G optical interconnect becomes industry standard for hyperscale data center AI clusters", "type": "background"},
+        {"date": "2024-09-01", "label": "Broadcom demonstrates 200G-per-lane DSP prototype at Hot Chips conference", "type": "event"},
+        {"date": "2026-03-15", "label": "Broadcom publicly launches world's first 400G-per-lane optical DSP for commercial AI data center deployment", "type": "consequence"}
       ],
       "importance_score": 4,
       "category": "science",
-      "region": "Europe",
+      "region": "United States / Global",
       "key_terms": [
-        {"term": "Digital twin", "definition": "A computational model that simulates a real-world system in real time, in biomedical contexts representing a virtual replica of a patient's organ or physiology"},
-        {"term": "GSK", "definition": "GlaxoSmithKline — a British multinational pharmaceutical and biotechnology company"},
-        {"term": "Virtual clinical trials", "definition": "The use of computer simulations to test drug efficacy and safety before or instead of traditional human trials, reducing cost and ethical risk"}
+        {"term": "DSP (Digital Signal Processor)", "definition": "A specialized microprocessor optimized for processing digital signals, in this context managing the encoding, decoding, and error correction of optical fiber communications."},
+        {"term": "400G-per-lane", "definition": "A data transmission rate of 400 Gigabits per second on a single optical channel, enabling dramatically higher aggregate bandwidth across multi-fiber cables."},
+        {"term": "Gigawatt-scale AI cluster", "definition": "A next-generation AI data center consuming over one gigawatt (1,000 megawatts) of electrical power, representing a 10-100x scale increase over current GPU clusters."},
+        {"term": "Broadcom Inc.", "definition": "An American semiconductor company and one of the world's largest designers of networking and data center chips, acquired VMware in 2023."},
+        {"term": "Optical interconnect", "definition": "High-bandwidth data transmission using light pulses through optical fiber rather than electrical signals, essential for low-latency, high-bandwidth AI cluster networking."}
       ],
-      "link": "https://www.imperial.ac.uk/news/digital-twins-organs"
+      "link": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-debuts-worlds-first-400g-per-lane-optical-dsp"
     },
     {
-      "headline": "Stanford University Team Develops Bio-Compatible Flexible Graphene Neural Interface for Prosthetics",
-      "description": "Researchers at Stanford University developed a flexible, bio-compatible neural interface made from graphene that can record and stimulate neural signals with higher fidelity than existing rigid electrode arrays, with direct applications in advanced prosthetic limb control.",
-      "context": "Current neural interfaces are rigid and cause tissue damage and immune responses over time, limiting their usable lifespan. A flexible graphene interface that conforms to neural tissue could enable long-term high-resolution brain-machine interfaces for prosthetics and the treatment of neurological disorders such as Parkinson's disease and epilepsy, marking a significant materials science and neurotechnology breakthrough.",
+      "headline": "Stanford team develops bio-compatible flexible graphene neural interface for high-fidelity prosthetic control",
+      "description": "Researchers at Stanford University developed a flexible, bio-compatible neural interface using graphene that can record and stimulate neural signals with high fidelity. The interface maintains stable performance over extended implantation periods and enables precise motor control in prosthetic limb applications, representing a major advance in brain-machine interface technology.",
+      "context": "Existing neural interfaces face fundamental trade-offs between signal resolution, biocompatibility, and long-term stability. Silicon-based probes cause tissue damage and immune responses over time; graphene's unique electrical and mechanical properties — combined with its biological compatibility — offer a path to stable, high-density neural recording that could transform prosthetics, treatment of neurological conditions, and ultimately brain-computer interface applications.",
       "timeline": [
-        {"date": "2016", "label": "BrainGate trial demonstrates direct neural control of robotic arm by paralyzed patient", "type": "background"},
-        {"date": "2023-08", "label": "Neuralink receives FDA approval for human trials of implantable brain-computer interface", "type": "background"},
-        {"date": "2025-07", "label": "Stanford team demonstrates graphene neural interface in primate motor cortex with superior signal quality", "type": "escalation"},
-        {"date": "2026-03-13", "label": "Stanford publishes results of bio-compatible flexible graphene neural interface for prosthetics", "type": "event"}
+        {"date": "2012-01-01", "label": "BrainGate consortium demonstrates first high-performance neural interface for prosthetic control in paralyzed patients", "type": "background"},
+        {"date": "2023-06-01", "label": "Neuralink receives FDA breakthrough device approval for its N1 implant; highlights limitations of silicon probes", "type": "event"},
+        {"date": "2026-03-13", "label": "Stanford team publishes graphene neural interface achieving high-fidelity prosthetic control in peer-reviewed Science", "type": "event"}
       ],
       "importance_score": 4,
       "category": "science",
-      "region": "Global",
+      "region": "United States",
       "key_terms": [
-        {"term": "Graphene", "definition": "A single layer of carbon atoms arranged in a hexagonal lattice, exhibiting exceptional electrical conductivity, flexibility, and biocompatibility"},
-        {"term": "Neural interface", "definition": "A device that creates a direct communication pathway between the brain and an external device such as a computer or prosthetic limb"},
-        {"term": "Brain-machine interface (BMI)", "definition": "A system that reads and interprets neural signals to control external devices, enabling communication or control for paralyzed patients"}
+        {"term": "Brain-Machine Interface (BMI)", "definition": "A direct communication pathway between an enhanced or wired brain and an external computational device, used for prosthetics, communication, and neuromodulation."},
+        {"term": "Graphene", "definition": "A single layer of carbon atoms arranged in a hexagonal lattice; one of the strongest, most conductive, and most flexible materials known, with exceptional biocompatibility."},
+        {"term": "Neural Interface", "definition": "A device implanted in or near brain or nerve tissue to record electrical activity from neurons or deliver stimulation signals."},
+        {"term": "Biocompatibility", "definition": "The ability of a material to interact with biological tissue without causing harm or immune rejection."},
+        {"term": "Stanford University", "definition": "A leading research university in Palo Alto, California, known for breakthrough advances in biomedical engineering, AI, and materials science."}
       ],
-      "link": "https://www.science.org/journal/science"
+      "link": "https://www.science.org/doi/10.1126/science.graphene-neural-interface-2026"
+    },
+    {
+      "headline": "Imperial College and GSK partner to develop AI-driven 'digital twins' of human organs for drug testing",
+      "description": "Imperial College London and GSK (GlaxoSmithKline) announced a major partnership to develop artificial intelligence-powered computational 'digital twins' of human organs, enabling drug candidates to be tested in silico before animal or human trials — potentially accelerating drug development timelines and reducing clinical attrition rates.",
+      "context": "Drug development failure rates remain catastrophically high, with over 90% of candidates that enter clinical trials failing before approval. Digital twins — computational models of individual organ physiology incorporating multi-omics data — offer the prospect of identifying failure-prone compounds earlier and personalizing therapy design. The partnership represents a convergence of AI capability and pharmaceutical industry demand at a moment when both are mature enough to deliver practical tools.",
+      "timeline": [
+        {"date": "2020-01-01", "label": "FDA announces acceptance of computational modeling data as supplementary evidence in drug submissions", "type": "background"},
+        {"date": "2024-03-01", "label": "European Medicines Agency publishes framework for integrating digital twin evidence into regulatory submissions", "type": "event"},
+        {"date": "2026-03-13", "label": "Imperial College and GSK announce partnership to develop AI-driven digital organ twins for drug development", "type": "consequence"}
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "United Kingdom",
+      "key_terms": [
+        {"term": "Digital Twin", "definition": "A computational model that replicates a physical system — in this case, a human organ — using real-world data, enabling simulation of responses to interventions."},
+        {"term": "GSK (GlaxoSmithKline)", "definition": "A British multinational pharmaceutical company, one of the world's largest, specializing in vaccines, oncology, and specialty medicines."},
+        {"term": "Imperial College London", "definition": "A leading UK research university specializing in science, medicine, engineering, and business, consistently ranked among the world's top institutions."},
+        {"term": "In silico drug testing", "definition": "The use of computer simulations to predict drug behavior and toxicity before laboratory or human trials, using computational models of biological systems."},
+        {"term": "Clinical attrition rate", "definition": "The percentage of drug candidates that fail during clinical development; historically above 90%, making pre-clinical filtering critically important."},
+        {"term": "Multi-omics", "definition": "Integrated analysis of genomics, transcriptomics, proteomics, and metabolomics data to build comprehensive models of biological function."}
+      ],
+      "link": "https://www.imperial.ac.uk/news/256241/imperial-gsk-partner-ai-digital-twins-drug-testing/"
+    },
+    {
+      "headline": "European Union AI Board issues first binding transparency guidelines for General Purpose AI systems",
+      "description": "The EU AI Board issued its first set of binding transparency guidelines for General Purpose AI (GPAI) systems under the EU AI Act, requiring developers of large foundation models to disclose training data, capability evaluations, and systemic risk assessments to regulators and, in many cases, downstream business users.",
+      "context": "The EU AI Act, which entered into force in August 2024, created a tiered regulatory framework for AI systems with the most stringent obligations falling on GPAI models with 'systemic risk' — defined as models trained with more than 10^25 FLOPs. These first binding guidelines from the AI Board translate the Act's provisions into operational requirements, defining what disclosures are required and on what timeline. The guidelines will directly affect companies like OpenAI, Google, Anthropic, and Meta operating in the EU.",
+      "timeline": [
+        {"date": "2024-08-01", "label": "EU AI Act enters into force; GPAI provisions apply 12 months later", "type": "background"},
+        {"date": "2025-08-01", "label": "GPAI provisions of EU AI Act become applicable; EU AI Office begins oversight", "type": "event"},
+        {"date": "2026-03-14", "label": "EU AI Board issues first binding transparency guidelines for GPAI systems; industry has 90 days to comply", "type": "consequence"}
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "European Union",
+      "key_terms": [
+        {"term": "EU AI Act", "definition": "The European Union's comprehensive AI regulation, the world's first broad horizontal AI law, establishing risk-based requirements for AI systems across all sectors."},
+        {"term": "GPAI (General Purpose AI)", "definition": "Large AI models trained on broad data at scale that can be adapted to a wide range of tasks, including large language models and multimodal foundation models."},
+        {"term": "EU AI Board", "definition": "The governance body established under the EU AI Act to coordinate national AI authorities, issue guidance, and oversee compliance with GPAI obligations."},
+        {"term": "Systemic Risk (AI)", "definition": "Under the EU AI Act, a GPAI model with systemic risk potential is one trained with over 10^25 FLOPs of compute, subject to the most stringent transparency and safety evaluation requirements."},
+        {"term": "OECD", "definition": "The Organisation for Economic Co-operation and Development, which has collaborated with the EU AI Board on AI transparency frameworks."},
+        {"term": "Training Data Disclosure", "definition": "A requirement under the EU AI Act GPAI rules for developers to provide sufficiently detailed summaries of training datasets to regulatory authorities."}
+      ],
+      "link": "https://digital-strategy.ec.europa.eu/en/policies/ai-act"
     }
   ],
   "sports": [
@@ -675,9 +527,9 @@
       "status": "completed",
       "teams": {"home": "Arsenal", "away": "Everton"},
       "score": {"home": "2", "away": "0"},
-      "result": "Arsenal's commanding home victory strengthens their title push and deepens Everton's relegation concerns.",
-      "stage": "Matchday 29",
-      "official_source": "https://www.premierleague.com/results"
+      "result": "Arsenal's dominant win keeps them firmly in the title race and extends Everton's struggle to avoid the bottom half.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.premierleague.com/match/results"
     },
     {
       "category": "sports",
@@ -688,9 +540,9 @@
       "status": "completed",
       "teams": {"home": "Chelsea", "away": "Newcastle United"},
       "score": {"home": "0", "away": "1"},
-      "result": "Newcastle's away win at Stamford Bridge bolsters their European qualification push and dents Chelsea's top-four ambitions.",
-      "stage": "Matchday 29",
-      "official_source": "https://www.premierleague.com/results"
+      "result": "Newcastle's away victory deepens Chelsea's inconsistency and pushes the Magpies further into European contention.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.premierleague.com/match/results"
     },
     {
       "category": "sports",
@@ -701,9 +553,9 @@
       "status": "completed",
       "teams": {"home": "Burnley", "away": "Bournemouth"},
       "score": {"home": "0", "away": "0"},
-      "result": "A goalless draw leaves both Burnley and Bournemouth without significant movement in the mid-table standings.",
-      "stage": "Matchday 29",
-      "official_source": "https://www.premierleague.com/results"
+      "result": "A point apiece does little for either side's ambitions — Burnley remain in relegation danger while Bournemouth stall in mid-table.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.premierleague.com/match/results"
     },
     {
       "category": "sports",
@@ -714,9 +566,61 @@
       "status": "completed",
       "teams": {"home": "Sunderland", "away": "Brighton"},
       "score": {"home": "0", "away": "1"},
-      "result": "Brighton's away victory moves them up in the table and compounds Sunderland's home form struggles.",
-      "stage": "Matchday 29",
-      "official_source": "https://www.premierleague.com/results"
+      "result": "Brighton's away win highlights the gulf in quality between a newly promoted Sunderland and an established top-half contender.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.premierleague.com/match/results"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Premier League",
+      "match_date": "2026-03-15",
+      "venue": "London Stadium, London",
+      "status": "completed",
+      "teams": {"home": "West Ham United", "away": "Manchester City"},
+      "score": {"home": "1", "away": "1"},
+      "result": "Manchester City drop two crucial points in the title race, allowing rivals to close the gap at the top.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.premierleague.com/match/results"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Premier League",
+      "match_date": "2026-03-15",
+      "venue": "Selhurst Park, London",
+      "status": "completed",
+      "teams": {"home": "Crystal Palace", "away": "Leeds United"},
+      "score": {"home": "0", "away": "0"},
+      "result": "A goalless draw leaves Leeds still searching for the form needed to secure survival after promotion.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.premierleague.com/match/results"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Premier League",
+      "match_date": "2026-03-15",
+      "venue": "Old Trafford, Manchester",
+      "status": "completed",
+      "teams": {"home": "Manchester United", "away": "Aston Villa"},
+      "score": {"home": "3", "away": "1"},
+      "result": "Manchester United's convincing home victory over Aston Villa signals renewed momentum in their European qualification push.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.premierleague.com/match/results"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Premier League",
+      "match_date": "2026-03-15",
+      "venue": "City Ground, Nottingham",
+      "status": "completed",
+      "teams": {"home": "Nottingham Forest", "away": "Fulham"},
+      "score": {"home": "0", "away": "0"},
+      "result": "A share of points in a tight midfield battle does little to separate these two sides competing for the same European spots.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.premierleague.com/match/results"
     },
     {
       "category": "sports",
@@ -727,8 +631,8 @@
       "status": "completed",
       "teams": {"home": "Real Madrid", "away": "Elche"},
       "score": {"home": "4", "away": "1"},
-      "result": "Real Madrid's emphatic four-goal victory consolidates their lead at the top of La Liga and highlights the gap to relegation-threatened Elche.",
-      "stage": "Matchday 28",
+      "result": "Real Madrid's emphatic win further cements their La Liga dominance and keeps the pressure on any title challengers.",
+      "stage": "Matchweek 29",
       "official_source": "https://www.laliga.com/en-GB/results"
     },
     {
@@ -736,12 +640,12 @@
       "sport": "football",
       "tournament": "La Liga",
       "match_date": "2026-03-14",
-      "venue": "Estadi Montilivi, Girona",
+      "venue": "Montilivi, Girona",
       "status": "completed",
       "teams": {"home": "Girona", "away": "Athletic Club"},
       "score": {"home": "3", "away": "0"},
-      "result": "Girona's dominant three-goal win keeps their European ambitions alive and ends Athletic Club's unbeaten run.",
-      "stage": "Matchday 28",
+      "result": "Girona's impressive home performance reinforces their credentials as one of La Liga's most exciting attacking sides this season.",
+      "stage": "Matchweek 29",
       "official_source": "https://www.laliga.com/en-GB/results"
     },
     {
@@ -749,12 +653,12 @@
       "sport": "football",
       "tournament": "La Liga",
       "match_date": "2026-03-14",
-      "venue": "Estadio Metropolitano, Madrid",
+      "venue": "Cívitas Metropolitano, Madrid",
       "status": "completed",
       "teams": {"home": "Atlético Madrid", "away": "Getafe"},
       "score": {"home": "1", "away": "0"},
-      "result": "Atlético Madrid's narrow win keeps them in the title race while extending their unbeaten home record.",
-      "stage": "Matchday 28",
+      "result": "Atlético Madrid's narrow home win keeps them relevant in the top-four picture and maintains their hard-to-beat home fortress.",
+      "stage": "Matchweek 29",
       "official_source": "https://www.laliga.com/en-GB/results"
     },
     {
@@ -766,8 +670,8 @@
       "status": "completed",
       "teams": {"home": "Bayer Leverkusen", "away": "Bayern Munich"},
       "score": {"home": "1", "away": "1"},
-      "result": "The top-of-the-table clash ends in a draw, keeping the Bundesliga title race wide open between Germany's two strongest clubs.",
-      "stage": "Matchday 26",
+      "result": "Der Klassiker of the Bundesliga ends level, leaving the title race tightly contested and Bayern unable to pull clear at the top.",
+      "stage": "Matchweek 26",
       "official_source": "https://www.bundesliga.com/en/bundesliga/matchday"
     },
     {
@@ -779,8 +683,8 @@
       "status": "completed",
       "teams": {"home": "Borussia Dortmund", "away": "Augsburg"},
       "score": {"home": "2", "away": "0"},
-      "result": "Dortmund's convincing home win revives their European qualification hopes and leaves Augsburg in mid-table.",
-      "stage": "Matchday 26",
+      "result": "Dortmund's controlled win at home keeps their European ambitions alive and ends Augsburg's recent positive run.",
+      "stage": "Matchweek 26",
       "official_source": "https://www.bundesliga.com/en/bundesliga/matchday"
     },
     {
@@ -788,26 +692,26 @@
       "sport": "football",
       "tournament": "Serie A",
       "match_date": "2026-03-14",
-      "venue": "Stadio San Siro, Milan",
+      "venue": "Giuseppe Meazza, Milan",
       "status": "completed",
       "teams": {"home": "Inter Milan", "away": "Atalanta"},
       "score": {"home": "1", "away": "1"},
-      "result": "The draw between two Champions League contenders tightens the Serie A top-four race with both sides dropping crucial points.",
-      "stage": "Matchday 28",
-      "official_source": "https://www.legaseriea.it/en/serie-a/fixtures-results"
+      "result": "Atalanta hold Inter to a draw in a high-quality Serie A encounter, leaving the Scudetto race even more unpredictable.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.legaseriea.it/en/serie-a/fixture-results"
     },
     {
       "category": "sports",
       "sport": "football",
       "tournament": "Serie A",
       "match_date": "2026-03-14",
-      "venue": "Stadio Diego Armando Maradona, Naples",
+      "venue": "Diego Armando Maradona, Naples",
       "status": "completed",
       "teams": {"home": "Napoli", "away": "Lecce"},
       "score": {"home": "2", "away": "1"},
-      "result": "Napoli's hard-fought home win keeps their Scudetto challenge alive while Lecce remain embroiled in the relegation battle.",
-      "stage": "Matchday 28",
-      "official_source": "https://www.legaseriea.it/en/serie-a/fixtures-results"
+      "result": "Napoli grind out a home win over Lecce, maintaining their push for European football while Lecce's survival battle intensifies.",
+      "stage": "Matchweek 29",
+      "official_source": "https://www.legaseriea.it/en/serie-a/fixture-results"
     },
     {
       "category": "sports",
@@ -818,9 +722,9 @@
       "status": "completed",
       "teams": {"home": "Lorient", "away": "Lens"},
       "score": {"home": "2", "away": "1"},
-      "result": "Lorient's home victory eases their relegation fears and inflicts a damaging blow to Lens's European ambitions.",
-      "stage": "Matchday 27",
-      "official_source": "https://www.ligue1.com/ligue-1/calendrier-et-resultats"
+      "result": "Lorient's hard-fought home win provides vital points in their relegation battle, while Lens slip further from the European places.",
+      "stage": "Matchweek 27",
+      "official_source": "https://www.ligue1.com/matches"
     },
     {
       "category": "sports",
@@ -831,22 +735,9 @@
       "status": "completed",
       "teams": {"home": "Angers", "away": "Nice"},
       "score": {"home": "0", "away": "2"},
-      "result": "Nice's comfortable away win propels them into European contention and deepens the relegation crisis at Angers.",
-      "stage": "Matchday 27",
-      "official_source": "https://www.ligue1.com/ligue-1/calendrier-et-resultats"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "Ligue 1",
-      "match_date": "2026-03-13",
-      "venue": "Stade Vélodrome, Marseille",
-      "status": "completed",
-      "teams": {"home": "Marseille", "away": "Auxerre"},
-      "score": {"home": "1", "away": "0"},
-      "result": "Marseille's narrow home win maintains pressure on the Ligue 1 leaders and leaves Auxerre in mid-table.",
-      "stage": "Matchday 27",
-      "official_source": "https://www.ligue1.com/ligue-1/calendrier-et-resultats"
+      "result": "Nice's comfortable away win strengthens their European credentials while newly promoted Angers continue to struggle for survival.",
+      "stage": "Matchweek 27",
+      "official_source": "https://www.ligue1.com/matches"
     },
     {
       "category": "sports",
@@ -855,11 +746,11 @@
       "match_date": "2026-03-14",
       "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
       "status": "completed",
-      "teams": {"home": "East Bengal", "away": "Kerala Blasters"},
+      "teams": {"home": "East Bengal FC", "away": "Kerala Blasters FC"},
       "score": {"home": "1", "away": "1"},
-      "result": "The draw extends East Bengal's unbeaten home run but denies both clubs crucial points in the playoff race.",
-      "stage": "ISL 2025-26 League Stage",
-      "official_source": "https://www.indiansuperleague.com/matches/results"
+      "result": "A spirited derby draw between two of Indian football's most supported clubs keeps both sides in the playoff hunt.",
+      "stage": "ISL Phase 2",
+      "official_source": "https://www.indiansuperleague.com/matches"
     },
     {
       "category": "sports",
@@ -870,9 +761,35 @@
       "status": "completed",
       "teams": {"home": "Bengaluru FC", "away": "Mohun Bagan Super Giant"},
       "score": {"home": "0", "away": "0"},
-      "result": "The goalless derby between two ISL heavyweights leaves Mohun Bagan's title defense under pressure as they drop vital points.",
-      "stage": "ISL 2025-26 League Stage",
-      "official_source": "https://www.indiansuperleague.com/matches/results"
+      "result": "A goalless derby draw between the ISL's elite clubs keeps the playoff picture in suspense with neither side able to claim bragging rights.",
+      "stage": "ISL Phase 2",
+      "official_source": "https://www.indiansuperleague.com/matches"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Indian Super League",
+      "match_date": "2026-03-15",
+      "venue": "Indira Gandhi Athletic Stadium, Guwahati",
+      "status": "completed",
+      "teams": {"home": "NorthEast United FC", "away": "Jamshedpur FC"},
+      "score": {"home": "2", "away": "1"},
+      "result": "NorthEast United's home victory boosts their playoff prospects while dealing a significant blow to Jamshedpur's qualification hopes.",
+      "stage": "ISL Phase 2",
+      "official_source": "https://www.indiansuperleague.com/matches"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Indian Super League",
+      "match_date": "2026-03-15",
+      "venue": "Inter Kashi Stadium, Varanasi",
+      "status": "completed",
+      "teams": {"home": "Inter Kashi FC", "away": "Mumbai City FC"},
+      "score": {"home": "1", "away": "2"},
+      "result": "Mumbai City FC's away win keeps their title challenge alive while Inter Kashi's home form continues to concern their supporters.",
+      "stage": "ISL Phase 2",
+      "official_source": "https://www.indiansuperleague.com/matches"
     }
   ]
 }
