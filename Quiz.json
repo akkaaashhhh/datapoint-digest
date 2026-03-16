@@ -1,185 +1,185 @@
 {
-  "date": "2026-03-15",
+  "date": "March 16, 2026",
   "questions": [
     {
       "id": "q_01",
-      "question": "The US strike on Kharg Island and subsequent Iranian retaliation against refueling tankers illustrates a shift in the Middle Eastern security paradigm. This development primarily underscores which strategic doctrine?",
+      "question": "The recent blockade of the Strait of Hormuz and the subsequent reluctance of major NATO allies to join a US-led maritime task force primarily illustrates which shift in global strategic doctrines?",
       "options": [
-        "The Doctrine of 'Salami Slicing', where territory is captured in small, non-escalatory increments.",
-        "The shift from 'Gray Zone' proxy warfare to direct 'Kinetic Engagement' against sovereign high-value economic assets.",
-        "The 'Offshore Balancing' strategy, where the US utilizes local maritime militias to contain Iran.",
-        "The 'Strategic Depth' doctrine, wherein Iran uses Kharg Island as a mobile launch platform for ballistic missiles."
+        "The complete abandonment of the 'Carter Doctrine' by the United States in the Middle East.",
+        "A transition from 'unipolar security provision' to 'strategic hedging' by middle powers and traditional allies.",
+        "The emergence of the 'Blue Water Policy' as the dominant naval strategy for European continental powers.",
+        "The total replacement of the UN Convention on the Law of the Sea (UNCLOS) with bilateral transit treaties."
       ],
       "correct_index": 1,
-      "explanation": "Kharg Island handles 90% of Iran's oil exports. Historically, the US and Iran engaged via 'Gray Zone' tactics (proxies, cyber-attacks). A direct strike on a primary sovereign economic hub, followed by a direct Iranian strike on US tankers in Saudi Arabia, signifies a collapse of deniability and a move into overt kinetic conflict. (Static Link: IR - Strategic Doctrines)."
+      "explanation": "The reluctance of allies (UK, France, Germany) to intervene despite a global energy crisis illustrates 'strategic hedging.' Allies are no longer automatically aligning with US military objectives (the hallmark of unipolarity) due to the perceived risks of a wider war with Iran. The Carter Doctrine (defending US interests in the Gulf) is being tested, not abandoned, by the US, but its collective enforcement by allies has fragmented."
     },
     {
       "id": "q_02",
-      "question": "The US decision to grant a 30-day waiver on Russian oil sanctions to mitigate the Iran-driven price shock illustrates which concept in international political economy?",
+      "question": "In the context of the IEA’s emergency release of 412 million barrels of oil, which macroeconomic transmission channel is MOST likely to be disrupted if the conflict persists beyond 45 days?",
       "options": [
-        "The 'Sanctions Paradox', where the imposition of restrictions on one adversary inadvertently empowers another due to market interdependencies.",
-        "The 'Most Favored Nation' (MFN) principle under WTO, which forbids discriminatory energy sanctions.",
-        "The 'Mercantilist' approach, prioritizing the accumulation of gold reserves over geopolitical alliances.",
-        "The 'Security Dilemma', where increasing the energy security of the EU decreases the national security of Ukraine."
+        "The wealth effect through the appreciation of domestic currency in oil-importing nations.",
+        "The cost-push inflation channel, leading to a 'hawkish' pivot that risks global stagflation.",
+        "The capital account surplus of emerging markets due to decreased energy import bills.",
+        "The fiscal consolidation of OPEC+ nations due to a surge in demand-side elasticity."
       ],
-      "correct_index": 0,
-      "explanation": "The US faces a dilemma: keep Russian sanctions strict (geopolitical goal) or ease them to lower global oil prices (economic goal). This 'Sanctions Paradox' shows that in a globalized economy, aggressive sanctions can become self-defeating if they trigger domestic inflation or force the sanctioning power to compromise its own policy architecture to prevent a global recession. (Static Link: Economy - International Trade)."
+      "correct_index": 1,
+      "explanation": "The IEA release provides a 26-day buffer. Beyond that, the supply disruption (15m bpd) exceeds the buffer, leading to sustained $100+ oil. This triggers the cost-push inflation channel. Central banks (Fed, ECB), as noted in the news, are reassessing rate cuts—moving 'hawkish' (keeping rates high). Higher costs + higher interest rates + slowed growth = Stagflation."
     },
     {
       "id": "q_03",
-      "question": "With crude oil breaching $100/barrel, the 'Fertiliser Supply Chain' is cited as a major risk to global food security. What is the precise scientific/economic link between natural gas prices and food production?",
+      "question": "India's success in securing specific passage for the LPG tankers 'Shivalik' and 'Nanda Devi' through the blockaded Strait of Hormuz is an application of which diplomatic principle?",
       "options": [
-        "Natural gas is used as a lubricant for industrial tractors, increasing the cost of harvesting.",
-        "The Haber-Bosch process uses natural gas as both a fuel and a feedstock to produce ammonia, the basis of nitrogenous fertilizers.",
-        "Natural gas is injected into soil to increase the 'Cation Exchange Capacity' for wheat cultivation.",
-        "High gas prices lead to 'Photo-inhibition' in cereal crops, reducing the rate of photosynthesis."
+        "Strategic Autonomy through selective multi-alignment.",
+        "Gunboat Diplomacy to ensure maritime commercial rights.",
+        "Adherence to the 'Panchsheel' principles of non-interference in Gulf affairs.",
+        "The 'Neighborhood First' policy extended to the extended maritime periphery."
       ],
-      "correct_index": 1,
-      "explanation": "Modern agriculture relies on nitrogen fertilizers. These are produced via the Haber-Bosch process, which requires high pressure and temperature (fuel) and a source of hydrogen (feedstock). Natural gas ($CH_4$) provides both. When gas prices spike or supply is disrupted, fertilizer production drops, leading to lower crop yields and higher food prices globally. (Static Link: Geography/S&T - Agriculture)."
+      "correct_index": 0,
+      "explanation": "India achieved this through direct EAM-level talks with Iran while maintaining a relationship with the US. This 'selective multi-alignment' allows India to protect its national interests (energy security) without joining the US military coalition, thereby exercising 'Strategic Autonomy.'"
     },
     {
       "id": "q_04",
-      "question": "The record 12-minute sustained fusion plasma in the Wendelstein 7-X stellarator is a milestone in clean energy. How does the magnetic confinement in a 'Stellarator' fundamentally differ from a 'Tokamak'?",
+      "question": "The 'black rain' phenomenon reported in Iran and neighboring regions following strikes on oil infrastructure illustrates which environmental concept often overlooked in conventional warfare planning?",
       "options": [
-        "Stellarators use 'Inertial Confinement' via laser beams, whereas Tokamaks use 'Gravitational Confinement'.",
-        "Tokamaks require a toroidal current to be driven through the plasma itself, while Stellarators use complex external coils to create a twisted magnetic field.",
-        "Stellarators utilize 'Cold Fusion' principles, whereas Tokamaks operate in the 'Plasma' state.",
-        "Tokamaks are limited to using 'Uranium-235', while Stellarators can fuse 'Lithium-6'."
+        "The 'Greenhouse Gas Protocol' for military industrial complexes.",
+        "Transboundary pollution and the violation of the 'Precautionary Principle' in conflict zones.",
+        "The 'Carbon Sequestration' failure of industrial refineries.",
+        "The 'Albedo Effect' reduction through the increase of atmospheric hydrocarbons."
       ],
       "correct_index": 1,
-      "explanation": "Tokamaks (like ITER) are easier to build but prone to plasma instabilities because they rely on a current flowing *through* the plasma for confinement. Stellarators (like W7-X) use extremely complex, computer-optimized external magnets to shape the field, avoiding the need for a plasma current and allowing for more stable, continuous operation. (Static Link: S&T - Nuclear Fusion)."
+      "explanation": "Black rain carries toxic PAHs across borders. This is a classic case of 'transboundary pollution.' In international environmental law, the 'Precautionary Principle' suggests avoiding actions with potentially catastrophic environmental impacts. Targeted strikes on refineries ignore the long-term public health and ecological externalities that cross sovereign borders."
     },
     {
       "id": "q_05",
-      "question": "The US Army’s $20 billion contract to Anduril for 'Autonomous Weapons' raises significant concerns regarding 'International Humanitarian Law' (IHL). Which principle is most challenged by the deployment of LAWS (Lethal Autonomous Weapons Systems)?",
+      "question": "The 'Defence Forces Vision 2047' document’s emphasis on 'Integrated Theater Commands' is primarily aimed at addressing which structural deficiency in the Indian military?",
       "options": [
-        "The 'Principle of Distinction', as AI may struggle to differentiate between active combatants and wounded/surrendering soldiers.",
-        "The 'Doctrine of Universal Jurisdiction', which forbids the use of robots in international waters.",
-        "The 'Non-Proliferation Treaty' (NPT), which limits the number of autonomous drones a state can possess.",
-        "The 'Pacta Sunt Servanda' principle, which requires all weapons to be manually operated by a commissioned officer."
+        "The lack of civilian oversight in the Ministry of Defence.",
+        "The 'silo-based' operational planning and lack of inter-service 'jointness'.",
+        "The excessive dependence on Foreign Direct Investment (FDI) for critical ammunition.",
+        "The geographical imbalance of the 'Mountain Strike Corps' along the LAC."
       ],
-      "correct_index": 0,
-      "explanation": "IHL requires combatants to distinguish between civilians and military targets (Distinction) and to ensure that the damage to civilians is not excessive relative to the military gain (Proportionality). The 'Accountability Gap' and the technical difficulty of AI in interpreting complex human behaviors (like surrendering) pose major challenges to these legal principles. (Static Link: IR/Ethics - Internal Security)."
+      "correct_index": 1,
+      "explanation": "Theaterisation (Integrated Theater Commands) is designed to bring the Army, Navy, and Air Force under a single operational commander for specific regions. This moves away from 'silos' where each service plans independently, ensuring 'jointness'—a lesson reinforced by the need for rapid, coordinated responses in the evolving Gulf/maritime security landscape."
     },
     {
       "id": "q_06",
-      "question": "The Opposition's notice for the removal of the Chief Election Commissioner (CEC) follows the 2023 change in appointment laws. Under the Constitution, the procedure for the removal of the CEC is identical to that of:",
+      "question": "Which constitutional or legal challenge is MOST likely to arise in India as the government pushes for indigenous 6G technology trials under the 'Bharat 6G Mission'?",
       "options": [
-        "The Prime Minister of India.",
-        "A Judge of the Supreme Court of India.",
-        "The Attorney General for India.",
-        "The Speaker of the Lok Sabha."
+        "A conflict between Union and State lists over the regulation of electromagnetic spectrum.",
+        "Challenges to Intellectual Property (IP) ownership models between public IITs and private vendors.",
+        "The violation of the 'Right to Information' regarding the source code of 6G algorithms.",
+        "The 'Doctrine of Colorable Legislation' applied to telecommunications infrastructure."
       ],
       "correct_index": 1,
-      "explanation": "Under Article 324(5), the CEC shall not be removed from his office except in like manner and on the like grounds as a Judge of the Supreme Court. This requires a motion passed by both Houses of Parliament with a special majority (2/3rd of members present and voting and a majority of the total membership) on the grounds of 'proved misbehavior or incapacity'. (Static Link: Polity - Constitutional Bodies)."
+      "explanation": "The mission is a collaboration between the Government (Centre) and IITs (Academic). As indigenous IP is created, the primary legal hurdle will be the commercialization and ownership rights of that IP—whether it stays with the public institutions, the state, or the private players who eventually manufacture the hardware."
     },
     {
       "id": "q_07",
-      "question": "The WHO's approval of CRISPR-based malaria vaccine trials marks a new frontier in biotechnology. Which structural feature of the CRISPR-Cas9 system allows for such high-precision antigen engineering?",
+      "question": "The discovery that the TDP43 protein regulates the 'DNA mismatch repair system' (MMR) has what major implication for the future of medical therapeutics?",
       "options": [
-        "The use of 'Reverse Transcriptase' to convert RNA into DNA without a template.",
-        "The 'Guide RNA' (gRNA) component which is programmed to match a specific DNA sequence in the genome.",
-        "The 'Bacteriophage' shell which protects the vaccine from the human immune system.",
-        "The 'Quantum Entanglement' of proteins that allow for simultaneous editing of multiple cells."
+        "It confirms that ALS is a purely genetic disease with no environmental triggers.",
+        "It suggests a 'shared pathological pathway' between neurodegeneration and oncogenesis.",
+        "It proves that frontotemporal dementia can be cured using simple protein supplements.",
+        "It indicates that DNA repair only occurs in the cytoplasm of motor neurons."
       ],
       "correct_index": 1,
-      "explanation": "CRISPR-Cas9 acts as 'molecular scissors'. The Cas9 enzyme does the cutting, but the 'Guide RNA' is the GPS—it is a sequence of RNA designed to be complementary to the target DNA. This allows scientists to target a precise gene in the malaria parasite or the host to trigger a specific immune response. (Static Link: S&T - Biotechnology)."
+      "explanation": "The research found that TDP43 levels affect both neurons (ALS/Dementia) and mutation loads in tumors (Cancer). This links neurodegeneration and 'oncogenesis' (cancer formation) through a single protein's role in the fundamental DNA repair mechanism, potentially allowing for treatments that address both categories."
     },
     {
       "id": "q_08",
-      "question": "Fitch's upgrade of India's GDP growth to 7.5% is attributed to 'Resilient Domestic Demand'. In macroeconomic terms, which 'Automatic Stabilizer' helps India maintain growth despite global energy price shocks?",
+      "question": "Fitch Ratings' upgrade of India’s FY26 GDP growth to 7.5%, despite $100 oil, is predicated on which structural feature of the Indian economy?",
       "options": [
-        "The 'Progressive Income Tax' system, which reduces the tax burden as household incomes drop.",
-        "The 'Strategic Petroleum Reserve' (SPR) release, which acts as a physical price buffer.",
-        "The 'Floating Exchange Rate', which allows the Rupee to depreciate and boost export competitiveness.",
-        "The 'Fixed Interest Rate' regime managed by the NITI Aayog."
+        "The shift from a service-led economy to an export-oriented manufacturing base.",
+        "The resilience of domestic private consumption and high-frequency digital payment momentum.",
+        "The total elimination of the Current Account Deficit (CAD) through indigenous energy production.",
+        "The decoupling of the Indian Rupee from global commodity price fluctuations."
       ],
-      "correct_index": 0,
-      "explanation": "Automatic stabilizers are features of the structure of modern government budgets (like progressive taxes and welfare payments) that act to dampen fluctuations in real GDP without any explicit policy change. When growth slows due to high oil prices, tax revenues fall and welfare spending (like MNREGA) rises, naturally supporting aggregate demand. (Static Link: Economy - Fiscal Policy)."
+      "correct_index": 1,
+      "explanation": "Fitch specifically cited 'resilient domestic demand' (8.6% consumption growth) and GST/digital payment momentum. While high oil prices hurt the CAD and inflation, the sheer volume of domestic economic activity acts as a buffer for the headline GDP growth rate in the short term."
     },
     {
       "id": "q_09",
-      "question": "The Indian LPG carrier Shivalik's transit through the Strait of Hormuz was monitored by naval authorities. Under UNCLOS, what is the legal status of the 'Transit Passage' regime compared to 'Innocent Passage'?",
+      "question": "North Korea’s test of the KN-25 system during the 'Freedom Shield' exercise, amid the global focus on the Iran war, illustrates which geopolitical tactic?",
       "options": [
-        "Transit passage allows for 'overflight' and 'submerged transit' by submarines, which are prohibited under innocent passage.",
-        "Innocent passage allows a coastal state to suspend all traffic for national security, whereas transit passage cannot be suspended.",
-        "Transit passage applies only to commercial vessels, while innocent passage applies only to warships.",
-        "Both (a) and (b) are correct."
+        "Strategic Patience.",
+        "Opportunistic Escalation.",
+        "Diplomatic Isolationism.",
+        "Nuclear Decoupling."
       ],
-      "correct_index": 3,
-      "explanation": "Transit Passage (Art 38 of UNCLOS) applies to international straits. It is more permissive than 'Innocent Passage' because it allows aircraft to fly over and submarines to stay submerged. Crucially, while a state can temporarily suspend innocent passage in its territorial sea for security, it *cannot* suspend transit passage through an international strait. (Static Link: Geography/IR - Maritime Law)."
+      "correct_index": 1,
+      "explanation": "By conducting tests when the US is distracted by a major war in the Middle East and energy crises, North Korea practices 'opportunistic escalation'—advancing its nuclear program and testing 'red lines' while the international community's capacity to respond is overstretched."
     },
     {
       "id": "q_10",
-      "question": "The SEBI's decision to reduce 'Minimum Public Float' (MPF) requirements for mega-companies like Reliance Jio aims to facilitate deep-market liquidity. What is the primary risk associated with a very low public float?",
+      "question": "The cancellation of Formula 1 races in Bahrain and Saudi Arabia primarily impacts which aspect of the GCC states' 'Vision 2030' strategies?",
       "options": [
-        "Increased 'Price Volatility' and susceptibility to 'Price Manipulation' due to fewer shares being available for trade.",
-        "A mandatory takeover by the 'Investor Education and Protection Fund' (IEPF).",
-        "A decrease in the 'Debt-to-Equity' ratio, making the company insolvent.",
-        "The inability of the company to issue 'Bonus Shares' to existing promoters."
+        "The 'National Transformation Program' for religious tourism.",
+        "The 'Soft Power' and economic diversification pillars intended to reduce oil-dependency.",
+        "The 'Fiscal Sustainability' pillar by reducing the sovereign debt-to-GDP ratio.",
+        "The 'Labor Market Reform' aiming at the nationalization of the private sector."
       ],
-      "correct_index": 0,
-      "explanation": "Public float refers to the portion of shares held by the public (non-promoters). If the float is too low, a small number of trades can cause massive swings in the stock price (high volatility). It also makes it easier for operators to corner the market and manipulate prices. SEBI usually mandates 25% MPF, but reduces it for mega-IPOs to avoid flooding the market with too much supply at once. (Static Link: Economy - Capital Markets)."
+      "correct_index": 1,
+      "explanation": "Large sporting events like F1 are key to the GCC's 'Soft Power' (branding) and 'Economic Diversification' (tourism/services). Their cancellation due to war risks directly undermines the goal of moving the economy away from raw crude exports to a service-based global hub."
     },
     {
       "id": "q_11",
-      "question": "Microsoft and Quantinuum’s 800x improvement in 'Logical Qubit' error rates addresses the 'Decoherence' problem. Conceptually, how does a Logical Qubit function?",
+      "question": "NASA's use of a 'free-return trajectory' for the Artemis II mission is a strategic decision primarily driven by which factor?",
       "options": [
-        "It uses 'Cold Trap' technology to stop all atomic movement.",
-        "It distributes quantum information across multiple physical qubits using 'Error Correction Codes' to detect and fix flips.",
-        "It replaces 'Superposition' with 'Binary Logic' to ensure 100% accuracy.",
-        "It utilizes 'Fiber Optic' cables to transmit quantum states at the speed of light."
+        "The need to minimize the mission's carbon footprint in the upper atmosphere.",
+        "The prioritization of 'passive safety' to ensure the crew returns to Earth even in the event of engine failure.",
+        "The desire to reach the lunar surface faster than the Apollo 11 mission.",
+        "The requirement to test the Orion spacecraft’s docking capabilities with the Gateway station."
       ],
       "correct_index": 1,
-      "explanation": "Physical qubits are fragile and lose their quantum state (decoherence) easily. A Logical Qubit is a 'virtual' qubit made by grouping many physical ones. By using redundancy (like checking multiple copies of a file for errors), the system can identify if a physical qubit has failed and correct it without losing the underlying data. (Static Link: S&T - Quantum Computing)."
+      "explanation": "On Artemis II (a crewed test flight), the 'free-return trajectory' uses the Moon's gravity to naturally pull the craft back to Earth. This is a 'passive safety' measure—if the main engine fails after the initial burn, the laws of physics will still bring the astronauts home without needing further propulsion."
     },
     {
       "id": "q_12",
-      "question": "The EU AI Board’s binding transparency guidelines for 'General Purpose AI' (GPAI) reflect a 'Risk-based approach'. Under this framework, why are LLMs (Large Language Models) categorized differently from 'Narrow AI'?",
+      "question": "The $27 billion deal between Meta and Nebius for AI compute highlights which 'emerging bottleneck' in the Fourth Industrial Revolution?",
       "options": [
-        "LLMs possess 'Systemic Risk' because their outputs can be used in an infinite variety of downstream applications.",
-        "Narrow AI is considered 'Sentient', whereas GPAI is purely mathematical.",
-        "The EU AI Act forbids LLMs from being used by government agencies.",
-        "Narrow AI requires more 'Training Data' than GPAI, making it harder to regulate."
+        "The shortage of skilled software engineers specialized in Python.",
+        "The critical scarcity of HBM (High-Bandwidth Memory) and specialized GPU cloud infrastructure.",
+        "The lack of fiber-optic connectivity between the US and Europe.",
+        "The declining consumer demand for Generative AI applications."
       ],
-      "correct_index": 0,
-      "explanation": "Narrow AI (e.g., a spam filter) has a predictable, single use. General Purpose AI (like GPT-4) can write code, give medical advice, or generate propaganda. Because it is a 'foundation' for many other apps, any flaw in the GPAI creates a systemic risk across the entire digital ecosystem, necessitating stricter transparency and safety testing. (Static Link: S&T - AI Governance)."
+      "correct_index": 1,
+      "explanation": "Hyperscalers like Meta are locking in multi-year deals with 'neoclouds' (Nebius) specifically because there is a global shortage of the physical infrastructure (GPUs and HBM) needed to train AI. This represents a shift from software-focus to a 'hardware-power-compute' bottleneck."
     },
     {
       "id": "q_13",
-      "question": "The RBI’s 'National Compensation Scheme' for cyber fraud victims utilizes the principle of 'Limited Liability'. Under existing RBI norms, if a victim reports an unauthorized digital transaction within 3 days, their liability is:",
+      "question": "The discovery of 'RBFLOAT' (FRB 20250316A) in NGC 4141 challenges existing astrophysical models because:",
       "options": [
-        "100% of the lost amount.",
-        "Zero, regardless of the amount lost.",
-        "Limited to ₹5,000 only.",
-        "50% of the transaction value."
+        "It originated from a 'Black Hole' rather than a neutron star.",
+        "It is the first radio burst to be detected within the Milky Way galaxy.",
+        "It did not repeat, contradicting the 'all FRBs repeat' hypothesis while being exceptionally bright.",
+        "It moved faster than the speed of light, violating Special Relativity."
       ],
-      "correct_index": 1,
-      "explanation": "As per RBI's 'Customer Liability' circulars, if the fraud is not due to the customer's negligence (like sharing an OTP) and is reported within 3 working days, the customer has 'Zero Liability'. The new national scheme aims to standardize this process across all banks to ensure faster reimbursement without the need for police intervention. (Static Link: Economy - Banking/Governance)."
+      "correct_index": 2,
+      "explanation": "The text notes that RBFLOAT did not repeat, which challenges the hypothesis that all Fast Radio Bursts (FRBs) are produced by repeating sources. Its brightness and proximity allow for high-resolution study, potentially rewriting the theory of FRB origins (Magnetars vs. other sources)."
     },
     {
       "id": "q_14",
-      "question": "The 'Act East Policy' is the strategic driver behind PM Modi’s ₹23,550 crore infrastructure push in Silchar. How does the development of the 'Barak Valley' specifically enhance India’s 'Northeast Connectivity'?",
+      "question": "The Ministry of Shipping's 'Priority Berthing' for LPG carriers at Indian ports is a policy intervention designed to mitigate which specific risk?",
       "options": [
-        "It provides a direct 'Land Bridge' to Thailand bypassing Myanmar.",
-        "It serves as a multi-modal hub connecting the Siliguri Corridor with the Chittagong port in Bangladesh.",
-        "It allows for the construction of India's first 'Undersea Tunnel' to Southeast Asia.",
-        "It eliminates the need for the 'Kaladan Multi-Modal Transit Transport Project'."
+        "The 'Inland Waterway' congestion in the National Waterway-1.",
+        "The 'Last-Mile Delivery' failure of the Ujjwala Scheme.",
+        "The 'Supply Chain Lead Time' volatility caused by maritime chokepoint disruptions.",
+        "The 'Predatory Pricing' by private port operators in Gujarat."
       ],
-      "correct_index": 1,
-      "explanation": "Silchar (Barak Valley) is geographically vital for connecting Tripura, Mizoram, and Manipur. Improving infrastructure here facilitates the use of the 'Chittagong and Mongla Ports' in Bangladesh for Indian goods, reducing the reliance on the narrow 'Chicken's Neck' (Siliguri Corridor) and integrating the NE economy with the Bay of Bengal. (Static Link: Geography/IR - Internal Security)."
+      "correct_index": 2,
+      "explanation": "Because of the Hormuz blockade, LPG shipments are delayed and scarce. 'Priority Berthing' reduces the time a ship spends waiting at port (Lead Time), ensuring the limited available fuel reaches the market as fast as possible to prevent domestic shortages."
     },
     {
       "id": "q_15",
-      "question": "SpaceX’s Starship achieving 'Full Reusability' is compared to the 'Aviation Model' of transport. Which economic hurdle does this primarily overcome for Deep Space exploration?",
+      "question": "The shift of Ukraine-Russia peace talks from UAE/Geneva to an 'uncertain venue' due to the US-Iran war illustrates which concept in International Relations?",
       "options": [
-        "The 'Kessler Syndrome' by allowing rockets to pick up space debris.",
-        "The 'High Fixed Cost' of discarding the first-stage hardware after every single launch.",
-        "The 'Van Allen Radiation' by using thick lead shielding that only reusable rockets can carry.",
-        "The 'Launch Window' constraint for Mars by allowing rockets to take off in any weather."
+        "The 'Thucydides Trap' between regional powers.",
+        "The 'Issue Linkage' and 'Conflict Displacement' effect where one theater’s escalation stalls another’s resolution.",
+        "The 'Democratic Peace Theory' where NATO members prioritize democratic allies.",
+        "The 'Balance of Power' shifting toward the Global South's mediation."
       ],
       "correct_index": 1,
-      "explanation": "Currently, space travel is like flying a Boeing 747 from New York to London and then crashing the plane into the ocean. You have to build a new plane for the return flight. Full reusability means you only pay for fuel and maintenance, dropping the cost per kg to orbit by orders of magnitude, making missions to the Moon and Mars economically viable. (Static Link: S&T - Space Technology)."
+      "explanation": "This is 'Conflict Displacement.' The US resources (diplomatic and military, like Patriot systems) are finite. Escalation in the Middle East 'displaces' the attention and resources required to conclude the Ukraine conflict, effectively linking two geographically separate security issues."
     }
   ]
 }
