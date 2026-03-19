@@ -1,185 +1,185 @@
 {
-  "date": "March 16, 2026",
+  "date": "March 18, 2026",
   "questions": [
     {
       "id": "q_01",
-      "question": "The recent blockade of the Strait of Hormuz and the subsequent reluctance of major NATO allies to join a US-led maritime task force primarily illustrates which shift in global strategic doctrines?",
+      "question": "The targeted assassination of Iran's Intelligence Minister and Supreme National Security Council chief by Israel primarily illustrates which shift in modern strategic security doctrines?",
       "options": [
-        "The complete abandonment of the 'Carter Doctrine' by the United States in the Middle East.",
-        "A transition from 'unipolar security provision' to 'strategic hedging' by middle powers and traditional allies.",
-        "The emergence of the 'Blue Water Policy' as the dominant naval strategy for European continental powers.",
-        "The total replacement of the UN Convention on the Law of the Sea (UNCLOS) with bilateral transit treaties."
+        "A transition from 'Counter-Insurgency' to 'Grey Zone' hybrid warfare.",
+        "The application of 'Decapitation Strikes' to degrade institutional command-and-control rather than just physical assets.",
+        "A move toward 'Pre-emptive Self-Defence' as defined under the Caroline Test of international law.",
+        "The complete abandonment of 'Strategic Depth' as a defensive mechanism in Middle Eastern geopolitics."
       ],
       "correct_index": 1,
-      "explanation": "The reluctance of allies (UK, France, Germany) to intervene despite a global energy crisis illustrates 'strategic hedging.' Allies are no longer automatically aligning with US military objectives (the hallmark of unipolarity) due to the perceived risks of a wider war with Iran. The Carter Doctrine (defending US interests in the Gulf) is being tested, not abandoned, by the US, but its collective enforcement by allies has fragmented."
+      "explanation": "The systematic targeting of top-tier intelligence and security leadership (Khatib and Larijani) is a classic 'Decapitation' strategy. Unlike standard attrition, this seeks to paralyze the state's 'brain'—its ability to coordinate proxies and covert operations. Static link: GS Paper III (Security Challenges and their Management)."
     },
     {
       "id": "q_02",
-      "question": "In the context of the IEA’s emergency release of 412 million barrels of oil, which macroeconomic transmission channel is MOST likely to be disrupted if the conflict persists beyond 45 days?",
+      "question": "The military targeting of the South Pars gas field, a shared asset between Iran and Qatar, has the most significant implication for which international relations framework?",
       "options": [
-        "The wealth effect through the appreciation of domestic currency in oil-importing nations.",
-        "The cost-push inflation channel, leading to a 'hawkish' pivot that risks global stagflation.",
-        "The capital account surplus of emerging markets due to decreased energy import bills.",
-        "The fiscal consolidation of OPEC+ nations due to a surge in demand-side elasticity."
+        "The principle of 'Common Heritage of Mankind' in maritime resource sharing.",
+        "The 'Neutrality Doctrine' of non-belligerent third-party states in regional conflicts.",
+        "The erosion of 'Trans-boundary Resource Immunity' during active hostilities.",
+        "The 'Responsibility to Protect' (R2P) framework regarding shared environmental ecosystems."
       ],
       "correct_index": 1,
-      "explanation": "The IEA release provides a 26-day buffer. Beyond that, the supply disruption (15m bpd) exceeds the buffer, leading to sustained $100+ oil. This triggers the cost-push inflation channel. Central banks (Fed, ECB), as noted in the news, are reassessing rate cuts—moving 'hawkish' (keeping rates high). Higher costs + higher interest rates + slowed growth = Stagflation."
+      "explanation": "Striking South Pars directly impacts Qatar, a neutral party sharing the reservoir. This tests the 'Neutrality Doctrine' as the non-belligerent state (Qatar) suffers direct economic and physical consequences of a bilateral war (US-Israel vs. Iran), potentially forcing it to abandon neutrality. Static link: GS Paper II (International Relations)."
     },
     {
       "id": "q_03",
-      "question": "India's success in securing specific passage for the LPG tankers 'Shivalik' and 'Nanda Devi' through the blockaded Strait of Hormuz is an application of which diplomatic principle?",
+      "question": "Regarding the global energy shock with oil at $110/barrel, which macroeconomic transmission channel is MOST likely to trigger a recession in emerging economies like India?",
       "options": [
-        "Strategic Autonomy through selective multi-alignment.",
-        "Gunboat Diplomacy to ensure maritime commercial rights.",
-        "Adherence to the 'Panchsheel' principles of non-interference in Gulf affairs.",
-        "The 'Neighborhood First' policy extended to the extended maritime periphery."
+        "The Capital Account channel through increased Foreign Portfolio Investment (FPI) inflows.",
+        "The Cost-Push Inflation channel leading to a 'Stagflationary' spiral.",
+        "The Wealth Effect channel via increased valuation of domestic energy stocks.",
+        "The Trade Balance channel through a sudden surplus in the Current Account."
       ],
-      "correct_index": 0,
-      "explanation": "India achieved this through direct EAM-level talks with Iran while maintaining a relationship with the US. This 'selective multi-alignment' allows India to protect its national interests (energy security) without joining the US military coalition, thereby exercising 'Strategic Autonomy.'"
+      "correct_index": 1,
+      "explanation": "Surging oil prices act as a 'supply shock.' This increases production costs (Cost-Push Inflation) while simultaneously slowing growth due to reduced consumer spending, leading to 'Stagflation.' For India, an oil importer, this is the primary recessionary trigger. Static link: GS Paper III (Indian Economy)."
     },
     {
       "id": "q_04",
-      "question": "The 'black rain' phenomenon reported in Iran and neighboring regions following strikes on oil infrastructure illustrates which environmental concept often overlooked in conventional warfare planning?",
+      "question": "The US decision to ease sanctions on Venezuela while at war with Iran demonstrates which concept in Realpolitik?",
       "options": [
-        "The 'Greenhouse Gas Protocol' for military industrial complexes.",
-        "Transboundary pollution and the violation of the 'Precautionary Principle' in conflict zones.",
-        "The 'Carbon Sequestration' failure of industrial refineries.",
-        "The 'Albedo Effect' reduction through the increase of atmospheric hydrocarbons."
+        "Strategic Hedging: Preparing for a post-fossil fuel global order.",
+        "Tactical Realignment: Prioritizing immediate economic stability over long-term ideological containment.",
+        "Constructive Engagement: Using trade to foster democratic transitions in South America.",
+        "Liberal Internationalism: Strengthening multilateral sanctions regimes through selective enforcement."
       ],
       "correct_index": 1,
-      "explanation": "Black rain carries toxic PAHs across borders. This is a classic case of 'transboundary pollution.' In international environmental law, the 'Precautionary Principle' suggests avoiding actions with potentially catastrophic environmental impacts. Targeted strikes on refineries ignore the long-term public health and ecological externalities that cross sovereign borders."
+      "explanation": "The 'Maximum Pressure' campaign on Venezuela was an ideological/political goal. Easing it to fix the oil supply shows 'Tactical Realignment'—the US is willing to compromise one foreign policy objective (regime change in Venezuela) to mitigate the fallout of a higher-priority conflict (Iran War). Static link: GS Paper II (Effect of Policies of developed countries)."
     },
     {
       "id": "q_05",
-      "question": "The 'Defence Forces Vision 2047' document’s emphasis on 'Integrated Theater Commands' is primarily aimed at addressing which structural deficiency in the Indian military?",
+      "question": "The US Federal Reserve's decision to hold rates steady despite surging energy prices indicates that it views current inflation primarily as:",
       "options": [
-        "The lack of civilian oversight in the Ministry of Defence.",
-        "The 'silo-based' operational planning and lack of inter-service 'jointness'.",
-        "The excessive dependence on Foreign Direct Investment (FDI) for critical ammunition.",
-        "The geographical imbalance of the 'Mountain Strike Corps' along the LAC."
+        "Demand-pull inflation that requires aggressive monetary tightening.",
+        "Transitory inflation caused by excessive fiscal stimulus packages.",
+        "Supply-side disruption that renders interest rate hikes less effective as a corrective tool.",
+        "Structural inflation linked to the long-term devaluation of the US Dollar."
       ],
-      "correct_index": 1,
-      "explanation": "Theaterisation (Integrated Theater Commands) is designed to bring the Army, Navy, and Air Force under a single operational commander for specific regions. This moves away from 'silos' where each service plans independently, ensuring 'jointness'—a lesson reinforced by the need for rapid, coordinated responses in the evolving Gulf/maritime security landscape."
+      "correct_index": 2,
+      "explanation": "Monetary policy (rates) controls demand. If inflation is caused by a 'Supply-side shock' (war disrupting oil), raising rates won't bring more oil to the market; it might only kill growth further. The Fed's hesitation signals a recognition of this limitation. Static link: GS Paper III (Economic Development/Monetary Policy)."
     },
     {
       "id": "q_06",
-      "question": "Which constitutional or legal challenge is MOST likely to arise in India as the government pushes for indigenous 6G technology trials under the 'Bharat 6G Mission'?",
+      "question": "Iran's missile strikes on Qatar’s Ras Laffan and Saudi’s Riyadh primarily represent an attempt to disrupt which regional security architecture?",
       "options": [
-        "A conflict between Union and State lists over the regulation of electromagnetic spectrum.",
-        "Challenges to Intellectual Property (IP) ownership models between public IITs and private vendors.",
-        "The violation of the 'Right to Information' regarding the source code of 6G algorithms.",
-        "The 'Doctrine of Colorable Legislation' applied to telecommunications infrastructure."
+        "The OPEC+ production quota consensus.",
+        "The 'Abraham Accords' framework of regional normalization.",
+        "The GCC (Gulf Cooperation Council) collective neutrality and security shielding.",
+        "The 'Belt and Road' maritime corridor security protocol."
       ],
-      "correct_index": 1,
-      "explanation": "The mission is a collaboration between the Government (Centre) and IITs (Academic). As indigenous IP is created, the primary legal hurdle will be the commercialization and ownership rights of that IP—whether it stays with the public institutions, the state, or the private players who eventually manufacture the hardware."
+      "correct_index": 2,
+      "explanation": "By striking GCC members (Qatar, Saudi, UAE), Iran is signaling that 'neutrality' is not a shield if those states host US assets. This is a direct challenge to the GCC’s ability to remain insulated from the US-Iran conflict. Static link: GS Paper II (Bilateral, regional and global groupings)."
     },
     {
       "id": "q_07",
-      "question": "The discovery that the TDP43 protein regulates the 'DNA mismatch repair system' (MMR) has what major implication for the future of medical therapeutics?",
+      "question": "The 'munitions diversion' mentioned by President Zelensky highlights which vulnerability in the 'Just-in-Time' defense industrial base of NATO?",
       "options": [
-        "It confirms that ALS is a purely genetic disease with no environmental triggers.",
-        "It suggests a 'shared pathological pathway' between neurodegeneration and oncogenesis.",
-        "It proves that frontotemporal dementia can be cured using simple protein supplements.",
-        "It indicates that DNA repair only occurs in the cytoplasm of motor neurons."
+        "The lack of standardized ammunition calibers across member states.",
+        "The inability to scale production rapidly for two simultaneous, high-intensity conventional theaters.",
+        "The failure of 'Cyber-Kinetic' integration in modern missile defense.",
+        "The excessive reliance on 'Off-the-shelf' commercial components in precision weaponry."
       ],
       "correct_index": 1,
-      "explanation": "The research found that TDP43 levels affect both neurons (ALS/Dementia) and mutation loads in tumors (Cancer). This links neurodegeneration and 'oncogenesis' (cancer formation) through a single protein's role in the fundamental DNA repair mechanism, potentially allowing for treatments that address both categories."
+      "explanation": "Modern defense manufacturing is optimized for low-volume, high-tech production. Zelensky's warning proves the NATO industrial base lacks the 'surge capacity' needed when two major wars (Ukraine and Iran) compete for the same limited inventory of interceptors and missiles. Static link: GS Paper III (Internal Security/Defence)."
     },
     {
       "id": "q_08",
-      "question": "Fitch Ratings' upgrade of India’s FY26 GDP growth to 7.5%, despite $100 oil, is predicated on which structural feature of the Indian economy?",
+      "question": "China’s refusal to support shipping restrictions in the Strait of Hormuz primarily illustrates its commitment to which international principle?",
       "options": [
-        "The shift from a service-led economy to an export-oriented manufacturing base.",
-        "The resilience of domestic private consumption and high-frequency digital payment momentum.",
-        "The total elimination of the Current Account Deficit (CAD) through indigenous energy production.",
-        "The decoupling of the Indian Rupee from global commodity price fluctuations."
+        "The 'Right of Innocent Passage' under UNCLOS.",
+        "The 'Exclusive Economic Zone' (EEZ) sovereignty rights.",
+        "The 'Common Concern of Mankind' regarding climate change.",
+        "The 'Global Commons' theory of space exploration."
       ],
-      "correct_index": 1,
-      "explanation": "Fitch specifically cited 'resilient domestic demand' (8.6% consumption growth) and GST/digital payment momentum. While high oil prices hurt the CAD and inflation, the sheer volume of domestic economic activity acts as a buffer for the headline GDP growth rate in the short term."
+      "correct_index": 0,
+      "explanation": "China invokes 'Freedom of Navigation' and the 'Right of Innocent Passage' (UN Convention on the Law of the Sea - UNCLOS) to justify continued trade. This serves its interest in securing energy while legally countering US 'Maximum Pressure' blockades. Static link: GS Paper II (Important International institutions/UNCLOS)."
     },
     {
       "id": "q_09",
-      "question": "North Korea’s test of the KN-25 system during the 'Freedom Shield' exercise, amid the global focus on the Iran war, illustrates which geopolitical tactic?",
+      "question": "Russia’s accusation regarding Western activity in the Arctic suggests the emergence of a 'Security Dilemma' in the North. This is best defined as:",
       "options": [
-        "Strategic Patience.",
-        "Opportunistic Escalation.",
-        "Diplomatic Isolationism.",
-        "Nuclear Decoupling."
+        "A situation where one state's efforts to increase its security are perceived as a threat by others, leading to an escalatory spiral.",
+        "The legal dispute over the extension of the 'Continental Shelf' beyond 200 nautical miles.",
+        "The economic competition between the 'Northern Sea Route' and the 'Suez Canal'.",
+        "The environmental risk of permafrost melt affecting military infrastructure."
       ],
-      "correct_index": 1,
-      "explanation": "By conducting tests when the US is distracted by a major war in the Middle East and energy crises, North Korea practices 'opportunistic escalation'—advancing its nuclear program and testing 'red lines' while the international community's capacity to respond is overstretched."
+      "correct_index": 0,
+      "explanation": "A 'Security Dilemma' occurs when defensive actions (NATO's northward focus) are viewed as offensive by the rival (Russia), prompting a counter-buildup. This is the core of Russia's 'deliberate security threats' claim. Static link: GS Paper II (International Relations)."
     },
     {
       "id": "q_10",
-      "question": "The cancellation of Formula 1 races in Bahrain and Saudi Arabia primarily impacts which aspect of the GCC states' 'Vision 2030' strategies?",
+      "question": "The Indian government’s mandate that 60% of domestic flight seats be free of ancillary charges is an example of 'Regulatory Intervention' aimed at curbing which market behavior?",
       "options": [
-        "The 'National Transformation Program' for religious tourism.",
-        "The 'Soft Power' and economic diversification pillars intended to reduce oil-dependency.",
-        "The 'Fiscal Sustainability' pillar by reducing the sovereign debt-to-GDP ratio.",
-        "The 'Labor Market Reform' aiming at the nationalization of the private sector."
+        "Predatory Pricing",
+        "Price Bundling and Opaque Ancillary Extraction",
+        "Cartelization of fuel procurement",
+        "Monopolistic entry barriers"
       ],
       "correct_index": 1,
-      "explanation": "Large sporting events like F1 are key to the GCC's 'Soft Power' (branding) and 'Economic Diversification' (tourism/services). Their cancellation due to war risks directly undermines the goal of moving the economy away from raw crude exports to a service-based global hub."
+      "explanation": "Airlines often use 'unbundling' to show a low base fare but charge for every seat. By mandating 60% free seats, the government is forcing 'Price Transparency' and protecting consumers from 'hidden' costs in a concentrated market. Static link: GS Paper III (Aviation Sector/Infrastructure)."
     },
     {
       "id": "q_11",
-      "question": "NASA's use of a 'free-return trajectory' for the Artemis II mission is a strategic decision primarily driven by which factor?",
+      "question": "With the Rupee at 92.50, the Reserve Bank of India (RBI) faces a 'Policy Trilemma'. Which of the following best describes the components of this trilemma?",
       "options": [
-        "The need to minimize the mission's carbon footprint in the upper atmosphere.",
-        "The prioritization of 'passive safety' to ensure the crew returns to Earth even in the event of engine failure.",
-        "The desire to reach the lunar surface faster than the Apollo 11 mission.",
-        "The requirement to test the Orion spacecraft’s docking capabilities with the Gateway station."
+        "Fiscal Deficit, Inflation Target, and GDP Growth.",
+        "Independent Monetary Policy, Fixed Exchange Rate, and Free Capital Movement.",
+        "Direct Tax Reform, Indirect Tax Reform, and Subsidy Rationalization.",
+        "Currency Stability, Export Competitiveness, and Forex Reserve Preservation."
       ],
       "correct_index": 1,
-      "explanation": "On Artemis II (a crewed test flight), the 'free-return trajectory' uses the Moon's gravity to naturally pull the craft back to Earth. This is a 'passive safety' measure—if the main engine fails after the initial burn, the laws of physics will still bring the astronauts home without needing further propulsion."
+      "explanation": "The 'Mundell-Fleming Trilemma' states a country cannot have all three: a fixed exchange rate, free capital flow, and an independent monetary policy. As the Rupee falls, RBI must choose between letting the currency slide (Stability) or hiking rates (Independent Policy), which might hurt growth. Static link: GS Paper III (Indian Economy/External Sector)."
     },
     {
       "id": "q_12",
-      "question": "The $27 billion deal between Meta and Nebius for AI compute highlights which 'emerging bottleneck' in the Fourth Industrial Revolution?",
+      "question": "The Maharashtra Freedom of Religion Bill, requiring government approval for conversions, primarily touches upon the 'Doctrine of Essentiality' regarding which Constitutional Article?",
       "options": [
-        "The shortage of skilled software engineers specialized in Python.",
-        "The critical scarcity of HBM (High-Bandwidth Memory) and specialized GPU cloud infrastructure.",
-        "The lack of fiber-optic connectivity between the US and Europe.",
-        "The declining consumer demand for Generative AI applications."
+        "Article 14 (Equality before law)",
+        "Article 25 (Freedom of conscience and free profession of religion)",
+        "Article 29 (Protection of interests of minorities)",
+        "Article 32 (Right to Constitutional Remedies)"
       ],
       "correct_index": 1,
-      "explanation": "Hyperscalers like Meta are locking in multi-year deals with 'neoclouds' (Nebius) specifically because there is a global shortage of the physical infrastructure (GPUs and HBM) needed to train AI. This represents a shift from software-focus to a 'hardware-power-compute' bottleneck."
+      "explanation": "Article 25 guarantees the 'freedom of conscience.' Legal challenges to such bills usually argue that requiring 'government approval' for a personal belief (conversion) violates the individual's right to freedom of conscience. Static link: GS Paper II (Indian Constitution)."
     },
     {
       "id": "q_13",
-      "question": "The discovery of 'RBFLOAT' (FRB 20250316A) in NGC 4141 challenges existing astrophysical models because:",
+      "question": "The decentralization of content-blocking powers to individual ministries in India primarily impacts which legal safeguard established in the Shreya Singhal vs. Union of India case?",
       "options": [
-        "It originated from a 'Black Hole' rather than a neutron star.",
-        "It is the first radio burst to be detected within the Milky Way galaxy.",
-        "It did not repeat, contradicting the 'all FRBs repeat' hypothesis while being exceptionally bright.",
-        "It moved faster than the speed of light, violating Special Relativity."
+        "The 'Doctrine of Severability' for offensive content.",
+        "The requirement for a 'Centralized Designated Officer' and strict procedural adherence to prevent arbitrariness.",
+        "The absolute immunity of 'Intermediaries' under Section 79 of the IT Act.",
+        "The 'Right to be Forgotten' as a subset of Privacy."
       ],
-      "correct_index": 2,
-      "explanation": "The text notes that RBFLOAT did not repeat, which challenges the hypothesis that all Fast Radio Bursts (FRBs) are produced by repeating sources. Its brightness and proximity allow for high-resolution study, potentially rewriting the theory of FRB origins (Magnetars vs. other sources)."
+      "correct_index": 1,
+      "explanation": "The Supreme Court in the Shreya Singhal case upheld Section 69A only because of its strict procedural safeguards, including a centralized review process. Decentralizing this power to various ministries risks 'arbitrariness,' which the centralized mechanism was designed to prevent. Static link: GS Paper II (Governance/Polity)."
     },
     {
       "id": "q_14",
-      "question": "The Ministry of Shipping's 'Priority Berthing' for LPG carriers at Indian ports is a policy intervention designed to mitigate which specific risk?",
+      "question": "India’s move toward a 90-day Strategic Petroleum Reserve (SPR) is a shift from 'Operational Buffer' to 'Strategic Deterrence.' This is primarily necessitated by:",
       "options": [
-        "The 'Inland Waterway' congestion in the National Waterway-1.",
-        "The 'Last-Mile Delivery' failure of the Ujjwala Scheme.",
-        "The 'Supply Chain Lead Time' volatility caused by maritime chokepoint disruptions.",
-        "The 'Predatory Pricing' by private port operators in Gujarat."
+        "The requirement to join the International Energy Agency (IEA) as a full member.",
+        "The 'Single-Source Dependency' on Russian crude oil.",
+        "The 'Geopolitics of Chokepoints' where a conflict in the Hormuz can halt 20% of global supply.",
+        "The transition toward a Hydrogen-based economy by 2030."
       ],
       "correct_index": 2,
-      "explanation": "Because of the Hormuz blockade, LPG shipments are delayed and scarce. 'Priority Berthing' reduces the time a ship spends waiting at port (Lead Time), ensuring the limited available fuel reaches the market as fast as possible to prevent domestic shortages."
+      "explanation": "India’s current 9-10 day buffer is for minor supply glitches. A 90-day buffer is a 'Strategic' tool used to withstand prolonged maritime blockades or total regional wars (like the US-Iran war) affecting the Hormuz chokepoint. Static link: GS Paper III (Energy Security)."
     },
     {
       "id": "q_15",
-      "question": "The shift of Ukraine-Russia peace talks from UAE/Geneva to an 'uncertain venue' due to the US-Iran war illustrates which concept in International Relations?",
+      "question": "The discovery of a 'Megamaser' 8 billion light-years away using the MeerKAT telescope is significant for 'Cosmological Evolution' because it acts as a proxy for:",
       "options": [
-        "The 'Thucydides Trap' between regional powers.",
-        "The 'Issue Linkage' and 'Conflict Displacement' effect where one theater’s escalation stalls another’s resolution.",
-        "The 'Democratic Peace Theory' where NATO members prioritize democratic allies.",
-        "The 'Balance of Power' shifting toward the Global South's mediation."
+        "The rate of Star Formation in the Milky Way.",
+        "The frequency of Galaxy Mergers in the early universe.",
+        "The presence of Liquid Water on exoplanets.",
+        "The decay rate of Dark Matter in the galactic halo."
       ],
       "correct_index": 1,
-      "explanation": "This is 'Conflict Displacement.' The US resources (diplomatic and military, like Patriot systems) are finite. Escalation in the Middle East 'displaces' the attention and resources required to conclude the Ukraine conflict, effectively linking two geographically separate security issues."
+      "explanation": "Megamasers are created during the violent collision of gas-rich galaxies. Detecting them at extreme distances (high redshift) allows astronomers to map how often galaxies merged when the universe was young, which is key to understanding structural evolution. Static link: GS Paper III (Science & Tech/Space)."
     }
   ]
 }
