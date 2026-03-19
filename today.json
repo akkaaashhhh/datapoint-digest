@@ -1,6 +1,3 @@
-Based on the verified source data gathered, I can now assemble the final structured dataset. Several world news links resolved via Al Jazeera and web search, the Belarus story is fully confirmed, the Hungary/EU story is confirmed, NASA Artemis II is confirmed, and NVIDIA GTC/Cosmos/GR00T is confirmed (announced March 16 at GTC). The NVIDIA headline in the input says March 18 — this aligns with the 3-day GTC window. National news items with generic homepage links (dailypioneer.com, cgtn.com, etc.) will be discarded per strict rules. I'll retain items with valid, specific, resolvable links only.
-
-```json
 {
   "world": [
     {
