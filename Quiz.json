@@ -1,185 +1,185 @@
 {
-  "date": "March 20, 2026",
+  "date": "March 21, 2026",
   "questions": [
     {
       "id": "q_01",
-      "question": "The recent targeting of the South Pars gas field and Ras Laffan Industrial City underscores a strategic shift in Middle Eastern conflict dynamics. This development most strongly illustrates which structural shift in contemporary warfare?",
+      "question": "The recent strike on the Natanz nuclear facility, coupled with the retaliatory strike on Diego Garcia, marks a qualitative shift in the ongoing conflict. This development most strongly illustrates which strategic security doctrine?",
       "options": [
-        "A transition from counter-insurgency to conventional state-on-state territorial conquest.",
-        "The weaponization of global energy interdependence to achieve non-kinetic economic paralysis.",
-        "A move toward 'Total War' doctrines where civilian population centers become primary military objectives.",
-        "The obsolescence of maritime chokepoints in the face of long-range precision ballistic technology."
+        "The shift from 'Counter-Value' targeting to 'Counter-Force' targeting in nuclear posturing.",
+        "The expansion of 'Horizontal Escalation' where a conflict is intentionally spread to new geographic theaters.",
+        "The breakdown of 'Extended Deterrence' provided by extra-regional security guarantors.",
+        "The transition from 'Grey Zone' warfare to a declared state of 'Total War' between nuclear-armed states."
       ],
       "correct_index": 1,
-      "explanation": "The strikes target critical nodes (South Pars and Ras Laffan) that are essential not just to the belligerents, but to global supply chains. This reflects a shift where energy infrastructure is used as a 'transmission mechanism' to export domestic conflict costs to the global economy, moving beyond simple military degradation."
+      "explanation": "Horizontal escalation occurs when a belligerent responds to pressure in one area by attacking the adversary in a different, often geographically distant, theater (e.g., Iran striking the Indian Ocean base of Diego Garcia in response to strikes in Isfahan). This forces the adversary to divert resources and rethink its defensive perimeter."
     },
     {
       "id": "q_02",
-      "question": "Regarding the recent escalation in the Persian Gulf, which macroeconomic transmission channel is most likely to cause the sharpest immediate deterioration in India’s fiscal health?",
+      "question": "Which macroeconomic transmission mechanism best explains the 'abrupt reversal' of China's multi-year deflationary cycle following the Iran war energy shock?",
       "options": [
-        "The decline in capital inflows due to 'risk-off' sentiment in the BSE Sensex.",
-        "The contraction of the manufacturing sector due to disrupted primary steel supply chains.",
-        "The widening of the Current Account Deficit (CAD) driven by inelastic crude oil import demand.",
-        "The spike in retail inflation triggered by the disruption of the 'Dual-Circulation' trade model."
+        "Demand-pull inflation triggered by a surge in household consumption and retail credit expansion.",
+        "Cost-push inflation originating from global commodity price spikes entering manufacturing supply chains.",
+        "Monetary inflation resulting from the People’s Bank of China (PBOC) aggressively lowering interest rates.",
+        "Asset-price inflation driven by a speculative bubble in the domestic property and real estate sector."
       ],
-      "correct_index": 2,
-      "explanation": "India imports ~85% of its crude oil. Since oil demand is relatively price-inelastic in the short term, a spike in Brent crude (above $115) immediately increases the import bill, worsening the CAD and putting downward pressure on the Rupee, which is a classic UPSC Economy theme."
+      "correct_index": 1,
+      "explanation": "Cost-push inflation occurs when the costs of production (inputs like energy/oil) increase, forcing producers to raise prices to maintain margins. For a manufacturing giant like China, energy is a primary input; high oil prices 'cure' deflation by force, but often at the cost of compressed industrial profits."
     },
     {
       "id": "q_03",
-      "question": "The public divergence between the US President and the Israeli Prime Minister regarding strikes on Iranian energy infrastructure most directly strengthens which constitutional or governance principle in US foreign policy?",
+      "question": "The Reserve Bank of India’s (RBI) prohibition of mandatory collateral for MSME loans up to ₹20 lakh reorients lending from 'asset-based' to 'performance-based' evaluation. This shift is most likely to strengthen which socio-economic objective?",
       "options": [
-        "The doctrine of 'Command Responsibility' in coalition warfare.",
-        "The 'Unitary Executive' theory regarding the conduct of overseas military operations.",
-        "The principle of 'Executive-Legislative Comity' in war authorization.",
-        "The 'Divergent Interest' reality within the framework of collective security alliances."
+        "The consolidation of public sector banks to reduce Non-Performing Assets (NPAs).",
+        "Financial inclusion by lowering entry barriers for 'Asset-Poor' but 'Skill-Rich' entrepreneurs.",
+        "The implementation of 'Capital Account Convertibility' for small-scale exporters.",
+        "The reduction of 'Priority Sector Lending' targets to improve banking sector profitability."
       ],
-      "correct_index": 3,
-      "explanation": "DNI Tulsi Gabbard’s statement that US and Israeli war aims are not identical illustrates that even 'ironclad' alliances are subject to the realist principle that national interests (energy stability for the US vs. existential threat perception for Israel) can diverge during operational execution."
+      "correct_index": 1,
+      "explanation": "By removing the need for physical assets (property/land) as collateral, the RBI enables individuals from rural or marginalized backgrounds—who may have viable business models but lack inherited property—to access formal credit, directly supporting the goal of inclusive growth."
     },
     {
       "id": "q_04",
-      "question": "In the context of the Artemis II mission, the use of a 'Free-Return Trajectory' is a strategic choice that emphasizes which engineering priority?",
+      "question": "President Trump’s public branding of NATO allies as 'cowards' for refusing to join the Iran campaign primarily exposes a fracture in which foundational international relations framework?",
       "options": [
-        "Maximizing the duration of lunar surface stay for scientific sampling.",
-        "Utilizing lunar gravity as a passive safety mechanism for crew survival in the event of propulsion failure.",
-        "Enabling a high-energy lunar orbit insertion to test the SLS upper stage limits.",
-        "Reducing the overall mass of the Orion capsule by eliminating the need for thermal shielding."
+        "The 'Thucydides Trap' regarding the rise of a challenging power.",
+        "Collective Security, specifically the tension between 'Burden-Sharing' and 'Mandate Limitations'.",
+        "The 'Constructivist' view that state identities are fixed by historical cultural ties.",
+        "The 'Dependency Theory' which posits that periphery states are exploited by the core."
       ],
       "correct_index": 1,
-      "explanation": "A free-return trajectory uses the Moon's gravity to automatically swing the spacecraft back to Earth without a secondary engine burn. This is a critical safety protocol for a first crewed test flight like Artemis II, ensuring the crew returns even if the main engine fails after translunar injection."
+      "explanation": "The fracture stems from a disagreement over the 'mandate' of the alliance. While the US views the conflict as a collective security issue requiring 'burden-sharing' to protect energy lanes (Hormuz), European allies argue it falls outside the Article 5 mutual defense mandate, as it is a 'war of choice' rather than a response to an attack on a member."
     },
     {
       "id": "q_05",
-      "question": "Hungary’s use of the 'Unanimity Rule' to block the €90 billion Ukraine loan illustrates which inherent challenge in the governance of the European Union?",
+      "question": "The Phase 3 'CORALreef Lipids' trial of enlicitide matches the efficacy of injectable PCSK9 inhibitors. This scientific milestone may accelerate which technological transition in public health?",
       "options": [
-        "The erosion of the 'Principle of Subsidiarity' in financial matters.",
-        "The 'Tyranny of the Minority' where individual member states can paralyze collective security interests.",
-        "The conflict between 'Supranationalism' and the 'Democratic Deficit' of the European Commission.",
-        "The failure of the 'Schengen Agreement' to regulate cross-border energy flows."
+        "The shift from 'Precision Medicine' to 'Universal Healthcare' in the Global South.",
+        "The transition from chronic 'Maintenance Therapy' to one-time 'Gene Editing' cures.",
+        "The shift from specialist-administered biologics to primary-care-accessible oral therapeutics.",
+        "The replacement of pharmacological interventions with AI-driven dietary behavioral modification."
       ],
-      "correct_index": 1,
-      "explanation": "The EU’s requirement for unanimity on major financial and foreign policy decisions gives single member states (like Hungary) outsized leverage to extract domestic concessions (oil deliveries) by vetoing urgent collective actions, highlighting the structural tension between sovereignty and integration."
+      "correct_index": 2,
+      "explanation": "Injectable biologics often require cold-chain storage and specialist administration, limiting their reach. An oral version (a small molecule or stable peptide) allows primary care physicians to prescribe it as easily as statins, democratizing access to high-efficacy lipid-lowering therapy."
     },
     {
       "id": "q_06",
-      "question": "The development of 'Giant Superatoms' at Chalmers University is aimed at solving the problem of 'Decoherence.' This scientific breakthrough is most likely to accelerate which technological transition?",
+      "question": "The UK’s establishment of an 'Iran Board' to manage energy shocks and the consideration of 'Speed Limit Reductions' illustrate which public policy concept?",
       "options": [
-        "The transition from silicon-based semiconductors to carbon nanotubes.",
-        "The shift from 'Noisy Intermediate-Scale Quantum' (NISQ) devices to fault-tolerant quantum computing.",
-        "The move from fiber-optic data transmission to terahertz-based wireless communications.",
-        "The replacement of 'Proof of Work' with 'Proof of Stake' in blockchain architectures."
+        "Supply-side economics focused on deregulating energy production to lower costs.",
+        "Demand-side management used to reduce resource consumption during a supply-side shock.",
+        "Monetary tightening to curb 'Inertial Inflation' in the services sector.",
+        "Fiscal federalism where local councils take over national energy procurement."
       ],
       "correct_index": 1,
-      "explanation": "Decoherence is the primary reason current quantum computers are 'noisy' and error-prone. By using 'giant superatoms' to protect quantum states, researchers are moving toward 'fault-tolerance'—the ability of a quantum computer to operate reliably despite environmental interference."
+      "explanation": "When supply is restricted (due to war in the Gulf), governments can use 'Demand-side management' (like lower speed limits to save fuel) to artificially lower demand, thereby easing the pressure on prices and reducing the volume of imports needed."
     },
     {
       "id": "q_07",
-      "question": "China’s 15th Five-Year Plan focus on 'Modern Industrial Systems' and the 'Dual-Circulation Strategy' is a strategic response to which international relations phenomenon?",
+      "question": "The UAE’s closure of an Iranian state-linked hospital and the confirmation of the safety of 4 million Indian expats as a 'national priority' most strongly illustrates which institutional power dynamic?",
       "options": [
-        "The 'Thucydides Trap' in maritime territorial disputes in the South China Sea.",
-        "The 'Middle-Income Trap' necessitating a shift toward low-end manufacturing exports.",
-        "The 'Great Decoupling' or 'De-risking' efforts by Western economies in high-tech supply chains.",
-        "The 'String of Pearls' strategy for securing energy transit in the Indian Ocean."
+        "The 'Securitization' of civilian infrastructure during a period of active military threat.",
+        "The transition from 'Soft Power' to 'Hard Power' in UAE’s maritime outreach.",
+        "The 'Decoupling' of the UAE economy from the US-led global financial system.",
+        "The implementation of 'Strategic Autonomy' by the UAE in defiance of both Iran and the US."
       ],
-      "correct_index": 2,
-      "explanation": "China's emphasis on AI, robotics, and reducing foreign tech dependence in its 15th Plan is a direct effort to insulate its economy from Western sanctions and export controls (Decoupling/De-risking), ensuring domestic industrial resilience."
+      "correct_index": 0,
+      "explanation": "Securitization occurs when a state moves a topic (like a hospital or an expat community) from the realm of 'normal politics' to 'emergency security' due to an existential threat. Closing the hospital is a securitization of medical infrastructure to prevent potential internal state-linked interference."
     },
     {
       "id": "q_08",
-      "question": "The International Maritime Organization’s (IMO) call for a 'Safe Corridor' in the Persian Gulf is an invocation of principles primarily found in which domain of international law?",
+      "question": "Samsung’s $73 billion investment in AI semiconductors (HBM4) to compete with SK Hynix and TSMC indicates that the high-tech industry has entered which phase?",
       "options": [
-        "UNCLOS (United Nations Convention on the Law of the Sea) regarding 'Innocent Passage'.",
-        "The 'Montreux Convention' regarding the regulation of international straits.",
-        "International Humanitarian Law (IHL) and the protection of civilian non-combatants.",
-        "The 'Marrakesh Agreement' regarding the facilitation of global trade in services."
+        "A 'Perfect Competition' phase where price is determined solely by consumer demand.",
+        "A 'Capital-Intensity Arms Race' where market leadership is maintained through massive upfront Capex.",
+        "A 'De-industrialization' phase where software services replace hardware manufacturing.",
+        "The 'Stagnation' phase of the product life cycle where innovation has reached a plateau."
       ],
-      "correct_index": 2,
-      "explanation": "While UNCLOS governs the sea, the call for 'safe corridors' and the evacuation of trapped seafarers in a conflict zone is an application of International Humanitarian Law, which seeks to mitigate the effects of armed conflict on civilians (in this case, merchant mariners)."
+      "correct_index": 1,
+      "explanation": "In the semiconductor industry, especially for AI-grade chips, the cost of R&D and fabrication plants (fabs) is so high that only a few 'titans' can compete. Leadership is now less about incremental design and more about who can out-spend the other in building the next generation of manufacturing capacity."
     },
     {
       "id": "q_09",
-      "question": "NVIDIA’s 'Cosmos 3' and 'GR00T' models represent an advance in 'Physical AI.' This paradigm shift suggests that the future of Artificial Intelligence is moving away from purely generative text toward:",
+      "question": "The study linking shingles vaccination to a 46% reduction in major cardiac events suggests that cardiovascular risk is heavily influenced by which indirect mechanism?",
       "options": [
-        "Large-scale linguistic translation and sentiment analysis.",
-        "Embodied cognition where AI learns by interacting with the laws of physics.",
-        "Decentralized autonomous organizations (DAOs) for financial governance.",
-        "The automation of legal research and judicial decision-making."
+        "The direct viral infection of the myocardium by the varicella-zoster virus.",
+        "Systemic inflammation triggered by viral reactivation, which promotes arterial thrombosis.",
+        "The side effects of antiviral medications used to treat active shingles cases.",
+        "A genetic predisposition where the same gene controls both immunity and cholesterol."
       ],
       "correct_index": 1,
-      "explanation": "'Physical AI' refers to systems that can perceive and act in the physical world (robotics). Cosmos 3 unifies world simulation with action, allowing AI to learn through 'embodied' experience—simulating physical interactions rather than just processing static data."
+      "explanation": "The shingles vaccine doesn't lower cholesterol; it prevents the viral reactivation that causes shingles. The 'cardioprotection' occurs because preventively stopping shingles avoids the massive surge in systemic inflammation that usually follows an outbreak, which would otherwise trigger clots/attacks in high-risk patients."
     },
     {
       "id": "q_10",
-      "question": "The US decision to lift sanctions on Belarusian potash (Belaruskali) in exchange for prisoner releases illustrates a shift toward which diplomatic doctrine?",
+      "question": "The 'Peace Board' presenting Hamas with a disarmament proposal during the Iran war illustrates which principle of 'Conflict Resolution' diplomacy?",
       "options": [
-        "Strategic Patiently (waiting for regime collapse through maximum pressure).",
-        "Transactional Realism (bilateral engagement based on immediate, tangible quid-pro-quo).",
-        "Liberal Institutionalism (relying on UN-led multilateral frameworks for democratization).",
-        "The 'Helsinki Accords' model of linking human rights to nuclear disarmament."
+        "The 'Ripeness' theory, where a conflict is settled when the parties reach a 'Mutually Hurting Stalemate'.",
+        "The use of 'Leveraged Mediation' by exploiting the degradation of a non-state actor’s external patron.",
+        "The 'Track II' diplomacy approach using secret academic channels to bypass state leaders.",
+        "The 'Balance of Power' doctrine aimed at ensuring no single group dominates the Levant."
       ],
       "correct_index": 1,
-      "explanation": "The Trump administration's strategy of bypassing broader ideological goals (democratization of Belarus) to achieve specific humanitarian or economic outcomes (prisoner release/potash supply) in exchange for sanctions relief is a hallmark of transactional realism."
+      "explanation": "Hamas’s patron (Iran) is under direct assault and unable to provide the same level of support. The US is using this 'leverage' (Iran's weakness) to push for disarmament—a condition Hamas might never have considered if their state sponsor were still strong and focused on them."
     },
     {
       "id": "q_11",
-      "question": "The MIT discovery of 'Superfluid Plasmon' oscillations in cuprate superconductors using terahertz microscopy is significant because it provides a direct visualization of:",
+      "question": "The strikes on Kuwait’s Mina al-Ahmadi refinery and Qatar’s Ras Laffan have pushed global LNG prices to multi-year highs. For energy-importing nations, this development most likely accelerates which environmental/geographical transition?",
       "options": [
-        "The decay of protons in the vacuum of space.",
-        "The collective motion of 'Cooper Pairs' that enable zero-resistance current.",
-        "The gravitational waves emitted by sub-atomic particles.",
-        "The friction generated by electrons in standard copper wiring."
+        "The 'Green-to-Brown' reversal where nations revert to coal to ensure energy sovereignty.",
+        "The 'Great Trans-Oceanic Migration' from energy-poor islands to energy-rich continents.",
+        "The 'Energy Decoupling' from global markets toward domestic 'Distributed Renewable' grids.",
+        "The total abandonment of the 'Net Zero' targets by the year 2030."
       ],
-      "correct_index": 1,
-      "explanation": "Superconductivity occurs when electrons form 'Cooper Pairs' and move as a single superfluid. The terahertz microscope captured the 'jiggling' or collective oscillation of this superfluid, providing empirical evidence for how these pairs behave at the quantum level."
+      "correct_index": 2,
+      "explanation": "While some may revert to coal (Option 0), the strategic imperative for most modern economies is to reduce 'energy dependency' on volatile global chokepoints (Hormuz). This accelerates the move toward domestic solar, wind, and nuclear (Distributed Grids) which cannot be 'blocked' or 'struck' by a foreign navy."
     },
     {
       "id": "q_12",
-      "question": "The UK government’s doubling of steel tariffs to 50% most directly conflicts with which core principle of the World Trade Organization (WTO)?",
+      "question": "Zelenskyy sending negotiators to Washington as the Kremlin 'pauses' talks illustrates which dynamic in 'Proxy' or 'Asymmetric' conflicts?",
       "options": [
-        "The 'Most-Favored-Nation' (MFN) treatment principle.",
-        "The 'National Treatment' principle regarding domestic taxes.",
-        "The prohibition on 'Quantitative Restrictions' for essential goods.",
-        "The 'General Exceptions' clause for national security."
+        "The 'Sovereignty Paradox' where a state gains independence by surrendering its foreign policy.",
+        "The risk of 'Strategic Marginalization' when a secondary conflict is overshadowed by a primary geopolitical crisis.",
+        "The 'Guerilla’s Dilemma' of choosing between territorial integrity and humanitarian aid.",
+        "The 'Escalation Ladder' where a state must use nuclear weapons to regain international attention."
       ],
-      "correct_index": 0,
-      "explanation": "The MFN principle requires members to treat all trading partners equally. Targeted high tariffs (protectionism) often violate this unless justified under specific 'safeguard' or 'security' exceptions, which are frequent points of contention in UPSC IR and Economy."
+      "correct_index": 1,
+      "explanation": "Strategic marginalization occurs when a state (Ukraine) loses its 'priority status' because the great powers (US) are suddenly consumed by a more urgent or high-stakes crisis (Iran War). Zelenskyy is fighting to prevent Ukraine from becoming a 'forgotten war'."
     },
     {
       "id": "q_13",
-      "question": "The OIST study on acetylcholine release in the striatum provides a molecular explanation for 'Behavioral Flexibility.' This has the most significant implications for the clinical treatment of which category of disorders?",
+      "question": "The US decision to lift sanctions on 'pre-loaded' Iranian oil tankers while escalating strikes on Natanz is best described as:",
       "options": [
-        "Neurodegenerative diseases characterized by cognitive decline, such as Alzheimer's.",
-        "Psychiatric conditions involving maladaptive persistence, such as OCD and Addiction.",
-        "Autoimmune disorders affecting the central nervous system, such as Multiple Sclerosis.",
-        "Congenital heart defects that limit oxygen flow to the brain's prefrontal cortex."
+        "A 'Grand Bargain' aimed at total diplomatic normalization with the IRGC.",
+        "A 'Tactical De-coupling' of energy prices from military objectives to manage domestic inflation.",
+        "A 'Total Capitulation' to Iranian economic demands following the Diego Garcia strike.",
+        "A 'Psychological Operation' intended to confuse the Iranian leadership about the location of US Marines."
       ],
       "correct_index": 1,
-      "explanation": "The study found that acetylcholine triggers the 'breaking' of old habits when rewards change. Disorders like Obsessive-Compulsive Disorder (OCD) and Addiction are defined by an inability to break repetitive or harmful habits, making this neurotransmitter pathway a key target for new therapies."
+      "explanation": "This is a classic 'bifurcated' policy: the US continues to strike the military/nuclear core of the enemy while simultaneously releasing oil to the market to prevent a gas price spike at home that could damage the President's domestic political standing (inflation management)."
     },
     {
       "id": "q_14",
-      "question": "The detection of a 'Gigamaser' 8 billion light-years away using the MeerKAT array is an example of 'Gravitational Lensing.' This phenomenon is a direct experimental confirmation of which theory?",
+      "question": "Under the new RBI MSME Directions, the shift from 'Asset-based' to 'Performance-based' lending implies that banks will now prioritize which indicator during credit appraisal?",
       "options": [
-        "The 'Steady State' theory of the universe.",
-        "Einstein's General Theory of Relativity.",
-        "The 'String Theory' of multidimensional membranes.",
-        "Newton's Law of Universal Gravitation regarding instantaneous force."
+        "The total area of land owned by the proprietor in rural districts.",
+        "The 'Cash-Flow' and 'GST-linked turnover' of the enterprise rather than its fixed capital.",
+        "The 'Religious and Caste' demographics of the enterprise's workforce.",
+        "The 'Gold Reserves' held by the promoter's family in lockers."
       ],
       "correct_index": 1,
-      "explanation": "Gravitational lensing—where a massive object (like a foreground galaxy) bends and amplifies light from a distant source (the gigamaser)—occurs because mass curves spacetime, a central prediction of General Relativity."
+      "explanation": "Performance-based lending looks at how much money the business actually makes and its transaction history (via GST/Udyam data) to judge its ability to repay, rather than looking at what 'collateral' (land/gold) the bank can seize if the business fails."
     },
     {
       "id": "q_15",
-      "question": "The successful 48-hour survival of a patient without lungs at Northwestern University was achieved by using a 'Total Artificial Lung' (TAL) to bridge the gap to transplant. This breakthrough primarily addresses which 'Internal Security' risk within the healthcare system?",
+      "question": "The targeting of the US-UK base at Diego Garcia by Iranian ballistic missiles has the most significant implication for which geographical concept?",
       "options": [
-        "The lack of bio-surveillance for zoonotic spillover events.",
-        "The critical shortage of donor organs for acute, end-stage respiratory failure.",
-        "The rise of 'Superbugs' resistant to all known antibiotic treatments.",
-        "The vulnerability of centralized medical records to ransomware attacks."
+        "The 'Rimland' theory which posits that control of the coastlines is key to global power.",
+        "The 'Death of Distance' where geographical isolation no longer provides security against regional actors.",
+        "The 'Heartland' theory regarding the control of the Eurasian landmass.",
+        "The 'Continental Shelf' doctrine governing the ownership of underwater minerals."
       ],
       "correct_index": 1,
-      "explanation": "The 'bridge-to-transplant' strategy is a procedural solution to the scarcity and timing of donor organs. By keeping a patient alive without the organ itself, it buys the medical system time to find a match, potentially lowering the mortality rate for end-stage failure while waiting for a donor."
+      "explanation": "Diego Garcia was historically chosen for its extreme 'isolation' and 'strategic depth' in the middle of the Indian Ocean. An Iranian strike shows that long-range missile tech has caused the 'death of distance'—even remote island fortresses are now within reach of regional powers."
     }
   ]
 }
