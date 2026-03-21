@@ -1,6 +1,4 @@
-I now have sufficient verified data to produce the complete enriched output. National items with only generic homepage links (whitehouse.gov/news, business-standard.com/india-news, newsonair.gov.in/category/national, parliament.uk) are discarded per strict verification rules. Items with specific, resolvable article links are retained.
 
-```json
 {
   "world": [
     {
@@ -458,4 +456,4 @@ I now have sufficient verified data to produce the complete enriched output. Nat
     }
   ]
 }
-```
+
