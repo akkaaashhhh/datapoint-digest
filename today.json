@@ -1,459 +1,488 @@
+I now have all the verified data needed. The TOI-561 b atmosphere story was published in December 2025 / early 2026 and covered by ScienceDaily on March 22, 2026 — valid for inclusion. The 48-dimensional quantum light study was published in Nature Communications December 2025 and covered by ScienceDaily on March 21, 2026 — valid. National items with only generic homepage links are discarded. Sports items dated March 22 are from the previous calendar day (UTC) relative to March 23 — all valid.
 
+```json
 {
   "world": [
     {
-      "headline": "US-Israel attack Iran's Natanz nuclear site as Diego Garcia base targeted",
-      "description": "On day 22 of the US-Israel war on Iran, US and Israeli forces struck Iran's Natanz nuclear facility — the country's primary uranium enrichment site — in a major escalation beyond energy and military targets. In retaliation, Iran fired two ballistic missiles at the US-UK joint military base at Diego Garcia in the Indian Ocean, the first direct Iranian strike on a base outside the Middle Eastern theater. Iran simultaneously launched its 70th announced wave of attacks, firing missiles and drones toward Israel and US bases across the Gulf. More than 1,444 people have been killed in Iran, including at least 204 children.",
-      "context": "Striking Natanz — where Iran has historically enriched uranium — signals the clearest indication yet that the US-Israel campaign includes nuclear infrastructure as a target, raising the risk of catastrophic escalation and permanent proliferation-related consequences. The Diego Garcia strike represents Iran expanding its retaliatory geography to the Indian Ocean, threatening one of the most strategically significant US-UK military installations on Earth, used for B-2 bomber operations and carrier logistics. The convergence of these events signals the conflict entering a qualitatively more dangerous phase in week four.",
+      "headline": "Trump threatens to 'obliterate' Iran's power plants if Strait of Hormuz not reopened within 48 hours",
+      "description": "US President Donald Trump issued a 48-hour ultimatum to Iran late Saturday, threatening to strike Iranian power plants and obliterate energy infrastructure if the Strait of Hormuz was not reopened to international shipping. Iran's Revolutionary Guards immediately responded that the Strait would be 'completely closed' if the US followed through on the threat, while Iran's Foreign Ministry vowed to 'irreversibly' destroy energy infrastructure across the region in retaliation. Iran also announced it would selectively restrict Hormuz access to 'enemy-linked' ships while allowing passage for neutral parties such as Japan.",
+      "context": "Trump's power plant ultimatum represents a significant escalation threshold: striking civilian energy infrastructure would constitute a potential violation of international humanitarian law and would trigger catastrophic consequences for Iranian civilians — estimated 85 million population — who depend on the electrical grid for water pumping, heating, and hospital power. Iran's threat to close Hormuz entirely — through which approximately 20% of globally traded oil and 25% of global LNG passes — if executed would cause an immediate, severe global energy supply shock far exceeding the current disruption, potentially pushing Brent crude toward $150–180/barrel and triggering energy rationing across Asia and Europe.",
       "timeline": [
-        {"type": "background", "date": "2026-02-28", "label": "US-Israel military campaign against Iran commences; Natanz placed on target list from early days of the conflict."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Iran strikes Gulf energy infrastructure across Qatar, Saudi Arabia, and UAE after Israel hits South Pars gasfield."},
-        {"type": "event", "date": "2026-03-21", "label": "US-Israel strike Iran's Natanz nuclear facility; Iran retaliates with ballistic missiles targeting Diego Garcia base in the Indian Ocean."},
-        {"type": "consequence", "date": "2026-03-21", "label": "Iran announces its 70th wave of attacks; over 1,444 killed in Iran; Trump simultaneously hints at 'winding down' the conflict."}
+        {"type": "background", "date": "2026-02-28", "label": "US-Israel Iran war begins; initial US statements rule out targeting civilian infrastructure."},
+        {"type": "escalation", "date": "2026-03-21", "label": "Iran fires ballistic missiles at Diego Garcia; US-Israel strike Natanz nuclear facility; Iran announces 70th wave of attacks."},
+        {"type": "event", "date": "2026-03-22", "label": "Trump issues 48-hour ultimatum threatening to obliterate Iran's power plants if Hormuz not reopened; IRGC warns of complete Hormuz closure in retaliation."},
+        {"type": "consequence", "date": "2026-03-22", "label": "Iran threatens to destroy Gulf energy and water infrastructure 'irreversibly'; global oil prices surge; Treasury Secretary Bessent asserts US has sufficient war funds."}
       ],
       "importance_score": 5,
       "category": "world",
       "region": "Middle East",
       "key_terms": [
-        {"term": "Natanz Nuclear Facility", "definition": "Iran's primary uranium enrichment complex, located in Isfahan Province; the central site of Iran's nuclear program and a principal target of the US-Israel strike on March 21."},
-        {"term": "Diego Garcia", "definition": "A British Indian Ocean Territory atoll hosting a major US-UK joint military base used for strategic bomber operations and naval logistics; targeted by Iranian ballistic missiles on March 21, 2026."},
-        {"term": "IRGC (Islamic Revolutionary Guard Corps)", "definition": "Iran's elite paramilitary force coordinating the 70th wave of retaliatory missile and drone attacks announced on March 21."},
-        {"term": "Ballistic Missile", "definition": "A guided projectile following a sub-orbital trajectory; Iran's use of ballistic missiles against Diego Garcia marks the first strike on an Indian Ocean military installation in this conflict."},
-        {"term": "Uranium Enrichment", "definition": "The process of increasing the concentration of the U-235 isotope in uranium; conducted at Natanz, the facility attacked on March 21, with implications for Iran's nuclear weapons capability."}
+        {"term": "Power Plant Ultimatum", "definition": "Trump's 48-hour deadline threatening US strikes on Iranian electrical infrastructure if Hormuz is not reopened, representing the conflict's most direct threat to civilian infrastructure."},
+        {"term": "Strait of Hormuz Closure Threat", "definition": "Iran's IRGC warning that the Strait of Hormuz — through which ~20% of globally traded oil flows — will be completely closed if the US carries out power plant strikes."},
+        {"term": "IRGC (Islamic Revolutionary Guard Corps)", "definition": "Iran's elite paramilitary force responsible for Hormuz security and the retaliatory strike threat against Gulf energy and water systems."},
+        {"term": "Enemy-Linked Ship Restriction", "definition": "Iran's announced policy of selectively blocking Hormuz access to vessels linked to US and Israeli interests while allowing neutral parties passage."},
+        {"term": "Scott Bessent", "definition": "US Treasury Secretary who publicly stated the US has 'plenty' of funds to sustain the Iran war, reinforcing market confidence in US war financing capacity."}
       ],
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran"
+      "link": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-22-26"
     },
     {
-      "headline": "Trump hints at 'winding down' Iran war as US deploys more troops to region",
-      "description": "US President Donald Trump posted on social media that the US was getting close to meeting its objectives and was considering 'winding down' military operations against Iran, while simultaneously ruling out any ceasefire with Tehran. His administration concurrently announced the deployment of an additional 2,200 to 2,500 Marines to the Middle East, the lifting of sanctions on Iranian oil already loaded on ships, and submitted a new funding request to Congress. White House Press Secretary Karoline Leavitt noted that operations were projected to last 4–6 weeks total, with week three completed.",
-      "context": "Trump's 'winddown' signal contradicted by active troop deployments, Natanz strikes, and the Pentagon's $200 billion supplemental funding request creates acute strategic ambiguity — unsettling allies, adversaries, and energy markets simultaneously. The sanctions relief on loaded Iranian oil tankers was a tactical attempt to ease oil prices rather than a diplomatic concession, reflecting the administration's growing awareness of the war's inflationary domestic economic costs. The simultaneous escalation and de-escalation messaging indicates Trump is seeking an exit narrative while the military continues offensive operations.",
+      "headline": "Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants",
+      "description": "Iranian forces launched a significant missile barrage targeting the Israeli Negev desert, striking the towns of Arad and Dimona and areas near the Negev Nuclear Research Center — Israel's primary nuclear facility — leaving dozens injured. Simultaneously, Israel was confirmed to have struck Natanz and to have destroyed 77% of the 107 tunnel entrances to Iranian underground missile facilities. Hezbollah also intensified its rocket fire on northern Israel in coordination with the Iranian wave.",
+      "context": "Iranian strikes near the Dimona nuclear research center — home to Israel's undeclared nuclear weapons program — represent the most symbolically charged targeting of the conflict, mirroring Israeli strikes on Natanz and creating mutual nuclear facility targeting that raises the specter of radiological incident risk. With 29 Iranian attack waves recorded over March 20–21 alone and simultaneous strikes across Israel, the Negev, and Israeli cities, Iran's missile campaign is sustaining a pace that is testing Israeli air defense capacity and civilian resilience.",
       "timeline": [
-        {"type": "background", "date": "2026-02-28", "label": "US-Israel Iran campaign begins; White House initially frames it as a short-duration 4–6 week precision operation."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Pentagon requests $200 billion emergency supplemental funding; market and allied anxieties about war duration deepen."},
-        {"type": "event", "date": "2026-03-21", "label": "Trump posts 'winding down' statement; simultaneous deployment of 2,500 additional Marines and strike on Natanz announced."},
-        {"type": "consequence", "date": "2026-03-21", "label": "US lifts sanctions on pre-loaded Iranian oil tankers to ease energy prices; strategic ambiguity deepens across allied and adversary capitals."}
+        {"type": "background", "date": "2026-02-28", "label": "Iran-Israel missile exchanges begin; initial Iranian salvos target Tel Aviv and military bases."},
+        {"type": "escalation", "date": "2026-03-20", "label": "US-Israel strikes on Natanz nuclear facility; Iran announces its 70th attack wave; 29 attack waves recorded over March 20–21."},
+        {"type": "event", "date": "2026-03-22", "label": "Iranian missiles strike Arad and Dimona in the Negev; dozens injured; areas near Negev Nuclear Research Center hit."},
+        {"type": "consequence", "date": "2026-03-22", "label": "Israeli ambassador states war will continue 'until we bring this regime to its knees'; US Embassy Jerusalem issues security alert for US citizens."}
       ],
       "importance_score": 5,
       "category": "world",
       "region": "Middle East",
       "key_terms": [
-        {"term": "Wind-Down Signal", "definition": "Trump's public statement suggesting approaching operational conclusion of Iran military campaign, contradicted by simultaneous troop deployments and Natanz strikes."},
-        {"term": "Iranian Oil Sanctions Relief", "definition": "Targeted US measure lifting sanctions on Iranian crude already loaded on ships, aimed at easing global oil prices rather than signaling diplomatic normalization."},
-        {"term": "US Marine Deployment", "definition": "An additional 2,200–2,500 US Marines ordered to the Middle Eastern theater on March 21, bringing total US ground forces in the region to elevated levels."},
-        {"term": "CORALreef Outcomes Trial", "definition": "Placeholder — not applicable to this entry."},
-        {"term": "Karoline Leavitt", "definition": "White House Press Secretary who clarified the 4–6 week operational timeline and affirmed the US was on schedule as of week three."}
+        {"term": "Negev Nuclear Research Center (Dimona)", "definition": "Israel's primary nuclear research facility in the Negev desert, the center of Israel's undeclared nuclear weapons program; in proximity to Iranian missile strikes on March 22."},
+        {"term": "Natanz Nuclear Facility", "definition": "Iran's primary uranium enrichment complex, struck by US-Israel forces on March 21 in a direct targeting of Iran's nuclear infrastructure."},
+        {"term": "Underground Missile Facilities", "definition": "Iran's network of hardened tunnel complexes housing ballistic missiles; Israel reports striking 77% of 107 tunnel entrances as of March 22."},
+        {"term": "Arad and Dimona", "definition": "Israeli Negev desert towns struck by Iranian ballistic missiles on March 22, located in proximity to the Negev Nuclear Research Center."},
+        {"term": "Hezbollah", "definition": "Lebanese militant organization allied with Iran, intensifying rocket fire on northern Israel in coordination with Iranian missile waves during day 23 of the conflict."}
       ],
-      "link": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region"
+      "link": "https://www.politico.com/news/2026/03/21/dozens-injured-in-israel-after-iranian-missile-strikes-target-areas-near-nuclear-research-center-00839357"
     },
     {
-      "headline": "Trump Calls NATO 'Cowards' for Not Helping Join Fight With Iran",
-      "description": "US President Donald Trump publicly condemned NATO member states as 'cowards' for refusing to contribute military forces to the US-Israel operation against Iran, specifically criticizing their inaction on securing the Strait of Hormuz. Trump argued that nations reliant on Hormuz for energy imports should be bearing the burden of its defense, not the US alone.",
-      "context": "Trump's NATO rebuke deepens the fracture between the US and its European allies at a moment of acute collective security stress. NATO members have declined to join what they characterize as a US-Israeli war of choice outside the Article 5 mutual defense framework. The public denunciation risks further eroding trust in the alliance's cohesion at a time when European states are simultaneously managing the Ukraine conflict, surging defense budgets, and domestic energy crises driven by the Iran war. The statement also puts pressure on Japan and Canada — who signaled openness to Hormuz contributions — to formalize their commitments.",
+      "headline": "Iran threatens to retaliate against Gulf energy and water systems after Trump ultimatum",
+      "description": "Following Trump's 48-hour power plant ultimatum, Iran's military and government issued formal threats to retaliate against energy facilities and water infrastructure across Gulf Arab states — including desalination plants, oil refineries, and LNG terminals — if the US carried out strikes on Iranian power plants. Iran framed the counter-threat as a symmetric escalation: any attack on Iran's electrical grid would be met with attacks on Gulf states' water and energy systems, on which tens of millions of people depend for drinking water.",
+      "context": "Gulf states — particularly the UAE, Qatar, Bahrain, and Kuwait — rely overwhelmingly on desalination for their freshwater supply. Iranian threats to destroy desalination infrastructure, if executed, would trigger a humanitarian emergency affecting tens of millions of civilians within days. The threat also signals Iran's intent to impose collective punishment on neutral Gulf states for hosting US military facilities, compounding the region's existing energy crisis and threatening to draw additional parties more directly into the conflict.",
       "timeline": [
-        {"type": "background", "date": "2026-02-28", "label": "US-Israel Iran campaign begins; NATO collectively declines to endorse or join operations."},
-        {"type": "escalation", "date": "2026-03-19", "label": "EU summit concludes without Hormuz security commitment; European leaders refrain from pledging naval forces."},
-        {"type": "event", "date": "2026-03-20", "label": "Trump publicly calls NATO allies 'cowards' for refusing to join Iran war effort or secure Strait of Hormuz."},
-        {"type": "consequence", "date": "2026-03-21", "label": "Canada and other non-NATO allies signal willingness to contribute to Hormuz security efforts, partially in response to Trump's pressure."}
+        {"type": "background", "date": "2026-03-19", "label": "Iran strikes Ras Laffan (Qatar) and Gulf energy infrastructure following Israeli attack on South Pars gasfield."},
+        {"type": "escalation", "date": "2026-03-21", "label": "Iran fires ballistic missiles at Diego Garcia; IRGC attacks UAE's Al-Minhad Air Base and Kuwait's Ali Al-Salem Air Base."},
+        {"type": "event", "date": "2026-03-22", "label": "Iran issues formal threat to destroy Gulf energy and water infrastructure, including desalination plants, if Trump executes power plant strikes."},
+        {"type": "consequence", "date": "2026-03-22", "label": "Gulf state governments activate emergency contingency plans; UAE air defense systems intercept additional drones and missiles; energy and water security measures escalate."}
       ],
-      "importance_score": 4,
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {"term": "Desalination Plants", "definition": "Critical infrastructure converting seawater into drinking water; the UAE, Qatar, Bahrain, and Kuwait depend on desalination for over 90% of their freshwater supply."},
+        {"term": "Gulf Energy Infrastructure Targeting", "definition": "Iran's declared retaliatory strategy of striking oil refineries, LNG terminals, and water systems across Gulf Arab states in response to US power plant strikes on Iran."},
+        {"term": "Symmetric Escalation Doctrine", "definition": "Iran's stated policy of matching US infrastructure strikes with equivalent attacks on Gulf partner state civilian and energy infrastructure."}
+      ],
+      "link": "https://www.reuters.com/world/middle-east/trump-iran-trade-threats-over-energy-targets-war-escalates-2026-03-22"
+    },
+    {
+      "headline": "Pope Leo calls war in Middle East a 'scandal' to humanity",
+      "description": "Pope Leo, head of the Catholic Church, publicly condemned the US-Israel-Iran war as a 'scandal to humanity,' calling for immediate diplomatic engagement and a halt to hostilities, and urging world leaders to pursue peaceful resolution of the conflict.",
+      "context": "A papal condemnation of a US-led military campaign carries significant diplomatic weight — both symbolically and practically — given the Catholic Church's global reach of approximately 1.4 billion faithful and its institutional influence in Latin America, Europe, and parts of Africa and Asia. The Pope's intervention adds to growing international moral pressure on the conflict at a moment when the NATO alliance is fractured over participation, the UN is calling for maritime safe corridors, and energy prices are inflicting severe economic harm on developing nations.",
+      "timeline": [
+        {"type": "background", "date": "2026-02-28", "label": "US-Israel Iran war begins; Vatican calls for restraint in early days of the conflict."},
+        {"type": "escalation", "date": "2026-03-19", "label": "Iranian strikes on Gulf energy infrastructure trigger global economic crisis; humanitarian toll in Iran exceeds 1,400 killed."},
+        {"type": "event", "date": "2026-03-22", "label": "Pope Leo publicly condemns the war as a 'scandal to humanity' and calls for immediate diplomatic resolution."},
+        {"type": "consequence", "date": "2026-03-22", "label": "Papal statement adds to international moral pressure; joins IMO, EU leaders, and neutral states urging de-escalation."}
+      ],
+      "importance_score": 3,
       "category": "world",
       "region": "Global",
       "key_terms": [
-        {"term": "NATO Article 5", "definition": "The mutual defense clause of the North Atlantic Treaty requiring member states to treat an attack on one as an attack on all; not invoked by the US for the Iran campaign, complicating allied participation."},
-        {"term": "Strait of Hormuz", "definition": "Critical Persian Gulf maritime chokepoint through which approximately 20% of globally traded oil flows; its defense is central to Trump's demand for NATO burden-sharing."},
-        {"term": "NATO Allied Refusal", "definition": "Collective decision by European NATO members not to provide military forces for the US-Israel Iran campaign, citing legal, political, and mandate limitations."}
+        {"term": "Pope Leo", "definition": "Head of the Roman Catholic Church; his public condemnation of the Iran war as a 'scandal to humanity' is the most senior religious intervention in the conflict to date."},
+        {"term": "Vatican Diplomacy", "definition": "The Holy See's tradition of using papal statements as instruments of moral pressure in international conflicts, historically effective in shaping global public opinion."}
       ],
-      "link": "https://www.bloomberg.com/news/articles/2026-03-20/trump-calls-nato-cowards-for-not-helping-join-fight-with-iran?srnd=phx-politics"
-    },
-    {
-      "headline": "Iran war enters its fourth week with no clear end in sight",
-      "description": "The US-Israel war on Iran entered its fourth week on March 21 with no ceasefire in sight, over 1,444 Iranians killed, sustained Iranian retaliatory strikes reaching the Indian Ocean, and a widening geographic scope of conflict encompassing Kuwait, Bahrain, Saudi Arabia, the UAE, and Israel. Bahrain alone has intercepted 143 missiles and 242 drones since February 28. Kuwait's Mina al-Ahmadi refinery — one of the largest in the Middle East — was struck by Iranian drones, sparking a major fire.",
-      "context": "The conflict's entry into a fourth week without strategic resolution, ceasefire framework, or clear US war aims — amid divergent US-Israeli objectives acknowledged by the DNI — signals a protracted campaign with compounding consequences: sustained energy price inflation, mounting civilian casualties in Iran, erosion of Gulf state stability, and progressive diplomatic isolation of the US from non-participant allies. The strikes on Kuwait's Mina al-Ahmadi refinery extend Iran's energy infrastructure targeting into previously unaffected Gulf states, threatening a broader collapse of regional energy production capacity.",
-      "timeline": [
-        {"type": "background", "date": "2026-02-28", "label": "US-Israel Iran campaign launches; initial strikes on military and nuclear-linked targets in Iran."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Iran strikes Ras Laffan (Qatar) and Gulf energy infrastructure; UAE intercepts threats; Israel strikes Haifa refinery targeted."},
-        {"type": "event", "date": "2026-03-21", "label": "War enters week four; Mina al-Ahmadi refinery struck; Diego Garcia targeted; Natanz hit; 1,444 killed in Iran."},
-        {"type": "consequence", "date": "2026-03-21", "label": "World forced to cut energy consumption and pay elevated prices; no ceasefire framework; US debates ground troop deployment."}
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {"term": "Mina al-Ahmadi Refinery", "definition": "Kuwait's flagship oil refinery capable of processing approximately 730,000 barrels per day; struck by Iranian drones on March 20–21, sparking a major fire."},
-        {"term": "Bahrain Air Defense", "definition": "Bahrain's military air defense system, which has intercepted 143 Iranian missiles and 242 drones since the conflict began February 28, 2026."},
-        {"term": "Kharg Island Blockade Plans", "definition": "Reported US contingency planning to blockade or occupy Iran's Kharg Island oil terminal, which handles approximately 90% of Iran's crude exports, as an extreme economic pressure measure."},
-        {"term": "Nowruz", "definition": "The Persian New Year, celebrated March 20–21, 2026 under wartime conditions by millions of Iranians amid ongoing US-Israeli bombardment."}
-      ],
-      "link": "https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week"
-    },
-    {
-      "headline": "Iran War's Energy Impact Forces World to Pay Up, Cut Consumption",
-      "description": "Governments and economies worldwide are being forced to either absorb sharply higher energy costs or implement emergency consumption reduction measures, as the Iran war's sustained disruption to Gulf energy infrastructure pushes Brent crude and LNG prices to multi-year highs. Emergency energy rationing, speed limit reductions, and central bank interventions are being considered or implemented across multiple economies.",
-      "context": "The war's energy impact has moved beyond a price spike into a structural supply disruption, with Ras Laffan, South Pars, Mina al-Ahmadi, and the Strait of Hormuz all compromised to varying degrees. Countries without domestic energy production — particularly import-dependent Asian and European economies — face the sharpest adjustment burden. The distributional consequences include inflation in energy-intensive sectors, pressure on central banks to delay rate cuts, and geopolitical realignment as countries scramble for alternative supply from Russia, the US, and West Africa.",
-      "timeline": [
-        {"type": "background", "date": "2022-02-24", "label": "Russia's Ukraine invasion triggers first major post-pandemic energy shock; Europe accelerates LNG import infrastructure."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Iran strikes Ras Laffan and Gulf infrastructure; Brent crude breaches $115/barrel; LNG spot prices surge."},
-        {"type": "event", "date": "2026-03-21", "label": "Governments globally announce emergency energy measures; consumption reduction mandated in several jurisdictions; central banks hold rates."},
-        {"type": "consequence", "date": "2026-03-21", "label": "Iran's oil sanctions partially eased to release pre-loaded tankers; global energy realignment accelerates; Russian oil benefits from demand diversion."}
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {"term": "Energy Rationing", "definition": "Government-imposed limits on energy consumption implemented by multiple jurisdictions in response to Gulf supply disruptions."},
-        {"term": "LNG Spot Price", "definition": "The market price for immediate delivery of liquefied natural gas; surging following Iranian attacks on Ras Laffan, the world's largest LNG export hub."},
-        {"term": "Russian Oil Diversion", "definition": "The redirection of global crude oil demand toward Russian exports as Gulf supply is disrupted, providing Russia economic relief from Western sanctions."},
-        {"term": "Strategic Petroleum Reserves (SPR)", "definition": "Government-held emergency crude oil stockpiles being drawn upon by several countries to buffer against Gulf supply disruption."}
-      ],
-      "link": "https://www.usnews.com/news/world/articles/2026-03-21/iran-wars-energy-impact-forces-world-to-pay-up-cut-consumption"
-    },
-    {
-      "headline": "Trump's Peace Board Hands Hamas Disarmament Proposal, Sources Say",
-      "description": "Trump's informal diplomatic body, informally referred to as the Peace Board, has presented Hamas with a formal disarmament proposal as part of renewed Gaza ceasefire and conflict-resolution efforts running parallel to the Iran war. The proposal's terms and Hamas's initial response were not immediately disclosed.",
-      "context": "The timing of a Hamas disarmament proposal during the Iran war is strategically significant: Hamas's military and political capacity has been severely degraded since October 2023, and Iran — its primary state backer — is now under direct military assault and distracted by its own existential conflict. This creates a potential diplomatic window to extract disarmament commitments from Hamas that would not have been achievable under pre-war conditions, while simultaneously allowing Trump to pursue a Gaza resolution as a complementary achievement to the Iran military campaign.",
-      "timeline": [
-        {"type": "background", "date": "2023-10-07", "label": "Hamas attack on Israel triggers Gaza war; Hamas begins sustained military and political engagement with Iran as key strategic backer."},
-        {"type": "escalation", "date": "2026-02-28", "label": "US-Israel Iran war begins, severely degrading Hamas's primary state sponsor and reshaping the Gaza diplomatic context."},
-        {"type": "event", "date": "2026-03-21", "label": "Trump's Peace Board formally presents Hamas with a disarmament proposal amid the ongoing Iran conflict."},
-        {"type": "consequence", "date": "2026-03-21", "label": "Israel reopens Gaza crossing amid parallel truce push; Gaza resolution being pursued as diplomatic complement to Iran military campaign."}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {"term": "Trump Peace Board", "definition": "An informal US diplomatic body operating outside traditional State Department channels, tasked with advancing Trump's Middle East peace and conflict-resolution agenda."},
-        {"term": "Hamas Disarmament Proposal", "definition": "A formal framework presented to Hamas on March 21 calling for the group to relinquish its weapons as a condition of a Gaza ceasefire and post-war governance arrangement."},
-        {"term": "Gaza Ceasefire Negotiations", "definition": "Ongoing US-mediated diplomatic process aimed at halting hostilities between Israel and Hamas in the Gaza Strip, running parallel to the Iran military campaign."}
-      ],
-      "link": "https://www.usnews.com/news/world/articles/2026-03-21/trumps-peace-board-hands-hamas-disarmament-proposal-sources-say"
-    },
-    {
-      "headline": "Zelensky Sends Negotiators to the US, Hoping to Revive Peace Talks",
-      "description": "Ukrainian President Volodymyr Zelenskyy dispatched a delegation of negotiators to Washington to attempt to restart Ukraine-Russia peace talks, which the Kremlin announced were paused amid the Iran war consuming US diplomatic bandwidth. The move is aimed at keeping Ukraine on the US foreign policy agenda and rebuilding momentum toward a ceasefire framework.",
-      "context": "Zelenskyy's Washington diplomatic push reflects acute anxiety that the Iran war is creating a prolonged window of strategic neglect for Ukraine, during which Russia can press military and political advantages. The EU Ukraine loan remains blocked by Hungary, peace talks are formally paused, and US attention and resources are committed to the Middle East. By sending negotiators proactively, Kyiv signals its willingness to engage on terms that may be more favorable to the US political agenda, including potential territorial compromises that Zelenskyy had previously resisted.",
-      "timeline": [
-        {"type": "background", "date": "2022-02-24", "label": "Russia's full-scale Ukraine invasion begins; US emerges as Ukraine's primary security guarantor and weapons supplier."},
-        {"type": "escalation", "date": "2026-02-28", "label": "Iran war begins, diverting US diplomatic and military resources away from the Ukraine portfolio."},
-        {"type": "event", "date": "2026-03-21", "label": "Zelenskyy sends negotiating delegation to Washington to revive paused Ukraine-Russia peace process."},
-        {"type": "consequence", "date": "2026-03-21", "label": "Ukraine-Russia talks remain formally paused per Kremlin; EU Ukraine loan still blocked by Hungary; Kyiv faces compounding diplomatic isolation."}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "Ukraine Peace Negotiations", "definition": "Diplomacy aimed at reaching a ceasefire and eventual political settlement to the Russia-Ukraine war; formally paused on March 19 by the Kremlin citing Iran war preoccupation."},
-        {"term": "Zelenskyy Negotiating Delegation", "definition": "A Ukrainian diplomatic team dispatched to Washington to re-engage the US on peace talks and maintain Ukraine's position on the American foreign policy agenda."},
-        {"term": "Ukraine EU Loan Package", "definition": "A €90 billion EU financial commitment to Ukraine, currently blocked by Hungary; Kyiv's budget crisis worsens as diplomatic attention diverts to Iran."}
-      ],
-      "link": "https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html"
+      "link": "https://www.reuters.com/world/middle-east/pope-leo-calls-war-middle-east-scandal-humanity-2026-03-22"
     }
   ],
   "national": [
     {
-      "headline": "Government Relaxes Credit Norms to Power MSME Expansion and Boost Manufacturing",
-      "description": "The Reserve Bank of India implemented the Lending to Micro, Small and Medium Enterprises (MSME) Sector (Amendment) Directions, 2026, prohibiting banks from requiring collateral security for loans up to ₹20 lakh for micro and small enterprises, effective April 1, 2026. Banks may extend collateral-free loans up to ₹25 lakh for borrowers with strong repayment histories. The amendment reorients MSME lending from asset-based to performance-based evaluation.",
-      "context": "India's MSME sector contributes approximately 30% of GDP, employs over 110 million people, and accounts for nearly half of national exports. Collateral requirements have historically been the single largest barrier to formal credit access for India's estimated 5.93 crore registered micro and small enterprises. Removing the mandatory collateral threshold for loans up to ₹20 lakh directly addresses this systemic barrier, expanding credit flow to first-time entrepreneurs, women-owned enterprises, and rural manufacturers who lack property assets, reinforcing India's Make in India and manufacturing growth agenda.",
+      "headline": "Trump Sets 48-Hour Deadline for Opening of Strait of Hormuz",
+      "description": "US President Donald Trump formally issued a 48-hour ultimatum to Iran demanding the full reopening of the Strait of Hormuz to international commercial shipping, threatening military strikes on Iranian power plants if the deadline was not met. The White House simultaneously announced the partial lifting of sanctions on Iranian crude oil already loaded on tankers at sea to ease energy prices domestically.",
+      "context": "Trump's ultimatum reflects domestic pressure from surging energy prices — Brent crude above $115/barrel — and Wall Street volatility that are compounding the political cost of the Iran war. Lifting sanctions on pre-loaded Iranian tankers is a tactical demand-management measure that releases roughly 30–50 million barrels of crude into the market but does not resolve the underlying Hormuz disruption. The 48-hour window creates an acute geopolitical clock that financial markets, allied capitals, and Gulf states must navigate simultaneously.",
       "timeline": [
-        {"type": "background", "date": "2020-07-01", "label": "India revises MSME classification thresholds under the MSME Development Act, expanding the eligible universe of enterprises."},
-        {"type": "escalation", "date": "2025-02-01", "label": "Union Budget 2025-26 raises MSME investment and turnover classification limits by 2.5x and 2x respectively; credit guarantee cover doubled to ₹10 crore."},
-        {"type": "event", "date": "2026-02-01", "label": "RBI issues MSME Sector Amendment Directions 2026, banning mandatory collateral for loans up to ₹20 lakh for micro and small enterprises."},
-        {"type": "consequence", "date": "2026-04-01", "label": "New norms apply to all loans sanctioned or renewed from April 1, 2026; performance-based lending framework replaces asset-based gatekeeping."}
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "country": "India",
-      "key_terms": [
-        {"term": "RBI MSME Amendment Directions 2026", "definition": "The Reserve Bank of India's regulatory amendment prohibiting mandatory collateral for MSME loans up to ₹20 lakh, shifting to performance-based credit evaluation."},
-        {"term": "CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises)", "definition": "India's primary credit guarantee mechanism for MSME lending, backing collateral-free loans and absorbing default risk on behalf of banks."},
-        {"term": "Udyam Registration", "definition": "India's digital MSME registration system under the Ministry of MSME, integrated with GST and Income Tax networks; mandatory for accessing government credit and subsidy schemes."},
-        {"term": "Priority Sector Lending", "definition": "RBI mandate requiring banks to allocate a defined proportion of credit to sectors including MSMEs, agriculture, and housing, ensuring underserved segments receive formal banking access."},
-        {"term": "PMEGP (Prime Minister's Employment Generation Programme)", "definition": "Flagship government scheme providing collateral-free, subsidy-linked loans to first-time entrepreneurs in manufacturing and service sectors, complemented by the new RBI amendment."}
-      ],
-      "link": "http://www.uniindia.com/govt-relaxes-credit-norms-to-power-msme-expansion-boost-manufacturing/business-economy/news/3782409.html"
-    },
-    {
-      "headline": "UK Authorises Military Use of Bases for Maritime Protection in Hormuz",
-      "description": "The UK government authorised the United States to use British military bases to conduct operations targeting Iranian missile sites, and began contingency planning for maritime protection operations in the Strait of Hormuz. The UK also established a dedicated 'Iran Board' within HM Treasury to manage the domestic economic consequences of the Iran war, with a specific mandate to address energy price shocks.",
-      "context": "The UK's decision to formally authorize US use of British bases for Iran strikes — confirmed by Iran's Foreign Minister Araghchi, who warned British lives were now at risk — shifts the UK from implicit to explicit co-belligerent status. This exposure is compounding the UK Chancellor's crisis: UK government borrowing costs have hit 18-year highs as markets price in sustained energy-driven inflation and fiscal deterioration. The 'Iran Board' reflects Whitehall's recognition that the war's economic consequences require cross-departmental coordination at Cabinet level, with specific options including lower speed limits to reduce oil demand.",
-      "timeline": [
-        {"type": "background", "date": "2026-02-28", "label": "US-Israel Iran war begins; UK takes initial position of political support without direct military participation."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Iran strikes Gulf energy infrastructure; UK energy prices surge; Chancellor faces market pressure from rising gilt yields."},
-        {"type": "event", "date": "2026-03-21", "label": "UK formally authorises use of British bases for US Iran strikes; HM Treasury establishes dedicated Iran Board; contingency planning for Hormuz contribution begins."},
-        {"type": "consequence", "date": "2026-03-21", "label": "Iran fires two ballistic missiles at Diego Garcia — a UK territory — directly retaliating for the basing authorisation."}
+        {"type": "background", "date": "2026-02-28", "label": "US-Israel Iran war begins; Iran begins incremental Hormuz restrictions on US-linked vessels."},
+        {"type": "escalation", "date": "2026-03-21", "label": "Iran fires ballistic missiles at Diego Garcia; war enters week four with no ceasefire framework."},
+        {"type": "event", "date": "2026-03-22", "label": "Trump issues 48-hour Hormuz ultimatum; lifts sanctions on pre-loaded Iranian oil tankers; threatens power plant strikes."},
+        {"type": "consequence", "date": "2026-03-22", "label": "US Treasury monitors oil price surge; US military reinforces aerial defenses around domestic strategic sites; US Embassy Jerusalem issues security alert for US citizens."}
       ],
       "importance_score": 5,
+      "category": "national",
+      "region": "United States",
+      "country": "United States",
+      "key_terms": [
+        {"term": "Hormuz Ultimatum", "definition": "Trump's 48-hour deadline issued March 22 demanding Iran reopen the Strait of Hormuz to all international commercial shipping under threat of power plant strikes."},
+        {"term": "Iranian Oil Sanctions Relief", "definition": "Partial US sanctions waiver on Iranian crude already loaded on tankers at sea, aimed at releasing supply into the market to ease domestic energy inflation."},
+        {"term": "US Embassy Jerusalem Security Alert", "definition": "Emergency advisory issued March 22 for US citizens in Israel, providing overland departure options and shelter-in-place guidance amid intensified Iranian missile strikes."},
+        {"term": "STEP (Smart Traveler Enrollment Program)", "definition": "US State Department program enrolling Americans abroad in emergency communications networks; US Embassy Jerusalem urged citizens to enroll immediately."}
+      ],
+      "link": "https://www.pbs.org/newshour/world/iran-threatens-to-close-strait-of-hormuz-and-hit-power-plants-after-trumps-48-hour-deadline"
+    },
+    {
+      "headline": "UK Government Expands Detention Capacity for Rapid Deportations",
+      "description": "The UK Home Office announced an expansion of immigration detention capacity to accelerate the removal of foreign offenders and illegal migrants from the United Kingdom. The announcement follows a bilateral returns agreement signed with Nigeria during President Bola Tinubu's state visit to Britain, under which Nigeria agreed to accept UK-issued letters as valid identification for deportees — removing a major bureaucratic obstacle. Approximately 961 Nigerians have exhausted asylum appeal rights and a further 1,110 Nigerian foreign national offenders are awaiting deportation.",
+      "context": "The UK government's expanded detention strategy reflects Prime Minister Starmer's political commitment to demonstrating firm immigration control, particularly as the governing Labour party faces pressure from the right on immigration. The Nigeria bilateral deal — formalised by Interior Minister Olubunmi Tunji-Ojo and UK Home Secretary Shabana Mahmood — is a model the UK intends to replicate with other high-volume deportation origin countries. Increased detention capacity directly supports the government's legally required deportation timelines under the Illegal Migration Act framework.",
+      "timeline": [
+        {"type": "background", "date": "2023-07-20", "label": "UK Illegal Migration Act receives Royal Assent, establishing the legal framework for accelerated deportation of undocumented migrants."},
+        {"type": "escalation", "date": "2026-03-15", "label": "President Tinubu's state visit to the UK formalises a bilateral returns agreement between Nigeria and the UK, simplifying deportee identification procedures."},
+        {"type": "event", "date": "2026-03-22", "label": "UK Home Office announces expansion of immigration detention capacity to accelerate removal of foreign offenders and illegal migrants."},
+        {"type": "consequence", "date": "2026-03-22", "label": "Over 2,000 Nigerians identified for accelerated deportation; critics warn of mass deportation risk; Nigerian Presidency clarifies only undocumented nationals are affected."}
+      ],
+      "importance_score": 3,
       "category": "national",
       "region": "United Kingdom",
       "country": "United Kingdom",
       "key_terms": [
-        {"term": "Diego Garcia", "definition": "A British Indian Ocean Territory atoll leased to the United States for military operations; targeted by Iranian ballistic missiles on March 21 following the UK base authorisation."},
-        {"term": "HM Treasury Iran Board", "definition": "A new UK Cabinet-level inter-departmental body established to coordinate the domestic economic response to Iran war energy price shocks and fiscal pressures."},
-        {"term": "UK Gilt Yields", "definition": "The interest rate on UK government bonds; at 18-year highs as markets price in sustained inflation, fiscal deterioration, and war-related energy costs."},
-        {"term": "Strait of Hormuz Maritime Operations", "definition": "Proposed UK naval contribution to securing freedom of navigation through the Persian Gulf chokepoint, under contingency planning as of March 21."},
-        {"term": "Speed Limit Reduction", "definition": "Emergency demand-side energy measure under consideration by the UK Department for Transport to reduce national oil consumption during the supply crisis."}
+        {"term": "UK Immigration Detention Expansion", "definition": "Home Office initiative to increase secure holding capacity for foreign offenders and illegal migrants pending deportation."},
+        {"term": "UK-Nigeria Bilateral Returns Agreement", "definition": "A formal repatriation agreement allowing the UK to deport undocumented Nigerians using UK-issued letters as identification, removing a bureaucratic obstacle."},
+        {"term": "Shabana Mahmood", "definition": "UK Home Secretary who signed the Nigeria bilateral returns agreement and oversees the expanded detention policy."},
+        {"term": "Illegal Migration Act", "definition": "UK legislation enacted in 2023 establishing a legal framework for detaining and deporting those who arrive in the UK through illegal routes."}
       ],
-      "link": "https://www.theguardian.com/world/2026/mar/20/uk-ministers-begin-contingency-planning-amid-fears-for-economic-effects-of-iran-war"
+      "link": "https://punchng.com/uk-expands-detention-capacity-to-speed-up-deportations/"
     },
     {
-      "headline": "Energy Shock Accelerates China's Exit from Multi-Year Deflationary Cycle",
-      "description": "The Iran war-driven global energy price shock is forcing an abrupt reversal of China's multi-year deflationary trend, with Goldman Sachs revising China's Producer Price Index forecasts upward as commodity-driven cost-push inflation enters Chinese manufacturing supply chains. Chinese manufacturing profits have hit a 21-year low, the PBOC signaled it would hold policy rates steady to prevent commodity inflation from becoming entrenched, and Beijing halted diesel and gasoline exports to secure domestic energy reserves.",
-      "context": "China's economy has been mired in deflation driven by excess manufacturing capacity, weak domestic demand, and a property sector crisis — conditions that were beginning to stabilize. The Iran war-driven energy shock now introduces a cost-push inflation dynamic that simultaneously compresses manufacturer margins (already at 21-year lows) and risks reigniting consumer price pressures. Beijing's diesel and gasoline export halt signals that domestic energy security is being prioritized over export revenue — a significant policy shift with global fuel market implications, particularly for Asian neighbors dependent on Chinese refined product exports.",
+      "headline": "Minister Reed States No Assessment of Direct Iranian Missile Threat to UK",
+      "description": "UK Cabinet Office Minister Steve Reed publicly stated that the UK government has assessed no evidence that Iran possesses the capability or intent to strike the British mainland with ballistic missiles, providing official reassurance to UK citizens amid public anxiety about the Iran war's geographic escalation following Iranian missile strikes on Diego Garcia — a British territory.",
+      "context": "The Diego Garcia strikes on March 21 — in which two Iranian ballistic missiles targeted the US-UK joint military base — created the first direct threat to British-linked territory in the conflict, prompting public anxiety about UK civilian exposure. Reed's statement is aimed at managing domestic panic while the government simultaneously authorises military base use for US Iran strikes, a position that places the UK in effective co-belligerent status. The Metropolitan Police's meetings with British-Iranian diaspora leaders — approximately 100,000 strong in the UK — reflects concerns about community safety in a polarised conflict environment.",
+      "context": "The assurance accompanies active UK Iran Board contingency planning, military base authorisation for US strikes, and borrowing cost pressures from war-driven inflation — creating a difficult domestic communication environment for the Starmer government managing both security reassurance and economic crisis simultaneously.",
       "timeline": [
-        {"type": "background", "date": "2023-01-01", "label": "China enters multi-year deflationary period as post-COVID recovery disappoints; PPI falls into sustained negative territory."},
-        {"type": "escalation", "date": "2026-02-28", "label": "Iran war begins, sending global energy prices sharply higher and introducing cost-push pressures into Chinese manufacturing."},
-        {"type": "event", "date": "2026-03-20", "label": "Goldman Sachs upgrades China PPI forecast; PBOC holds rates; manufacturing profits reported at 21-year low; diesel and gasoline exports halted."},
-        {"type": "consequence", "date": "2026-03-21", "label": "China's deflationary cycle interrupted by energy shock; National Congress preparations shifted to focus on structural rebalancing amid new inflation risks."}
+        {"type": "background", "date": "2026-02-28", "label": "UK expresses political support for US-Israel Iran campaign without direct military participation."},
+        {"type": "escalation", "date": "2026-03-21", "label": "Iran fires two ballistic missiles at Diego Garcia — a UK territory — in retaliation for UK base authorisation for US Iran strikes."},
+        {"type": "event", "date": "2026-03-22", "label": "Minister Reed states no evidence Iran has capability or intent to bomb UK mainland; Metropolitan Police meets British-Iranian diaspora leaders over safety concerns."},
+        {"type": "consequence", "date": "2026-03-22", "label": "UK diaspora groups formally raise safety concerns with authorities; government balances security reassurance with active co-belligerent military posture."}
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "United Kingdom",
+      "country": "United Kingdom",
+      "key_terms": [
+        {"term": "Steve Reed", "definition": "UK Cabinet Office Minister who provided the official government assessment that Iran poses no direct ballistic missile threat to the British mainland."},
+        {"term": "British-Iranian Diaspora", "definition": "Approximately 100,000 British nationals of Iranian origin living in the UK, whose safety and community cohesion concerns were raised with the Metropolitan Police on March 22."},
+        {"term": "Diego Garcia", "definition": "British Indian Ocean Territory hosting a US-UK joint military base, targeted by Iranian ballistic missiles on March 21 — the first strike on a British-linked installation in this conflict."},
+        {"term": "Metropolitan Police Community Liaison", "definition": "Formal meetings between Met Police and British-Iranian community leaders to address harassment, hate crime, and safety concerns arising from the Iran war."}
+      ],
+      "link": "https://www.theguardian.com/world/2026/mar/22/iran-capability-intent-bomb-missiles-britain-steve-reed"
+    },
+    {
+      "headline": "China Targets Breakthroughs in 6G, Brain-Computer Interfaces, and Nuclear Fusion",
+      "description": "Minister of Industry and Information Technology Li Lecheng, speaking at the China Development Forum 2026 in Beijing, outlined China's strategy to accelerate 'Industries of the Future,' committing to government-guided breakthroughs in six priority domains: quantum technology, biomanufacturing, hydrogen energy, nuclear fusion, brain-computer interfaces, and 6G wireless communications. Li stated China would guide localities to develop future industries according to their comparative advantages, and would actively participate in international standard-setting for these sectors.",
+      "context": "China's public commitment to six frontier technology domains at the ministerial level, delivered at the China Development Forum — China's premier annual economic policy conference attended by top global executives and international officials — signals these areas are now formal 15th Five-Year Plan priorities with state-backed funding, regulatory alignment, and industrial policy support. The selection of domains — particularly brain-computer interfaces and nuclear fusion — directly competes with US frontier technology programs and positions China as an assertive standard-setter in technologies that will define the next industrial era.",
+      "timeline": [
+        {"type": "background", "date": "2021-03-01", "label": "China's 14th Five-Year Plan prioritizes AI, quantum computing, and semiconductors; limited explicit commitment to BCI and fusion."},
+        {"type": "escalation", "date": "2026-03-19", "label": "15th Five-Year Plan outline released; modern industrial systems, AI integration, and emerging industries named as core pillars."},
+        {"type": "event", "date": "2026-03-22", "label": "Minister Li Lecheng announces China's six priority 'Industries of the Future' at China Development Forum 2026: quantum tech, biomanufacturing, hydrogen energy, nuclear fusion, brain-computer interfaces, and 6G."},
+        {"type": "consequence", "date": "2026-03-22", "label": "Ministry of Industry to guide localities toward differentiated development; China to actively engage international standards bodies for future technologies."}
       ],
       "importance_score": 4,
       "category": "national",
       "region": "China",
       "country": "China",
       "key_terms": [
-        {"term": "PPI (Producer Price Index)", "definition": "A measure of average price changes received by domestic producers for their output; China's PPI has been negative for years but is now being pushed upward by energy costs."},
-        {"term": "PBOC (People's Bank of China)", "definition": "China's central bank, which signaled it would hold policy rates steady on March 20 to prevent commodity inflation from becoming entrenched."},
-        {"term": "Diesel and Gasoline Export Halt", "definition": "Beijing's decision to suspend refined fuel exports to protect domestic energy reserves, removing a source of supply for neighboring Asian markets."},
-        {"term": "Cost-Push Inflation", "definition": "Inflation driven by rising input costs — particularly energy — passed through to consumer prices via manufacturing and logistics supply chains."},
-        {"term": "Goldman Sachs PPI Forecast Revision", "definition": "Goldman Sachs's upward adjustment of China's PPI trajectory projection following the Iran war energy shock, signaling the end of China's deflation period."}
+        {"term": "Industries of the Future (未来产业)", "definition": "China's official policy framework designating frontier technology sectors — including quantum, BCI, and nuclear fusion — for state-prioritized investment and regulatory support under the 15th Five-Year Plan."},
+        {"term": "6G", "definition": "The sixth generation of wireless communications technology, projected to deliver terahertz-band speeds and ultra-low latency; China aims to lead global standardization."},
+        {"term": "Brain-Computer Interface (BCI)", "definition": "Technology enabling direct communication between the human brain and computing systems; designated a Chinese national priority technology at the ministerial level."},
+        {"term": "Nuclear Fusion Energy", "definition": "Clean energy technology replicating the Sun's energy production process; China has active ITER participation and domestic fusion reactor programs targeted by this policy."},
+        {"term": "China Development Forum", "definition": "China's premier annual policy conference held in Beijing, attended by top global business leaders and government officials; the venue for Li Lecheng's future industries announcement."},
+        {"term": "Li Lecheng", "definition": "China's Minister of Industry and Information Technology who outlined the six priority future industry domains at the China Development Forum 2026."}
       ],
-      "link": "https://www.japantimes.co.jp/business/2026/03/20/economy/china-deflation-cure-dangerous/"
+      "link": "https://english.news.cn/20260322/1f1eeb2374a44297a063ee3458384bc1/c.html"
     },
     {
-      "headline": "UAE Orders Closure of Iranian State-Linked Hospital in Dubai Amid Security Crisis",
-      "description": "UAE authorities ordered the closure of an Iranian state-linked hospital operating in Dubai as part of a sweeping security response to the ongoing Iran conflict, which has seen Iranian ballistic missiles and drones intercepted over Abu Dhabi. UAE President Sheikh Mohamed bin Zayed visited injured civilians in hospital. The Ministry of Interior issued a national safety advisory and the National Crisis and Emergency Management Authority coordinated security drills.",
-      "context": "The closure of the Iranian-linked hospital reflects the UAE's active severing of institutional ties with Iranian state entities operating within its borders as the conflict intensifies. The UAE — a major financial hub hosting hundreds of thousands of Iranian nationals and significant Iranian commercial interests — is executing a careful balance between maintaining economic openness and responding to direct military threats on its territory. The move signals a hardening UAE posture toward Iran, reinforcing a shift from the 2021–2023 UAE-Iran diplomatic normalization that had been underway.",
+      "headline": "UAE Defence Ministry Reports Interception of Drones in Eastern Region; Total Intercepts Reach 341 Ballistic Missiles",
+      "description": "The UAE Ministry of Defence confirmed the interception of additional Iranian drones and missiles over the UAE's Eastern Region on March 22, as cumulative UAE air defense intercepts since February 28 reached 341 ballistic missiles, 15 cruise missiles, and 1,748 drones. The IRGC confirmed it targeted UAE's Al-Minhad Air Base with ballistic missiles and UAVs. The UAE Ministry of Interior issued updated public safety guidelines and the National Crisis and Emergency Management Authority coordinated large-scale national security drills.",
+      "context": "The cumulative interception count — 341 ballistic missiles and 1,748 drones — gives the first comprehensive picture of the sustained scale of Iran's air assault on the UAE, a country that officially has not joined the US-Israel coalition. The burden on UAE air defense systems, which include Patriot batteries and THAAD, is substantial and raises questions about interceptor stockpile sustainability. Al-Minhad Air Base is a key hub for US, UK, and Australian military operations in the region — making it a strategically logical Iranian target and placing the UAE in direct military crossfire regardless of its declared neutrality.",
       "timeline": [
-        {"type": "background", "date": "2021-01-01", "label": "UAE and Iran begin diplomatic normalization following years of tension; Iranian commercial and medical institutions expand UAE presence."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Iranian missiles and drones target UAE territory; UAE air defenses intercept threats over Abu Dhabi for the first time in this conflict."},
-        {"type": "event", "date": "2026-03-21", "label": "UAE orders closure of Iranian state-linked hospital in Dubai; Ministry of Interior issues national safety advisory; President MBZ visits injured civilians."},
-        {"type": "consequence", "date": "2026-03-21", "label": "UAE severs institutional ties with Iranian state entities; Central Bank activates liquidity support; UAE denies capital movement restrictions."}
+        {"type": "background", "date": "2022-01-17", "label": "Houthi drone attacks on Abu Dhabi prompt major UAE investment in layered air defense infrastructure."},
+        {"type": "escalation", "date": "2026-03-19", "label": "Iranian missiles and drones first directly target UAE territory following Israeli strike on South Pars gasfield."},
+        {"type": "event", "date": "2026-03-22", "label": "UAE confirms interceptions of additional drones in Eastern Region; cumulative totals reach 341 ballistic missiles, 15 cruise missiles, and 1,748 UAVs intercepted since Feb 28."},
+        {"type": "consequence", "date": "2026-03-22", "label": "UAE orders closure of Iranian state-linked Dubai hospital; NCEMA coordinates national security drills; Ministry of Interior issues updated public safety guidelines."}
       ],
       "importance_score": 4,
       "category": "national",
       "region": "United Arab Emirates",
       "country": "United Arab Emirates",
       "key_terms": [
-        {"term": "Iranian State-Linked Hospital", "definition": "A medical institution operating in Dubai with connections to the Iranian state, ordered closed by UAE authorities on March 21 as part of security measures."},
-        {"term": "NCEMA (National Crisis and Emergency Management Authority)", "definition": "UAE's federal crisis response body, coordinating national security drills and emergency protocols amid active Iranian military threats."},
-        {"term": "UAE-Iran Diplomatic Normalization", "definition": "A 2021–2023 process of restoring official ties between the UAE and Iran, now effectively reversed by the military conflict."},
-        {"term": "UAE Central Bank Liquidity Support", "definition": "Precautionary financial stability measures activated by the UAE Central Bank to prevent capital flight and ensure market confidence during the regional crisis."},
-        {"term": "Sheikh Mohamed bin Zayed (MBZ)", "definition": "President of the United Arab Emirates; visited injured civilians on March 21 as a demonstration of national solidarity during the conflict."}
+        {"term": "Al-Minhad Air Base", "definition": "A major UAE military base south of Dubai hosting US, UK, and Australian forces; confirmed target of IRGC ballistic missiles and UAVs in the March 21–22 attack waves."},
+        {"term": "UAE Air Defense Systems", "definition": "UAE's layered interception infrastructure including Patriot PAC-3 and THAAD missile defense batteries; has intercepted 341 ballistic missiles and 1,748 drones since February 28."},
+        {"term": "NCEMA (National Crisis and Emergency Management Authority)", "definition": "UAE's federal crisis coordination body managing national security drills, emergency protocols, and civilian safety procedures during the active conflict period."},
+        {"term": "THAAD (Terminal High Altitude Area Defense)", "definition": "US-built advanced missile defense system deployed in the UAE, capable of intercepting ballistic missiles in the terminal phase of flight."},
+        {"term": "UAE Eastern Region", "definition": "The UAE's mountainous northeastern region bordering Oman, site of additional drone interceptions reported by the UAE Ministry of Defence on March 22."}
       ],
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-hezbollah-oil-supply-march-21-2026/article70768245.ece"
-    },
-    {
-      "headline": "Safety of 4 Million Indian Expats Confirmed as National Priority by UAE Envoy",
-      "description": "The UAE Ambassador to India formally confirmed that the safety and security of approximately 4 million Indian nationals residing in the UAE is being treated as a national priority by UAE authorities, amid ongoing Iranian aerial threats, air defense intercepts over Abu Dhabi, and broader regional security alerts.",
-      "context": "India has the largest expat community in the UAE — approximately 4 million people — who collectively remit an estimated $20 billion annually to India, representing one of the most significant bilateral economic relationships between the two countries. Any sustained deterioration in UAE security or an evacuation crisis would have severe macroeconomic consequences for India, including remittance disruption, labor market displacement, and direct diplomatic pressure on New Delhi to act. The Ambassador's statement aims to prevent panic and possible unilateral evacuation movements while assuring the Indian government that UAE security infrastructure is managing the threat.",
-      "timeline": [
-        {"type": "background", "date": "2015-01-01", "label": "Indian expat community in UAE reaches approximately 3 million; bilateral labor migration and remittance flows institutionalized."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Iran launches missiles and drones at UAE territory; UAE air defenses intercept threats over Abu Dhabi; Indian community in UAE raised on alert."},
-        {"type": "event", "date": "2026-03-21", "label": "UAE Ambassador to India confirms safety of 4 million Indian expats as a national priority; Ministry of Human Resources issues remote work guidelines for emergencies."},
-        {"type": "consequence", "date": "2026-03-21", "label": "Indian government monitors situation; no evacuation order issued; UAE airports resume normal operations following brief suspensions."}
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "United Arab Emirates",
-      "country": "United Arab Emirates",
-      "key_terms": [
-        {"term": "Indian Expat Community in UAE", "definition": "Approximately 4 million Indian nationals residing in the UAE, the largest single expat community in the country, whose welfare is a bilateral priority for both governments."},
-        {"term": "Remittance Flows", "definition": "Financial transfers from Indian workers in the UAE to families in India, estimated at approximately $20 billion annually and representing a critical source of Indian household income."},
-        {"term": "UAE Ministry of Human Resources", "definition": "UAE government body that issued emergency remote work guidelines for private sector employees during the March 21 security alert period."}
-      ],
-      "link": "https://www.thehindu.com/news/national/safety-of-indians-living-in-uae-is-a-priority-envoy/article70769760.ece"
+      "link": "https://israel-alma.org/daily-report-the-second-iran-war-march-22-2026-1800/"
     }
   ],
   "science": [
     {
-      "headline": "New Oral Drug 'Enlicitide' Reduces LDL Cholesterol by 60% in Landmark Phase 3 Trial",
-      "description": "A phase 3 clinical trial — the CORALreef Lipids trial — published in The New England Journal of Medicine demonstrated that enlicitide decanoate, an investigational once-daily oral PCSK9 inhibitor developed by Merck, reduced LDL cholesterol by approximately 60% compared to placebo in 2,909 adults with atherosclerotic cardiovascular disease or at elevated risk. The reduction was sustained at 52 weeks. Enlicitide also reduced non-HDL cholesterol by 53%, apolipoprotein B by 50%, and lipoprotein(a) by 28%. Seven out of ten participants achieved LDL below 70 mg/dL. The FDA has granted the drug a National Priority Voucher to fast-track approval.",
-      "context": "Enlicitide is the first oral drug to match the efficacy of injectable PCSK9 inhibitors such as evolocumab (Repatha) and alirocumab (Praluent), which have been available since 2015 but are rarely prescribed by primary care physicians — partly because they require injection. Statins remain inadequate for nearly half of high-risk cardiovascular patients. An oral PCSK9 inhibitor that matches injectable efficacy could dramatically expand treatment uptake: approximately 86 million US adults have hypercholesterolemia, and 70% of high-risk patients currently fail to reach LDL targets even on statins. This represents a potential paradigm shift in population-level cardiovascular prevention comparable in scope to the original introduction of statins.",
+      "headline": "Quantum Breakthrough: Scientists Discover Hidden 48-Dimensional Structures in Entangled Light",
+      "description": "Researchers from the University of the Witwatersrand (South Africa) and Huzhou University (China), publishing in Nature Communications, discovered that standard entangled photon experiments — conducted using spontaneous parametric downconversion (SPDC), one of the most routine techniques in quantum optics — contain previously unseen high-dimensional topological structures. By measuring the orbital angular momentum (OAM) of two entangled photons, the team revealed that the entanglement itself carries an intrinsic topology — a previously undetected structural property. In experiments, these structures reached a record 48 dimensions and included more than 17,000 distinct topological signatures, the highest topology ever observed in any physical system. The key advance: topology can emerge from a single property of light (OAM) alone, whereas it was previously assumed at least two properties were required.",
+      "context": "The discovery is foundational to quantum information science because topological structures are inherently resistant to environmental noise and decoherence — the central obstacle to building stable quantum computers and quantum communication networks. By revealing a vast, pre-existing 48-dimensional 'alphabet' of topological states that requires no exotic experimental equipment — the SPDC setups needed are already present in most quantum optics labs — this work makes high-dimensional topological quantum encoding immediately accessible to the global research community. Applications include dramatically more noise-resilient quantum cryptography, higher-capacity quantum communication channels, and multi-qubit entanglement encoding within single photon pairs.",
       "timeline": [
-        {"type": "background", "date": "1985-10-14", "label": "Michael Brown and Joseph Goldstein win Nobel Prize for discovering the LDL receptor; foundational work enabling PCSK9 inhibitor development."},
-        {"type": "escalation", "date": "2025-11-08", "label": "Merck presents preliminary CORALreef Lipids Phase 3 results at American Heart Association Scientific Sessions 2025; 60% LDL reduction announced."},
-        {"type": "event", "date": "2026-02-04", "label": "Full CORALreef Lipids trial results published in The New England Journal of Medicine; enlicitide confirmed as first oral drug to match injectable PCSK9 inhibitor efficacy."},
-        {"type": "consequence", "date": "2026-03-21", "label": "FDA National Priority Voucher issued; ScienceDaily republishes coverage; CORALreef Outcomes cardiovascular events trial ongoing with 14,500 participants enrolled."}
+        {"type": "background", "date": "2016-01-01", "label": "Orbital angular momentum entanglement widely studied but considered fragile; assumed that topology required at least two simultaneous light properties."},
+        {"type": "escalation", "date": "2025-12-17", "label": "University of the Witwatersrand and Huzhou University paper published in Nature Communications demonstrating 48-dimensional topological structures in standard SPDC entangled photon experiments."},
+        {"type": "event", "date": "2026-03-21", "label": "ScienceDaily and global science media widely cover the Nature Communications findings; the discovery is recognized as the highest topology observed in any physical system."},
+        {"type": "consequence", "date": "2026-03-21", "label": "Quantum optics community assesses immediate experimental accessibility; new paradigm for noise-immune quantum information encoding opens without requirement for specialized hardware."}
+      ],
+      "importance_score": 5,
+      "category": "science",
+      "region": "Africa",
+      "key_terms": [
+        {"term": "Topological Quantum States", "definition": "Quantum states with intrinsic mathematical topological properties that make them inherently resistant to environmental noise and decoherence — a key obstacle in quantum computing."},
+        {"term": "Orbital Angular Momentum (OAM)", "definition": "A property of light describing the rotational motion of its wavefront; the team showed OAM of two entangled photons is itself sufficient to generate high-dimensional topology."},
+        {"term": "SPDC (Spontaneous Parametric Downconversion)", "definition": "The standard laboratory method for producing entangled photon pairs by splitting a laser photon into two lower-energy entangled photons; the technique whose hidden topology was discovered."},
+        {"term": "Entangled Photons", "definition": "Pairs of photons whose quantum states are correlated regardless of distance; the medium through which 48-dimensional topological structures were discovered."},
+        {"term": "Topological Signatures", "definition": "Distinct structural configurations within a topological space; the team identified over 17,000 such signatures in 48-dimensional entangled light, forming a vast quantum information 'alphabet'."},
+        {"term": "University of the Witwatersrand", "definition": "South African research university leading the study, with Professor Andrew Forbes and team demonstrating the record-setting topological structures in entangled OAM states."},
+        {"term": "High-Dimensional Quantum Encoding", "definition": "Quantum information storage exploiting more than two dimensions (beyond standard qubit binary encoding), enabling more information per photon and greater noise resilience."}
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260321012705.htm"
+    },
+    {
+      "headline": "James Webb Space Telescope Detects Atmosphere on Ancient 'Impossible' Super-Earth TOI-561 b",
+      "description": "A Carnegie Science-led team published findings in The Astrophysical Journal Letters using JWST's NIRSpec (Near-Infrared Spectrograph) instrument that provide the strongest evidence yet for an atmosphere on a rocky planet outside the Solar System. Measurements of the dayside temperature of TOI-561 b — an ultra-hot super-Earth orbiting its star in just 10.56 hours, one-fortieth the Mercury-Sun distance — showed approximately 1,800°C, dramatically cooler than the predicted 2,700°C for a bare rock. The temperature deficit of ~900°C can only be explained by a thick, volatile-rich atmosphere (water vapor, CO2, silicate clouds) redistributing heat to the permanently dark nightside, above a global magma ocean. TOI-561 b has 3.2 Earth masses, a radius 1.45 times Earth's, and orbits a star twice as old as the Sun in the Milky Way's 'thick disk.'",
+      "context": "The detection of a persistent atmosphere on a world as extreme as TOI-561 b — which has endured billions of years of stellar radiation that should strip any gas layer — fundamentally challenges existing models of atmospheric retention and planetary evolution. The leading explanation is a dynamic magma ocean–atmosphere exchange: magma continuously outgasses volatiles that replenish the atmosphere as stellar radiation strips it away. If confirmed, this mechanism — a 'wet lava world' cycle — implies that volatile-rich rocky planets formed in metal-poor environments (like the Galactic thick disk) may commonly retain atmospheres, significantly broadening the range of planets potentially capable of sustaining complex chemistry or even habitable conditions at different epochs in cosmic history.",
+      "timeline": [
+        {"type": "background", "date": "2021-01-01", "label": "TOI-561 b identified; initial density measurements reveal the planet is less dense than expected for a purely rocky body, prompting atmospheric hypotheses."},
+        {"type": "escalation", "date": "2024-05-01", "label": "JWST NIRSpec observes TOI-561 b system continuously for 37 hours during General Observers Program 3860, recording near-infrared emission spectrum during secondary eclipse."},
+        {"type": "event", "date": "2025-12-11", "label": "Carnegie Science team publishes results in The Astrophysical Journal Letters: dayside temperature ~1,800°C vs. predicted 2,700°C confirms thick volatile-rich atmosphere above a global magma ocean."},
+        {"type": "consequence", "date": "2026-03-22", "label": "ScienceDaily covers findings; NASA publishes official science release; team analyzes full 37-hour dataset to map temperature around the entire planet and narrow atmospheric composition."}
       ],
       "importance_score": 5,
       "category": "science",
       "region": "North America",
       "key_terms": [
-        {"term": "Enlicitide Decanoate", "definition": "An investigational once-daily oral PCSK9 inhibitor developed by Merck; the first oral drug to match injectable PCSK9 inhibitor efficacy in reducing LDL cholesterol."},
-        {"term": "PCSK9 Inhibitor", "definition": "A class of drugs that block the PCSK9 protein, which reduces LDL receptor numbers on liver cells; inhibiting PCSK9 allows more receptors to clear LDL from the bloodstream."},
-        {"term": "CORALreef Lipids Trial", "definition": "The Phase 3 randomized, double-blind, placebo-controlled clinical trial of enlicitide in 2,909 adults with ASCVD or elevated cardiovascular risk; results published in NEJM February 2026."},
-        {"term": "LDL Cholesterol (Low-Density Lipoprotein)", "definition": "The primary cholesterol fraction associated with cardiovascular disease; enlicitide reduced LDL by approximately 60% vs. placebo over 24 weeks."},
-        {"term": "Atherosclerotic Cardiovascular Disease (ASCVD)", "definition": "Disease caused by plaque buildup in arterial walls, the primary indication for enlicitide treatment in the CORALreef Lipids trial."},
-        {"term": "CORALreef Outcomes Trial", "definition": "An ongoing cardiovascular outcomes trial with 14,500 participants studying whether enlicitide's LDL reductions translate into reductions in heart attacks, strokes, and deaths."},
-        {"term": "FDA National Priority Voucher", "definition": "A regulatory mechanism granting fast-track review to enlicitide, accelerating the FDA approval timeline for this high-priority cardiovascular therapy."},
-        {"term": "Lipoprotein(a) / Lp(a)", "definition": "A genetically determined cardiovascular risk factor structurally similar to LDL; enlicitide reduced Lp(a) by 28%, an additional benefit beyond LDL lowering."}
+        {"term": "TOI-561 b", "definition": "An ultra-hot super-Earth 280.5 light-years away in the constellation Sextans; orbits its star every 10.56 hours; first rocky exoplanet with confirmed strong atmospheric evidence from JWST."},
+        {"term": "NIRSpec (Near-Infrared Spectrograph)", "definition": "A JWST instrument used to measure the dayside temperature and emission spectrum of TOI-561 b during secondary eclipse — the key observational technique revealing the atmosphere."},
+        {"term": "Magma Ocean Atmosphere Exchange", "definition": "The proposed mechanism sustaining TOI-561 b's atmosphere: volcanic outgassing from the global molten surface continuously replenishes gases stripped by stellar radiation."},
+        {"term": "Ultra-Short Period Exoplanet", "definition": "A class of rocky planets with orbital periods under one Earth day, orbiting extremely close to their stars; TOI-561 b with a 10.56-hour period is among the most extreme examples."},
+        {"term": "Galactic Thick Disk", "definition": "A structurally older, metal-poor region of the Milky Way where TOI-561 b's host star resides; planets formed there may have different chemical compositions and atmospheric evolution pathways."},
+        {"term": "Secondary Eclipse", "definition": "The astronomical event when a planet passes behind its host star, allowing measurement of the planet's own emitted light; the technique used by JWST to measure TOI-561 b's dayside temperature."},
+        {"term": "Volatile-Rich Atmosphere", "definition": "An atmosphere composed of easily-vaporized compounds including water vapor, carbon dioxide, and silicate gases; required to explain TOI-561 b's observed 900°C dayside temperature deficit."},
+        {"term": "Carnegie Science Earth and Planets Laboratory", "definition": "The research institution in Washington, D.C. leading the TOI-561 b study, with Dr. Johanna Teske as the paper's lead author."}
       ],
-      "link": "https://www.sciencedaily.com/releases/2026/03/260321012659.htm"
-    },
-    {
-      "headline": "Samsung Electronics Announces $73 Billion Investment Plan for Next-Gen AI Semiconductors",
-      "description": "Samsung Electronics announced on March 19, 2026, via a formal Korea Exchange corporate filing, that it plans to invest more than 110 trillion won ($73.24 billion) in 2026 in research, development, and manufacturing facilities, representing a 22% increase over 2025 levels. The investment — the largest single-year capital commitment in Samsung's history and exceeding TSMC's $52–56 billion 2026 capex — targets leadership in high-bandwidth memory (HBM4 and HBM4E), advanced foundry processes, and AI semiconductor manufacturing. Samsung simultaneously disclosed it is actively pursuing mergers and acquisitions in robotics, medical technology, and automotive electronics.",
-      "context": "Samsung's record investment is a direct response to its loss of the dominant AI memory position to SK Hynix, which became NVIDIA's primary HBM supplier for Hopper and Blackwell GPU platforms. HBM — which enables AI training and inference by providing ultra-high-speed memory bandwidth to GPU clusters — has become the critical bottleneck in AI infrastructure buildout. By committing $73 billion, Samsung is attempting to simultaneously close the HBM gap with SK Hynix, anchor a position in NVIDIA's next-generation Vera Rubin platform, and build out foundry capacity competitive with TSMC's Arizona and Taiwan facilities. The investment volume signals that AI semiconductor competition has entered a capital-intensity arms race with trillion-dollar market implications.",
-      "timeline": [
-        {"type": "background", "date": "2024-01-01", "label": "SK Hynix displaces Samsung as NVIDIA's primary HBM supplier for AI GPU platforms; Samsung loses its AI memory leadership position."},
-        {"type": "escalation", "date": "2025-01-01", "label": "Samsung announces initial AI semiconductor recovery plan; invests 90.4 trillion won across capex and R&D; begins HBM4 qualification for NVIDIA."},
-        {"type": "event", "date": "2026-03-19", "label": "Samsung files Korea Exchange disclosure: 110 trillion won ($73.24 billion) 2026 investment plan — a 22% increase; HBM4E roadmap presented at NVIDIA GTC 2026."},
-        {"type": "consequence", "date": "2026-12-31", "label": "Samsung targets HBM4 supply for NVIDIA Vera Rubin platform; Pyeongtaek P5 production line and Yongin Chip Cluster construction advance; Taylor, Texas foundry approaches EUV milestone."}
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Asia",
-      "key_terms": [
-        {"term": "HBM4 (High Bandwidth Memory 4)", "definition": "The next-generation AI memory standard delivering ultra-high data transfer rates to GPU clusters; Samsung's primary competitive target against SK Hynix in 2026."},
-        {"term": "HBM4E", "definition": "An extended version of HBM4 with enhanced bandwidth and capacity; Samsung presented its HBM4E roadmap at NVIDIA GTC 2026 targeting the Vera Rubin AI platform."},
-        {"term": "NVIDIA Vera Rubin Platform", "definition": "NVIDIA's next-generation AI accelerator platform announced at GTC 2026, which Samsung's HBM4 and HBM4E solutions are specifically targeting for supply partnerships."},
-        {"term": "SK Hynix", "definition": "Samsung's primary South Korean semiconductor rival and current dominant supplier of HBM memory to NVIDIA; Samsung's $73 billion investment is partly aimed at closing this competitive gap."},
-        {"term": "TSMC (Taiwan Semiconductor Manufacturing Company)", "definition": "The world's leading contract chipmaker; Samsung's $73 billion commitment surpasses TSMC's 2026 capex of $52–56 billion, reflecting the intensity of AI semiconductor competition."},
-        {"term": "Yongin Chip Cluster", "definition": "Samsung's planned semiconductor manufacturing megacluster in Yongin, South Korea, projected to become the world's largest semiconductor manufacturing complex."},
-        {"term": "EUV (Extreme Ultraviolet) Lithography", "definition": "Advanced chip manufacturing technology enabling production of the smallest, most powerful semiconductor nodes; Samsung's Taylor, Texas plant is approaching an EUV milestone."},
-        {"term": "Korea Exchange Corporate Filing", "definition": "Samsung's mandatory disclosure to the Korea Exchange stock exchange outlining the 2026 investment plan, providing official corporate-level confirmation of the $73 billion commitment."}
-      ],
-      "link": "https://www.bloomberg.com/news/articles/2026-03-19/samsung-to-spend-73-billion-on-chip-expansion-research-in-2026"
-    },
-    {
-      "headline": "Shingles Vaccine Linked to 46% Reduction in Major Cardiac Events in High-Risk Patients",
-      "description": "A study of 246,822 US adults aged 50 and older with atherosclerotic heart disease — analyzed from the TriNetX database (2018–2025) — found that those who received at least one dose of the shingles vaccine (Shingrix or Zostavax) were 46% less likely to experience a major adverse cardiac event within one year compared to matched unvaccinated controls. Vaccinated patients were also 66% less likely to die from any cause, 32% less likely to have a heart attack, and 25% less likely to suffer a stroke or develop heart failure. The study, led by Dr. Robert Nguyen of UC Riverside, will be presented at the American College of Cardiology Annual Scientific Session (ACC.26) in New Orleans, March 28–30.",
-      "context": "The magnitude of cardiovascular risk reduction — comparable to the benefit of quitting smoking — is striking given that the shingles vaccine was developed solely to prevent herpes zoster (shingles). The proposed mechanism is that by preventing shingles infection, the vaccine also prevents the clot-promoting inflammation that shingles triggers around the heart and brain. With approximately 70% of high-risk cardiovascular patients failing to achieve LDL targets and many facing residual cardiac risk despite optimal drug therapy, adding a widely available vaccine to the prevention toolkit represents a potentially transformative, low-cost, population-level intervention. The findings reinforce CDC recommendations for universal shingles vaccination in adults over 50, particularly those with established heart disease.",
-      "timeline": [
-        {"type": "background", "date": "2017-10-01", "label": "FDA approves Shingrix (recombinant zoster vaccine by GSK) as the preferred shingles vaccine, replacing Zostavax; CDC recommends for all adults 50+."},
-        {"type": "escalation", "date": "2025-01-01", "label": "Earlier study published showing shingles vaccination associated with 23% lower cardiovascular risk in healthy general populations; cardioprotection hypothesis strengthens."},
-        {"type": "event", "date": "2026-03-17", "label": "ACC.26 pre-release: UC Riverside study of 246,822 high-risk cardiovascular patients shows 46% reduction in major cardiac events and 66% reduction in all-cause mortality within one year of shingles vaccination."},
-        {"type": "consequence", "date": "2026-03-30", "label": "Study formally presented at ACC.26 in New Orleans; medical community weighs update to cardiovascular prevention guidelines for patients with established heart disease."}
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "North America",
-      "key_terms": [
-        {"term": "Shingrix", "definition": "GSK's recombinant zoster vaccine, the CDC's preferred shingles vaccine since 2017 for adults 50+; one of two vaccines studied in this cardiac outcomes analysis."},
-        {"term": "Herpes Zoster (Shingles)", "definition": "A viral illness caused by reactivation of the varicella-zoster virus; its associated inflammation is believed to increase thrombotic risk, explaining the vaccine's cardiac protective mechanism."},
-        {"term": "Atherosclerotic Heart Disease", "definition": "Cardiovascular disease caused by arterial plaque buildup; the high-risk study population in which shingles vaccination produced a 46% reduction in major cardiac events."},
-        {"term": "Major Adverse Cardiac Event (MACE)", "definition": "A composite endpoint including heart attack, stroke, and cardiovascular death; the primary outcome measure showing 46% reduction in vaccinated patients."},
-        {"term": "TriNetX", "definition": "A large US medical records database used as the data source for this study, containing health information from millions of American patients."},
-        {"term": "ACC.26 (American College of Cardiology Annual Scientific Session 2026)", "definition": "The primary annual cardiology conference, held March 28–30 in New Orleans, where this shingles vaccine cardiac protection study will be formally presented."},
-        {"term": "Venous Thromboembolism (VTE)", "definition": "Blood clot formation in veins; shingles infection is associated with increased VTE risk, which the vaccine is thought to prevent, explaining the cardiac protection observed."}
-      ],
-      "link": "https://www.sciencedaily.com/releases/2026/03/260319044659.htm"
+      "link": "https://www.sciencedaily.com/releases/2026/03/260322020255.htm"
     }
   ],
   "sports": [
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Premier League",
-      "match_date": "2026-03-21",
-      "venue": "Amex Stadium, Brighton, England",
+      "tournament": "Carabao Cup",
+      "match_date": "2026-03-22",
+      "venue": "Emirates Stadium, London, England",
       "status": "completed",
       "teams": {
-        "home": "Brighton & Hove Albion",
-        "away": "Liverpool"
+        "home": "Arsenal",
+        "away": "Manchester City"
+      },
+      "score": {
+        "home": "0",
+        "away": "2"
+      },
+      "result": "Manchester City's commanding Carabao Cup final victory over Arsenal at the Emirates denies the Gunners a domestic cup and reinforces City's ability to compete for silverware despite an inconsistent league campaign.",
+      "stage": "Carabao Cup Final",
+      "official_source": "https://www.efl.com/carabao-cup/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "La Liga",
+      "match_date": "2026-03-22",
+      "venue": "Estadi Olímpic Lluís Companys, Barcelona, Spain",
+      "status": "completed",
+      "teams": {
+        "home": "Barcelona",
+        "away": "Rayo Vallecano"
       },
       "score": {
         "home": "1",
         "away": "0"
       },
-      "result": "Brighton's victory over Liverpool hands the title race a significant jolt, cutting Liverpool's advantage at the top of the Premier League and injecting new uncertainty into their championship push with weeks remaining in the season.",
-      "stage": "Premier League Matchweek",
-      "official_source": "https://www.premierleague.com/"
+      "result": "Barcelona's narrow home win over Rayo Vallecano keeps the Catalan club in firm contention at the top of La Liga, maintaining pressure on their title rivals with a hard-fought three points.",
+      "stage": "La Liga Matchweek",
+      "official_source": "https://www.laliga.com/"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Premier League",
-      "match_date": "2026-03-21",
-      "venue": "Vitality Stadium, Bournemouth, England",
+      "tournament": "Bundesliga",
+      "match_date": "2026-03-22",
+      "venue": "Allianz Arena, Munich, Germany",
       "status": "completed",
       "teams": {
-        "home": "Bournemouth",
-        "away": "Manchester United"
+        "home": "Bayern Munich",
+        "away": "Union Berlin"
+      },
+      "score": {
+        "home": "4",
+        "away": "0"
+      },
+      "result": "Bayern Munich's emphatic rout of Union Berlin extends their Bundesliga title lead and all but confirms another German championship, leaving any remaining challengers with a near-impossible points gap to close.",
+      "stage": "Bundesliga Matchweek",
+      "official_source": "https://www.bundesliga.com/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Ligue 1",
+      "match_date": "2026-03-22",
+      "venue": "Orange Vélodrome, Marseille, France",
+      "status": "completed",
+      "teams": {
+        "home": "Marseille",
+        "away": "Lille"
+      },
+      "score": {
+        "home": "1",
+        "away": "2"
+      },
+      "result": "Lille's away victory at the Vélodrome hands Marseille a damaging home defeat and strengthens Lille's own European qualification push, while denting Marseille's ambitions in the top-four race.",
+      "stage": "Ligue 1 Matchweek",
+      "official_source": "https://www.ligue1.com/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Ligue 1",
+      "match_date": "2026-03-22",
+      "venue": "Groupama Stadium, Lyon, France",
+      "status": "completed",
+      "teams": {
+        "home": "Lyon",
+        "away": "Monaco"
+      },
+      "score": {
+        "home": "1",
+        "away": "2"
+      },
+      "result": "Monaco's win at Lyon keeps the principality club in the thick of Ligue 1's title and European qualification contest, while deepening Lyon's inconsistent home form concerns with another defeat on their own turf.",
+      "stage": "Ligue 1 Matchweek",
+      "official_source": "https://www.ligue1.com/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Indian Super League",
+      "match_date": "2026-03-22",
+      "venue": "Jawaharlal Nehru Stadium, Chennai, India",
+      "status": "completed",
+      "teams": {
+        "home": "Chennaiyin FC",
+        "away": "FC Goa"
+      },
+      "score": {
+        "home": "1",
+        "away": "1"
+      },
+      "result": "The draw at Chennai leaves both Chennaiyin FC and FC Goa in an uncertain playoff position, with a point each doing little to resolve the tight mid-table congestion as the ISL regular season reaches its final stretch.",
+      "stage": "ISL League Phase",
+      "official_source": "https://www.indiansuperleague.com/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Indian Super League",
+      "match_date": "2026-03-22",
+      "venue": "Sree Kanteerava Stadium, Bengaluru, India",
+      "status": "completed",
+      "teams": {
+        "home": "Bengaluru FC",
+        "away": "Inter Kashi"
+      },
+      "score": {
+        "home": "3",
+        "away": "1"
+      },
+      "result": "Bengaluru FC's convincing home win over Inter Kashi consolidates their playoff berth and underlines their status as one of the ISL's most consistent sides, while Inter Kashi's survival hopes take a significant hit.",
+      "stage": "ISL League Phase",
+      "official_source": "https://www.indiansuperleague.com/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Major League Soccer",
+      "match_date": "2026-03-22",
+      "venue": "BMO Field, Toronto, Canada",
+      "status": "completed",
+      "teams": {
+        "home": "Toronto FC",
+        "away": "Columbus Crew"
       },
       "score": {
         "home": "2",
-        "away": "2"
-      },
-      "result": "Manchester United's failure to win at Bournemouth prolongs their inconsistent run and leaves their fading hopes of European qualification under mounting pressure as the top half of the table edges further out of reach.",
-      "stage": "Premier League Matchweek",
-      "official_source": "https://www.premierleague.com/"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "Indian Super League",
-      "match_date": "2026-03-21",
-      "venue": "Jawaharlal Nehru Stadium, Kochi, India",
-      "status": "completed",
-      "teams": {
-        "home": "Kerala Blasters FC",
-        "away": "Punjab FC"
-      },
-      "score": {
-        "home": "1",
-        "away": "3"
-      },
-      "result": "Punjab FC's commanding win at Kerala deepens the Blasters' playoff exit concerns while boosting Punjab's own survival credentials in the fight for the ISL postseason places.",
-      "stage": "ISL League Phase",
-      "official_source": "https://www.indiansuperleague.com/"
-    },
-    {
-      "category": "sports",
-      "sport": "football",
-      "tournament": "Indian Super League",
-      "match_date": "2026-03-20",
-      "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata, India",
-      "status": "completed",
-      "teams": {
-        "home": "Mohun Bagan SG",
-        "away": "Mumbai City FC"
-      },
-      "score": {
-        "home": "0",
         "away": "1"
       },
-      "result": "Mumbai City FC's away win at the Salt Lake Stadium dealt a blow to Mohun Bagan's title ambitions and reinforced Mumbai's positioning among the ISL's form sides heading into the playoff phase.",
-      "stage": "ISL League Phase",
-      "official_source": "https://www.indiansuperleague.com/"
+      "result": "Toronto FC's home victory over Columbus Crew gives the Canadian club a boost in the early Eastern Conference standings, while handing the defending-calibre Crew their first road defeat of the young MLS season.",
+      "stage": "MLS Regular Season",
+      "official_source": "https://www.mlssoccer.com/"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Indian Super League",
-      "match_date": "2026-03-21",
-      "venue": "Indira Gandhi Athletic Stadium, Guwahati, India",
+      "tournament": "Major League Soccer",
+      "match_date": "2026-03-22",
+      "venue": "GEODIS Park, Nashville, USA",
       "status": "completed",
       "teams": {
-        "home": "NorthEast United FC",
-        "away": "Odisha FC"
+        "home": "Nashville SC",
+        "away": "Orlando City"
       },
       "score": {
-        "home": "1",
-        "away": "2"
+        "home": "5",
+        "away": "0"
       },
-      "result": "Odisha FC's victory at Guwahati strengthens their playoff qualification push while compounding NorthEast United's precarious league standing as the regular season approaches its conclusion.",
-      "stage": "ISL League Phase",
-      "official_source": "https://www.indiansuperleague.com/"
+      "result": "Nashville SC's stunning five-goal rout of Orlando City announces them as early Eastern Conference contenders, while the historic scoreline inflicts maximum damage on Orlando's goal difference at a crucial early-season juncture.",
+      "stage": "MLS Regular Season",
+      "official_source": "https://www.mlssoccer.com/"
     },
     {
       "category": "sports",
-      "sport": "cricket",
-      "tournament": "Women's T20I Series — South Africa vs Australia",
-      "match_date": "2026-03-21",
-      "venue": "Newlands Cricket Ground, Cape Town, South Africa",
+      "sport": "football",
+      "tournament": "Major League Soccer",
+      "match_date": "2026-03-22",
+      "venue": "Bank of America Stadium, Charlotte, USA",
       "status": "completed",
       "teams": {
-        "home": "South Africa Women",
-        "away": "Australia Women"
+        "home": "Charlotte FC",
+        "away": "New York Red Bulls"
       },
       "score": {
-        "home": "152/6 (20 ov)",
-        "away": "153/4 (18.2 ov)"
+        "home": "6",
+        "away": "1"
       },
-      "result": "Australia Women's clinical chase in Cape Town hands them a series advantage over South Africa, reinforcing the Southern Stars' status as the benchmark side in women's T20 cricket ahead of the next ICC cycle.",
-      "stage": "Women's T20I Bilateral Series",
-      "official_source": "https://www.cricket.com.au/"
+      "result": "Charlotte FC's extraordinary six-goal home demolition of New York Red Bulls is one of the most emphatic MLS results of the early season, catapulting them up the Eastern Conference table while inflicting a confidence-crushing defeat on the Red Bulls.",
+      "stage": "MLS Regular Season",
+      "official_source": "https://www.mlssoccer.com/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Major League Soccer",
+      "match_date": "2026-03-22",
+      "venue": "Toyota Stadium, Frisco, USA",
+      "status": "completed",
+      "teams": {
+        "home": "FC Dallas",
+        "away": "Houston Dynamo"
+      },
+      "score": {
+        "home": "4",
+        "away": "3"
+      },
+      "result": "FC Dallas edged a seven-goal Texas Derby thriller over Houston Dynamo, claiming vital Western Conference points in a rivalry match that will reverberate through both clubs' early-season form narratives.",
+      "stage": "MLS Regular Season",
+      "official_source": "https://www.mlssoccer.com/"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "Major League Soccer",
+      "match_date": "2026-03-22",
+      "venue": "CITYPARK, St. Louis, USA",
+      "status": "completed",
+      "teams": {
+        "home": "St. Louis City SC",
+        "away": "New England Revolution"
+      },
+      "score": {
+        "home": "3",
+        "away": "1"
+      },
+      "result": "St. Louis City SC's comfortable home win over New England Revolution strengthens their Western Conference credentials and leaves the Revolution with mounting early-season pressure to arrest their poor road form.",
+      "stage": "MLS Regular Season",
+      "official_source": "https://www.mlssoccer.com/"
     }
   ]
 }
-
+```
