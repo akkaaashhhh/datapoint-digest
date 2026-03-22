@@ -1,185 +1,185 @@
 {
-  "date": "March 21, 2026",
+  "date": "March 23, 2026",
   "questions": [
     {
       "id": "q_01",
-      "question": "The recent strike on the Natanz nuclear facility, coupled with the retaliatory strike on Diego Garcia, marks a qualitative shift in the ongoing conflict. This development most strongly illustrates which strategic security doctrine?",
+      "question": "President Trump’s ultimatum threatening to strike Iranian power plants in response to the closure of the Strait of Hormuz most directly challenges which established principle of International Humanitarian Law (IHL)?",
       "options": [
-        "The shift from 'Counter-Value' targeting to 'Counter-Force' targeting in nuclear posturing.",
-        "The expansion of 'Horizontal Escalation' where a conflict is intentionally spread to new geographic theaters.",
-        "The breakdown of 'Extended Deterrence' provided by extra-regional security guarantors.",
-        "The transition from 'Grey Zone' warfare to a declared state of 'Total War' between nuclear-armed states."
+        "The Principle of Proportionality regarding military advantage.",
+        "The Principle of Distinction between military objectives and civilian objects.",
+        "The Doctrine of Military Necessity in high-intensity conflict.",
+        "The Right of Hot Pursuit within territorial waters."
       ],
       "correct_index": 1,
-      "explanation": "Horizontal escalation occurs when a belligerent responds to pressure in one area by attacking the adversary in a different, often geographically distant, theater (e.g., Iran striking the Indian Ocean base of Diego Garcia in response to strikes in Isfahan). This forces the adversary to divert resources and rethink its defensive perimeter."
+      "explanation": "IHL strictly requires belligerents to distinguish between military targets and civilian infrastructure. Striking power plants that sustain hospitals, water pumping, and heating for 85 million civilians is a prima facie violation of the Principle of Distinction, as these are 'dual-use' objects that are primarily civilian in nature."
     },
     {
       "id": "q_02",
-      "question": "Which macroeconomic transmission mechanism best explains the 'abrupt reversal' of China's multi-year deflationary cycle following the Iran war energy shock?",
+      "question": "The discovery of 48-dimensional topological structures in 'standard' entangled light experiments suggests that the 'Topological Quantum' paradigm can be accessed without:",
       "options": [
-        "Demand-pull inflation triggered by a surge in household consumption and retail credit expansion.",
-        "Cost-push inflation originating from global commodity price spikes entering manufacturing supply chains.",
-        "Monetary inflation resulting from the People’s Bank of China (PBOC) aggressively lowering interest rates.",
-        "Asset-price inflation driven by a speculative bubble in the domestic property and real estate sector."
+        "The use of Spontaneous Parametric Downconversion (SPDC).",
+        "The measurement of Orbital Angular Momentum (OAM).",
+        "The requirement for specialized, exotic hardware or cryogenic environments.",
+        "The presence of quantum entanglement between photon pairs."
       ],
-      "correct_index": 1,
-      "explanation": "Cost-push inflation occurs when the costs of production (inputs like energy/oil) increase, forcing producers to raise prices to maintain margins. For a manufacturing giant like China, energy is a primary input; high oil prices 'cure' deflation by force, but often at the cost of compressed industrial profits."
+      "correct_index": 2,
+      "explanation": "The key advance was that high-dimensional topology was 'hidden' in routine lab setups already used worldwide. This proves that noise-resistant topological encoding—previously thought to require highly specialized or exotic physical systems—is actually pre-existing in standard quantum optics hardware."
     },
     {
       "id": "q_03",
-      "question": "The Reserve Bank of India’s (RBI) prohibition of mandatory collateral for MSME loans up to ₹20 lakh reorients lending from 'asset-based' to 'performance-based' evaluation. This shift is most likely to strengthen which socio-economic objective?",
+      "question": "Which geographical vulnerability most limits the 'Symmetric Escalation' capability of Gulf Arab states (UAE, Qatar, Kuwait) in a total conflict with Iran?",
       "options": [
-        "The consolidation of public sector banks to reduce Non-Performing Assets (NPAs).",
-        "Financial inclusion by lowering entry barriers for 'Asset-Poor' but 'Skill-Rich' entrepreneurs.",
-        "The implementation of 'Capital Account Convertibility' for small-scale exporters.",
-        "The reduction of 'Priority Sector Lending' targets to improve banking sector profitability."
+        "The lack of strategic depth and extreme dependency on centralized desalination infrastructure.",
+        "The absence of land-based energy transit routes bypassing the Suez Canal.",
+        "The high salinity of the Persian Gulf which prevents the use of standard naval cooling systems.",
+        "The tectonic instability of the Arabian Plate which precludes the construction of underground bunkers."
       ],
-      "correct_index": 1,
-      "explanation": "By removing the need for physical assets (property/land) as collateral, the RBI enables individuals from rural or marginalized backgrounds—who may have viable business models but lack inherited property—to access formal credit, directly supporting the goal of inclusive growth."
+      "correct_index": 0,
+      "explanation": "Unlike Iran, which has a large landmass and diverse water sources, the small Gulf monarchies depend on a few high-value desalination plants for over 90% of their drinking water. This geographical 'chokepoint' makes them disproportionately vulnerable to even a few successful Iranian strikes, creating a humanitarian crisis within days."
     },
     {
       "id": "q_04",
-      "question": "President Trump’s public branding of NATO allies as 'cowards' for refusing to join the Iran campaign primarily exposes a fracture in which foundational international relations framework?",
+      "question": "The UK-Nigeria 'Bilateral Returns Agreement' signifies a major shift in immigration governance by allowing the use of UK-issued letters as valid identification. This most strongly illustrates which administrative trend?",
       "options": [
-        "The 'Thucydides Trap' regarding the rise of a challenging power.",
-        "Collective Security, specifically the tension between 'Burden-Sharing' and 'Mandate Limitations'.",
-        "The 'Constructivist' view that state identities are fixed by historical cultural ties.",
-        "The 'Dependency Theory' which posits that periphery states are exploited by the core."
+        "The 'Supranationalization' of border controls under the Illegal Migration Act.",
+        "The erosion of the 'Principle of Non-Refoulement' in Commonwealth law.",
+        "The 'Externalization' of border enforcement through bilateral identification sovereignty.",
+        "The 'Judicialization' of the asylum process within the Home Office."
       ],
-      "correct_index": 1,
-      "explanation": "The fracture stems from a disagreement over the 'mandate' of the alliance. While the US views the conflict as a collective security issue requiring 'burden-sharing' to protect energy lanes (Hormuz), European allies argue it falls outside the Article 5 mutual defense mandate, as it is a 'war of choice' rather than a response to an attack on a member."
+      "correct_index": 2,
+      "explanation": "By getting Nigeria to accept UK-issued documents as proof of identity, the UK has bypassed the traditional 'sovereign hurdle' where a home country refuses to recognize its own citizens to prevent their return. This 'externalizes' the enforcement process by formalizing cooperation on the logistics of removal."
     },
     {
       "id": "q_05",
-      "question": "The Phase 3 'CORALreef Lipids' trial of enlicitide matches the efficacy of injectable PCSK9 inhibitors. This scientific milestone may accelerate which technological transition in public health?",
+      "question": "The detection of an atmosphere on the ultra-short period planet TOI-561 b suggests a 'Magma Ocean–Atmosphere' exchange. This mechanism has significant implications for our understanding of:",
       "options": [
-        "The shift from 'Precision Medicine' to 'Universal Healthcare' in the Global South.",
-        "The transition from chronic 'Maintenance Therapy' to one-time 'Gene Editing' cures.",
-        "The shift from specialist-administered biologics to primary-care-accessible oral therapeutics.",
-        "The replacement of pharmacological interventions with AI-driven dietary behavioral modification."
+        "The 'Habitable Zone' limits of metal-rich stars in the Galactic Center.",
+        "Atmospheric retention on rocky planets subjected to extreme stellar irradiation.",
+        "The formation of gas giants in the Milky Way's 'Thin Disk'.",
+        "The detection of biosignatures in the silicate clouds of Jovian worlds."
       ],
-      "correct_index": 2,
-      "explanation": "Injectable biologics often require cold-chain storage and specialist administration, limiting their reach. An oral version (a small molecule or stable peptide) allows primary care physicians to prescribe it as easily as statins, democratizing access to high-efficacy lipid-lowering therapy."
+      "correct_index": 1,
+      "explanation": "Normally, stellar wind should strip the atmosphere of a planet so close to its star. The 'magma-exchange' theory suggests the planet's molten surface continuously 'replenishes' the gas layer. This implies that even planets in 'impossible' orbits might retain atmospheres for billions of years, changing our models of planetary evolution."
     },
     {
       "id": "q_06",
-      "question": "The UK’s establishment of an 'Iran Board' to manage energy shocks and the consideration of 'Speed Limit Reductions' illustrate which public policy concept?",
+      "question": "China’s ministerial commitment to 'Brain-Computer Interfaces' and 'Nuclear Fusion' as priority 'Industries of the Future' represents which structural shift in its industrial policy?",
       "options": [
-        "Supply-side economics focused on deregulating energy production to lower costs.",
-        "Demand-side management used to reduce resource consumption during a supply-side shock.",
-        "Monetary tightening to curb 'Inertial Inflation' in the services sector.",
-        "Fiscal federalism where local councils take over national energy procurement."
+        "A move from 'Catch-up' innovation to 'Frontier' standard-setting and technology leadership.",
+        "A transition from state-led investment to a purely 'Laissez-faire' market model.",
+        "The prioritization of 'Labor-Intensive' manufacturing over high-value capital goods.",
+        "The abandonment of the 15th Five-Year Plan in favor of short-term fiscal stimulus."
       ],
-      "correct_index": 1,
-      "explanation": "When supply is restricted (due to war in the Gulf), governments can use 'Demand-side management' (like lower speed limits to save fuel) to artificially lower demand, thereby easing the pressure on prices and reducing the volume of imports needed."
+      "correct_index": 0,
+      "explanation": "By targeting BCI, 6G, and Fusion—technologies that are not yet commercialized globally—China is signaling it no longer wants to just replicate existing tech (catch-up) but intends to define the global standards and patents for the next generation of industrial breakthroughs."
     },
     {
       "id": "q_07",
-      "question": "The UAE’s closure of an Iranian state-linked hospital and the confirmation of the safety of 4 million Indian expats as a 'national priority' most strongly illustrates which institutional power dynamic?",
+      "question": "The US Treasury's partial lifting of sanctions on 'pre-loaded' Iranian tankers, while issuing a 48-hour military ultimatum, is an example of using which macroeconomic tool to manage 'War Risk'?",
       "options": [
-        "The 'Securitization' of civilian infrastructure during a period of active military threat.",
-        "The transition from 'Soft Power' to 'Hard Power' in UAE’s maritime outreach.",
-        "The 'Decoupling' of the UAE economy from the US-led global financial system.",
-        "The implementation of 'Strategic Autonomy' by the UAE in defiance of both Iran and the US."
+        "Quantitative Easing (QE) to stabilize the bond market.",
+        "Supply-side intervention to decouple energy inflation from geopolitical escalation.",
+        "Fiscal Consolidation to reduce the Pentagon’s supplemental budget.",
+        "The 'Laffer Curve' application to optimize war-time tariff revenues."
       ],
-      "correct_index": 0,
-      "explanation": "Securitization occurs when a state moves a topic (like a hospital or an expat community) from the realm of 'normal politics' to 'emergency security' due to an existential threat. Closing the hospital is a securitization of medical infrastructure to prevent potential internal state-linked interference."
+      "correct_index": 1,
+      "explanation": "The US is trying to 'de-link' the military conflict from its domestic economic fallout. By releasing Iranian oil that is already at sea, they inject supply into the market to lower prices for US consumers (supply-side) while still maintaining military pressure on the Iranian state."
     },
     {
       "id": "q_08",
-      "question": "Samsung’s $73 billion investment in AI semiconductors (HBM4) to compete with SK Hynix and TSMC indicates that the high-tech industry has entered which phase?",
+      "question": "The Iranian strike near the Negev Nuclear Research Center (Dimona) in response to Israeli strikes on Natanz most strongly illustrates the breakdown of which international relations concept?",
       "options": [
-        "A 'Perfect Competition' phase where price is determined solely by consumer demand.",
-        "A 'Capital-Intensity Arms Race' where market leadership is maintained through massive upfront Capex.",
-        "A 'De-industrialization' phase where software services replace hardware manufacturing.",
-        "The 'Stagnation' phase of the product life cycle where innovation has reached a plateau."
+        "The 'Security Dilemma' where defensive actions are seen as offensive.",
+        "The 'Nuclear Taboo' regarding the targeting of atomic infrastructure.",
+        "The 'Balance of Power' in the Mediterranean theater.",
+        "The 'Functionalist' approach to regional energy integration."
       ],
       "correct_index": 1,
-      "explanation": "In the semiconductor industry, especially for AI-grade chips, the cost of R&D and fabrication plants (fabs) is so high that only a few 'titans' can compete. Leadership is now less about incremental design and more about who can out-spend the other in building the next generation of manufacturing capacity."
+      "explanation": "There is a long-standing (though informal) international 'taboo' against striking nuclear facilities due to the risk of radiological catastrophe. By trading strikes on Natanz and Dimona, both sides have normalized nuclear infrastructure as a valid target, significantly lowering the threshold for a nuclear-linked incident."
     },
     {
       "id": "q_09",
-      "question": "The study linking shingles vaccination to a 46% reduction in major cardiac events suggests that cardiovascular risk is heavily influenced by which indirect mechanism?",
+      "question": "The UAE Ministry of Defence’s report of 341 intercepted ballistic missiles since February 28 highlights a critical challenge in 'Asymmetric Air Defense' regarding:",
       "options": [
-        "The direct viral infection of the myocardium by the varicella-zoster virus.",
-        "Systemic inflammation triggered by viral reactivation, which promotes arterial thrombosis.",
-        "The side effects of antiviral medications used to treat active shingles cases.",
-        "A genetic predisposition where the same gene controls both immunity and cholesterol."
+        "The 'Cost-Exchange Ratio' between expensive interceptors and cheaper saturation drones/missiles.",
+        "The failure of 'Satellite-based' early warning systems in the Eastern Region.",
+        "The inability of THAAD to detect low-altitude cruise missiles.",
+        "The lack of diplomatic coordination between Abu Dhabi and the IRGC."
       ],
-      "correct_index": 1,
-      "explanation": "The shingles vaccine doesn't lower cholesterol; it prevents the viral reactivation that causes shingles. The 'cardioprotection' occurs because preventively stopping shingles avoids the massive surge in systemic inflammation that usually follows an outbreak, which would otherwise trigger clots/attacks in high-risk patients."
+      "correct_index": 0,
+      "explanation": "A Patriot or THAAD interceptor costs millions of dollars, while a mass-produced drone or older ballistic missile costs a fraction of that. If the UAE has to fire hundreds of interceptors, they risk 'economic exhaustion' or depleting their stockpiles faster than Iran can manufacture cheap 'saturation' weapons."
     },
     {
       "id": "q_10",
-      "question": "The 'Peace Board' presenting Hamas with a disarmament proposal during the Iran war illustrates which principle of 'Conflict Resolution' diplomacy?",
+      "question": "Which constitutional principle in the UK is indirectly tested by the government’s authorization of US military use of British bases without a formal parliamentary vote on 'Co-belligerency'?",
       "options": [
-        "The 'Ripeness' theory, where a conflict is settled when the parties reach a 'Mutually Hurting Stalemate'.",
-        "The use of 'Leveraged Mediation' by exploiting the degradation of a non-state actor’s external patron.",
-        "The 'Track II' diplomacy approach using secret academic channels to bypass state leaders.",
-        "The 'Balance of Power' doctrine aimed at ensuring no single group dominates the Levant."
+        "The 'Royal Prerogative' in the conduct of foreign affairs and war.",
+        "The 'Principle of Parliamentary Sovereignty' over international treaties.",
+        "The 'Doctrine of Separation of Powers' in the Cabinet Office.",
+        "The 'Rule of Law' regarding the detention of diaspora leaders."
       ],
-      "correct_index": 1,
-      "explanation": "Hamas’s patron (Iran) is under direct assault and unable to provide the same level of support. The US is using this 'leverage' (Iran's weakness) to push for disarmament—a condition Hamas might never have considered if their state sponsor were still strong and focused on them."
+      "correct_index": 0,
+      "explanation": "In the UK, the power to deploy the military and authorize base usage resides with the executive under the 'Royal Prerogative.' While Parliament is often consulted, the government can technically place the UK in a state of 'effective war' (co-belligerency) without a legislative vote, testing the limits of executive power."
     },
     {
       "id": "q_11",
-      "question": "The strikes on Kuwait’s Mina al-Ahmadi refinery and Qatar’s Ras Laffan have pushed global LNG prices to multi-year highs. For energy-importing nations, this development most likely accelerates which environmental/geographical transition?",
+      "question": "The record 48 dimensions found in entangled light carry 'topological signatures' that are 'resistant to environmental noise.' This development is a breakthrough for which specific field?",
       "options": [
-        "The 'Green-to-Brown' reversal where nations revert to coal to ensure energy sovereignty.",
-        "The 'Great Trans-Oceanic Migration' from energy-poor islands to energy-rich continents.",
-        "The 'Energy Decoupling' from global markets toward domestic 'Distributed Renewable' grids.",
-        "The total abandonment of the 'Net Zero' targets by the year 2030."
+        "Classical fiber-optic multiplexing.",
+        "Noise-resilient Quantum Cryptography (QKD).",
+        "Liquid-propellant rocket guidance systems.",
+        "Blockchain-based decentralized finance (DeFi)."
       ],
-      "correct_index": 2,
-      "explanation": "While some may revert to coal (Option 0), the strategic imperative for most modern economies is to reduce 'energy dependency' on volatile global chokepoints (Hormuz). This accelerates the move toward domestic solar, wind, and nuclear (Distributed Grids) which cannot be 'blocked' or 'struck' by a foreign navy."
+      "correct_index": 1,
+      "explanation": "The main weakness of quantum keys today is that they are easily 'broken' by noise in the environment (decoherence). Topological states protect the information mathematically. Using 48 dimensions allows for much more complex and un-hackable keys, making QKD commercially viable over long distances."
     },
     {
       "id": "q_12",
-      "question": "Zelenskyy sending negotiators to Washington as the Kremlin 'pauses' talks illustrates which dynamic in 'Proxy' or 'Asymmetric' conflicts?",
+      "question": "The 'Industries of the Future' framework guides Chinese localities to develop sectors according to their 'comparative advantages.' This illustrates an application of which economic theory to national planning?",
       "options": [
-        "The 'Sovereignty Paradox' where a state gains independence by surrendering its foreign policy.",
-        "The risk of 'Strategic Marginalization' when a secondary conflict is overshadowed by a primary geopolitical crisis.",
-        "The 'Guerilla’s Dilemma' of choosing between territorial integrity and humanitarian aid.",
-        "The 'Escalation Ladder' where a state must use nuclear weapons to regain international attention."
+        "The 'Heckscher-Ohlin' model of factor endowments.",
+        "The 'Keynesian Multiplier' for infrastructure spending.",
+        "The 'Ricardo-Malthus' trap of diminishing agricultural returns.",
+        "The 'Schumpeterian' model of creative destruction."
       ],
-      "correct_index": 1,
-      "explanation": "Strategic marginalization occurs when a state (Ukraine) loses its 'priority status' because the great powers (US) are suddenly consumed by a more urgent or high-stakes crisis (Iran War). Zelenskyy is fighting to prevent Ukraine from becoming a 'forgotten war'."
+      "correct_index": 0,
+      "explanation": "The Heckscher-Ohlin model suggests states should produce what they have the 'factors' (resources/talent) for. By directing localities (e.g., tech-rich Shenzhen for BCI, energy-rich regions for Fusion), China is optimizing its internal factor endowments to achieve national technological dominance."
     },
     {
       "id": "q_13",
-      "question": "The US decision to lift sanctions on 'pre-loaded' Iranian oil tankers while escalating strikes on Natanz is best described as:",
+      "question": "The 'Wet Lava World' cycle on TOI-561 b describes an atmosphere replenished by magma outgassing. This process is a high-temperature analog to which Earth-based system?",
       "options": [
-        "A 'Grand Bargain' aimed at total diplomatic normalization with the IRGC.",
-        "A 'Tactical De-coupling' of energy prices from military objectives to manage domestic inflation.",
-        "A 'Total Capitulation' to Iranian economic demands following the Diego Garcia strike.",
-        "A 'Psychological Operation' intended to confuse the Iranian leadership about the location of US Marines."
+        "The 'Carbon Cycle' where oceans sequester atmospheric CO2.",
+        "The 'Volcanic Outgassing' that formed Earth's primordial atmosphere.",
+        "The 'Ozone Layer' formation via UV-induced oxygen splitting.",
+        "The 'Thermohaline Circulation' of the deep Atlantic."
       ],
       "correct_index": 1,
-      "explanation": "This is a classic 'bifurcated' policy: the US continues to strike the military/nuclear core of the enemy while simultaneously releasing oil to the market to prevent a gas price spike at home that could damage the President's domestic political standing (inflation management)."
+      "explanation": "Earth's original atmosphere was largely created by gases released from its molten interior (volcanic outgassing). TOI-561 b is essentially a 'living' version of early Earth, where the surface is so hot that this process is happening continuously and visibly to the JWST."
     },
     {
       "id": "q_14",
-      "question": "Under the new RBI MSME Directions, the shift from 'Asset-based' to 'Performance-based' lending implies that banks will now prioritize which indicator during credit appraisal?",
+      "question": "The UAE Ministry of Interior’s issuance of 'remote work guidelines' during missile alerts represents a public policy shift toward:",
       "options": [
-        "The total area of land owned by the proprietor in rural districts.",
-        "The 'Cash-Flow' and 'GST-linked turnover' of the enterprise rather than its fixed capital.",
-        "The 'Religious and Caste' demographics of the enterprise's workforce.",
-        "The 'Gold Reserves' held by the promoter's family in lockers."
+        "The 'Digitalization' of the labor market for increased productivity.",
+        "Institutionalizing 'Societal Resilience' as a defense against asymmetric air war.",
+        "Reducing the 'Carbon Footprint' of the Dubai commercial district.",
+        "Lowering the 'Migrant-to-Local' ratio in the private sector."
       ],
       "correct_index": 1,
-      "explanation": "Performance-based lending looks at how much money the business actually makes and its transaction history (via GST/Udyam data) to judge its ability to repay, rather than looking at what 'collateral' (land/gold) the bank can seize if the business fails."
+      "explanation": "By mandating remote work, the state reduces the number of civilians on the streets and in glass-fronted office towers during air raids, lowering potential casualties and keeping the economy functioning. This is a form of non-military 'Civil Defense' intended to build societal resilience."
     },
     {
       "id": "q_15",
-      "question": "The targeting of the US-UK base at Diego Garcia by Iranian ballistic missiles has the most significant implication for which geographical concept?",
+      "question": "The Iranian threat to 'irreversibly' destroy desalination plants is a strategic maneuver intended to achieve which geopolitical outcome?",
       "options": [
-        "The 'Rimland' theory which posits that control of the coastlines is key to global power.",
-        "The 'Death of Distance' where geographical isolation no longer provides security against regional actors.",
-        "The 'Heartland' theory regarding the control of the Eurasian landmass.",
-        "The 'Continental Shelf' doctrine governing the ownership of underwater minerals."
+        "The 'Finlandization' of the Gulf Arab states to force their neutrality.",
+        "The 'Balkanization' of the Iranian plateau into smaller ethnic enclaves.",
+        "The 'Containment' of Israeli naval influence in the Red Sea.",
+        "The 'Normalization' of trade ties with the BRICS+ alliance."
       ],
-      "correct_index": 1,
-      "explanation": "Diego Garcia was historically chosen for its extreme 'isolation' and 'strategic depth' in the middle of the Indian Ocean. An Iranian strike shows that long-range missile tech has caused the 'death of distance'—even remote island fortresses are now within reach of regional powers."
+      "correct_index": 0,
+      "explanation": "'Finlandization' refers to a small state being forced into neutrality by a powerful neighbor. By threatening the very survival (water) of the Gulf states, Iran is trying to force them to stop hosting US forces and declare total neutrality, effectively breaking the US alliance system in the Gulf."
     }
   ]
 }
