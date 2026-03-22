@@ -1,6 +1,3 @@
-I now have all the verified data needed. The TOI-561 b atmosphere story was published in December 2025 / early 2026 and covered by ScienceDaily on March 22, 2026 — valid for inclusion. The 48-dimensional quantum light study was published in Nature Communications December 2025 and covered by ScienceDaily on March 21, 2026 — valid. National items with only generic homepage links are discarded. Sports items dated March 22 are from the previous calendar day (UTC) relative to March 23 — all valid.
-
-```json
 {
   "world": [
     {
@@ -485,4 +482,3 @@ I now have all the verified data needed. The TOI-561 b atmosphere story was publ
     }
   ]
 }
-```
