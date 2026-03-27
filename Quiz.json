@@ -1,185 +1,173 @@
 {
-  "date": "March 24, 2026",
+  "date": "March 28, 2026",
   "questions": [
     {
       "id": "q_01",
-      "question": "President Trump’s demand that Iran relinquish its enriched uranium stockpile as a condition for a strike postponement illustrates which structural shift in contemporary nuclear diplomacy?",
+      "question": "President Trump’s third consecutive extension of the deadline for striking Iranian power plants, while simultaneously maintaining a high-intensity air campaign, most strongly illustrates which strategic doctrine in contemporary conflict?",
       "options": [
-        "A transition from 'Arms Control' frameworks toward 'Total Disarmament' as a baseline for regional stability.",
-        "The shift from multilateral 'Joint Comprehensive Plans' to bilateral 'Transactional Realism' in non-proliferation.",
-        "The adoption of 'Strategic Patience' to allow internal economic collapse to dictate nuclear concessions.",
-        "A move toward 'Nuclear Primacy' where extra-regional powers dictate sovereign energy mix choices."
+        "The shift from 'Counter-Force' to 'Counter-Value' targeting in nuclear posturing.",
+        "Reflexive Control, where threats are used as a calibrated diplomatic lever to influence adversary decision-making.",
+        "The obsolescence of 'Escalation Dominance' in the face of non-state actor interventions.",
+        "The 'Madman Theory' of international relations aimed at achieving total military surrender through psychological shock."
       ],
       "correct_index": 1,
-      "explanation": "By bypassing the P5+1 multilateral framework and setting a maximalist condition (surrendering the stockpile) via direct social media signaling, the US is applying 'Transactional Realism'—seeking a high-stakes, bilateral quid-pro-quo (strike postponement for uranium) rather than long-term, multi-party treaty compliance."
+      "explanation": "By repeatedly setting and then extending 'deadlines' for specific high-value targets (power plants), the US is using the *threat* of escalation as a diplomatic tool to extract concessions (Reflexive Control) without yet committing to the massive international backlash that striking civilian-critical infrastructure would provoke."
     },
     {
       "id": "q_02",
-      "question": "The sharp 8% drop in Brent crude following the five-day strike postponement most strongly demonstrates which macroeconomic phenomenon in energy markets?",
+      "question": "The public divergence between US diplomatic pauses and Israel’s vow to 'intensify and expand' strikes independently most directly challenges which foundational principle of collective security alliances?",
       "options": [
-        "The 'Contango' effect where future prices exceed current spot prices due to storage gluts.",
-        "The deflation of a 'Geopolitical Risk Premium' previously priced in by speculative markets.",
-        "A 'Demand-Side' contraction resulting from the global shift toward green hydrogen energy.",
-        "The 'Dutch Disease' effect where high energy prices weaken the manufacturing base of exporters."
+        "The Principle of Subsidiarity in regional defense pacts.",
+        "The doctrine of 'Strategic Autonomy' within the NATO Article 5 framework.",
+        "The 'Unitary Actor' assumption, where coalition partners are expected to synchronize operational and diplomatic timelines.",
+        "The 'Security Dilemma' where defensive alliance formations trigger offensive neighbor responses."
       ],
-      "correct_index": 1,
-      "explanation": "When conflict looms, markets add a 'risk premium' to oil prices. The 8% plunge isn't due to increased supply or lower demand, but the sudden removal of the immediate fear of a Hormuz closure and infrastructure destruction—essentially 'deflating' the speculative cost added by war anxiety."
+      "correct_index": 2,
+      "explanation": "In classic IR theory and military planning, coalitions are often treated as 'Unitary Actors.' Israel’s refusal to coordinate with the US 'deadline extensions' breaks this assumption, exposing that coalition members may have divergent war aims (e.g., US seeking a negotiated exit vs. Israel seeking total regime degradation)."
     },
     {
       "id": "q_03",
-      "question": "The structural decline of Europe’s 'Industrial Heartland' during the Iran war highlights which geographical and economic vulnerability?",
+      "question": "Pakistan’s role as the primary backchannel for the US 15-point ceasefire proposal to Iran is a modern application of which historical diplomatic framework?",
       "options": [
-        "The failure of the 'Blue Banana' corridor to integrate with Mediterranean shipping lanes.",
-        "A 'Second Energy Shock' exposing the fragility of a manufacturing model dependent on volatile LNG imports.",
-        "The exhaustion of 'Factor Endowments' in the Rhine-Ruhr valley due to over-extraction of minerals.",
-        "The obsolescence of 'Inland Waterways' for transporting heavy chemical and steel outputs."
+        "The 'Nixon-Kissinger' model of using a trusted third-party 'conduit' to bypass absent formal diplomatic relations.",
+        "The 'Shuttle Diplomacy' model where a single mediator travels between capitals to draft a treaty.",
+        "The 'Multilateralism' doctrine where UN-led committees manage all ceasefire negotiations.",
+        "The 'Panchsheel' principles of non-interference and mutual respect for territorial integrity."
       ],
-      "correct_index": 1,
-      "explanation": "After losing cheap Russian piped gas in 2022, European industry shifted to LNG. The Iran war, by threatening Ras Laffan (a major LNG hub), created a 'Second Shock' that makes energy-intensive production in Europe unviable compared to regions with domestic energy like the US or the Gulf."
+      "correct_index": 0,
+      "explanation": "Because the US and Iran lack direct diplomatic ties, they rely on a 'conduit' state (Pakistan) that has credibility in both camps. This mirrors the 1971 breakthrough where Pakistan facilitated the secret US-China opening, highlighting the importance of 'backchannels' in resolving high-stakes global crises."
     },
     {
       "id": "q_04",
-      "question": "India's Ministry of Petroleum and Natural Gas’s success in maintaining '100% natural gas supply' while conducting 37,000 anti-hoarding raids illustrates which governance strategy?",
+      "question": "Regarding the IAEA’s warning about the Arak heavy water reactor, a strike leading to a 'radiological accident' would most significantly trigger which international legal instrument?",
       "options": [
-        "The transition from 'Laissez-faire' energy markets to a 'Command and Control' economy.",
-        "A dual-track approach of 'Supply-Side Reassurance' combined with 'Strict Regulatory Enforcement'.",
-        "The implementation of 'Minimum Government, Maximum Governance' via digital PNG tracking.",
-        "The 'Nationalization' of private oil marketing companies to prevent speculative pricing."
+        "The Montreux Convention regarding the transit of warships through international straits.",
+        "The Vienna Convention on Civil Liability for Nuclear Damage, regarding cross-border contamination.",
+        "The Biological Weapons Convention (BWC) concerning the spread of toxins.",
+        "The UNCLOS (United Nations Convention on the Law of the Sea) regarding maritime pollution."
       ],
       "correct_index": 1,
-      "explanation": "The government managed the crisis by simultaneously ensuring the physical flow of gas (reassurance) and using the state's coercive power (raids/FIRs) to prevent artificial scarcity created by hoarders, a classic UPSC theme of balancing market stability with executive oversight."
+      "explanation": "The IAEA's warning specifically concerns the 'cross-border' spread of radioactive material. The Vienna Convention is the primary international framework for determining legal and financial liability when a nuclear incident in one state causes damage or contamination in another."
     },
     {
       "id": "q_05",
-      "question": "The US State Department’s use of 'Emergency Foreign Military Sales Authority' to bypass Congress for the $23 billion UAE/Jordan arms package most directly tests which constitutional dynamic?",
+      "question": "The European Central Bank’s (ECB) formal incorporation of the Iran war as an 'upside inflation risk' indicates which macroeconomic transmission mechanism is most active in the eurozone?",
       "options": [
-        "The 'Doctrine of Specialty' in international arms transfer agreements.",
-        "The tension between 'Executive War Powers' and 'Legislative Oversight' in national security.",
-        "The 'Principle of Non-Interference' in the internal security of sovereign partners.",
-        "The 'Unitary Executive' theory regarding the collection of defense industry taxes."
+        "Demand-pull inflation from a surge in European household consumption.",
+        "Cost-push inflation, where energy price spikes increase input costs for manufacturers and transporters.",
+        "Monetary inflation caused by the excessive printing of the Euro to fund defense exports.",
+        "Built-in inflation where wage-price spirals become entrenched in the services sector."
       ],
       "correct_index": 1,
-      "explanation": "By invoking 'emergency' status, the Executive branch circumvents the statutory 30-day review period by Congress. This shifts the balance of power toward the President, allowing rapid strategic action at the cost of the transparency and checks-and-balances intended by the Arms Export Control Act."
+      "explanation": "The Iran war has disrupted oil (Hormuz) and LNG (Ras Laffan). Since energy is a fundamental input for almost all industrial and logistics processes, these price spikes 'push' up the overall cost of goods and services, forcing the ECB to reconsider its plan to cut interest rates."
     },
     {
       "id": "q_06",
-      "question": "The White House 'National Cyber Strategy' prioritizes protecting critical infrastructure that is 85% privately owned. This development most strongly emphasizes which institutional shift?",
+      "question": "India’s strategic pivot toward deepening LNG and crude ties with Russia amid the Iran war most clearly illustrates which geopolitical doctrine?",
       "options": [
-        "The 'Socialization' of private technology firms to serve federal military intelligence.",
-        "The 'Public-Private Coordination' model as a necessity for modern 'Grey Zone' defense.",
-        "The 'Privatization' of offensive cyber deterrence to reduce the federal fiscal deficit.",
-        "The 'Decentralization' of cybersecurity responsibility to individual state governments."
+        "Strategic Autonomy, prioritizing domestic energy security over adherence to Western-led sanction regimes.",
+        "The 'Look West' policy aimed at integrating India into the European energy market.",
+        "The 'G7-Alignment' strategy for isolating major energy producers during times of war.",
+        "The 'String of Pearls' theory regarding naval base acquisition in the Arctic."
       ],
-      "correct_index": 1,
-      "explanation": "Since the government doesn't own the power grids or banks (85% private), it cannot defend the nation from Iranian cyber-retaliation (Grey Zone warfare) alone. The strategy institutionalizes a model where private firms and the state act as a single defensive unit."
+      "correct_index": 0,
+      "explanation": "India's choice to buy Russian energy (despite Western pressure) to buffer against Gulf disruptions is a textbook case of 'Strategic Autonomy.' It shows India making decisions based purely on its own national interest (energy security/inflation control) rather than following a global bloc's diplomatic stance."
     },
     {
       "id": "q_07",
-      "question": "President Trump’s 'Presidential Action' directing the removal of regulatory barriers for home construction aims to address which specific economic distortion?",
+      "question": "The launch of 'India Semiconductor Mission 2.0' with a ₹40,000 crore outlay is a public policy response to which global technological paradigm shift?",
       "options": [
-        "The 'Liquidity Trap' where low interest rates fail to stimulate residential investment.",
-        "Supply-side constraints where 'Zoning and Permitting' costs inflate the final price of housing.",
-        "The 'Crowding Out' effect of federal land use on private sector commercial real estate.",
-        "A 'Speculative Bubble' driven by the excessive supply of affordable single-family homes."
+        "The transition from 'Hardware-Centric' computing to 'Software-Only' cloud architectures.",
+        "The fragmentation of the global semiconductor supply chain and the 'Silicon Shield' strategy for national security.",
+        "The replacement of silicon-based chips with 'Quantum-only' processors in consumer electronics.",
+        "The centralization of all semiconductor manufacturing in the European Union under the 'Chips Act'."
       ],
       "correct_index": 1,
-      "explanation": "The order targets the 'supply-side' (the ability to build). By removing 'regulatory barriers' like zoning and building codes that add 24% to costs, the policy attempts to lower prices by increasing the number of homes available, rather than just subsidizing demand."
+      "explanation": "As supply chains fragment and US-China tensions rise, nations are racing to build domestic chip capacity to ensure they aren't 'held hostage' by supply disruptions. This is the 'Silicon Shield' strategy—ensuring that a critical component of the modern economy is produced at home."
     },
     {
       "id": "q_08",
-      "question": "China’s NDRC implementing 'Temporary Fuel Price Controls' for the first time since 2013 represents a significant shift from which policy orientation?",
+      "question": "The Central Bank of the UAE (CBUAE) increasing its gold reserves by 75% year-on-year most strongly suggests which institutional shift in global finance?",
       "options": [
-        "The 'Carbon Neutrality' goal of 2060 by subsidizing fossil fuel consumption.",
-        "The 'Market-Linked' pricing mechanism that traditionally passed global shocks to consumers.",
-        "The 'Dual Circulation' strategy by prioritizing international fuel traders over domestic users.",
-        "The 'Rural-Urban Integration' plan by lowering fuel costs only for municipal logistics."
+        "The 'De-dollarization' of national reserves as states seek protection against geopolitical shocks and sanctions.",
+        "A return to the 'Gold Standard' where all currencies are pegged to a fixed weight of gold.",
+        "The 'Financialization' of commodities to increase the volatility of the Dirham.",
+        "The abandonment of 'Foreign Assets' in favor of purely domestic real estate investments."
       ],
-      "correct_index": 1,
-      "explanation": "Since 2013, China allowed domestic prices to track global crude. By capping the increase at half the market rate, the state has prioritized 'social stability' and 'cost-push inflation' control over market-based pricing, signaling the severity of the Iran war's economic threat."
-    },
-    {
-      "id": "q_09",
-      "question": "The CNIPA’s nationwide screening and commercialization of 680,000 university patents is a strategic attempt to solve which structural gap in the 'National Innovation System'?",
-      "options": [
-        "The 'Brain Drain' of researchers to Western biomanufacturing firms.",
-        "The 'Valley of Death' between academic research and industrial application.",
-        "The 'Digital Divide' between coastal innovation clusters and inland provinces.",
-        "The 'Sovereign Patent' deficit compared to the US and South Korea."
-      ],
-      "correct_index": 1,
-      "explanation": "University patents often sit unused (3.9% commercialization). The 'Valley of Death' is the gap where research fails to become a product. By connecting 680,000 patents to 460,000 companies, China is bridging this gap to power its 'Industries of the Future'."
+      "correct_index": 0,
+      "explanation": "Gold is a 'tier-one' asset that carries no 'counterparty risk' (unlike US dollars held in a bank that could be frozen). When the UAE (under active threat) buys massive amounts of gold, it is diversifying away from the US dollar system to ensure it has 'liquid' wealth that no foreign power can easily control or sanction."
     },
     {
       "id": "q_10",
-      "question": "Shenzhen’s 'AI Judicial System' and 'Dedicated AI Bureau' illustrate which emerging paradigm in urban governance?",
+      "question": "The 'Verbund Model' employed by BASF in its new Zhanjiang plant achieves competitive advantages primarily through:",
       "options": [
-        "The 'Panopticon' model of constant surveillance and social credit enforcement.",
-        "The 'Algorithmic Urbanism' where AI is integrated into the executive and judicial fabric.",
-        "The 'Smart City 1.0' model focused on basic IoT and traffic sensor data.",
-        "The 'Technocratic Secession' of municipal governments from national legal frameworks."
+        "Outsourcing all chemical precursors to small-scale rural manufacturers.",
+        "Horizontal integration where the company acquires competitors in different industries.",
+        "Circular Economy and Industrial Symbiosis, where waste from one process becomes input for another on a single site.",
+        "Relocating all management functions to Germany while leaving only labor-intensive tasks in China."
       ],
-      "correct_index": 1,
-      "explanation": "Shenzhen isn't just using AI for traffic; it has integrated it into the courts and government bureaus (Algorithmic Urbanism). This represents a shift where AI models actively participate in case-handling and urban administration, rather than just providing data."
+      "correct_index": 2,
+      "explanation": "BASF's 'Verbund' is an integrated system where plants are physically linked. The waste heat or by-products of one plant serve as the raw materials for the next. This 'symbiosis' lowers energy costs and transportation waste, making the entire complex much more efficient than isolated factories."
     },
     {
       "id": "q_11",
-      "question": "The successful AED 1.1 billion UAE T-bond auction conducted during an active missile alert is a transmission of which critical market signal?",
+      "question": "The CHMP's recommendation for Adstiladrin (an intravesical gene therapy) for bladder cancer represents which shift in the 'Technological Frontier' of medicine?",
       "options": [
-        "The 'Safe Haven' status of the UAE Dirham against the US Dollar.",
-        "Institutional 'Risk-Tolerance' driven by the UAE's high credit quality and fiscal reserves.",
-        "The 'Crowding In' of private capital to fund the UAE’s missile defense interceptors.",
-        "The 'Contagion' of war risk from the Middle East to global fixed-income markets."
+        "The transition from 'Systemic' chemotherapy to 'Targeted' localized gene delivery via viral vectors.",
+        "The move from 'Biological' treatments to purely 'Robotic' surgical interventions.",
+        "The replacement of 'In-patient' hospital care with 'AI-led' self-diagnosis apps.",
+        "The abandonment of 'Immunotherapy' in favor of traditional herbal remedies."
       ],
-      "correct_index": 1,
-      "explanation": "Investors buying 10-year bonds while missiles are being intercepted shows they believe the UAE state is stable enough to pay back debt over a decade. This 'Risk-Tolerance' is anchored by the UAE's massive sovereign wealth and the perceived efficacy of its defenses."
+      "correct_index": 0,
+      "explanation": "Adstiladrin uses an adenoviral vector to deliver a therapeutic gene directly into the bladder. This is 'localized' gene therapy—treating the cancer at its source without the 'systemic' (whole-body) side effects typical of traditional chemotherapy."
     },
     {
       "id": "q_12",
-      "question": "The UAE Central Bank’s mandate to phase out 'SMS OTP' by March 31 is most strongly a defensive response to which specific threat vector?",
+      "question": "Micron’s mass production of the '1-gamma DRAM node' is a 'Technological Paradigm Shift' because it directly enables:",
       "options": [
-        "The 'SS7 Protocol' vulnerabilities and SIM-swapping used by state-linked cyber actors.",
-        "The 'Liquidity Risk' posed by instant digital bank runs on smartphone apps.",
-        "The 'Blockchain Interoperability' challenge for cross-border Dirham transfers.",
-        "The 'Quantum Decryption' of standard RSA encryption by Iranian researchers."
+        "The creation of 'Analog' computers that do not require binary memory.",
+        "High-Bandwidth and Energy-Efficient memory clusters required for large-scale AI training and inference.",
+        "The total elimination of 'Latency' in standard internet satellite communications.",
+        "The reduction of 'Silicon usage' by 90% in consumer smartphone manufacturing."
       ],
-      "correct_index": 0,
-      "explanation": "SMS is transmitted over insecure telecom networks (SS7). State-linked actors (Charming Kitten) can intercept these messages or swap SIMs to steal bank codes. By moving to 'App-based' or 'Biometrics', the UAE removes the telecom network from the security chain entirely."
+      "correct_index": 1,
+      "explanation": "Large AI models (like Gemini) require massive amounts of data to move between the processor and memory. The '1-gamma' node provides the density and speed (bandwidth) needed to handle these huge AI workloads while using less electricity, which is the 'Silicon Backbone' Micron is rebranding toward."
     },
     {
       "id": "q_13",
-      "question": "Roche’s 'Institute of Human Biology' using 'Organoids' and 3,500 GPUs represents which technological paradigm shift in medical research?",
+      "question": "The discovery of the 'CCC-Retriever overflow valve' in cells is a breakthrough for Parkinson's research because it shifts the pharmacological focus toward:",
       "options": [
-        "A move from 'Symptomatic Treatment' toward 'Universal Gene Therapy'.",
-        "The transition from 'In Vivo' animal testing to 'In Vitro' predictive human-model systems.",
-        "The 'Digitization' of the healthcare system via electronic medical records.",
-        "The 'Democratization' of drug discovery through open-source AI models."
+        "Directly injecting dopamine into the motor cortex to suppress tremors.",
+        "Upstream prevention of toxic protein buildup by repairing the cell's waste-disposal machinery.",
+        "Eliminating the need for neurons by using 'Neural-Link' brain implants.",
+        "Applying 'Shock Therapy' to dissolve Lewy bodies after they have already formed."
       ],
       "correct_index": 1,
-      "explanation": "Animal models (In Vivo) fail 90% of the time. By using 'Organoids' (human tissue grown in labs) and AI (In Silico), Roche is shifting to a human-first model. This 'In Vitro' (in glass) approach aims to predict human responses more accurately, reducing the cost and time of drug development."
+      "explanation": "Most current research focuses on the 'Lewy bodies' (the aggregates). This discovery identifies the *machinery* (the overflow valve) that was supposed to prevent those aggregates from forming. By targeting the 'upstream' valve, scientists hope to stop the disease before the toxic proteins ever accumulate."
     },
     {
       "id": "q_14",
-      "question": "The White House proposal for 'Federal Preemption' of state AI regulations most strongly illustrates which constitutional doctrine?",
+      "question": "India achieving a 4.8% fiscal deficit in FY26 while facing global energy shocks most directly strengthens which macroeconomic principle?",
       "options": [
-        "The 'Dormant Commerce Clause' prohibiting state interference in national markets.",
-        "The 'Supremacy Clause' where federal law overrides conflicting state statutes.",
-        "The 'Non-Delegation Doctrine' preventing the OSTP from setting AI standards.",
-        "The 'Equal Protection Clause' ensuring all AI models are treated the same."
+        "The 'Laffer Curve' regarding the optimal tax rate for maximum revenue.",
+        "Fiscal Consolidation, which improves sovereign creditworthiness and reduces the 'Crowding Out' of private investment.",
+        "The 'Paradox of Thrift' where government saving leads to a national recession.",
+        "The 'Quantity Theory of Money' where inflation is purely a monetary phenomenon."
       ],
       "correct_index": 1,
-      "explanation": "Federal Preemption is derived from the Supremacy Clause (Article VI). If the federal government sets a 'National AI Policy', it overrides the 30+ different state laws, preventing a 'fragmented' regulatory environment that would slow down national AI competition with China."
+      "explanation": "When a government reduces its fiscal deficit (Fiscal Consolidation), it shows it is living within its means. This leads to higher credit ratings (like India's S&P upgrade) and ensures the government doesn't borrow all the money in the market, leaving 'room' for private businesses to borrow and grow (preventing crowding out)."
     },
     {
       "id": "q_15",
-      "question": "The simultaneous escalation of UAE air defense intercepts (7 missiles, 16 drones) and the US strike postponement on power plants illustrates which IR framework?",
+      "question": "The 'Production-Linked Incentive' (PLI) scheme for mobile manufacturing hitting ₹5.45 lakh crore illustrate which shift in India's 'Industrial Policy'?",
       "options": [
-        "The 'Escalation Ladder' where belligerents pause at a threshold to assess adversary intent.",
-        "The 'Prisoner’s Dilemma' where lack of trust forces both sides to strike power plants.",
-        "The 'End of History' where liberal democracies no longer engage in conventional war.",
-        "The 'Bandwagoning' effect of neutral states joining the US-Israel military coalition."
+        "A return to 'Import Substitution' where all foreign brands are banned from the market.",
+        "A transition from 'Service-led' growth toward 'Export-oriented' manufacturing integration into Global Value Chains.",
+        "The 'Nationalization' of all electronics companies under a single state-run enterprise.",
+        "The prioritization of 'Handicrafts' over high-tech industrial automation."
       ],
-      "correct_index": 0,
-      "explanation": "An 'Escalation Ladder' involves clear steps or 'rungs' of violence. By threatening power plants (a major rung) and then 'pausing' for five days, Trump is attempting to use the 'fear of the next rung' to force a concession, while the ongoing missile defense shows the conflict hasn't stopped."
+      "correct_index": 1,
+      "explanation": "PLI encourages companies to manufacture *in* India for the *world*. By reaching these record numbers, India is showing that it is successfully moving into the 'manufacturing' stage of development, integrating itself into the Global Value Chains (GVCs) that were previously dominated by China."
     }
   ]
 }
