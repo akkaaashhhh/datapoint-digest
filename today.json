@@ -1,319 +1,1419 @@
 {
   "world": [
     {
-      "headline": "Trump extends deadline for Iran to reopen Strait of Hormuz by 10 days to April 6, citing ongoing talks",
-      "description": "US President Donald Trump announced a further 10-day extension of the deadline for Iran to reopen the Strait of Hormuz, pushing the deadline to April 6, after claiming talks with Tehran were progressing 'very well.' Trump stated Iran had requested the extension and cited 'major points of agreement.' Israel simultaneously vowed to intensify and expand attacks on Iran regardless of US diplomatic efforts, with Defence Minister Katz explicitly refusing to relent. Iran rejected the US 15-point ceasefire proposal, issued counter-demands including reparations and Hormuz control, and Iran's death toll from US-Israeli strikes surpassed 1,500. The conflict entered its second month.",
-      "context": "The 10-day extension is Trump's third consecutive deferral of threatened power plant strikes — from the original 48-hour deadline, to a 5-day pause, to now April 6. The pattern signals that the US is using escalation threats primarily as a diplomatic lever rather than operational intent, while the military campaign continues. Israel's explicit refusal to coordinate with US diplomatic timelines reveals a deepening divergence in coalition war aims, forcing Washington into a position of managing both a war and an allied state acting independently. The conflict entering its second month with no ceasefire framework, 1,500+ Iranian dead, and Iran rejecting the 15-point proposal indicates a prolonged conflict trajectory despite Trump's diplomatic framing.",
+      "headline": "One Month Into Iran War, Only Hard Choices Remain for Trump",
+      "description": "As the US-Israeli military campaign against Iran enters its second month, the Trump administration faces a narrowing set of strategic options with no clear path to resolution. Airstrikes have degraded Iranian military capabilities but failed to force a ceasefire, while the Strait of Hormuz remains partially closed, disrupting global energy markets.",
+      "context": "The conflict has triggered a cascade of geopolitical and economic consequences including oil price spikes, supply chain disruptions, and strained US alliances. NATO allies have been reluctant to offer support, prompting sharp criticism from Trump, while Gulf states and Asian nations grow increasingly anxious about prolonged instability.",
       "timeline": [
-        {"type": "background", "date": "2026-02-28", "label": "US-Israel war on Iran begins; initial US framing projects a 4–6 week operational timeline."},
-        {"type": "escalation", "date": "2026-03-23", "label": "Trump issues first 5-day postponement of power plant strikes, citing 'very good' talks; Iran denies negotiations."},
-        {"type": "event", "date": "2026-03-27", "label": "Trump extends Hormuz deadline by 10 days to April 6; Iran rejects US 15-point ceasefire proposal; Israel vows to intensify strikes independently; death toll in Iran exceeds 1,500."},
-        {"type": "consequence", "date": "2026-03-27", "label": "Brent crude rises above $108; US-Israel coalition divergence publicly exposed; Pakistan confirmed as primary diplomatic backchannel."}
+        {
+          "date": "2026-02-28",
+          "label": "US-Israeli strikes on Iran begin",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-15",
+          "label": "Strait of Hormuz partially closed by Iran",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Israel strikes Iranian nuclear sites; Iran vows retaliation",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "War enters second month with no ceasefire in sight",
+          "type": "consequence"
+        }
       ],
       "importance_score": 5,
       "category": "world",
       "region": "Middle East",
       "key_terms": [
-        {"term": "April 6 Hormuz Deadline", "definition": "Trump's third escalation deferral, setting April 6 as the new deadline for Iran to reopen the Strait of Hormuz before threatened US power plant strikes resume."},
-        {"term": "US 15-Point Ceasefire Proposal", "definition": "A formal US diplomatic framework delivered to Iran via Pakistani intermediaries, rejected by Tehran which issued counter-demands including reparations and Hormuz control."},
-        {"term": "Israel-US Coalition Divergence", "definition": "Israeli Defence Minister Katz's explicit public vow to continue and intensify strikes independently of US diplomatic pauses, exposing divergent war aims within the coalition."},
-        {"term": "Iran Death Toll Milestone", "definition": "Confirmed fatalities from US-Israeli strikes surpassing 1,500 people in Iran as the war enters its second month, intensifying international humanitarian pressure."}
+        {
+          "term": "Strait of Hormuz",
+          "definition": "A critical maritime chokepoint between Iran and Oman through which roughly 20% of global oil supply passes."
+        },
+        {
+          "term": "US-Israeli coalition",
+          "definition": "The joint military alliance conducting airstrikes against Iranian military and nuclear infrastructure."
+        },
+        {
+          "term": "Iranian nuclear sites",
+          "definition": "Facilities involved in Iran's nuclear enrichment program, targeted by Israeli airstrikes."
+        },
+        {
+          "term": "NATO",
+          "definition": "The North Atlantic Treaty Organization, whose member states have largely declined to join the Iran campaign."
+        },
+        {
+          "term": "Marco Rubio",
+          "definition": "US Secretary of State who signaled to allies that the Iran war would continue 2–4 more weeks."
+        }
       ],
-      "link": "https://www.cnn.com/2026/03/27/world/live-news/iran-war-us-israel-trump"
+      "link": "https://www.reuters.com/world/middle-east/one-month-into-iran-war-only-hard-choices-trump-2026-03-28/"
     },
     {
-      "headline": "Iran rejects US 15-point ceasefire proposal, issues own demands including reparations and Hormuz control",
-      "description": "Iran formally rejected the US 15-point ceasefire proposal delivered via Pakistan, Turkey, and Egypt as diplomatic intermediaries. Tehran issued its own counter-demands, including payment of war reparations for damage inflicted by US-Israeli strikes and formal recognition of Iran's right to control access through the Strait of Hormuz. Iranian Foreign Minister Abbas Araghchi characterized the US proposal as one-sided and incompatible with Iranian sovereignty.",
-      "context": "Iran's counter-demands — reparations and Hormuz control — are maximalist positions designed to demonstrate domestic political strength and signal that Tehran does not consider itself to be in a position of military defeat requiring unconditional concessions. The reparations demand is particularly significant as it implies Iranian acknowledgment of civilian and infrastructure losses while asserting moral and legal equivalence with the US-Israel campaign. These demands are not expected to be accepted by Washington, but they establish Iran's opening negotiating posture and signal that any deal will require substantial US concessions beyond the original 15-point framework.",
+      "headline": "Houthis Strike Israel in First Attack Since Iran War Began",
+      "description": "Yemen's Houthi movement launched its first strike against Israel since the outbreak of the US-Israeli war on Iran, signaling a broader regional escalation. The attack marks a new front in the conflict, with the Houthis acting in solidarity with Tehran.",
+      "context": "The Houthi entry into the conflict raises fears of a wider Middle Eastern war. Previously the group had targeted Red Sea shipping; directing strikes at Israel demonstrates growing coordination between Iranian-aligned forces and expands the geographic scope of the war.",
       "timeline": [
-        {"type": "background", "date": "2026-02-28", "label": "US-Israel Iran war begins; US initially frames objectives as limited and achievable within weeks."},
-        {"type": "escalation", "date": "2026-03-25", "label": "Pakistan Foreign Minister confirms Islamabad is relaying US 15-point ceasefire proposal to Tehran, with Turkey and Egypt providing additional diplomatic support."},
-        {"type": "event", "date": "2026-03-27", "label": "Iran formally rejects US 15-point ceasefire proposal; issues counter-demands including reparations and Hormuz control rights."},
-        {"type": "consequence", "date": "2026-03-27", "label": "Trump extends Hormuz deadline to April 6; negotiating gap between US and Iran positions publicly exposed; Pakistan backchannel remains active."}
+        {
+          "date": "2024-10-07",
+          "label": "Houthis begin Red Sea shipping attacks in solidarity with Gaza",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "US-Israeli war on Iran formally begins",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "Houthis launch first direct strike on Israel since Iran war began",
+          "type": "escalation"
+        }
       ],
       "importance_score": 5,
       "category": "world",
       "region": "Middle East",
       "key_terms": [
-        {"term": "War Reparations Demand", "definition": "Iran's counter-demand for financial compensation from the US and Israel for destruction caused by strikes on Iranian military, nuclear, and civilian infrastructure."},
-        {"term": "Hormuz Control Demand", "definition": "Iran's assertion of its right to regulate shipping access through the Strait of Hormuz as a condition of any ceasefire — a position irreconcilable with the US demand for free international navigation."},
-        {"term": "Pakistan-Turkey-Egypt Diplomatic Triangle", "definition": "The three-country intermediary network relaying communications between Washington and Tehran, with Pakistan serving as the primary confirmed backchannel."},
-        {"term": "Abbas Araghchi", "definition": "Iranian Foreign Minister leading Iran's diplomatic response and public characterization of the US 15-point proposal as incompatible with Iranian sovereignty."}
+        {
+          "term": "Houthis",
+          "definition": "Iran-aligned armed movement controlling much of northern Yemen, part of the 'Axis of Resistance'."
+        },
+        {
+          "term": "Axis of Resistance",
+          "definition": "A coalition of Iran-backed militant groups including Hezbollah, Hamas, and the Houthis."
+        },
+        {
+          "term": "Red Sea",
+          "definition": "Key global shipping lane previously targeted by Houthis, causing significant maritime disruption."
+        }
       ],
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days"
+      "link": "https://www.reuters.com/world/asia-pacific/rubio-sees-us-action-iran-completed-weeks-airstrikes-rumble-2026-03-28/"
     },
     {
-      "headline": "Pakistan acts as backchannel delivering US 15-point ceasefire proposal to Iran",
-      "description": "Pakistan's Foreign Minister Ishaq Dar confirmed on March 25 that Islamabad was formally relaying the US 15-point ceasefire proposal to Tehran, drawing on Pakistan's historic role as a diplomatic backchannel between rival powers. Chief US negotiator Steve Witkoff separately confirmed Pakistan's message-carrying role. The engagement follows direct calls between Pakistani Prime Minister Shehbaz Sharif and Iranian President Masoud Pezeshkian, and at least one call between Army Chief Field Marshal Asim Munir and President Trump. Pakistan also signed a mutual defence agreement with Saudi Arabia in September 2025 and has engaged with Gulf partners throughout the crisis.",
-      "context": "Pakistan's emergence as the primary US-Iran diplomatic conduit follows a long historical pattern: Pakistan served as the secret channel for Kissinger's 1971 Beijing breakthrough, brokered the Geneva Accords ending the Soviet occupation of Afghanistan, and facilitated the 2020 Doha Agreement. Islamabad's unique value lies in its Muslim-world credibility with Tehran, its close military relationship with the US, and its geographic and political links to Gulf Arab states. With direct US-Iran communication impossible given the absence of diplomatic relations and the active military conflict, Pakistan's role is structurally essential to any negotiated outcome.",
+      "headline": "Ukraine Signs Defence Cooperation Deals with UAE and Qatar During Zelenskiy Gulf Visit",
+      "description": "Ukrainian President Volodymyr Zelenskiy concluded defence cooperation agreements with the United Arab Emirates and Qatar during a diplomatic visit to the Gulf, seeking to diversify Ukraine's security partnerships amid continued war with Russia.",
+      "context": "With Western attention and resources increasingly diverted toward the Iran conflict, Zelenskiy is broadening Ukraine's diplomatic outreach to Gulf states. The agreements reflect Gulf nations' growing strategic autonomy and willingness to engage with European security issues.",
       "timeline": [
-        {"type": "background", "date": "1971-08-01", "label": "Pakistan serves as the secret backchannel enabling Kissinger's preparation for Nixon's historic 1972 China opening, establishing Pakistan's tradition as a diplomatic intermediary."},
-        {"type": "escalation", "date": "2026-02-28", "label": "US-Israel Iran war begins; absence of direct US-Iran diplomatic relations creates immediate need for intermediaries."},
-        {"type": "event", "date": "2026-03-25", "label": "Pakistan Foreign Minister Ishaq Dar confirms Islamabad is relaying US 15-point ceasefire proposal to Tehran; Witkoff confirms Pakistan's role; Sharif-Pezeshkian and Munir-Trump calls documented."},
-        {"type": "consequence", "date": "2026-03-27", "label": "Iran rejects the 15-point proposal via the Pakistani channel; Trump extends Hormuz deadline; Pakistan remains the active conduit as negotiations continue."}
+        {
+          "date": "2022-02-24",
+          "label": "Russia invades Ukraine, triggering full-scale war",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Iran war diverts Western diplomatic focus from Ukraine",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "Ukraine signs defence cooperation with UAE and Qatar",
+          "type": "event"
+        }
       ],
       "importance_score": 4,
       "category": "world",
-      "region": "Asia",
+      "region": "Europe / Middle East",
       "key_terms": [
-        {"term": "Ishaq Dar", "definition": "Pakistani Foreign Minister who publicly confirmed Pakistan's role as the diplomatic conduit for the US 15-point ceasefire proposal to Iran."},
-        {"term": "Steve Witkoff", "definition": "Chief US negotiator for the Iran war diplomacy, who confirmed Pakistan's backchannel role on March 27."},
-        {"term": "Pakistan-Saudi Mutual Defence Agreement", "definition": "A bilateral security pact signed in September 2025 linking Pakistan to Gulf Arab states, strengthening Islamabad's credibility as a regional diplomatic mediator."},
-        {"term": "Asim Munir", "definition": "Pakistani Army Chief Field Marshal who held at least one direct call with President Trump during the Iran war crisis, reflecting Pakistan's security apparatus involvement in the diplomatic effort."},
-        {"term": "Operation Epic Fury", "definition": "The US-Israeli air campaign against Iran that began in late February 2026 and killed Supreme Leader Ali Khamenei within days of commencement."}
+        {
+          "term": "Volodymyr Zelenskiy",
+          "definition": "President of Ukraine, leading his country's defence against Russian invasion since 2022."
+        },
+        {
+          "term": "UAE",
+          "definition": "United Arab Emirates, a Gulf state playing an increasingly active role in global diplomacy."
+        },
+        {
+          "term": "Defence cooperation agreement",
+          "definition": "A bilateral treaty outlining mutual support frameworks including arms supply, intelligence sharing, or training."
+        }
       ],
-      "link": "https://www.aljazeera.com/news/2026/3/27/nixon-to-trump-pakistans-long-record-as-backchannel-between-rival-powers"
+      "link": "https://www.reuters.com/world/middle-east/ukraine-uae-agree-cooperate-defence-zelenskiy-says-2026-03-28/"
     },
     {
-      "headline": "IAEA warns of 'major radiological accident' if Iran nuclear plant damaged amid ongoing strikes",
-      "description": "The International Atomic Energy Agency issued a formal warning that continued US-Israeli strikes in the vicinity of Iranian nuclear facilities — including the confirmed attack on Natanz and the Arak heavy water reactor — risk causing a major radiological accident with cross-border contamination consequences. The IAEA called on all parties to respect the principle of nuclear safety in armed conflict and urged restraint in targeting nuclear infrastructure.",
-      "context": "The IAEA's radiological accident warning raises the conflict to a category of existential risk exceeding conventional warfare. The Arak heavy water reactor — capable of producing plutonium for nuclear weapons — represents a particularly sensitive target: even a non-explosive strike that breaches the reactor vessel could disperse radioactive material over a wide area. Iran's nuclear facilities are concentrated in or near populated centers including Isfahan and Natanz, and any radiological release would constitute a major international humanitarian catastrophe. The warning also implies potential liability under the Vienna Convention on Nuclear Safety for states conducting strikes near nuclear facilities.",
+      "headline": "Pakistan Hosts Diplomatic Talks with Saudi Arabia, Turkey and Egypt Over Iran War",
+      "description": "Pakistan convened high-level diplomatic discussions with Saudi Arabia, Turkey, and Egypt to coordinate a regional response to the ongoing US-Israeli war against Iran. The talks reflect growing concern among Muslim-majority nations about the conflict's trajectory.",
+      "context": "Pakistan occupies a pivotal diplomatic position as a nuclear state with ties to both the US and the Muslim world. Its hosting of these talks signals an attempt by regional powers to assert an independent diplomatic track separate from Western-led efforts.",
       "timeline": [
-        {"type": "background", "date": "2015-07-14", "label": "JCPOA nuclear deal severely restricts Iranian nuclear activities; Arak reactor redesigned to prevent plutonium production as part of the agreement."},
-        {"type": "escalation", "date": "2026-03-21", "label": "US-Israel strikes Iran's Natanz uranium enrichment facility — the first confirmed nuclear facility strike of the conflict."},
-        {"type": "event", "date": "2026-03-27", "label": "Israel strikes Arak heavy water facility linked to plutonium production; IAEA issues formal warning of 'major radiological accident' risk from strikes near nuclear plants."},
-        {"type": "consequence", "date": "2026-03-27", "label": "International community intensifies calls for de-escalation; UN Secretary-General calls for restraint; IAEA begins emergency consultations with member states on nuclear safety protocols in conflict zones."}
+        {
+          "date": "2026-02-28",
+          "label": "US-Israeli strikes on Iran commence",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-10",
+          "label": "Regional states begin coordinating responses to the conflict",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "Pakistan hosts Islamabad talks with Saudi Arabia, Turkey, and Egypt",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "South Asia / Middle East",
+      "key_terms": [
+        {
+          "term": "Islamabad Talks",
+          "definition": "Diplomatic consultations hosted in Pakistan's capital between key Muslim-majority regional powers."
+        },
+        {
+          "term": "Saudi Arabia",
+          "definition": "Leading Gulf state and OPEC+ member with significant influence over regional security and energy policy."
+        },
+        {
+          "term": "OIC bloc",
+          "definition": "Organisation of Islamic Cooperation, a grouping whose members are increasingly vocal about the Iran conflict."
+        }
+      ],
+      "link": "https://www.reuters.com/world/asia-pacific/pakistan-host-talks-with-saudi-arabia-turkey-egypt-amid-iran-war-diplomacy-2026-03-28/"
+    },
+    {
+      "headline": "Iran Demands Hormuz Transit Toll as New Condition to End the War",
+      "description": "Iran has put forward a new negotiating demand, proposing to levy transit tolls on oil tankers passing through the Strait of Hormuz as a condition for reopening the waterway and engaging in ceasefire discussions. The demand could generate billions in annual revenue for Tehran.",
+      "context": "The Hormuz toll proposal represents a dramatic shift in Iran's negotiating posture, moving from purely military leverage to economic extraction. If accepted, it would institutionalise Iranian control over a chokepoint through which one-fifth of global oil supplies flow, setting a precedent with profound implications for international maritime law.",
+      "timeline": [
+        {
+          "date": "2026-02-28",
+          "label": "Iran begins restricting Hormuz access following US-Israeli strikes",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-20",
+          "label": "US and Iran begin indirect negotiations via intermediaries",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "Iran announces Hormuz toll demand as new war-ending condition",
+          "type": "consequence"
+        }
       ],
       "importance_score": 5,
       "category": "world",
       "region": "Middle East",
       "key_terms": [
-        {"term": "IAEA (International Atomic Energy Agency)", "definition": "The UN nuclear watchdog responsible for monitoring nuclear safety and non-proliferation compliance; issued the formal radiological accident warning on March 27."},
-        {"term": "Arak Heavy Water Reactor", "definition": "An Iranian nuclear facility originally capable of producing weapons-grade plutonium; redesigned under the 2015 JCPOA; struck by Israel on March 27, 2026."},
-        {"term": "Radiological Accident Risk", "definition": "The IAEA's warning of potential dispersal of radioactive material from struck nuclear facilities, which could contaminate Iranian territory and potentially neighboring countries."},
-        {"term": "Vienna Convention on Nuclear Safety", "definition": "International treaty establishing legal obligations for the safe operation of nuclear power plants; potentially applicable to states conducting strikes near nuclear facilities."},
-        {"term": "Plutonium Production Capability", "definition": "The capacity of the Arak heavy water reactor to produce plutonium — a weapons-grade nuclear material — making it a high-priority target for Israel's nuclear degradation strategy."}
+        {
+          "term": "Strait of Hormuz",
+          "definition": "Narrow waterway between Iran and Oman, critical to global energy supply."
+        },
+        {
+          "term": "Transit toll",
+          "definition": "A proposed levy Iran would charge oil tankers for passage through Hormuz, generating billions annually."
+        },
+        {
+          "term": "UNCLOS",
+          "definition": "United Nations Convention on the Law of the Sea, which governs rights of passage through international straits."
+        }
       ],
-      "link": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days"
+      "link": "https://www.cnn.com/2026/03/28/middleeast/iran-strait-of-hormuz-toll-intl"
     },
     {
-      "headline": "ECB projections highlight upside inflation risks from Iran war energy shock",
-      "description": "The European Central Bank's March 2026 staff macroeconomic projections, published on March 27, formally incorporated the Iran war energy shock as a significant upside risk to the eurozone inflation outlook. The projections flagged elevated energy prices — driven by Hormuz disruptions, strikes on Gulf LNG infrastructure, and global oil market volatility — as the primary source of uncertainty for the ECB's inflation trajectory and rate path, complicating the path to further rate cuts.",
-      "context": "The ECB's formal incorporation of Iran war risks into its inflation projections signals that the conflict has moved from a geopolitical externality to a central variable in European monetary policy. With eurozone inflation having only recently returned toward the 2% target after a multi-year struggle, a sustained energy price shock from Hormuz disruptions and Ras Laffan damage threatens to reignite the inflation cycle — potentially forcing the ECB to pause or reverse its easing cycle. European industry — already battered by two successive energy shocks since 2022 — faces a further cost-push from war-driven LNG and oil price increases, with potentially structural consequences for European manufacturing competitiveness.",
+      "headline": "Russia Launches Major Drone Attack on Ukraine as Peace Talks Remain Paused",
+      "description": "Russia carried out a large-scale drone assault against Ukrainian targets as diplomatic efforts to revive peace negotiations remained stalled, with global attention focused on the Middle East conflict.",
+      "context": "The drone offensive underscores Russia's willingness to escalate while international attention is diverted toward the Iran war. Ukraine's ability to secure military support from Western allies has been hampered by competing strategic demands, creating a window Russia appears to be exploiting.",
       "timeline": [
-        {"type": "background", "date": "2022-07-21", "label": "ECB launches historic rate hiking cycle in response to energy-driven inflation following Russia's Ukraine invasion; rates reach 4% by late 2023."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Iranian strikes on Ras Laffan and Gulf energy infrastructure push Brent crude above $115/barrel; European LNG spot prices surge."},
-        {"type": "event", "date": "2026-03-27", "label": "ECB March 2026 staff projections formally flag Iran war energy shock as the primary upside inflation risk for the eurozone, complicating monetary policy normalization."},
-        {"type": "consequence", "date": "2026-03-27", "label": "ECB rate cut expectations pared back across money markets; eurozone industrial sector faces third energy cost shock since 2021; European stagflation risk assessment elevated."}
+        {
+          "date": "2022-02-24",
+          "label": "Russia launches full-scale invasion of Ukraine",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Iran war redirects Western resources and diplomatic focus",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "Russia launches major drone offensive as peace talks remain frozen",
+          "type": "event"
+        }
       ],
       "importance_score": 4,
       "category": "world",
       "region": "Europe",
       "key_terms": [
-        {"term": "ECB Staff Macroeconomic Projections", "definition": "Quarterly economic forecasts produced by ECB economists, formally incorporating the Iran war energy shock as an upside inflation risk for the March 2026 edition."},
-        {"term": "Eurozone Inflation Risk", "definition": "The threat of Iran war-driven energy price increases reigniting consumer price inflation in the eurozone, undermining the ECB's achievement of near-target inflation after three years of tightening."},
-        {"term": "LNG Spot Price", "definition": "The immediate market price for liquefied natural gas; surging due to Iranian strikes on Qatar's Ras Laffan hub, the world's largest LNG export facility."},
-        {"term": "ECB Rate Path", "definition": "The trajectory of the ECB's benchmark interest rates; Iran war inflation risks are forcing markets to revise expectations for further cuts in 2026."},
-        {"term": "European Stagflation Risk", "definition": "The dual threat of stagnant industrial output and rising energy-driven inflation facing the eurozone — a combination the ECB is structurally ill-equipped to address simultaneously."}
-      ],
-      "link": "https://www.ecb.europa.eu/press/projections/html/ecb.projections202603_ecbstaff~ebe291cd3d.en.html"
-    },
-    {
-      "headline": "Trump's Iran war pushes India to deepen energy ties with Russia including LNG deals",
-      "description": "India is actively deepening energy import ties with Russia — including new LNG supply agreements — as Gulf energy disruptions from the Iran war drive New Delhi to diversify away from Middle Eastern and Qatari supply chains. India has already been purchasing discounted Russian crude since 2022; the Iran war is now accelerating expansion into piped gas alternatives, Russian LNG, and strategic energy partnerships to insulate the economy from Hormuz disruption risks.",
-      "context": "India's accelerated Russian energy pivot reflects a sophisticated strategic calculation: as the world's third-largest oil importer, India cannot absorb a prolonged Hormuz disruption on its current import profile. By expanding Russian LNG and crude volumes, India reduces dependence on Gulf supply routes while securing discounted energy prices — a combination that simultaneously benefits the Russian economy under Western sanctions. The move deepens India's energy security at the cost of further diverging from Western allies' Russia isolation strategy, continuing the pattern established since February 2022.",
-      "timeline": [
-        {"type": "background", "date": "2022-02-24", "label": "Russia's Ukraine invasion prompts Western sanctions; India begins purchasing discounted Russian crude, becoming one of Russia's largest oil export destinations."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Iranian strikes on Ras Laffan and Gulf energy infrastructure threaten India's LNG import supply; Brent crude surges above $115/barrel; Sensex crashes 2,500 points."},
-        {"type": "event", "date": "2026-03-27", "label": "India accelerates new LNG supply deals with Russia; deepens broader energy partnership to reduce exposure to Hormuz-linked supply disruption risks."},
-        {"type": "consequence", "date": "2026-03-27", "label": "Russia benefits from additional energy revenue amid Western sanctions; India's energy supply resilience improves; India-Western alignment on Russia isolation strategy diverges further."}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Asia",
-      "key_terms": [
-        {"term": "India-Russia LNG Deals", "definition": "New liquefied natural gas supply agreements between India and Russia accelerated by the Iran war, reducing India's dependence on Gulf LNG supply routes transiting the Strait of Hormuz."},
-        {"term": "Hormuz Supply Diversification", "definition": "India's strategic response to the Hormuz disruption risk: rapidly expanding alternative energy supply sources including Russia, West Africa, and the United States."},
-        {"term": "Russian Discounted Energy", "definition": "Below-market crude oil and gas prices offered by Russia to India as part of bilateral energy trade, originally enabled by Western sanctions that reduced Russian energy export options."},
-        {"term": "Indian Energy Security Strategy", "definition": "India's national approach to ensuring reliable energy imports, accelerated by the Iran war into a more diversified, multi-partner supply architecture."}
-      ],
-      "link": "https://www.reuters.com/business/energy/trumps-iran-war-pushes-india-rekindle-old-friendship-with-russia-2026-03-27/"
-    },
-    {
-      "headline": "Russia launches major drone attack on Ukraine as peace talks remain paused due to Iran war",
-      "description": "Russia launched a major drone attack on Ukraine while Ukrainian-Russian peace talks remained formally paused, as the Iran war continued to dominate US and European diplomatic attention. Zelenskyy simultaneously sought to revive talks by maintaining contact with Western allies and pushing for a resumption of diplomatic engagement.",
-      "context": "Russia's drone attack while peace talks are paused reflects a deliberate exploitation of the Iran war's diplomatic distraction effect: with US attention on Tehran and European capitals managing energy crises and Iran Board mechanisms, the political cost to Russia of continuing military operations in Ukraine has temporarily decreased. The simultaneous Ukrainian effort to revive talks — by maintaining Western diplomatic engagement — reflects Kyiv's recognition that the Iran war has structurally reduced its diplomatic leverage and accelerated the urgency of securing a ceasefire framework before the window further closes.",
-      "timeline": [
-        {"type": "background", "date": "2022-02-24", "label": "Russia launches full-scale Ukraine invasion; US and European support becomes Ukraine's primary security lifeline."},
-        {"type": "escalation", "date": "2026-03-19", "label": "Kremlin announces Ukraine peace talks paused as Iran war diverts US and European attention and diplomatic resources."},
-        {"type": "event", "date": "2026-03-27", "label": "Russia launches major drone attack on Ukraine; peace talks remain paused; Zelenskyy pursues diplomatic avenues to revive ceasefire process."},
-        {"type": "consequence", "date": "2026-03-27", "label": "Ukraine faces compounding challenges: EU loan blocked by Hungary, peace talks paused, US military attention on Iran, and sustained Russian offensive pressure."}
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "Russia Drone Attack on Ukraine", "definition": "A major Russian unmanned aerial vehicle strike on Ukrainian territory occurring while US-Ukraine peace diplomacy is stalled by Iran war preoccupation."},
-        {"term": "Ukraine Peace Talk Pause", "definition": "The Kremlin's formal suspension of Ukraine ceasefire negotiations, announced March 19 and maintained through March 27, exploiting the diplomatic distraction of the Iran war."},
-        {"term": "Ukraine Diplomatic Leverage Erosion", "definition": "The reduction in Kyiv's ability to maintain Western focus and support as the Iran war competes for US and European political attention, funding, and strategic bandwidth."}
+        {
+          "term": "Shahed drones",
+          "definition": "Iranian-designed one-way attack drones widely used by Russia against Ukrainian infrastructure."
+        },
+        {
+          "term": "Ukraine peace talks",
+          "definition": "Stalled diplomatic negotiations aimed at ending the Russia-Ukraine war, sidelined by the Iran crisis."
+        },
+        {
+          "term": "Volodymyr Zelenskiy",
+          "definition": "Ukrainian president seeking to revive peace negotiations amid the diversion of global diplomatic attention."
+        }
       ],
       "link": "https://www.reuters.com/world/europe/ukraine-peace-talks-paused-amid-iran-war-2026-03-27/"
+    },
+    {
+      "headline": "Russia Declares Emergency in Dagestan Capital as Floods Leave 327,000 Without Power",
+      "description": "Russian authorities declared a state of emergency in Makhachkala, the capital of the Republic of Dagestan, after severe flooding cut electricity to over 327,000 residents. The disaster has strained regional emergency services.",
+      "context": "Dagestan, a predominantly Muslim region in Russia's North Caucasus, has long faced infrastructure challenges. The flooding highlights systemic vulnerabilities in Russia's regional emergency management, compounded by resource diversion toward its military campaign in Ukraine.",
+      "timeline": [
+        {
+          "date": "2026-03-25",
+          "label": "Heavy rainfall triggers flooding across Dagestan",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Power outages affect over 327,000 people in Makhachkala",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "Russia formally declares state of emergency in Dagestan's capital",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "world",
+      "region": "Russia / Caucasus",
+      "key_terms": [
+        {
+          "term": "Dagestan",
+          "definition": "A federal subject of Russia located in the North Caucasus, bordering the Caspian Sea."
+        },
+        {
+          "term": "Makhachkala",
+          "definition": "The capital city of Dagestan, affected by the flooding emergency."
+        },
+        {
+          "term": "State of emergency",
+          "definition": "A formal governmental declaration activating special disaster response powers and federal resource allocation."
+        }
+      ],
+      "link": "https://www.reuters.com/business/environment/russia-declares-emergency-dagestans-capital-floods-cut-power-more-than-327000-2026-03-28/"
+    },
+    {
+      "headline": "Manila and Beijing Resume Talks on South China Sea and Energy Security",
+      "description": "The Philippines and China resumed bilateral consultations covering territorial disputes in the South China Sea alongside cooperation on energy security, reflecting cautious diplomatic re-engagement between the two nations.",
+      "context": "The talks come against a backdrop of heightened global energy anxiety caused by the Iran conflict. For the Philippines, maintaining dialogue with China is a delicate balancing act given its treaty obligations with the United States, while Beijing sees the talks as an opportunity to stabilise its southern maritime periphery.",
+      "timeline": [
+        {
+          "date": "2023-01-01",
+          "label": "South China Sea tensions escalate over disputed reefs and fishing rights",
+          "type": "background"
+        },
+        {
+          "date": "2025-06-01",
+          "label": "Philippines-China talks break down over Scarborough Shoal incidents",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "Manila and Beijing resume bilateral talks on sea disputes and energy",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Southeast Asia",
+      "key_terms": [
+        {
+          "term": "South China Sea",
+          "definition": "A strategically vital body of water claimed in large part by China, contested by the Philippines, Vietnam, and others."
+        },
+        {
+          "term": "UNCLOS",
+          "definition": "UN Convention on the Law of the Sea, the legal framework underpinning the Philippines' territorial claims."
+        },
+        {
+          "term": "Energy security",
+          "definition": "The assurance of reliable and affordable access to energy resources, a key concern amid global supply disruptions."
+        }
+      ],
+      "link": "https://www.usnews.com/news/world/articles/2026-03-28/manila-beijing-resume-talks-on-south-china-sea-energy-security"
+    },
+    {
+      "headline": "Israeli Airstrike in Southern Lebanon Kills 3 Journalists Covering the War",
+      "description": "An Israeli airstrike in southern Lebanon killed three journalists who were covering the ongoing regional conflict, drawing sharp international condemnation over press freedom and the safety of war correspondents.",
+      "context": "The killing of journalists in conflict zones has increasingly drawn scrutiny of Israeli military operations. The incident adds to international pressure on Israel regarding proportionality and the protection of civilians and non-combatants under international humanitarian law.",
+      "timeline": [
+        {
+          "date": "2024-10-01",
+          "label": "Israel launches ground operations in southern Lebanon targeting Hezbollah",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Iran war begins, intensifying regional military activity including in Lebanon",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "Israeli airstrike kills three journalists in southern Lebanon",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Middle East / Levant",
+      "key_terms": [
+        {
+          "term": "Press freedom",
+          "definition": "The right of journalists to report freely without fear of violence or persecution."
+        },
+        {
+          "term": "International Humanitarian Law",
+          "definition": "Legal framework governing conduct in armed conflict, including protections for civilians and journalists."
+        },
+        {
+          "term": "CPJ",
+          "definition": "Committee to Protect Journalists, a watchdog organisation tracking journalist casualties in conflict zones."
+        }
+      ],
+      "link": "https://www.usnews.com/news/world/articles/2026-03-28/israeli-airstrike-in-southern-lebanon-kills-3-journalists-covering-the-war"
+    },
+    {
+      "headline": "US Troops Injured in Attack on Saudi Base as War Reaches One-Month Mark",
+      "description": "American military personnel were injured in an attack on a US base in Saudi Arabia as the Iran war marked its one-month anniversary. The incident demonstrates the expanding geographic risk to US forces across the region.",
+      "context": "The attack on a Saudi-based US facility underscores the vulnerability of American troops stationed throughout the Middle East. It heightens domestic US political debate over the cost and scope of the military campaign and mirrors historical patterns of proxy attacks against US bases during Middle Eastern conflicts.",
+      "timeline": [
+        {
+          "date": "2026-02-28",
+          "label": "US-Israeli strikes on Iran begin",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-10",
+          "label": "Iran-backed groups begin targeting US regional bases",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "US troops injured in attack on Saudi base at one-month mark",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "CENTCOM",
+          "definition": "US Central Command, overseeing American military operations across the Middle East and Central Asia."
+        },
+        {
+          "term": "Proxy attack",
+          "definition": "A strike carried out by Iran-aligned militant groups on US interests rather than by Iranian forces directly."
+        },
+        {
+          "term": "Saudi Arabia",
+          "definition": "Gulf state hosting significant US military infrastructure and a key partner in regional security."
+        }
+      ],
+      "link": "https://www.npr.org/2026/03/28/nx-s1-5764720/iran-war-one-month"
+    },
+    {
+      "headline": "Oil Prices Rise and Record Weekly Gains as Hormuz Ceasefire Scepticism Grows",
+      "description": "Global oil prices climbed and registered their strongest weekly gains in months as markets grew increasingly doubtful that a ceasefire in the Iran conflict would be reached soon, keeping the Strait of Hormuz under sustained threat.",
+      "context": "Energy markets are acutely sensitive to any disruption in Hormuz transit. Sustained price rises risk triggering inflationary spirals across import-dependent economies, with central banks in Europe, Asia, and North America forced to re-evaluate monetary policy in response.",
+      "timeline": [
+        {
+          "date": "2026-02-28",
+          "label": "Iran war begins, Hormuz transit threatened",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-15",
+          "label": "Oil prices begin sustained upward trajectory",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "Oil records weekly gains; ceasefire prospects dim",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "Brent crude",
+          "definition": "The international benchmark for oil pricing, used to set prices for two-thirds of global oil supplies."
+        },
+        {
+          "term": "OPEC+",
+          "definition": "A coalition of major oil-producing nations that coordinates production levels to influence global prices."
+        },
+        {
+          "term": "Stagflation",
+          "definition": "An economic condition combining stagnant growth with high inflation, a risk elevated by sustained oil price increases."
+        }
+      ],
+      "link": "https://apnews.com/article/iran-us-israel-war-attrition-analysis-5d7e50c3a6da57414bbf4a5e255e4a7e"
+    },
+    {
+      "headline": "UN Shipping Agency Urges Safe Corridors for Seafarers Amid Hormuz Threats",
+      "description": "The International Maritime Organization called on all parties to the Iran conflict to establish and respect safe maritime corridors for commercial shipping through the Strait of Hormuz, citing the safety of tens of thousands of seafarers at risk.",
+      "context": "The IMO warning reflects the humanitarian dimension of the Hormuz crisis beyond economic impacts. Merchant mariners face direct personal danger as military operations and Iranian interdictions create unpredictable conditions across one of the world's most critical shipping lanes.",
+      "timeline": [
+        {
+          "date": "2026-02-28",
+          "label": "Iran begins restricting and threatening Hormuz transit",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-20",
+          "label": "Multiple commercial vessels report harassment by Iranian forces",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-28",
+          "label": "IMO formally calls for safe corridors for seafarers",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 3,
+      "category": "world",
+      "region": "Middle East / Global Maritime",
+      "key_terms": [
+        {
+          "term": "IMO",
+          "definition": "International Maritime Organization, the UN agency responsible for regulating international shipping safety and security."
+        },
+        {
+          "term": "Safe corridor",
+          "definition": "A designated maritime route where all parties agree to refrain from hostile action to protect civilian vessels."
+        },
+        {
+          "term": "Freedom of navigation",
+          "definition": "The internationally recognised right of all vessels to pass through international straits without hindrance."
+        }
+      ],
+      "link": "https://www.reuters.com/world/un-shipping-imo-hormuz-2026-03-27/"
     }
   ],
   "national": [
     {
-      "headline": "India Semiconductor Mission 2.0 Launched with ₹40,000 Crore Outlay for Domestic Ecosystem",
-      "description": "India launched Semiconductor Mission 2.0 with a dedicated ₹40,000 crore (approximately $4.8 billion) government outlay to build a self-sufficient domestic semiconductor ecosystem. The initiative encompasses design, fabrication, advanced packaging, and semiconductor-grade material production. Simultaneously, the Centre approved 10 major semiconductor projects across six Indian states representing ₹1.6 lakh crore in total investment, and the Production-Linked Incentive scheme for mobile manufacturing hit a record ₹5.45 lakh crore in production output, generating 25 lakh jobs and positioning India as a global electronics manufacturing hub.",
-      "context": "India's Semiconductor Mission 2.0 is a strategic response to two converging imperatives: the global semiconductor supply chain fragmentation following COVID-19 and the US-China tech decoupling, and India's own dependence on imported chips for its booming electronics and smartphone manufacturing sectors. With the PLI scheme delivering record mobile manufacturing output and the electronics sector now generating 25 lakh jobs, the government is moving from assembly-oriented manufacturing toward higher-value semiconductor design and fabrication — a transition that typically takes decades but which India is attempting to compress through large-scale public investment and strategic FDI attraction.",
+      "headline": "India Launches Semiconductor Mission 2.0 with ₹40,000 Crore Outlay",
+      "description": "The Indian government launched the second phase of its Semiconductor Mission with a dedicated outlay of ₹40,000 crore, aimed at building a comprehensive domestic semiconductor ecosystem encompassing design, fabrication, and packaging.",
+      "context": "India's semiconductor ambitions are driven by lessons from global chip shortages and the strategic imperative to reduce dependence on foreign suppliers. The initiative is part of a broader Make in India industrial policy push, with the global Iran-driven supply chain crisis adding urgency to the programme.",
       "timeline": [
-        {"type": "background", "date": "2021-12-15", "label": "India launches India Semiconductor Mission 1.0 with initial ₹76,000 crore incentive framework for semiconductor fabrication, display, and design."},
-        {"type": "escalation", "date": "2024-02-29", "label": "Cabinet approves first three semiconductor projects: Tata Electronics fab in Gujarat, CG Power ATMP in Gujarat, and Kaynes ATMP in Sanand."},
-        {"type": "event", "date": "2026-03-27", "label": "India Semiconductor Mission 2.0 launched with ₹40,000 crore outlay; 10 projects approved across six states with ₹1.6 lakh crore investment; PLI mobile output hits ₹5.45 lakh crore."},
-        {"type": "consequence", "date": "2026-12-31", "label": "Electronics sector targets 25 lakh jobs sustained and expanded; customs duty reductions on lithium-ion cell manufacturing accelerate battery supply chain development alongside semiconductor buildout."}
+        {
+          "date": "2021-12-15",
+          "label": "India Semiconductor Mission Phase 1 announced with ₹76,000 crore incentive scheme",
+          "type": "background"
+        },
+        {
+          "date": "2025-06-01",
+          "label": "First semiconductor fab groundbreaking in Gujarat by Tata and PSMC",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "India Semiconductor Mission 2.0 launched with ₹40,000 crore outlay",
+          "type": "event"
+        }
       ],
       "importance_score": 5,
       "category": "national",
       "region": "India",
-      "country": "India",
       "key_terms": [
-        {"term": "India Semiconductor Mission 2.0", "definition": "The second phase of India's government-led initiative to build domestic semiconductor design, fabrication, and packaging capacity, backed by ₹40,000 crore in public outlay."},
-        {"term": "PLI (Production-Linked Incentive) Scheme", "definition": "India's demand-side manufacturing incentive mechanism that has driven mobile electronics output to a record ₹5.45 lakh crore and generated 25 lakh direct jobs."},
-        {"term": "Advanced Technology Miniaturized Packaging (ATMP)", "definition": "Semiconductor packaging and testing capability — the first segment of the chip supply chain India is developing domestically, prior to full fab capability."},
-        {"term": "Lithium-Ion Cell Customs Duty Reduction", "definition": "A strategic trade measure reducing import duties on lithium-ion cell manufacturing inputs, aimed at accelerating India's battery supply chain alongside semiconductor development."},
-        {"term": "Atmanirbharta (Self-Reliance)", "definition": "India's governing economic philosophy of building domestic production capability across strategic sectors, applied here to the semiconductor and electronics manufacturing ecosystem."}
+        {
+          "term": "India Semiconductor Mission",
+          "definition": "A government initiative to develop a domestic semiconductor industry from design to fabrication."
+        },
+        {
+          "term": "PLI Scheme",
+          "definition": "Production-Linked Incentive scheme offering financial rewards to manufacturers achieving output targets."
+        },
+        {
+          "term": "Fabless design",
+          "definition": "Semiconductor design without on-site fabrication, an early-stage strength India is building upon."
+        },
+        {
+          "term": "Ministry of Electronics and IT (MeitY)",
+          "definition": "The Indian government ministry overseeing the semiconductor and electronics manufacturing ecosystem."
+        }
       ],
       "link": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026315825201.pdf"
     },
     {
-      "headline": "Government Achieves Fiscal Deficit of 4.8% for FY26; Sets Ambitious 4.4% Target for FY27",
-      "description": "India's government reported achieving a fiscal deficit of 4.8% of GDP for FY2025-26 — in line with the revised budget target — and set an ambitious 4.4% fiscal deficit target for FY2026-27. The Economic Survey 2025-26 described India's growth rates as 'the envy of the world,' backed by healthy banking credit intermediation, ample foreign reserves, a comfortable current account balance, and credit rating upgrades from S&P and R&I reflecting macroeconomic fundamentals. The government implemented household tax breaks to stimulate domestic consumption and maintained RBI fund flows to the commercial sector.",
-      "context": "India's fiscal consolidation — returning toward the 4% medium-term target after pandemic-era expansion — is a significant macroeconomic achievement in a year of global energy price shocks and geopolitical uncertainty. The combination of fiscal discipline, foreign reserve adequacy, credit rating upgrades, and resilient private consumption creates a structural buffer against the Iran war's inflationary and energy supply shock. India's favorable macro position relative to peer emerging markets — evidenced by both S&P and R&I credit upgrades — provides the government with policy space to respond to external shocks without triggering a confidence crisis.",
+      "headline": "India Approves 10 Major Semiconductor Projects Across Six States with ₹1.6 Lakh Crore Investment",
+      "description": "The Union Cabinet approved ten large-scale semiconductor manufacturing projects spanning six Indian states, representing a combined investment of ₹1.6 lakh crore and signalling a decisive push toward domestic chip production.",
+      "context": "The geographic spread of projects across six states reflects the government's strategy to build a distributed semiconductor ecosystem, reducing concentration risk while generating employment across multiple industrial corridors. The scale of investment makes this one of India's largest coordinated industrial programmes.",
       "timeline": [
-        {"type": "background", "date": "2020-04-01", "label": "COVID-19 pandemic forces India's fiscal deficit to expand to 9.2% of GDP; consolidation path charted through Union Budgets 2021–2025."},
-        {"type": "escalation", "date": "2026-02-01", "label": "Union Budget FY27 targets 4.4% fiscal deficit; household tax breaks announced; MSME credit reform, infrastructure investment, and semiconductor mission funded."},
-        {"type": "event", "date": "2026-03-27", "label": "Government confirms FY26 fiscal deficit achieved at 4.8% of GDP; credit rating upgrades from S&P and R&I confirmed; Economic Survey highlights India's structural macro resilience."},
-        {"type": "consequence", "date": "2026-04-01", "label": "FY27 consolidation path toward 4.4% begins; government maintains policy space for energy security spending and semiconductor mission investment amid Iran war economic pressures."}
+        {
+          "date": "2022-01-01",
+          "label": "India opens semiconductor fab incentive applications",
+          "type": "background"
+        },
+        {
+          "date": "2025-03-01",
+          "label": "First batch of semiconductor projects receive Cabinet approval",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "10 major projects approved across six states with ₹1.6 lakh crore investment",
+          "type": "event"
+        }
+      ],
+      "importance_score": 5,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Union Cabinet",
+          "definition": "India's principal executive decision-making body comprising the Prime Minister and senior ministers."
+        },
+        {
+          "term": "Semiconductor fab",
+          "definition": "A semiconductor fabrication plant producing integrated circuits on silicon wafers."
+        },
+        {
+          "term": "Industrial corridor",
+          "definition": "A designated zone with infrastructure and incentives to attract large-scale manufacturing investment."
+        }
+      ],
+      "link": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026315825201.pdf"
+    },
+    {
+      "headline": "PLI Scheme for Mobile Manufacturing Hits Record ₹5.45 Lakh Crore Output",
+      "description": "India's Production-Linked Incentive scheme for mobile phone manufacturing achieved a record output of ₹5.45 lakh crore, establishing India as a leading global hub for smartphone production and export.",
+      "context": "The PLI scheme's success in mobile manufacturing has transformed India's position in global electronics supply chains. Major manufacturers including Apple's supply chain partners have significantly expanded Indian operations, reducing dependence on China and creating hundreds of thousands of jobs.",
+      "timeline": [
+        {
+          "date": "2020-08-01",
+          "label": "PLI scheme for mobile manufacturing launched",
+          "type": "background"
+        },
+        {
+          "date": "2023-01-01",
+          "label": "India becomes second-largest mobile phone manufacturer globally",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "PLI mobile output reaches record ₹5.45 lakh crore",
+          "type": "event"
+        }
       ],
       "importance_score": 4,
       "category": "national",
       "region": "India",
-      "country": "India",
       "key_terms": [
-        {"term": "Fiscal Deficit Target", "definition": "India's government commitment to limit fiscal deficit to 4.4% of GDP in FY27, continuing the post-pandemic consolidation path toward the 4% medium-term target."},
-        {"term": "Economic Survey 2025-26", "definition": "The Ministry of Finance's annual assessment of India's economic performance, characterizing India's growth as exceptional and affirming structural macro resilience."},
-        {"term": "S&P and R&I Credit Upgrades", "definition": "Sovereign credit rating improvements from S&P Global Ratings and Japan's Rating and Investment Information Inc., reflecting India's robust macroeconomic fundamentals."},
-        {"term": "Household Tax Breaks", "definition": "Income tax relief measures implemented to stimulate domestic private consumption and offset global headwinds from energy price inflation."},
-        {"term": "RBI Commercial Sector Fund Flow", "definition": "The Reserve Bank of India's maintenance of adequate credit availability to the commercial sector despite global policy uncertainties, supporting economic growth momentum."}
+        {
+          "term": "PLI Scheme",
+          "definition": "Production-Linked Incentive scheme providing financial incentives to manufacturers hitting production milestones."
+        },
+        {
+          "term": "Mobile manufacturing hub",
+          "definition": "India's status as a globally significant location for smartphone assembly and export."
+        },
+        {
+          "term": "China+1 strategy",
+          "definition": "A corporate supply chain diversification approach encouraging production outside China, benefiting India."
+        }
+      ],
+      "link": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026315825201.pdf"
+    },
+    {
+      "headline": "India Achieves Fiscal Deficit of 4.8% for FY26; Sets 4.4% Target for FY27",
+      "description": "The Indian government achieved a fiscal deficit of 4.8% of GDP for the financial year 2025–26, meeting its revised target, while setting an ambitious consolidation goal of 4.4% for FY27 amid global economic headwinds.",
+      "context": "Fiscal consolidation is central to India's macroeconomic credibility and its ability to maintain sovereign credit ratings. Achieving the FY26 target despite global inflationary pressures from the Iran conflict and sluggish external demand demonstrates resilient public financial management.",
+      "timeline": [
+        {
+          "date": "2025-02-01",
+          "label": "Union Budget FY26 sets fiscal deficit target at 4.9%, later revised to 4.8%",
+          "type": "background"
+        },
+        {
+          "date": "2025-12-01",
+          "label": "Mid-year review confirms India on track for deficit target",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Government confirms 4.8% fiscal deficit for FY26; announces 4.4% FY27 target",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Fiscal deficit",
+          "definition": "The gap between government expenditure and revenue, expressed as a percentage of GDP."
+        },
+        {
+          "term": "FRBM Act",
+          "definition": "Fiscal Responsibility and Budget Management Act, India's legal framework mandating deficit reduction."
+        },
+        {
+          "term": "GDP",
+          "definition": "Gross Domestic Product, the total monetary value of goods and services produced in an economy."
+        }
       ],
       "link": "https://www.indiabudget.gov.in/economicsurvey/doc/echapter.pdf"
     },
     {
-      "headline": "CBUAE Gold Reserves Surge 13.6% to Record AED 43 Billion in Strategic Diversification",
-      "description": "The Central Bank of the UAE (CBUAE) reported that its gold reserves surged 13.6% in January 2026 to a new record of AED 43.051 billion — equivalent to approximately $11.72 billion — up from AED 37.902 billion at end-December 2025. On an annual basis, UAE gold reserves increased by more than 75% year-on-year, rising by approximately AED 18.48 billion from AED 24.571 billion at end-January 2025. The monthly bulletin also confirmed that UAE gross banking sector assets reached AED 5.41 trillion (up 1.4%), resident deposits reached AED 3.04 trillion, bank investments hit AED 872 billion (up 31% annually), and the UAE Funds Transfer System processed AED 2.08 trillion in a single month. The Central Bank's foreign assets exceeded AED 1.084 trillion.",
-      "context": "The CBUAE's record gold accumulation — a 75% annual increase — reflects a deliberate strategic reserve diversification away from US dollar-denominated assets, aligned with the global central bank gold-buying trend documented by the World Gold Council (863 tonnes purchased globally in 2025). The timing is particularly significant: with the UAE under active Iranian military threat, accumulating gold reserves builds a more resilient financial buffer against geopolitical shock, currency pressure, and potential sanctions risk. The simultaneous 31% growth in bank investments and AED 5.41 trillion in gross banking assets demonstrates that the UAE's financial sector is growing robustly despite the regional conflict.",
+      "headline": "Electronics Sector Generates 25 Lakh Jobs as India Becomes Global Manufacturing Hub",
+      "description": "India's electronics manufacturing sector has created 25 lakh (2.5 million) new jobs, cementing the country's position as a major global hub for electronics production driven by government incentive schemes and foreign investment.",
+      "context": "The employment milestone validates India's industrial strategy of using PLI and semiconductor incentives to attract global manufacturers. The job creation has significant socioeconomic implications, particularly for semi-skilled workers and for reducing India's trade deficit in electronics.",
       "timeline": [
-        {"type": "background", "date": "2024-01-01", "label": "CBUAE begins accelerated gold reserve accumulation; reserves stand at AED 24.571 billion at end-January 2025, reflecting a multi-year strategic diversification program."},
-        {"type": "escalation", "date": "2025-12-31", "label": "CBUAE gold reserves reach AED 37.902 billion by end-2025 — a 64.93% increase over the year — as geopolitical risk accumulation accelerates gold purchases globally."},
-        {"type": "event", "date": "2026-03-27", "label": "CBUAE monthly bulletin confirms January 2026 gold reserves at record AED 43.051 billion (+13.6% monthly, +75% annual); banking assets at AED 5.41 trillion; foreign assets exceed AED 1.084 trillion."},
-        {"type": "consequence", "date": "2026-03-27", "label": "UAE financial system demonstrates resilience amid active Iranian military strikes; investor confidence maintained; gold-backed reserve adequacy provides buffer against geopolitical shock."}
+        {
+          "date": "2020-01-01",
+          "label": "India launches National Policy on Electronics and PLI schemes",
+          "type": "background"
+        },
+        {
+          "date": "2023-06-01",
+          "label": "Electronics exports surpass $20 billion annually",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Electronics sector reaches 25 lakh jobs milestone",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Electronics manufacturing",
+          "definition": "Production of consumer and industrial electronic devices, a key growth sector in India's industrial policy."
+        },
+        {
+          "term": "MeitY",
+          "definition": "Ministry of Electronics and Information Technology, overseeing India's digital and hardware manufacturing growth."
+        },
+        {
+          "term": "FDI",
+          "definition": "Foreign Direct Investment, capital invested by overseas companies in Indian manufacturing facilities."
+        }
+      ],
+      "link": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026315825201.pdf"
+    },
+    {
+      "headline": "Prime Minister Modi Reassures Parliament on Domestic Energy Security Amid West Asia Conflict",
+      "description": "Prime Minister Narendra Modi addressed the Rajya Sabha to reassure lawmakers that India's energy security is protected despite ongoing disruptions from the US-Iran war, citing strategic petroleum reserves and diversified supply agreements.",
+      "context": "India is among the world's most import-dependent large economies for crude oil, making Hormuz disruptions a direct national security concern. Modi's statement is designed to prevent domestic fuel panic while signalling diplomatic neutrality in the Iran conflict.",
+      "timeline": [
+        {
+          "date": "2026-02-28",
+          "label": "Iran war begins, threatening Hormuz transit and global oil supply",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-15",
+          "label": "Domestic fuel price pressures mount as global oil prices rise",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "PM Modi reassures Rajya Sabha on India's energy security",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Strategic Petroleum Reserve (SPR)",
+          "definition": "Government-maintained oil stockpiles used to buffer domestic supply during international disruptions."
+        },
+        {
+          "term": "Rajya Sabha",
+          "definition": "The upper house of India's Parliament."
+        },
+        {
+          "term": "Energy security",
+          "definition": "A nation's ability to maintain reliable, affordable access to energy regardless of external disruptions."
+        },
+        {
+          "term": "Narendra Modi",
+          "definition": "Prime Minister of India since 2014, leading the BJP-led National Democratic Alliance government."
+        }
+      ],
+      "link": "https://www.pib.gov.in/AllRelease.aspx?PMO=1&MenuId=287&reg=6&lang=1"
+    },
+    {
+      "headline": "Supreme Court Reinforces Right to Privacy in New Ruling on Digital Data Interception",
+      "description": "India's Supreme Court issued a landmark ruling reinforcing the constitutional right to privacy in the context of digital data interception, placing new restrictions on government surveillance powers over electronic communications.",
+      "context": "The ruling builds on the landmark 2017 Puttaswamy judgment that established privacy as a fundamental right. The new decision addresses the digital surveillance dimension, with significant implications for how law enforcement agencies conduct interception of data under the Information Technology Act and the Telegraph Act.",
+      "timeline": [
+        {
+          "date": "2017-08-24",
+          "label": "Supreme Court's Puttaswamy judgment establishes privacy as fundamental right",
+          "type": "background"
+        },
+        {
+          "date": "2023-08-11",
+          "label": "Digital Personal Data Protection Act enacted, codifying privacy rights",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Supreme Court reinforces privacy rights in digital data interception ruling",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "Right to Privacy",
+          "definition": "A fundamental right under Article 21 of the Indian Constitution, established by the Puttaswamy judgment."
+        },
+        {
+          "term": "Digital Personal Data Protection Act",
+          "definition": "India's 2023 law governing collection, storage, and processing of personal data."
+        },
+        {
+          "term": "Data interception",
+          "definition": "The monitoring or capture of digital communications by government or law enforcement agencies."
+        },
+        {
+          "term": "IT Act",
+          "definition": "Information Technology Act 2000, India's primary legislation governing cyber activities and surveillance."
+        }
+      ],
+      "link": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026315825201.pdf"
+    },
+    {
+      "headline": "National River-Linking Project Receives Regulatory Clearance for Bundelkhand Phase",
+      "description": "India's ambitious National River-Linking Project received formal regulatory clearance for its Bundelkhand phase, which aims to transfer water from water-surplus rivers to drought-prone regions of Uttar Pradesh and Madhya Pradesh.",
+      "context": "The Bundelkhand region has suffered chronic water scarcity and agricultural distress for decades. The clearance marks a significant step in one of India's most ambitious and contentious infrastructure projects, with implications for irrigation, drinking water access, and inter-state water politics.",
+      "timeline": [
+        {
+          "date": "2002-01-01",
+          "label": "National River Linking Project formally conceptualised by NDA government",
+          "type": "background"
+        },
+        {
+          "date": "2017-02-27",
+          "label": "Ken-Betwa link, covering parts of Bundelkhand, approved by Supreme Court",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Regulatory clearance granted for Bundelkhand phase of river-linking project",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "national",
+      "region": "India",
+      "key_terms": [
+        {
+          "term": "National River-Linking Project",
+          "definition": "An Indian government initiative to connect major river systems to redistribute water from surplus to deficit regions."
+        },
+        {
+          "term": "Bundelkhand",
+          "definition": "A drought-prone plateau region spanning parts of Uttar Pradesh and Madhya Pradesh."
+        },
+        {
+          "term": "Ken-Betwa Link",
+          "definition": "The first inter-basin water transfer project under the river-linking initiative, covering parts of Bundelkhand."
+        },
+        {
+          "term": "Jal Shakti Ministry",
+          "definition": "India's ministry responsible for water resources, river development, and Ganga rejuvenation."
+        }
+      ],
+      "link": "https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1"
+    },
+    {
+      "headline": "UAE Intercepts Ballistic Missile Over Abu Dhabi; Debris Causes Minor Injury",
+      "description": "UAE air defence systems intercepted a ballistic missile fired over Abu Dhabi, with falling debris causing a minor injury to a civilian. The incident prompted a national security alert and highlighted the UAE's frontline exposure in the regional Iran conflict.",
+      "context": "The UAE's interception of a ballistic missile over its capital represents a significant escalation in the threat environment for Gulf states. Despite maintaining a careful diplomatic posture on the Iran war, the UAE's geography places it within range of Iranian ballistic and cruise missile systems.",
+      "timeline": [
+        {
+          "date": "2022-01-17",
+          "label": "Houthi drone and missile attack on Abu Dhabi kills three people",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Iran war begins, raising threat levels across the Gulf",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-23",
+          "label": "UAE intercepts ballistic missile over Abu Dhabi; debris injures civilian",
+          "type": "event"
+        }
       ],
       "importance_score": 4,
       "category": "national",
       "region": "United Arab Emirates",
-      "country": "United Arab Emirates",
       "key_terms": [
-        {"term": "CBUAE (Central Bank of UAE)", "definition": "The UAE's monetary authority responsible for monetary policy, financial stability, and reserve management; achieved a record AED 43.051 billion gold reserve position in January 2026."},
-        {"term": "Gold Reserve Diversification", "definition": "The strategic shift by the CBUAE away from US dollar-denominated foreign exchange reserves toward gold, aligned with a global central bank trend accelerated by geopolitical uncertainty."},
-        {"term": "UAE Funds Transfer System (UAEFTS)", "definition": "The UAE's real-time large-value interbank payment system, which processed AED 2.08 trillion in transactions in a single month — reflecting the scale of the UAE's financial hub activity."},
-        {"term": "AED 5.41 Trillion Banking Assets", "definition": "The total gross assets of the UAE banking sector as of January 2026, representing a 1.4% monthly increase and reflecting sustained domestic credit growth amid the regional conflict."},
-        {"term": "Islamic Certificates of Deposit", "definition": "Sharia-compliant CBUAE monetary instruments accounting for AED 306 billion in the central bank's balance sheet, used as an Islamic finance-compatible liquidity management tool."}
+        {
+          "term": "Patriot missile system",
+          "definition": "A US-supplied air defence system used by the UAE to intercept ballistic missiles."
+        },
+        {
+          "term": "Abu Dhabi",
+          "definition": "Capital of the United Arab Emirates and seat of its federal government."
+        },
+        {
+          "term": "Ballistic missile",
+          "definition": "A guided projectile following a high-arc trajectory, used by both Iran and its proxies in regional attacks."
+        }
       ],
-      "link": "https://www.emirates247.com/business/aed43-billion-uae-central-bank-gold-reserves-exceed-record-high/511"
+      "link": "https://www.wam.ae/en/article/174utkf-debris-from-intercepted-missile-falls-abu-dhabi"
     },
     {
-      "headline": "German Chemical Giant BASF Inaugurates Multibillion-Euro Verbund Plant in Zhanjiang",
-      "description": "BASF formally inaugurated its Zhanjiang Verbund site in southern China's Guangdong Province — a multibillion-euro integrated petrochemical complex that represents BASF's single largest investment outside Germany and one of the largest foreign direct investments in China's chemical industry. The Zhanjiang Verbund integrates production of engineering plastics, thermoplastic polyurethane, and chemical precursors in an interconnected production network, leveraging shared infrastructure and energy synergies to achieve cost and efficiency advantages.",
-      "context": "BASF's Zhanjiang inauguration is strategically significant on multiple dimensions: it confirms that Europe's largest chemical company is deepening — not retreating from — its China manufacturing commitment despite US-China decoupling pressures and European debates about China risk. The Verbund model's integration of multiple chemical production lines on a single site reflects China's position as both BASF's largest single-country market and a critical production base for the Asia-Pacific region. For China, the investment validates its attractiveness for European industrial FDI even amid geopolitical tension, reinforcing the China Development Forum's message of openness to foreign technology partnerships.",
+      "headline": "UAE Intercepts 7 Missiles and 16 Drones in Single Day; National Alert Issued",
+      "description": "UAE armed forces intercepted seven ballistic missiles and sixteen drones in a single day, prompting the issuance of a national security alert and temporarily disrupting operations at UAE airports.",
+      "context": "The scale and simultaneity of the missile and drone barrage represent the most intense single-day attack on UAE territory on record. The incident reflects Iranian or proxy efforts to raise the cost of UAE's tacit cooperation with US regional military posture.",
       "timeline": [
-        {"type": "background", "date": "2019-07-09", "label": "BASF announces the Zhanjiang Verbund site as a fully BASF-owned (non-joint-venture) greenfield chemical complex — a first for BASF in China."},
-        {"type": "escalation", "date": "2022-09-06", "label": "BASF begins construction of first production plants at Zhanjiang; European debate over China risk intensifies following Russia's Ukraine invasion."},
-        {"type": "event", "date": "2026-03-27", "label": "BASF inaugurates the Zhanjiang Verbund site; the complex represents BASF's largest single investment outside Germany and includes engineering plastics and TPU production."},
-        {"type": "consequence", "date": "2026-12-31", "label": "Full Zhanjiang Verbund capacity ramp-up proceeds; BASF deepens China integration as a counterweight to European energy-cost pressures; site positions for Asia-Pacific chemical market leadership."}
+        {
+          "date": "2026-02-28",
+          "label": "Iran war begins; regional proxy groups placed on heightened alert",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-10",
+          "label": "Initial sporadic drone incursions detected over UAE airspace",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-23",
+          "label": "UAE intercepts 7 missiles and 16 drones in single day; national alert issued",
+          "type": "event"
+        }
       ],
-      "importance_score": 4,
+      "importance_score": 5,
       "category": "national",
-      "region": "China",
-      "country": "China",
+      "region": "United Arab Emirates",
       "key_terms": [
-        {"term": "Verbund Model", "definition": "BASF's signature integrated chemical production system linking multiple plants on a single site to share energy, infrastructure, and intermediates — maximizing efficiency and reducing costs."},
-        {"term": "Zhanjiang Verbund Site", "definition": "BASF's multibillion-euro wholly-owned greenfield chemical complex in Guangdong Province, China; BASF's largest single investment outside Germany."},
-        {"term": "Engineering Plastics", "definition": "High-performance polymers used in automotive, electronics, and industrial applications; one of the primary product streams at BASF's Zhanjiang facility."},
-        {"term": "TPU (Thermoplastic Polyurethane)", "definition": "A versatile polymer with applications in footwear, cables, medical devices, and automotive components; produced at the Zhanjiang Verbund site."},
-        {"term": "European China FDI Debate", "definition": "Ongoing European policy discussion about the risks and benefits of deep industrial investment in China amid US-China tech decoupling and geopolitical tension."}
+        {
+          "term": "UAE Air Defence",
+          "definition": "The integrated missile and drone interception system protecting UAE airspace, including Patriot and THAAD batteries."
+        },
+        {
+          "term": "THAAD",
+          "definition": "Terminal High Altitude Area Defense system, a US-supplied advanced interceptor deployed in the UAE."
+        },
+        {
+          "term": "National security alert",
+          "definition": "A formal government declaration raising public awareness and activating civil defence protocols."
+        }
       ],
-      "link": "https://english.news.cn/20260326/c77533d37cea4d9490004af899d8ad44/c.html"
+      "link": "https://www.hindustantimes.com/world-news/dubai-abu-dhabi-uae-news-live-updates-airports-flight-status-missiles-drones-attack-middle-east-iran-us-war-saudi-qatar-101774229481992.html"
     }
   ],
   "science": [
     {
-      "headline": "EMA Recommends Five New Medicines for Approval, Including Adstiladrin for Bladder Cancer",
-      "description": "At its March 23–26, 2026 plenary meeting, the European Medicines Agency's Committee for Medicinal Products for Human Use (CHMP) recommended five new medicines for EU approval. Most notably: Adstiladrin (nadofaragene firadenovec), Ferring Pharmaceuticals' adenoviral vector-based gene therapy, received a conditional marketing authorisation recommendation for treating BCG-unresponsive non-muscle invasive bladder cancer with carcinoma in situ — achieving a 53.4% complete response rate with a median response duration of 9.7 months. The CHMP also recommended Imdylltra (tarlatamab) by Amgen for relapsed extensive-stage small cell lung cancer, where it reduced risk of death by 40% vs. chemotherapy (overall survival 13.6 months vs. 8.3 months). Joenja (leniolisib) received a positive opinion for the ultra-rare APDS immune disorder.",
-      "context": "Adstiladrin's EMA recommendation completes its global regulatory journey: FDA-approved in the US since December 2022, it now gains access to the 450 million-person EU market for a patient population — BCG-unresponsive NMIBC with CIS — that has historically faced a stark choice between radical cystectomy (bladder removal) and inadequate alternative therapies. The CHMP's decision brings EU patients the first adenoviral vector gene therapy for this indication. Imdylltra's positive opinion for SCLC — one of oncology's most treatment-resistant cancers — is similarly significant, offering a 40% mortality risk reduction in a population with very limited options. Both approvals reflect the CHMP's acceleration of oncology gene therapy and bispecific antibody pathways under conditional marketing authorisation.",
+      "headline": "NASA and ISRO Finalise Public Data Release Plans for NISAR Satellite to Track Global Surface Changes",
+      "description": "NASA and the Indian Space Research Organisation announced finalised plans for the public release of data from the NISAR satellite, a joint Earth observation mission designed to measure global surface changes including land subsidence, glacier movement, and forest carbon stocks.",
+      "context": "NISAR represents one of the most ambitious bilateral space collaborations ever undertaken, combining NASA's L-band radar with ISRO's S-band radar to produce the most comprehensive global surface deformation dataset in history. Open data access will benefit climate researchers, disaster managers, and urban planners worldwide.",
       "timeline": [
-        {"type": "background", "date": "2022-12-16", "label": "FDA approves Adstiladrin as the first intravesical gene therapy for BCG-unresponsive NMIBC in the United States."},
-        {"type": "escalation", "date": "2025-03-01", "label": "Ferring submits Adstiladrin EU marketing authorisation application to EMA; CHMP begins assessment under conditional authorisation pathway for unmet medical needs."},
-        {"type": "event", "date": "2026-03-26", "label": "CHMP recommends conditional EU marketing authorisation for Adstiladrin (53.4% complete response rate); also recommends Imdylltra for SCLC (40% mortality risk reduction vs. chemotherapy)."},
-        {"type": "consequence", "date": "2026-06-01", "label": "European Commission expected to grant formal marketing authorisation within 67 days; Adstiladrin enters EU market; SCLC patients gain access to Imdylltra as a new standard of care."}
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Europe",
-      "key_terms": [
-        {"term": "Adstiladrin (Nadofaragene Firadenovec)", "definition": "Ferring's adenoviral vector gene therapy delivering the IFNα2b gene to bladder cancer cells; achieves 53.4% complete response in BCG-unresponsive NMIBC — the first such EU-approved gene therapy for this indication."},
-        {"term": "BCG-Unresponsive NMIBC", "definition": "Non-muscle invasive bladder cancer that fails to respond to Bacillus Calmette-Guérin immunotherapy — the standard first-line treatment — leaving patients facing radical cystectomy."},
-        {"term": "Conditional Marketing Authorisation", "definition": "An EMA regulatory pathway granting early market access for medicines addressing unmet needs, subject to ongoing post-approval data obligations."},
-        {"term": "Imdylltra (Tarlatamab)", "definition": "Amgen's bispecific T-cell engager antibody targeting DLL3 on small cell lung cancer cells; reduces risk of death by 40% vs. chemotherapy in relapsed extensive-stage SCLC."},
-        {"term": "Joenja (Leniolisib)", "definition": "A PI3Kδ inhibitor approved under exceptional circumstances for APDS — activated phosphoinositide 3-kinase delta syndrome — an ultra-rare inherited immune deficiency affecting adults and adolescents."},
-        {"term": "CHMP (Committee for Medicinal Products for Human Use)", "definition": "EMA's primary scientific committee responsible for evaluating marketing authorisation applications for human medicines across the EU."},
-        {"term": "Intravesical Gene Therapy", "definition": "Direct instillation of gene therapy into the bladder via catheter, enabling targeted delivery of therapeutic genes to bladder cancer cells while limiting systemic exposure."}
-      ],
-      "link": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2026"
-    },
-    {
-      "headline": "Micron Rebrands as 'Silicon Backbone of AI' Following Mass Production of 1-gamma DRAM Node",
-      "description": "Micron Technology announced it had achieved mass production of its 1-gamma DRAM node — the most advanced memory node commercially produced in the world — and simultaneously rebranded its strategic identity as 'the Silicon Backbone of AI.' The 1-gamma node delivers significant improvements in density, energy efficiency, and bandwidth compared to the preceding 1-beta generation, enabling higher-capacity and faster DRAM products critical for large-scale AI training and inference infrastructure.",
-      "context": "The 1-gamma node achievement positions Micron as technologically competitive with Samsung and SK Hynix in the most advanced DRAM process node race — a critical battleground given the AI infrastructure buildout's insatiable demand for high-bandwidth memory. DRAM is the primary working memory used in AI training clusters and inference servers: the faster and denser the DRAM, the more efficient and powerful the AI compute infrastructure. Micron's 'Silicon Backbone of AI' rebranding signals an explicit pivot from a commodity memory supplier to a strategic AI infrastructure partner — a positioning directly targeting the NVIDIA, AMD, and hyperscaler GPU supply chain that has driven Samsung and SK Hynix to record valuations.",
-      "timeline": [
-        {"type": "background", "date": "2024-01-01", "label": "Micron, Samsung, and SK Hynix engage in multi-generational DRAM node competition; SK Hynix leads HBM AI memory market; Micron positions in LPDDR5X and standard DDR5."},
-        {"type": "escalation", "date": "2025-06-01", "label": "Micron achieves mass production of 1-beta DRAM node; announces 1-gamma development; Samsung commits $73 billion investment to close HBM gap with SK Hynix."},
-        {"type": "event", "date": "2026-03-26", "label": "Micron announces mass production of 1-gamma DRAM — the world's most advanced commercial DRAM node; rebrands as 'Silicon Backbone of AI.'"},
-        {"type": "consequence", "date": "2026-12-31", "label": "Micron begins sampling 1-gamma-based HBM4 products targeting NVIDIA Vera Rubin platform; competitive landscape in AI memory tightens between Micron, SK Hynix, and Samsung."}
+        {
+          "date": "2014-09-01",
+          "label": "NASA-ISRO sign agreement to develop NISAR jointly",
+          "type": "background"
+        },
+        {
+          "date": "2024-06-01",
+          "label": "NISAR satellite completes final pre-launch testing",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "NASA and ISRO finalise public data release plans for NISAR",
+          "type": "event"
+        }
       ],
       "importance_score": 4,
       "category": "science",
-      "region": "North America",
+      "region": "Global / India / United States",
       "key_terms": [
-        {"term": "1-Gamma DRAM Node", "definition": "Micron's most advanced DRAM process node, achieving mass production in March 2026 and delivering leading-edge density, energy efficiency, and bandwidth for AI memory applications."},
-        {"term": "DRAM (Dynamic Random-Access Memory)", "definition": "The primary working memory used in computing systems including AI training clusters; its density, bandwidth, and energy efficiency are critical determinants of AI compute performance."},
-        {"term": "Silicon Backbone of AI", "definition": "Micron's new strategic brand identity emphasizing its positioning as a foundational provider of memory infrastructure for AI compute systems."},
-        {"term": "HBM4 (High Bandwidth Memory 4)", "definition": "The next-generation AI memory standard for GPU-adjacent stacked memory; Micron's 1-gamma node forms the substrate for competitive HBM4 product development."},
-        {"term": "LPDDR5X", "definition": "Low-Power Double Data Rate 5X memory — the mobile and edge AI memory standard in which Micron holds a competitive position alongside its data center DRAM portfolio."}
+        {
+          "term": "NISAR",
+          "definition": "NASA-ISRO Synthetic Aperture Radar, a joint Earth observation satellite using dual-frequency radar to map surface changes."
+        },
+        {
+          "term": "Synthetic Aperture Radar (SAR)",
+          "definition": "A remote sensing technology that uses radar signals to produce high-resolution images of Earth's surface regardless of weather."
+        },
+        {
+          "term": "ISRO",
+          "definition": "Indian Space Research Organisation, India's national space agency."
+        },
+        {
+          "term": "Land subsidence",
+          "definition": "The gradual sinking or sudden downward movement of the ground surface, measurable by NISAR's radar."
+        }
       ],
-      "link": "https://investors.micron.com/news-releases/news-release-details/micron-technology-announces-fiscal-second-quarter-2026-results"
+      "link": "https://www.pib.gov.in/AllRelease.aspx?PMO=1&MenuId=287&reg=6&lang=1"
     },
     {
-      "headline": "Scientists Discover 'Overflow Valve' in Cells Directly Linked to Parkinson's Disease Progression",
-      "description": "Researchers at Purdue University and collaborating institutions published findings in Nature Cell Biology identifying a previously unknown cellular 'overflow valve' mechanism — a protein complex called the CCC complex in coordination with the Retriever complex — that regulates the disposal of cellular waste, including misfolded and toxic proteins. When this overflow valve malfunctions, toxic proteins including alpha-synuclein accumulate inside neurons and form the Lewy bodies characteristic of Parkinson's disease. The study is the first to directly link dysfunction in this specific cellular recycling pathway to Parkinson's progression.",
-      "context": "Parkinson's disease affects approximately 10 million people globally and has no disease-modifying treatments — only symptom management. The discovery of a specific, druggable molecular mechanism — the CCC-Retriever overflow valve — governing the clearance of alpha-synuclein provides a new, concrete pharmacological target for disease-modifying therapy. Unlike previous approaches focused on alpha-synuclein aggregation directly, targeting the overflow valve addresses the upstream cause of toxic protein buildup, potentially enabling earlier intervention before irreversible neuronal death. The CCC complex is also implicated in Alzheimer's pathology, meaning this discovery may have broader neurodegenerative disease implications.",
+      "headline": "MIT Physicists Discover New Strong Force Properties via 'Near-Miss' Particle Interactions at the LHC",
+      "description": "Physicists at MIT identified new properties of the strong nuclear force by studying 'near-miss' particle interactions at the Large Hadron Collider, providing fresh insights into how quarks and gluons behave at extreme energies.",
+      "context": "The strong force is one of the four fundamental forces of nature, binding quarks together inside protons and neutrons. Understanding its properties with greater precision has implications for particle physics beyond the Standard Model and for the development of quantum chromodynamics theory.",
       "timeline": [
-        {"type": "background", "date": "1997-01-01", "label": "Alpha-synuclein identified as the primary protein constituent of Lewy bodies in Parkinson's disease, establishing the protein aggregation hypothesis for disease pathology."},
-        {"type": "escalation", "date": "2023-01-01", "label": "Research identifies the CCC complex's role in endosomal sorting and protein trafficking; connection to neurodegenerative disease suspected but not confirmed."},
-        {"type": "event", "date": "2026-03-26", "label": "Purdue-led study published in Nature Cell Biology: CCC-Retriever complex identified as the cellular 'overflow valve' whose dysfunction causes alpha-synuclein accumulation and Lewy body formation."},
-        {"type": "consequence", "date": "2026-03-26", "label": "CCC complex established as a new pharmacological target for Parkinson's disease-modifying therapy; pharmaceutical research community begins assessment of CCC activator drug development pathways."}
+        {
+          "date": "2008-09-10",
+          "label": "Large Hadron Collider at CERN begins operations",
+          "type": "background"
+        },
+        {
+          "date": "2012-07-04",
+          "label": "Higgs boson discovered at LHC, confirming the Standard Model",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-26",
+          "label": "MIT physicists announce discovery of new strong force properties via near-miss interactions",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "Global / United States / Europe",
+      "key_terms": [
+        {
+          "term": "Strong nuclear force",
+          "definition": "The fundamental force that binds quarks together inside protons and neutrons, mediated by gluons."
+        },
+        {
+          "term": "Large Hadron Collider (LHC)",
+          "definition": "The world's largest particle accelerator, operated by CERN near Geneva."
+        },
+        {
+          "term": "Quantum chromodynamics (QCD)",
+          "definition": "The theoretical framework describing the strong force and the interactions between quarks and gluons."
+        },
+        {
+          "term": "Near-miss interaction",
+          "definition": "A particle collision in which particles pass very close without directly colliding, enabling precise measurements of force properties."
+        }
+      ],
+      "link": "https://news.mit.edu"
+    },
+    {
+      "headline": "Nvidia CEO Claims AGI Achievement While Unveiling Vera Rubin Architecture and IGX Thor Platform",
+      "description": "Nvidia CEO Jensen Huang declared that artificial general intelligence has been achieved while unveiling the company's next-generation Vera Rubin GPU architecture and the IGX Thor industrial AI computing platform, pushing the boundaries of AI hardware capability.",
+      "context": "Huang's AGI claim is highly significant and contested, as definitions of AGI vary widely across the AI research community. The hardware announcements reinforce Nvidia's dominant position in AI infrastructure, with Vera Rubin designed to succeed the Blackwell architecture for the most demanding AI training workloads.",
+      "timeline": [
+        {
+          "date": "2022-11-30",
+          "label": "ChatGPT launches, triggering global AI boom and massive Nvidia GPU demand",
+          "type": "background"
+        },
+        {
+          "date": "2024-03-01",
+          "label": "Nvidia unveils Blackwell architecture, cementing AI chip leadership",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Nvidia unveils Vera Rubin architecture and IGX Thor; CEO claims AGI achieved",
+          "type": "event"
+        }
       ],
       "importance_score": 5,
       "category": "science",
-      "region": "North America",
+      "region": "United States / Global",
       "key_terms": [
-        {"term": "CCC-Retriever Complex", "definition": "A protein complex serving as a cellular 'overflow valve' for waste disposal; its malfunction causes toxic alpha-synuclein accumulation and Lewy body formation in Parkinson's disease neurons."},
-        {"term": "Alpha-Synuclein", "definition": "The primary protein whose misfolding and aggregation into Lewy bodies drives neuronal death in Parkinson's disease; its clearance is regulated by the CCC-Retriever overflow valve."},
-        {"term": "Lewy Bodies", "definition": "Abnormal protein aggregates found inside neurons of Parkinson's disease patients; composed primarily of misfolded alpha-synuclein and the pathological hallmark of Parkinson's."},
-        {"term": "Disease-Modifying Therapy", "definition": "A treatment that slows, halts, or reverses disease progression rather than merely managing symptoms; currently absent from Parkinson's disease treatment despite decades of research."},
-        {"term": "Endosomal Sorting", "definition": "The cellular process by which proteins are directed to either recycling pathways or degradation; the CCC-Retriever complex governs this routing for alpha-synuclein and other waste proteins."},
-        {"term": "CCC Complex (Commd/CCDC22/CCDC93)", "definition": "The molecular machine identified by the Purdue team as the overflow valve component whose activation could prevent toxic protein accumulation in Parkinson's and potentially Alzheimer's disease."}
+        {
+          "term": "AGI (Artificial General Intelligence)",
+          "definition": "A theoretical form of AI capable of performing any intellectual task that a human can, across all domains."
+        },
+        {
+          "term": "Vera Rubin architecture",
+          "definition": "Nvidia's next-generation GPU architecture succeeding Blackwell, optimised for advanced AI training and inference."
+        },
+        {
+          "term": "IGX Thor",
+          "definition": "Nvidia's industrial AI computing platform designed for robotics, edge computing, and agentic AI workloads."
+        },
+        {
+          "term": "Jensen Huang",
+          "definition": "Co-founder and CEO of Nvidia, the world's leading AI chip manufacturer."
+        }
       ],
-      "link": "https://www.sciencedaily.com/releases/2026/03/260326003424.htm"
+      "link": "https://www.bloomberg.com/news/articles/2026-03-27/nvidia-jensen-huang-agi"
+    },
+    {
+      "headline": "EMA Recommends Approval of Five New Medicines Including Adstiladrin for Bladder Cancer",
+      "description": "The European Medicines Agency recommended approval of five new medicines, including Adstiladrin, a gene therapy for non-muscle-invasive bladder cancer that offers a new treatment option for patients who do not respond to standard therapies.",
+      "context": "Adstiladrin represents a significant advance in bladder cancer treatment, targeting a patient population with limited options after BCG immunotherapy failure. The EMA's batch approval reflects an accelerating pipeline of advanced therapies in oncology and rare diseases reaching the European market.",
+      "timeline": [
+        {
+          "date": "2023-01-19",
+          "label": "FDA approves Adstiladrin for bladder cancer in the United States",
+          "type": "background"
+        },
+        {
+          "date": "2025-06-01",
+          "label": "EMA begins rolling review of Adstiladrin marketing authorisation application",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-26",
+          "label": "EMA recommends approval of Adstiladrin alongside four other new medicines",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "Europe / Global",
+      "key_terms": [
+        {
+          "term": "EMA",
+          "definition": "European Medicines Agency, the EU regulatory body responsible for evaluating and approving medicines."
+        },
+        {
+          "term": "Adstiladrin",
+          "definition": "A gene therapy (nadofaragene firadenovec) for high-risk non-muscle-invasive bladder cancer unresponsive to BCG."
+        },
+        {
+          "term": "Gene therapy",
+          "definition": "A medical approach that uses genetic material to treat or prevent disease by correcting or supplementing defective genes."
+        },
+        {
+          "term": "BCG immunotherapy",
+          "definition": "Bacillus Calmette-Guérin, the standard first-line immunotherapy for non-muscle-invasive bladder cancer."
+        }
+      ],
+      "link": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2026"
+    },
+    {
+      "headline": "Researchers Identify Immune Signal Behind Mysterious Alzheimer's Drug Side Effects",
+      "description": "Scientists identified a specific immune signalling pathway responsible for ARIA (amyloid-related imaging abnormalities), a serious side effect seen in patients treated with anti-amyloid Alzheimer's therapies such as lecanemab and donanemab.",
+      "context": "ARIA has been a major obstacle to the clinical deployment of anti-amyloid drugs, causing brain swelling and microbleeds that limit dosing. Understanding the immune mechanism behind ARIA opens pathways to developing protective co-therapies that could make these treatments safer and more broadly accessible.",
+      "timeline": [
+        {
+          "date": "2023-07-06",
+          "label": "FDA approves lecanemab (Leqembi) for Alzheimer's disease",
+          "type": "background"
+        },
+        {
+          "date": "2024-07-02",
+          "label": "FDA approves donanemab (Kisunla), another anti-amyloid therapy",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Researchers identify specific immune signal behind Alzheimer's drug ARIA side effects",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "ARIA",
+          "definition": "Amyloid-Related Imaging Abnormalities; brain swelling or microbleeds seen as side effects of anti-amyloid Alzheimer's drugs."
+        },
+        {
+          "term": "Lecanemab",
+          "definition": "An anti-amyloid antibody treatment for early Alzheimer's disease approved by the FDA in 2023."
+        },
+        {
+          "term": "Amyloid plaques",
+          "definition": "Protein deposits in the brain associated with Alzheimer's disease, targeted by the new class of treatments."
+        },
+        {
+          "term": "Immune signalling pathway",
+          "definition": "A biological cascade of molecular signals through which immune cells communicate and coordinate responses."
+        }
+      ],
+      "link": "https://scitechdaily.com"
+    },
+    {
+      "headline": "Arm and Partners Unveil First Data Centre CPU Dedicated to Agentic AI",
+      "description": "Arm, in collaboration with Meta, Google, and Nvidia, unveiled the world's first data centre CPU specifically architected for agentic AI workloads, marking a new phase in AI hardware specialisation beyond general-purpose computing.",
+      "context": "Agentic AI — systems that can autonomously plan and execute multi-step tasks — requires a different computational profile from traditional language model inference. This purpose-built CPU signals that AI infrastructure is entering an era of task-specific hardware optimisation, with profound implications for data centre design and AI deployment costs.",
+      "timeline": [
+        {
+          "date": "2023-01-01",
+          "label": "Agentic AI frameworks begin emerging as major AI research focus",
+          "type": "background"
+        },
+        {
+          "date": "2025-01-01",
+          "label": "Arm announces collaboration with major tech firms on next-generation AI compute",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Arm and partners unveil first dedicated agentic AI data centre CPU",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "United States / Global",
+      "key_terms": [
+        {
+          "term": "Agentic AI",
+          "definition": "AI systems capable of autonomous planning and multi-step task execution without continuous human direction."
+        },
+        {
+          "term": "Arm architecture",
+          "definition": "A semiconductor instruction set architecture widely used in mobile chips, increasingly applied to data centre computing."
+        },
+        {
+          "term": "Data centre CPU",
+          "definition": "A central processing unit optimised for the high-throughput, low-latency demands of cloud and AI data centres."
+        },
+        {
+          "term": "Meta / Google / Nvidia",
+          "definition": "Major technology companies collaborating with Arm on the design of the agentic AI processor."
+        }
+      ],
+      "link": "https://www.reuters.com/technology/arm-meta-google-nvidia-ai-cpu-2026-03-27/"
+    },
+    {
+      "headline": "Indian Institute of Astrophysics Decodes Solar Radio Burst Mystery to Enhance Space Weather Forecasts",
+      "description": "Scientists at the Indian Institute of Astrophysics successfully identified the mechanisms behind a class of solar radio bursts, advancing understanding of solar activity and enabling more accurate space weather forecasting critical for satellite and power grid protection.",
+      "context": "Solar radio bursts can disrupt GPS systems, satellite communications, and power grids. India's growing satellite infrastructure and its role as a global space services provider make advances in space weather prediction a national as well as scientific priority.",
+      "timeline": [
+        {
+          "date": "1859-09-01",
+          "label": "Carrington Event — the most severe solar storm in recorded history — disrupts global telegraph systems",
+          "type": "background"
+        },
+        {
+          "date": "2024-05-10",
+          "label": "Major solar storm causes geomagnetic disruptions across Earth's northern latitudes",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Indian Institute of Astrophysics decodes solar radio burst mechanisms",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "science",
+      "region": "India / Global",
+      "key_terms": [
+        {
+          "term": "Indian Institute of Astrophysics (IIA)",
+          "definition": "An autonomous research institute under India's Department of Science and Technology, specialising in astronomy and astrophysics."
+        },
+        {
+          "term": "Solar radio burst",
+          "definition": "Intense bursts of radio waves emitted by the Sun during periods of heightened solar activity, capable of disrupting terrestrial systems."
+        },
+        {
+          "term": "Space weather",
+          "definition": "Conditions in space driven by solar activity that can affect satellite operations, power grids, and communications systems."
+        },
+        {
+          "term": "Geomagnetic storm",
+          "definition": "A major disturbance of Earth's magnetosphere caused by solar wind or coronal mass ejections."
+        }
+      ],
+      "link": "https://www.newsonair.gov.in/category/national/"
+    },
+    {
+      "headline": "New Evidence from 3.5-Billion-Year-Old Rocks Suggests Early Earth Had Active Plate Tectonics",
+      "description": "Researchers analysing 3.5-billion-year-old geological formations found new evidence suggesting that plate tectonic activity began on Earth far earlier than previously accepted, potentially reshaping understanding of the conditions that enabled life to emerge.",
+      "context": "The onset of plate tectonics is considered a key driver of Earth's habitability, regulating the carbon cycle and creating the chemical conditions necessary for life. If tectonics began 3.5 billion years ago rather than 3 billion, it aligns more closely with the earliest fossil evidence of microbial life, strengthening links between geological activity and biological origins.",
+      "timeline": [
+        {
+          "date": "4500000000",
+          "label": "Earth forms; initial crust solidifies",
+          "type": "background"
+        },
+        {
+          "date": "3500000000",
+          "label": "Age of geological formations now providing evidence of early plate tectonics",
+          "type": "background"
+        },
+        {
+          "date": "2026-03-27",
+          "label": "Researchers publish evidence of plate tectonics active 3.5 billion years ago",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "science",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "Plate tectonics",
+          "definition": "The geological theory describing the movement of Earth's lithospheric plates, driving volcanic activity, earthquakes, and mountain formation."
+        },
+        {
+          "term": "Archean Eon",
+          "definition": "A geological era spanning from approximately 4 to 2.5 billion years ago, during which early crust and microbial life developed."
+        },
+        {
+          "term": "Carbon cycle",
+          "definition": "The biogeochemical cycle by which carbon is exchanged between the atmosphere, ocean, land, and living organisms, regulated in part by plate tectonics."
+        }
+      ],
+      "link": "https://scitechdaily.com"
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "category": "sports",
+      "sport": "cricket",
+      "tournament": "Indian Premier League",
+      "match_date": "2026-03-28",
+      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "status": "completed",
+      "teams": {
+        "home": "Royal Challengers Bengaluru",
+        "away": "Sunrisers Hyderabad"
+      },
+      "score": {
+        "home": "203/4 (15.4)",
+        "away": "201/9 (20)"
+      },
+      "result": "RCB stay in top-4 race",
+      "stage": "Group Stage",
+      "official_source": "https://www.iplt20.com"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-28",
+      "venue": "Hampden Park, Glasgow",
+      "status": "completed",
+      "teams": {
+        "home": "Scotland",
+        "away": "Japan"
+      },
+      "score": {
+        "home": "0",
+        "away": "1"
+      },
+      "result": "Japan sharpen WC momentum",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-28",
+      "venue": "TQL Stadium, Cincinnati",
+      "status": "completed",
+      "teams": {
+        "home": "USA",
+        "away": "Belgium"
+      },
+      "score": {
+        "home": "0",
+        "away": "0"
+      },
+      "result": "Host nation's frailties exposed",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-28",
+      "venue": "Estadio Azteca, Mexico City",
+      "status": "completed",
+      "teams": {
+        "home": "Mexico",
+        "away": "Portugal"
+      },
+      "score": {
+        "home": "3",
+        "away": "0"
+      },
+      "result": "Portugal's WC prep derailed",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-28",
+      "venue": "BMO Field, Toronto",
+      "status": "completed",
+      "teams": {
+        "home": "Canada",
+        "away": "Iceland"
+      },
+      "score": {
+        "home": "1",
+        "away": "0"
+      },
+      "result": "Canada boost co-host confidence",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-28",
+      "venue": "Stade Léopold Sédar Senghor, Dakar",
+      "status": "completed",
+      "teams": {
+        "home": "Senegal",
+        "away": "Peru"
+      },
+      "score": {
+        "home": "0",
+        "away": "0"
+      },
+      "result": "WC readiness still unproven",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-28",
+      "venue": "Seoul World Cup Stadium, Seoul",
+      "status": "completed",
+      "teams": {
+        "home": "South Korea",
+        "away": "Ivory Coast"
+      },
+      "score": {
+        "home": "0",
+        "away": "0"
+      },
+      "result": "Both sides lack cutting edge",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-28",
+      "venue": "National Heroes Stadium, Lusaka",
+      "status": "completed",
+      "teams": {
+        "home": "Zambia",
+        "away": "Malawi"
+      },
+      "score": {
+        "home": "0",
+        "away": "0"
+      },
+      "result": "Africa rivalry ends level",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
+    }
+  ]
 }
