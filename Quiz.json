@@ -1,173 +1,185 @@
 {
-  "date": "March 28, 2026",
+  "date": "March 29, 2026",
   "questions": [
     {
       "id": "q_01",
-      "question": "President Trump’s third consecutive extension of the deadline for striking Iranian power plants, while simultaneously maintaining a high-intensity air campaign, most strongly illustrates which strategic doctrine in contemporary conflict?",
+      "question": "The recent demand by Iran to levy 'transit tolls' on oil tankers passing through the Strait of Hormuz as a condition for a ceasefire has profound implications for which international legal framework?",
       "options": [
-        "The shift from 'Counter-Force' to 'Counter-Value' targeting in nuclear posturing.",
-        "Reflexive Control, where threats are used as a calibrated diplomatic lever to influence adversary decision-making.",
-        "The obsolescence of 'Escalation Dominance' in the face of non-state actor interventions.",
-        "The 'Madman Theory' of international relations aimed at achieving total military surrender through psychological shock."
+        "The Principle of 'Innocent Passage' under UNCLOS, as it applies to territorial waters.",
+        "The Right of 'Transit Passage' in international straits, which prohibits the imposition of tolls that discriminate among vessels.",
+        "The 'Montreux Convention' regarding the regulation of merchant shipping during times of war.",
+        "The 'Suez Canal Convention' which establishes the precedent for universal toll collection in man-made maritime links."
       ],
       "correct_index": 1,
-      "explanation": "By repeatedly setting and then extending 'deadlines' for specific high-value targets (power plants), the US is using the *threat* of escalation as a diplomatic tool to extract concessions (Reflexive Control) without yet committing to the massive international backlash that striking civilian-critical infrastructure would provoke."
+      "explanation": "Under the UN Convention on the Law of the Sea (UNCLOS), the Strait of Hormuz is an 'international strait' where the right of 'transit passage' applies. Unlike 'innocent passage' in territorial waters, transit passage is more expansive and specifically restricts coastal states from imposing levies or tolls for the mere passage of ships, unless for specific services rendered."
     },
     {
       "id": "q_02",
-      "question": "The public divergence between US diplomatic pauses and Israel’s vow to 'intensify and expand' strikes independently most directly challenges which foundational principle of collective security alliances?",
+      "question": "Which macroeconomic phenomenon is most likely to manifest in the 'import-dependent' economies of Asia and Europe due to the record weekly gains in Brent crude and the dimming prospects of a Middle East ceasefire?",
       "options": [
-        "The Principle of Subsidiarity in regional defense pacts.",
-        "The doctrine of 'Strategic Autonomy' within the NATO Article 5 framework.",
-        "The 'Unitary Actor' assumption, where coalition partners are expected to synchronize operational and diplomatic timelines.",
-        "The 'Security Dilemma' where defensive alliance formations trigger offensive neighbor responses."
+        "Demand-pull inflation as household consumption surges despite rising energy costs.",
+        "A reversal of 'Cost-push' inflation due to the stabilization of global supply chains.",
+        "Stagflation, characterized by stagnant economic growth and persistently high inflation.",
+        "A sudden appreciation of domestic currencies as central banks pivot to a 'dovish' monetary policy."
       ],
       "correct_index": 2,
-      "explanation": "In classic IR theory and military planning, coalitions are often treated as 'Unitary Actors.' Israel’s refusal to coordinate with the US 'deadline extensions' breaks this assumption, exposing that coalition members may have divergent war aims (e.g., US seeking a negotiated exit vs. Israel seeking total regime degradation)."
+      "explanation": "High oil prices act as a supply-side shock, increasing production and transport costs (Cost-push inflation) while simultaneously dampening consumer demand and industrial output. This combination of slowing growth and rising prices creates 'Stagflation,' a particularly difficult scenario for central bank policy."
     },
     {
       "id": "q_03",
-      "question": "Pakistan’s role as the primary backchannel for the US 15-point ceasefire proposal to Iran is a modern application of which historical diplomatic framework?",
+      "question": "The Supreme Court of India's recent ruling on digital data interception, which reinforces the constitutional right to privacy established in the Puttaswamy case, most directly limits the government’s powers under which statutory provision?",
       "options": [
-        "The 'Nixon-Kissinger' model of using a trusted third-party 'conduit' to bypass absent formal diplomatic relations.",
-        "The 'Shuttle Diplomacy' model where a single mediator travels between capitals to draft a treaty.",
-        "The 'Multilateralism' doctrine where UN-led committees manage all ceasefire negotiations.",
-        "The 'Panchsheel' principles of non-interference and mutual respect for territorial integrity."
+        "Section 69 of the Information Technology Act, 2000.",
+        "Article 19(2) of the Indian Constitution regarding 'Reasonable Restrictions'.",
+        "Section 124A of the Indian Penal Code regarding Sedition.",
+        "The Seventh Schedule of the Constitution regarding the Union List."
       ],
       "correct_index": 0,
-      "explanation": "Because the US and Iran lack direct diplomatic ties, they rely on a 'conduit' state (Pakistan) that has credibility in both camps. This mirrors the 1971 breakthrough where Pakistan facilitated the secret US-China opening, highlighting the importance of 'backchannels' in resolving high-stakes global crises."
+      "explanation": "Section 69 of the IT Act, 2000, provides the government the power to issue directions for interception, monitoring, or decryption of any information through any computer resource. The Supreme Court's reinforcement of privacy as a fundamental right necessitates that such powers be exercised under strict procedural safeguards and the principle of proportionality."
     },
     {
       "id": "q_04",
-      "question": "Regarding the IAEA’s warning about the Arak heavy water reactor, a strike leading to a 'radiological accident' would most significantly trigger which international legal instrument?",
+      "question": "The simultaneous launch of 'Semiconductor Mission 2.0' and the approval of 10 major fab projects across six Indian states illustrates which strategic policy objective?",
       "options": [
-        "The Montreux Convention regarding the transit of warships through international straits.",
-        "The Vienna Convention on Civil Liability for Nuclear Damage, regarding cross-border contamination.",
-        "The Biological Weapons Convention (BWC) concerning the spread of toxins.",
-        "The UNCLOS (United Nations Convention on the Law of the Sea) regarding maritime pollution."
+        "The decentralization of fiscal powers to state governments under the 'Special Category Status'.",
+        "The 'China+1' strategy aimed at building resilient domestic supply chains in critical technologies.",
+        "A transition from 'Export-Oriented Growth' to a purely 'Import Substitution' model.",
+        "The prioritization of 'Service Sector' expansion over 'Primary Sector' manufacturing."
       ],
       "correct_index": 1,
-      "explanation": "The IAEA's warning specifically concerns the 'cross-border' spread of radioactive material. The Vienna Convention is the primary international framework for determining legal and financial liability when a nuclear incident in one state causes damage or contamination in another."
+      "explanation": "By building a domestic semiconductor ecosystem, India is attempting to de-risk its supply chain from geopolitical instabilities (like the current Iran war) and position itself as a global alternative to China (the China+1 strategy). This is an example of 'strategic autonomy' in the industrial domain."
     },
     {
       "id": "q_05",
-      "question": "The European Central Bank’s (ECB) formal incorporation of the Iran war as an 'upside inflation risk' indicates which macroeconomic transmission mechanism is most active in the eurozone?",
+      "question": "Nvidia’s unveiling of the 'Vera Rubin' architecture and 'IGX Thor' platform for 'Agentic AI' represents a technological paradigm shift toward systems that:",
       "options": [
-        "Demand-pull inflation from a surge in European household consumption.",
-        "Cost-push inflation, where energy price spikes increase input costs for manufacturers and transporters.",
-        "Monetary inflation caused by the excessive printing of the Euro to fund defense exports.",
-        "Built-in inflation where wage-price spirals become entrenched in the services sector."
+        "Are limited to predicting the next word in a sentence (Generative AI).",
+        "Operate strictly within 'Cloud-only' environments with no local processing.",
+        "Can autonomously plan and execute multi-step tasks to achieve higher-order goals.",
+        "Rely exclusively on 'General Purpose CPUs' rather than specialized accelerators."
       ],
-      "correct_index": 1,
-      "explanation": "The Iran war has disrupted oil (Hormuz) and LNG (Ras Laffan). Since energy is a fundamental input for almost all industrial and logistics processes, these price spikes 'push' up the overall cost of goods and services, forcing the ECB to reconsider its plan to cut interest rates."
+      "correct_index": 2,
+      "explanation": "Agentic AI refers to a shift from passive models (like chatbots) to active 'agents' capable of autonomous reasoning, planning, and execution. This requires hardware optimized for low-latency, complex decision-making loops rather than just massive linguistic pattern matching."
     },
     {
       "id": "q_06",
-      "question": "India’s strategic pivot toward deepening LNG and crude ties with Russia amid the Iran war most clearly illustrates which geopolitical doctrine?",
+      "question": "In the context of the India-ISRO NISAR mission, the use of dual-frequency 'Synthetic Aperture Radar' (SAR) is conceptually superior to traditional optical imaging because it allows for:",
       "options": [
-        "Strategic Autonomy, prioritizing domestic energy security over adherence to Western-led sanction regimes.",
-        "The 'Look West' policy aimed at integrating India into the European energy market.",
-        "The 'G7-Alignment' strategy for isolating major energy producers during times of war.",
-        "The 'String of Pearls' theory regarding naval base acquisition in the Arctic."
+        "Direct measurement of the chemical composition of forest carbon stocks.",
+        "Observation of Earth’s surface deformation through clouds, smoke, and darkness.",
+        "Mapping of deep underwater oceanic trenches and tectonic plates.",
+        "Instantaneous communication between deep-space probes and ground stations."
       ],
-      "correct_index": 0,
-      "explanation": "India's choice to buy Russian energy (despite Western pressure) to buffer against Gulf disruptions is a textbook case of 'Strategic Autonomy.' It shows India making decisions based purely on its own national interest (energy security/inflation control) rather than following a global bloc's diplomatic stance."
+      "correct_index": 1,
+      "explanation": "Unlike optical sensors that depend on visible light, SAR uses microwave pulses that penetrate clouds, haze, and smoke. By comparing radar phases over time (InSAR), the NISAR mission can detect millimeter-scale changes in surface height, such as land subsidence or glacier flow, at any time of day or night."
     },
     {
       "id": "q_07",
-      "question": "The launch of 'India Semiconductor Mission 2.0' with a ₹40,000 crore outlay is a public policy response to which global technological paradigm shift?",
+      "question": "The entry of the Houthis into the US-Israeli-Iranian war, marked by direct strikes on Israel, most strongly illustrates which development in modern Middle Eastern geopolitics?",
       "options": [
-        "The transition from 'Hardware-Centric' computing to 'Software-Only' cloud architectures.",
-        "The fragmentation of the global semiconductor supply chain and the 'Silicon Shield' strategy for national security.",
-        "The replacement of silicon-based chips with 'Quantum-only' processors in consumer electronics.",
-        "The centralization of all semiconductor manufacturing in the European Union under the 'Chips Act'."
+        "The successful 'Containment' of regional conflicts within national borders.",
+        "The emergence of 'Integrated Command and Control' within the Iran-aligned 'Axis of Resistance'.",
+        "The complete withdrawal of Iran from its 'Proxy Warfare' doctrine.",
+        "The end of 'Asymmetric Warfare' in favor of traditional tank-led land invasions."
       ],
       "correct_index": 1,
-      "explanation": "As supply chains fragment and US-China tensions rise, nations are racing to build domestic chip capacity to ensure they aren't 'held hostage' by supply disruptions. This is the 'Silicon Shield' strategy—ensuring that a critical component of the modern economy is produced at home."
+      "explanation": "The Houthis striking Israel in solidarity with Tehran, while Israel is simultaneously striking Iranian sites, demonstrates a high level of strategic and operational coordination. This reflects the 'Axis of Resistance' functioning as a unified regional military front rather than a collection of isolated militant groups."
     },
     {
       "id": "q_08",
-      "question": "The Central Bank of the UAE (CBUAE) increasing its gold reserves by 75% year-on-year most strongly suggests which institutional shift in global finance?",
+      "question": "Zelenskiy's visit to the Gulf to sign defence cooperation deals with the UAE and Qatar most strongly reflects which geopolitical implication of the Iran war?",
       "options": [
-        "The 'De-dollarization' of national reserves as states seek protection against geopolitical shocks and sanctions.",
-        "A return to the 'Gold Standard' where all currencies are pegged to a fixed weight of gold.",
-        "The 'Financialization' of commodities to increase the volatility of the Dirham.",
-        "The abandonment of 'Foreign Assets' in favor of purely domestic real estate investments."
+        "The total collapse of the 'NATO-Ukraine' alliance and security architecture.",
+        "The 'Diversification of Security Partnerships' by states caught in the 'Strategic Neglect' of the West.",
+        "The unification of the 'OIC bloc' against the Russian invasion of Ukraine.",
+        "The emergence of the UAE as the primary military supplier to the European Union."
       ],
-      "correct_index": 0,
-      "explanation": "Gold is a 'tier-one' asset that carries no 'counterparty risk' (unlike US dollars held in a bank that could be frozen). When the UAE (under active threat) buys massive amounts of gold, it is diversifying away from the US dollar system to ensure it has 'liquid' wealth that no foreign power can easily control or sanction."
+      "correct_index": 1,
+      "explanation": "As the US and Israel prioritize the Iran conflict, Ukraine faces the risk of being sidelined or having its resources diverted (Strategic Neglect). Zelenskiy is proactively seeking 'strategic depth' by building ties with non-traditional partners like the Gulf states who have significant capital and growing strategic autonomy."
+    },
+    {
+      "id": "q_09",
+      "question": "The Indian government’s ability to meet a fiscal deficit target of 4.8% for FY26 despite global headwinds strengthens which economic doctrine in the Indian context?",
+      "options": [
+        "The 'Modern Monetary Theory' (MMT) suggesting that deficits do not matter for sovereign states.",
+        "The 'Fiscal Profligacy' model intended to boost demand during stagflation.",
+        "The 'Macro-prudential Credibility' framework aimed at attracting foreign investment and maintaining ratings.",
+        "The 'Reaganomics' approach of massive tax cuts coupled with increased military spending."
+      ],
+      "correct_index": 2,
+      "explanation": "Adhering to fiscal deficit targets (fiscal consolidation) is critical for India to signal to global rating agencies and investors that its economy is being managed prudently. This keeps borrowing costs lower and supports the 'Macroeconomic Stability' needed for long-term growth."
     },
     {
       "id": "q_10",
-      "question": "The 'Verbund Model' employed by BASF in its new Zhanjiang plant achieves competitive advantages primarily through:",
+      "question": "The regulatory clearance for the Bundelkhand phase of the National River-Linking Project has implications for 'Inter-State Water Politics' because it involves:",
       "options": [
-        "Outsourcing all chemical precursors to small-scale rural manufacturers.",
-        "Horizontal integration where the company acquires competitors in different industries.",
-        "Circular Economy and Industrial Symbiosis, where waste from one process becomes input for another on a single site.",
-        "Relocating all management functions to Germany while leaving only labor-intensive tasks in China."
+        "The complete nationalization of all rivers under the 'Union List' of the Constitution.",
+        "The transfer of water across the 'Ganga-Brahmaputra' basin into the 'Cauvery' basin.",
+        "The mediation of competing agricultural and drinking water demands between Uttar Pradesh and Madhya Pradesh.",
+        "The abolition of the 'Inter-State River Water Disputes Act' of 1956."
       ],
       "correct_index": 2,
-      "explanation": "BASF's 'Verbund' is an integrated system where plants are physically linked. The waste heat or by-products of one plant serve as the raw materials for the next. This 'symbiosis' lowers energy costs and transportation waste, making the entire complex much more efficient than isolated factories."
+      "explanation": "River linking projects like the Ken-Betwa (Bundelkhand) involve 'surplus' water transfer from one basin to another, which usually crosses state boundaries. This requires complex agreements on water sharing, environmental compensation, and displacement, often testing the 'Cooperative Federalism' model."
     },
     {
       "id": "q_11",
-      "question": "The CHMP's recommendation for Adstiladrin (an intravesical gene therapy) for bladder cancer represents which shift in the 'Technological Frontier' of medicine?",
+      "question": "The killing of journalists in southern Lebanon by Israeli airstrikes invokes which fundamental protection under International Humanitarian Law (IHL)?",
       "options": [
-        "The transition from 'Systemic' chemotherapy to 'Targeted' localized gene delivery via viral vectors.",
-        "The move from 'Biological' treatments to purely 'Robotic' surgical interventions.",
-        "The replacement of 'In-patient' hospital care with 'AI-led' self-diagnosis apps.",
-        "The abandonment of 'Immunotherapy' in favor of traditional herbal remedies."
+        "Journalists are classified as 'Prisoners of War' from the moment they enter a combat zone.",
+        "Journalists must be treated as 'Combatants' if they are embedded with an armed group.",
+        "Journalists engaged in professional missions in areas of armed conflict shall be considered as 'Civilians' and protected as such.",
+        "The 'Diplomatic Immunity' clause which extends to all international media personnel."
       ],
-      "correct_index": 0,
-      "explanation": "Adstiladrin uses an adenoviral vector to deliver a therapeutic gene directly into the bladder. This is 'localized' gene therapy—treating the cancer at its source without the 'systemic' (whole-body) side effects typical of traditional chemotherapy."
+      "correct_index": 2,
+      "explanation": "Under Article 79 of Protocol I of the Geneva Conventions, journalists are granted the status of 'Civilians' provided they do not take part in hostilities. Attacks on them are considered attacks on non-combatants, regardless of the 'military necessity' of the strike."
     },
     {
       "id": "q_12",
-      "question": "Micron’s mass production of the '1-gamma DRAM node' is a 'Technological Paradigm Shift' because it directly enables:",
+      "question": "The discovery by MIT physicists regarding the behavior of 'quarks and gluons' via 'near-miss' particle interactions strengthens which theoretical framework?",
       "options": [
-        "The creation of 'Analog' computers that do not require binary memory.",
-        "High-Bandwidth and Energy-Efficient memory clusters required for large-scale AI training and inference.",
-        "The total elimination of 'Latency' in standard internet satellite communications.",
-        "The reduction of 'Silicon usage' by 90% in consumer smartphone manufacturing."
+        "General Relativity as it applies to the gravitational attraction between sub-atomic particles.",
+        "Quantum Chromodynamics (QCD), which describes the strong nuclear force.",
+        "The 'Big Bang Theory' regarding the expansion rate of the observable universe.",
+        "The 'Lamarckian' theory of biological evolution at the molecular level."
       ],
       "correct_index": 1,
-      "explanation": "Large AI models (like Gemini) require massive amounts of data to move between the processor and memory. The '1-gamma' node provides the density and speed (bandwidth) needed to handle these huge AI workloads while using less electricity, which is the 'Silicon Backbone' Micron is rebranding toward."
+      "explanation": "Quantum Chromodynamics is the part of the Standard Model of physics that explains the 'Strong Force'—the force that holds the nucleus together. MIT's study provides empirical data on how the carriers of this force (gluons) interact at extremely high energy densities."
     },
     {
       "id": "q_13",
-      "question": "The discovery of the 'CCC-Retriever overflow valve' in cells is a breakthrough for Parkinson's research because it shifts the pharmacological focus toward:",
+      "question": "The UAE's interception of seven missiles and sixteen drones in a single day illustrates a 'Strategic Security Doctrine' known as 'Layered Defense.' Which combination of systems represents this doctrine?",
       "options": [
-        "Directly injecting dopamine into the motor cortex to suppress tremors.",
-        "Upstream prevention of toxic protein buildup by repairing the cell's waste-disposal machinery.",
-        "Eliminating the need for neurons by using 'Neural-Link' brain implants.",
-        "Applying 'Shock Therapy' to dissolve Lewy bodies after they have already formed."
+        "The use of 'Short-range' iron domes for ballistic missiles and 'Long-range' THAAD for drones.",
+        "The integration of 'Point Defense' (Patriot) and 'Area Defense' (THAAD) systems to engage threats at different altitudes.",
+        "A reliance on 'Offensive Cyber' alone to neutralize missiles before they are launched.",
+        "The replacement of 'Kinetic Interceptors' with 'Diplomatic Non-Alignment' protocols."
       ],
       "correct_index": 1,
-      "explanation": "Most current research focuses on the 'Lewy bodies' (the aggregates). This discovery identifies the *machinery* (the overflow valve) that was supposed to prevent those aggregates from forming. By targeting the 'upstream' valve, scientists hope to stop the disease before the toxic proteins ever accumulate."
+      "explanation": "Layered defense involves multiple systems working in tandem: THAAD (Terminal High Altitude Area Defense) engages ballistic missiles at high altitudes, while Patriot batteries handle threats at lower altitudes or during the terminal phase (Point Defense). This increases the probability of a successful intercept."
     },
     {
       "id": "q_14",
-      "question": "India achieving a 4.8% fiscal deficit in FY26 while facing global energy shocks most directly strengthens which macroeconomic principle?",
+      "question": "The identification of a specific 'immune signaling pathway' responsible for ARIA side effects in Alzheimer's drugs may solve which critical hurdle in modern 'Biomedical Technology'?",
       "options": [
-        "The 'Laffer Curve' regarding the optimal tax rate for maximum revenue.",
-        "Fiscal Consolidation, which improves sovereign creditworthiness and reduces the 'Crowding Out' of private investment.",
-        "The 'Paradox of Thrift' where government saving leads to a national recession.",
-        "The 'Quantity Theory of Money' where inflation is purely a monetary phenomenon."
+        "The inability of 'Small Molecules' to penetrate the Blood-Brain Barrier (BBB).",
+        "The trade-off between the 'Efficacy' of amyloid clearing and the 'Safety' of the brain's vascular integrity.",
+        "The lack of 'Genetic Sequencing' data for late-onset dementia patients.",
+        "The replacement of 'In-vivo' clinical trials with 'In-silico' AI simulations."
       ],
       "correct_index": 1,
-      "explanation": "When a government reduces its fiscal deficit (Fiscal Consolidation), it shows it is living within its means. This leads to higher credit ratings (like India's S&P upgrade) and ensures the government doesn't borrow all the money in the market, leaving 'room' for private businesses to borrow and grow (preventing crowding out)."
+      "explanation": "Anti-amyloid drugs (like lecanemab) are effective at removing plaques but often cause brain swelling or bleeding (ARIA). By identifying the specific immune signal causing this damage, scientists can develop 'co-therapies' to suppress the side effect without stopping the drug's primary function."
     },
     {
       "id": "q_15",
-      "question": "The 'Production-Linked Incentive' (PLI) scheme for mobile manufacturing hitting ₹5.45 lakh crore illustrate which shift in India's 'Industrial Policy'?",
+      "question": "New evidence of 'Plate Tectonics' occurring 3.5 billion years ago (Archean Eon) is scientifically significant for the study of 'Earth Systems' because tectonics:",
       "options": [
-        "A return to 'Import Substitution' where all foreign brands are banned from the market.",
-        "A transition from 'Service-led' growth toward 'Export-oriented' manufacturing integration into Global Value Chains.",
-        "The 'Nationalization' of all electronics companies under a single state-run enterprise.",
-        "The prioritization of 'Handicrafts' over high-tech industrial automation."
+        "Is the primary driver of the 'Milankovitch Cycles' that cause ice ages.",
+        "Actively regulates the long-term 'Carbon-Silicate Cycle' and maintains atmospheric stability.",
+        "Is required to maintain the 'Magnetic Field' generated by the Moon’s gravitational pull.",
+        "Directly prevents the 'Greenhouse Effect' by reflecting sunlight back into space."
       ],
       "correct_index": 1,
-      "explanation": "PLI encourages companies to manufacture *in* India for the *world*. By reaching these record numbers, India is showing that it is successfully moving into the 'manufacturing' stage of development, integrating itself into the Global Value Chains (GVCs) that were previously dominated by China."
+      "explanation": "Plate tectonics is crucial for Earth's habitability because it recycles carbon. CO2 is removed from the atmosphere by weathering and buried in the seafloor, then returned to the atmosphere through volcanic activity at subduction zones. This 'thermostat' has kept Earth's temperature stable enough for life for billions of years."
     }
   ]
 }
