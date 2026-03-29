@@ -1,185 +1,185 @@
 {
-  "date": "March 29, 2026",
-  "questions": [
-    {
-      "id": "q_01",
-      "question": "The recent demand by Iran to levy 'transit tolls' on oil tankers passing through the Strait of Hormuz as a condition for a ceasefire has profound implications for which international legal framework?",
-      "options": [
-        "The Principle of 'Innocent Passage' under UNCLOS, as it applies to territorial waters.",
-        "The Right of 'Transit Passage' in international straits, which prohibits the imposition of tolls that discriminate among vessels.",
-        "The 'Montreux Convention' regarding the regulation of merchant shipping during times of war.",
-        "The 'Suez Canal Convention' which establishes the precedent for universal toll collection in man-made maritime links."
-      ],
-      "correct_index": 1,
-      "explanation": "Under the UN Convention on the Law of the Sea (UNCLOS), the Strait of Hormuz is an 'international strait' where the right of 'transit passage' applies. Unlike 'innocent passage' in territorial waters, transit passage is more expansive and specifically restricts coastal states from imposing levies or tolls for the mere passage of ships, unless for specific services rendered."
-    },
-    {
-      "id": "q_02",
-      "question": "Which macroeconomic phenomenon is most likely to manifest in the 'import-dependent' economies of Asia and Europe due to the record weekly gains in Brent crude and the dimming prospects of a Middle East ceasefire?",
-      "options": [
-        "Demand-pull inflation as household consumption surges despite rising energy costs.",
-        "A reversal of 'Cost-push' inflation due to the stabilization of global supply chains.",
-        "Stagflation, characterized by stagnant economic growth and persistently high inflation.",
-        "A sudden appreciation of domestic currencies as central banks pivot to a 'dovish' monetary policy."
-      ],
-      "correct_index": 2,
-      "explanation": "High oil prices act as a supply-side shock, increasing production and transport costs (Cost-push inflation) while simultaneously dampening consumer demand and industrial output. This combination of slowing growth and rising prices creates 'Stagflation,' a particularly difficult scenario for central bank policy."
-    },
-    {
-      "id": "q_03",
-      "question": "The Supreme Court of India's recent ruling on digital data interception, which reinforces the constitutional right to privacy established in the Puttaswamy case, most directly limits the government’s powers under which statutory provision?",
-      "options": [
-        "Section 69 of the Information Technology Act, 2000.",
-        "Article 19(2) of the Indian Constitution regarding 'Reasonable Restrictions'.",
-        "Section 124A of the Indian Penal Code regarding Sedition.",
-        "The Seventh Schedule of the Constitution regarding the Union List."
-      ],
-      "correct_index": 0,
-      "explanation": "Section 69 of the IT Act, 2000, provides the government the power to issue directions for interception, monitoring, or decryption of any information through any computer resource. The Supreme Court's reinforcement of privacy as a fundamental right necessitates that such powers be exercised under strict procedural safeguards and the principle of proportionality."
-    },
-    {
-      "id": "q_04",
-      "question": "The simultaneous launch of 'Semiconductor Mission 2.0' and the approval of 10 major fab projects across six Indian states illustrates which strategic policy objective?",
-      "options": [
-        "The decentralization of fiscal powers to state governments under the 'Special Category Status'.",
-        "The 'China+1' strategy aimed at building resilient domestic supply chains in critical technologies.",
-        "A transition from 'Export-Oriented Growth' to a purely 'Import Substitution' model.",
-        "The prioritization of 'Service Sector' expansion over 'Primary Sector' manufacturing."
-      ],
-      "correct_index": 1,
-      "explanation": "By building a domestic semiconductor ecosystem, India is attempting to de-risk its supply chain from geopolitical instabilities (like the current Iran war) and position itself as a global alternative to China (the China+1 strategy). This is an example of 'strategic autonomy' in the industrial domain."
-    },
-    {
-      "id": "q_05",
-      "question": "Nvidia’s unveiling of the 'Vera Rubin' architecture and 'IGX Thor' platform for 'Agentic AI' represents a technological paradigm shift toward systems that:",
-      "options": [
-        "Are limited to predicting the next word in a sentence (Generative AI).",
-        "Operate strictly within 'Cloud-only' environments with no local processing.",
-        "Can autonomously plan and execute multi-step tasks to achieve higher-order goals.",
-        "Rely exclusively on 'General Purpose CPUs' rather than specialized accelerators."
-      ],
-      "correct_index": 2,
-      "explanation": "Agentic AI refers to a shift from passive models (like chatbots) to active 'agents' capable of autonomous reasoning, planning, and execution. This requires hardware optimized for low-latency, complex decision-making loops rather than just massive linguistic pattern matching."
-    },
-    {
-      "id": "q_06",
-      "question": "In the context of the India-ISRO NISAR mission, the use of dual-frequency 'Synthetic Aperture Radar' (SAR) is conceptually superior to traditional optical imaging because it allows for:",
-      "options": [
-        "Direct measurement of the chemical composition of forest carbon stocks.",
-        "Observation of Earth’s surface deformation through clouds, smoke, and darkness.",
-        "Mapping of deep underwater oceanic trenches and tectonic plates.",
-        "Instantaneous communication between deep-space probes and ground stations."
-      ],
-      "correct_index": 1,
-      "explanation": "Unlike optical sensors that depend on visible light, SAR uses microwave pulses that penetrate clouds, haze, and smoke. By comparing radar phases over time (InSAR), the NISAR mission can detect millimeter-scale changes in surface height, such as land subsidence or glacier flow, at any time of day or night."
-    },
-    {
-      "id": "q_07",
-      "question": "The entry of the Houthis into the US-Israeli-Iranian war, marked by direct strikes on Israel, most strongly illustrates which development in modern Middle Eastern geopolitics?",
-      "options": [
-        "The successful 'Containment' of regional conflicts within national borders.",
-        "The emergence of 'Integrated Command and Control' within the Iran-aligned 'Axis of Resistance'.",
-        "The complete withdrawal of Iran from its 'Proxy Warfare' doctrine.",
-        "The end of 'Asymmetric Warfare' in favor of traditional tank-led land invasions."
-      ],
-      "correct_index": 1,
-      "explanation": "The Houthis striking Israel in solidarity with Tehran, while Israel is simultaneously striking Iranian sites, demonstrates a high level of strategic and operational coordination. This reflects the 'Axis of Resistance' functioning as a unified regional military front rather than a collection of isolated militant groups."
-    },
-    {
-      "id": "q_08",
-      "question": "Zelenskiy's visit to the Gulf to sign defence cooperation deals with the UAE and Qatar most strongly reflects which geopolitical implication of the Iran war?",
-      "options": [
-        "The total collapse of the 'NATO-Ukraine' alliance and security architecture.",
-        "The 'Diversification of Security Partnerships' by states caught in the 'Strategic Neglect' of the West.",
-        "The unification of the 'OIC bloc' against the Russian invasion of Ukraine.",
-        "The emergence of the UAE as the primary military supplier to the European Union."
-      ],
-      "correct_index": 1,
-      "explanation": "As the US and Israel prioritize the Iran conflict, Ukraine faces the risk of being sidelined or having its resources diverted (Strategic Neglect). Zelenskiy is proactively seeking 'strategic depth' by building ties with non-traditional partners like the Gulf states who have significant capital and growing strategic autonomy."
-    },
-    {
-      "id": "q_09",
-      "question": "The Indian government’s ability to meet a fiscal deficit target of 4.8% for FY26 despite global headwinds strengthens which economic doctrine in the Indian context?",
-      "options": [
-        "The 'Modern Monetary Theory' (MMT) suggesting that deficits do not matter for sovereign states.",
-        "The 'Fiscal Profligacy' model intended to boost demand during stagflation.",
-        "The 'Macro-prudential Credibility' framework aimed at attracting foreign investment and maintaining ratings.",
-        "The 'Reaganomics' approach of massive tax cuts coupled with increased military spending."
-      ],
-      "correct_index": 2,
-      "explanation": "Adhering to fiscal deficit targets (fiscal consolidation) is critical for India to signal to global rating agencies and investors that its economy is being managed prudently. This keeps borrowing costs lower and supports the 'Macroeconomic Stability' needed for long-term growth."
-    },
-    {
-      "id": "q_10",
-      "question": "The regulatory clearance for the Bundelkhand phase of the National River-Linking Project has implications for 'Inter-State Water Politics' because it involves:",
-      "options": [
-        "The complete nationalization of all rivers under the 'Union List' of the Constitution.",
-        "The transfer of water across the 'Ganga-Brahmaputra' basin into the 'Cauvery' basin.",
-        "The mediation of competing agricultural and drinking water demands between Uttar Pradesh and Madhya Pradesh.",
-        "The abolition of the 'Inter-State River Water Disputes Act' of 1956."
-      ],
-      "correct_index": 2,
-      "explanation": "River linking projects like the Ken-Betwa (Bundelkhand) involve 'surplus' water transfer from one basin to another, which usually crosses state boundaries. This requires complex agreements on water sharing, environmental compensation, and displacement, often testing the 'Cooperative Federalism' model."
-    },
-    {
-      "id": "q_11",
-      "question": "The killing of journalists in southern Lebanon by Israeli airstrikes invokes which fundamental protection under International Humanitarian Law (IHL)?",
-      "options": [
-        "Journalists are classified as 'Prisoners of War' from the moment they enter a combat zone.",
-        "Journalists must be treated as 'Combatants' if they are embedded with an armed group.",
-        "Journalists engaged in professional missions in areas of armed conflict shall be considered as 'Civilians' and protected as such.",
-        "The 'Diplomatic Immunity' clause which extends to all international media personnel."
-      ],
-      "correct_index": 2,
-      "explanation": "Under Article 79 of Protocol I of the Geneva Conventions, journalists are granted the status of 'Civilians' provided they do not take part in hostilities. Attacks on them are considered attacks on non-combatants, regardless of the 'military necessity' of the strike."
-    },
-    {
-      "id": "q_12",
-      "question": "The discovery by MIT physicists regarding the behavior of 'quarks and gluons' via 'near-miss' particle interactions strengthens which theoretical framework?",
-      "options": [
-        "General Relativity as it applies to the gravitational attraction between sub-atomic particles.",
-        "Quantum Chromodynamics (QCD), which describes the strong nuclear force.",
-        "The 'Big Bang Theory' regarding the expansion rate of the observable universe.",
-        "The 'Lamarckian' theory of biological evolution at the molecular level."
-      ],
-      "correct_index": 1,
-      "explanation": "Quantum Chromodynamics is the part of the Standard Model of physics that explains the 'Strong Force'—the force that holds the nucleus together. MIT's study provides empirical data on how the carriers of this force (gluons) interact at extremely high energy densities."
-    },
-    {
-      "id": "q_13",
-      "question": "The UAE's interception of seven missiles and sixteen drones in a single day illustrates a 'Strategic Security Doctrine' known as 'Layered Defense.' Which combination of systems represents this doctrine?",
-      "options": [
-        "The use of 'Short-range' iron domes for ballistic missiles and 'Long-range' THAAD for drones.",
-        "The integration of 'Point Defense' (Patriot) and 'Area Defense' (THAAD) systems to engage threats at different altitudes.",
-        "A reliance on 'Offensive Cyber' alone to neutralize missiles before they are launched.",
-        "The replacement of 'Kinetic Interceptors' with 'Diplomatic Non-Alignment' protocols."
-      ],
-      "correct_index": 1,
-      "explanation": "Layered defense involves multiple systems working in tandem: THAAD (Terminal High Altitude Area Defense) engages ballistic missiles at high altitudes, while Patriot batteries handle threats at lower altitudes or during the terminal phase (Point Defense). This increases the probability of a successful intercept."
-    },
-    {
-      "id": "q_14",
-      "question": "The identification of a specific 'immune signaling pathway' responsible for ARIA side effects in Alzheimer's drugs may solve which critical hurdle in modern 'Biomedical Technology'?",
-      "options": [
-        "The inability of 'Small Molecules' to penetrate the Blood-Brain Barrier (BBB).",
-        "The trade-off between the 'Efficacy' of amyloid clearing and the 'Safety' of the brain's vascular integrity.",
-        "The lack of 'Genetic Sequencing' data for late-onset dementia patients.",
-        "The replacement of 'In-vivo' clinical trials with 'In-silico' AI simulations."
-      ],
-      "correct_index": 1,
-      "explanation": "Anti-amyloid drugs (like lecanemab) are effective at removing plaques but often cause brain swelling or bleeding (ARIA). By identifying the specific immune signal causing this damage, scientists can develop 'co-therapies' to suppress the side effect without stopping the drug's primary function."
-    },
-    {
-      "id": "q_15",
-      "question": "New evidence of 'Plate Tectonics' occurring 3.5 billion years ago (Archean Eon) is scientifically significant for the study of 'Earth Systems' because tectonics:",
-      "options": [
-        "Is the primary driver of the 'Milankovitch Cycles' that cause ice ages.",
-        "Actively regulates the long-term 'Carbon-Silicate Cycle' and maintains atmospheric stability.",
-        "Is required to maintain the 'Magnetic Field' generated by the Moon’s gravitational pull.",
-        "Directly prevents the 'Greenhouse Effect' by reflecting sunlight back into space."
-      ],
-      "correct_index": 1,
-      "explanation": "Plate tectonics is crucial for Earth's habitability because it recycles carbon. CO2 is removed from the atmosphere by weathering and buried in the seafloor, then returned to the atmosphere through volcanic activity at subduction zones. This 'thermostat' has kept Earth's temperature stable enough for life for billions of years."
-    }
-  ]
+"date": "March 30, 2026",
+"questions": [
+{
+"id": "q_01",
+"question": "The Israeli airstrikes on the Arak heavy water plant and the subsequent IAEA warnings illustrate a significant shift in conflict thresholds. Which of the following best describes the strategic and legal implication of targeting such dual-use infrastructure?",
+"options": [
+"It constitutes a legitimate military objective under the 'Targeted Killing' doctrine if personnel are present.",
+"It challenges the 'Principle of Distinction' by potentially creating a non-containable radiological hazard for civilian populations.",
+"It fulfills the 'Right of Self-Defense' under Article 51 of the UN Charter, superseding environmental protocols.",
+"It marks a transition from 'Counter-force' to 'Counter-value' targeting to achieve total psychological paralysis."
+],
+"correct_index": 1,
+"explanation": "The Principle of Distinction requires military forces to distinguish between combatants and civilians. While a heavy water plant may have military utility, targeting it risks a 'radiological incident' that disproportionately affects non-combatants, potentially violating International Humanitarian Law (IHL) prohibitions on causing long-term, severe damage to the environment and civilian health."
+},
+{
+"id": "q_02",
+"question": "The 50% surge in Brent crude prices due to the Strait of Hormuz blockade is expected to trigger a 'Stagflationary' transmission in import-dependent economies. Which macroeconomic policy combination is most likely to be adopted by a central bank facing this scenario?",
+"options": [
+"Aggressive rate cuts to stimulate consumption combined with fiscal deficit expansion.",
+"A 'Wait-and-Watch' approach while prioritizing exchange rate appreciation to lower import costs.",
+"A difficult trade-off between raising interest rates to curb cost-push inflation and maintaining liquidity to prevent growth collapse.",
+"Implementation of universal price controls on essential commodities to eliminate the second-round effects of inflation."
+],
+"correct_index": 2,
+"explanation": "Stagflation (high inflation + stagnant growth) creates a policy dilemma. Raising rates to fight energy-driven inflation risks deepening a recession, while cutting rates to support growth can lead to hyperinflation as the supply-side shock remains unaddressed. This is a classic 'central bank dilemma'."
+},
+{
+"id": "q_03",
+"question": "The entry of Yemen's Houthi movement into the Iran-Israel war through long-range ballistic strikes illustrates which concept in contemporary regional security?",
+"options": [
+"The complete 'Sovereign Autonomy' of non-state actors in the Middle East.",
+"The effectiveness of 'Horizontal Escalation' within the 'Axis of Resistance' framework to stretch adversary defenses.",
+"The failure of 'Maritime Interdiction' operations in the Red Sea to degrade inland launch capabilities.",
+"A transition from 'Proxy Warfare' to 'Symmetric Conventional Engagement' by sub-state groups."
+],
+"correct_index": 1,
+"explanation": "Horizontal escalation occurs when a conflict is spread to new geographic fronts. The Houthis striking Israel forces the Israel-US alliance to divert air defense resources (like Arrow or Patriot systems) away from the primary Iranian front to the southern theater, effectively stretching their defensive capabilities."
+},
+{
+"id": "q_04",
+"question": "Regarding the Union Budget 2026-27 proposal for tax holidays until 2047 for foreign cloud service providers, which of the following is the most likely 'Public Policy' objective intended by the government?",
+"options": [
+"To achieve 'Data Sovereignty' by ensuring all primary metadata is processed by domestic start-ups.",
+"To facilitate 'Data Localisation' by incentivizing the physical construction of hyperscale data centers within Indian territory.",
+"To reduce the 'Fiscal Deficit' through the future accrual of high corporate tax from technology giants.",
+"To bypass the 'Digital Personal Data Protection Act' requirements for cross-border data flows."
+],
+"correct_index": 1,
+"explanation": "By offering long-term tax holidays, the government aims to attract global hyperscalers (AWS, Google, etc.) to build physical infrastructure in India. This supports 'Data Localisation'—storing data within India's borders—which is a key pillar of India's digital security and governance strategy."
+},
+{
+"id": "q_05",
+"question": "The deployment of 2,500 US Marines to the Middle East as the Iran war enters its second month illustrates which 'Strategic Security Doctrine' despite the absence of a declared ground war?",
+"options": [
+"The 'Weinberger Doctrine' of ensuring public support before any troop deployment.",
+"The 'Offshore Balancing' strategy where the US relies solely on local allies for security.",
+"The use of 'Force Projection' as a tool of 'Coercive Diplomacy' to provide leverage in ceasefire negotiations.",
+"The 'Pre-emptive Strike' doctrine aimed at eliminating Iran's ballistic missile silos through marine-led raids."
+],
+"correct_index": 2,
+"explanation": "Force projection (deploying troops to a region) signals to both allies (reassurance) and adversaries (threat) that the US is ready to escalate if necessary. This 'Coercive Diplomacy' creates leverage at the bargaining table, forcing the adversary to take ceasefire proposals more seriously."
+},
+{
+"id": "q_06",
+"question": "The 'Vera Rubin' architecture and the achievement of AGI as claimed by Nvidia signal a technological paradigm shift. What is the most significant scientific obstacle that AGI is intended to overcome compared to current Narrow AI?",
+"options": [
+"The ability to process 'Big Data' using parallel GPU processing.",
+"The 'Cross-Domain Generalization' barrier, where an agent performs tasks it was not specifically trained for.",
+"The 'Energy-Efficiency' gap where AI consumes less power than a biological human brain.",
+"The 'Turing Test' requirement for human-like conversational fluency."
+],
+"correct_index": 1,
+"explanation": "Narrow AI (like ChatGPT or AlphaGo) is task-specific. Artificial General Intelligence (AGI) is defined by its ability to generalize knowledge across unrelated domains—solving any intellectual task a human can—without needing a new dataset or training for every specific problem."
+},
+{
+"id": "q_07",
+"question": "The discovery of SLIT3 protein’s role in 'Thermogenesis' within Brown Adipose Tissue (BAT) offers a new pathway for treating Metabolic Syndrome. How does BAT thermogenesis fundamentally differ from standard energy storage in White Adipose Tissue?",
+"options": [
+"BAT stores energy as glycogen to prevent insulin resistance, whereas white fat stores lipids.",
+"BAT utilizes 'Mitochondrial Uncoupling' to dissipate energy as heat rather than storing it as ATP.",
+"BAT is primary located in the 'Subcutaneous' layer and protects the body from external cold shocks.",
+"White fat produces SLIT3 only during physical exercise, whereas BAT produces it during sleep."
+],
+"correct_index": 1,
+"explanation": "Brown fat contains a high density of mitochondria. Through 'uncoupling,' it bypasses the normal production of ATP (energy currency) and instead burns calories to produce heat (thermogenesis). SLIT3 is a newly identified molecular switch that activates this 'calorie-burning' process."
+},
+{
+"id": "q_08",
+"question": "Pakistan's hosting of Saudi Arabia, Turkey, and Egypt for talks on the Iran war, while acting as a backchannel for US proposals, most strongly illustrates which trend in contemporary International Relations?",
+"options": [
+"The total 'Diplomatic Isolation' of the US in South Asian affairs.",
+"The rise of 'Middle Power' agency where regional states manage regional crises independently of global superpowers.",
+"The consolidation of the 'Organization of Islamic Cooperation' into a unified military command.",
+"A return to 'Cold War' style bipolarity where Pakistan joins the Sino-Iranian bloc."
+],
+"correct_index": 1,
+"explanation": "Pakistan, Saudi Arabia, and Turkey are 'Middle Powers.' Their independent diplomatic track (Islamabad talks) shows that regional actors are increasingly taking the lead in conflict resolution, acting as intermediaries when direct communication between superpowers (US) and regional adversaries (Iran) breaks down."
+},
+{
+"id": "q_09",
+"question": "The delivery of the High-NA EUV lithography system by ASML to imec is a pivotal moment for the 'Moore’s Law' trajectory. Which of the following is the primary scientific reason for adopting High-NA (Numerical Aperture) in semiconductor manufacturing?",
+"options": [
+"To reduce the wavelength of light from Extreme Ultraviolet to X-ray.",
+"To increase the 'Resolution' of the optical system, allowing for the patterning of features at the sub-2nm scale.",
+"To eliminate the need for 'Photoresist' chemicals in the lithography process.",
+"To allow chips to operate at room temperature without the need for thermal management."
+],
+"correct_index": 1,
+"explanation": "In optics, a higher Numerical Aperture (NA) allows a lens to collect more light and achieve a higher resolution. In lithography, this enables the printing of much smaller and denser features on a silicon wafer, which is essential for manufacturing chips at the 2nm node and beyond."
+},
+{
+"id": "q_10",
+"question": "The discovery of a gut-brain communication pathway that signals the brain to suppress appetite during parasitic infection is an example of 'Neuro-Immunology.' This pathway most likely evolved to:",
+"options": [
+"Prevent the parasite from gaining nutrients from the host’s food intake.",
+"Redirect metabolic energy toward 'Immune Activation' rather than the energy-intensive process of digestion.",
+"Trigger the 'Vagus Nerve' to initiate a vomiting reflex to expel the parasite.",
+"Signal to the brain to seek 'Medicinal Plants' that act as natural anthelmintics."
+],
+"correct_index": 1,
+"explanation": "Appetite suppression (anorexia of infection) is a conserved evolutionary strategy. Digestion and foraging are energy-intensive. By suppressing appetite, the body conserves energy and redirects it to the immune system to fight the infection. This new research identifies the exact gut-brain 'wiring' for this signal."
+},
+{
+"id": "q_11",
+"question": "The 'Noida International Airport' at Jewar is being developed as a 'Greenfield' project. Which of the following is a primary characteristic of a Greenfield project compared to a Brownfield project?",
+"options": [
+"It involves the redevelopment of existing, underutilized urban infrastructure.",
+"It is built on completely undeveloped land, allowing for optimized planning without the constraints of legacy systems.",
+"It is funded entirely by the central government without any private sector participation.",
+"It is specifically designed for the use of 'Green' hydrogen-powered aircraft only."
+],
+"correct_index": 1,
+"explanation": "Greenfield projects are built 'from scratch' on new land (like the fields of Jewar). This allows for modern, efficient design but often involves complex land acquisition and environmental clearances. Brownfield projects involve upgrading or expanding existing facilities."
+},
+{
+"id": "q_12",
+"question": "The UAE Central Bank’s mandate to phase out SMS-based OTP authentication by March 31, 2026, is a response to which specific cybersecurity vulnerability?",
+"options": [
+"The 'Quantum Decryption' of standard cellular encryption protocols.",
+"The vulnerability of the 'SS7 protocol' which allows for SMS interception and 'SIM-swapping' attacks.",
+"The 'Phishing' risk where users are redirected to fake government portals.",
+"The high 'Latency' of SMS delivery during war-time network congestion."
+],
+"correct_index": 1,
+"explanation": "SMS-based OTPs are sent over the cellular network using the outdated SS7 protocol, which can be exploited by hackers to intercept codes. Furthermore, 'SIM-swapping' allows an attacker to take over a victim's phone number. App-based MFA or biometrics are significantly more secure against these state-sponsored or criminal tactics."
+},
+{
+"id": "q_13",
+"question": "Russia's intensified drone attacks on Ukrainian infrastructure during the Iran war suggest a shift in the global 'Balance of Attention.' This most strongly illustrates which geopolitical phenomenon?",
+"options": [
+"The 'Fog of War' where military movements are obscured by weather conditions.",
+"The 'Diversionary' advantage, where a secondary conflict provides cover for a primary aggressor to escalate with reduced international scrutiny.",
+"The success of 'Multilateralism' in addressing two conflicts simultaneously through the UN Security Council.",
+"The 'Decoupling' of European security from the US-Israeli defense umbrella."
+],
+"correct_index": 1,
+"explanation": "As Western resources (weapons, intelligence, and diplomatic time) are sucked into the Middle East crisis, Russia gains a 'window of opportunity' to escalate in Ukraine. The international community has finite 'bandwidth' to respond to crises, a fact that Russia is strategically exploiting."
+},
+{
+"id": "q_14",
+"question": "The NISAR satellite mission by NASA and ISRO uses dual-frequency (L-band and S-band) radar. What is the primary advantage of using a 'Dual-Frequency' approach for Earth observation?",
+"options": [
+"It allows the satellite to transmit data to Earth twice as fast using two different bandwidths.",
+"It provides a 'Stereoscopic' 3D view of the Earth's core and mantle density.",
+"It enables the detection of a wider variety of surface changes, as different wavelengths interact differently with vegetation, ice, and soil moisture.",
+"It ensures the satellite remains functional even if one radar frequency is jammed by an adversary."
+],
+"correct_index": 2,
+"explanation": "L-band (longer wavelength) can penetrate dense forest canopies and ice, while S-band (shorter wavelength) is more sensitive to surface roughness and moisture. Combining both allows NISAR to map everything from the flow of Himalayan glaciers to changes in Indian agricultural land with unprecedented detail."
+},
+{
+"id": "q_15",
+"question": "The 'Pax Silica Fund' launched by the White House illustrates a shift in semiconductor policy from 'Domestic Subsidies' to:",
+"options": [
+"Global 'Laissez-faire' trade where chips are sourced from the cheapest bidder.",
+"'Friend-shoring' and the creation of 'Trusted Supply Chains' among ideologically aligned partner nations.",
+"The 'Nationalization' of all high-end chip design firms to prevent intellectual property theft.",
+"A 'Zero-Sum' blockade where all semiconductor exports to Asian nations are permanently halted."
+],
+"correct_index": 1,
+"explanation": "The Pax Silica Fund aims to build supply chains with 'trusted partners' (allies). This is 'friend-shoring'—moving supply chains away from adversaries (like China) to nations with shared security values to ensure that critical tech (semiconductors) is not weaponized during a conflict."
+}
+]
 }
