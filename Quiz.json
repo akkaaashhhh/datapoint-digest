@@ -1,185 +1,185 @@
 {
-"date": "March 30, 2026",
-"questions": [
-{
-"id": "q_01",
-"question": "The Israeli airstrikes on the Arak heavy water plant and the subsequent IAEA warnings illustrate a significant shift in conflict thresholds. Which of the following best describes the strategic and legal implication of targeting such dual-use infrastructure?",
-"options": [
-"It constitutes a legitimate military objective under the 'Targeted Killing' doctrine if personnel are present.",
-"It challenges the 'Principle of Distinction' by potentially creating a non-containable radiological hazard for civilian populations.",
-"It fulfills the 'Right of Self-Defense' under Article 51 of the UN Charter, superseding environmental protocols.",
-"It marks a transition from 'Counter-force' to 'Counter-value' targeting to achieve total psychological paralysis."
-],
-"correct_index": 1,
-"explanation": "The Principle of Distinction requires military forces to distinguish between combatants and civilians. While a heavy water plant may have military utility, targeting it risks a 'radiological incident' that disproportionately affects non-combatants, potentially violating International Humanitarian Law (IHL) prohibitions on causing long-term, severe damage to the environment and civilian health."
-},
-{
-"id": "q_02",
-"question": "The 50% surge in Brent crude prices due to the Strait of Hormuz blockade is expected to trigger a 'Stagflationary' transmission in import-dependent economies. Which macroeconomic policy combination is most likely to be adopted by a central bank facing this scenario?",
-"options": [
-"Aggressive rate cuts to stimulate consumption combined with fiscal deficit expansion.",
-"A 'Wait-and-Watch' approach while prioritizing exchange rate appreciation to lower import costs.",
-"A difficult trade-off between raising interest rates to curb cost-push inflation and maintaining liquidity to prevent growth collapse.",
-"Implementation of universal price controls on essential commodities to eliminate the second-round effects of inflation."
-],
-"correct_index": 2,
-"explanation": "Stagflation (high inflation + stagnant growth) creates a policy dilemma. Raising rates to fight energy-driven inflation risks deepening a recession, while cutting rates to support growth can lead to hyperinflation as the supply-side shock remains unaddressed. This is a classic 'central bank dilemma'."
-},
-{
-"id": "q_03",
-"question": "The entry of Yemen's Houthi movement into the Iran-Israel war through long-range ballistic strikes illustrates which concept in contemporary regional security?",
-"options": [
-"The complete 'Sovereign Autonomy' of non-state actors in the Middle East.",
-"The effectiveness of 'Horizontal Escalation' within the 'Axis of Resistance' framework to stretch adversary defenses.",
-"The failure of 'Maritime Interdiction' operations in the Red Sea to degrade inland launch capabilities.",
-"A transition from 'Proxy Warfare' to 'Symmetric Conventional Engagement' by sub-state groups."
-],
-"correct_index": 1,
-"explanation": "Horizontal escalation occurs when a conflict is spread to new geographic fronts. The Houthis striking Israel forces the Israel-US alliance to divert air defense resources (like Arrow or Patriot systems) away from the primary Iranian front to the southern theater, effectively stretching their defensive capabilities."
-},
-{
-"id": "q_04",
-"question": "Regarding the Union Budget 2026-27 proposal for tax holidays until 2047 for foreign cloud service providers, which of the following is the most likely 'Public Policy' objective intended by the government?",
-"options": [
-"To achieve 'Data Sovereignty' by ensuring all primary metadata is processed by domestic start-ups.",
-"To facilitate 'Data Localisation' by incentivizing the physical construction of hyperscale data centers within Indian territory.",
-"To reduce the 'Fiscal Deficit' through the future accrual of high corporate tax from technology giants.",
-"To bypass the 'Digital Personal Data Protection Act' requirements for cross-border data flows."
-],
-"correct_index": 1,
-"explanation": "By offering long-term tax holidays, the government aims to attract global hyperscalers (AWS, Google, etc.) to build physical infrastructure in India. This supports 'Data Localisation'—storing data within India's borders—which is a key pillar of India's digital security and governance strategy."
-},
-{
-"id": "q_05",
-"question": "The deployment of 2,500 US Marines to the Middle East as the Iran war enters its second month illustrates which 'Strategic Security Doctrine' despite the absence of a declared ground war?",
-"options": [
-"The 'Weinberger Doctrine' of ensuring public support before any troop deployment.",
-"The 'Offshore Balancing' strategy where the US relies solely on local allies for security.",
-"The use of 'Force Projection' as a tool of 'Coercive Diplomacy' to provide leverage in ceasefire negotiations.",
-"The 'Pre-emptive Strike' doctrine aimed at eliminating Iran's ballistic missile silos through marine-led raids."
-],
-"correct_index": 2,
-"explanation": "Force projection (deploying troops to a region) signals to both allies (reassurance) and adversaries (threat) that the US is ready to escalate if necessary. This 'Coercive Diplomacy' creates leverage at the bargaining table, forcing the adversary to take ceasefire proposals more seriously."
-},
-{
-"id": "q_06",
-"question": "The 'Vera Rubin' architecture and the achievement of AGI as claimed by Nvidia signal a technological paradigm shift. What is the most significant scientific obstacle that AGI is intended to overcome compared to current Narrow AI?",
-"options": [
-"The ability to process 'Big Data' using parallel GPU processing.",
-"The 'Cross-Domain Generalization' barrier, where an agent performs tasks it was not specifically trained for.",
-"The 'Energy-Efficiency' gap where AI consumes less power than a biological human brain.",
-"The 'Turing Test' requirement for human-like conversational fluency."
-],
-"correct_index": 1,
-"explanation": "Narrow AI (like ChatGPT or AlphaGo) is task-specific. Artificial General Intelligence (AGI) is defined by its ability to generalize knowledge across unrelated domains—solving any intellectual task a human can—without needing a new dataset or training for every specific problem."
-},
-{
-"id": "q_07",
-"question": "The discovery of SLIT3 protein’s role in 'Thermogenesis' within Brown Adipose Tissue (BAT) offers a new pathway for treating Metabolic Syndrome. How does BAT thermogenesis fundamentally differ from standard energy storage in White Adipose Tissue?",
-"options": [
-"BAT stores energy as glycogen to prevent insulin resistance, whereas white fat stores lipids.",
-"BAT utilizes 'Mitochondrial Uncoupling' to dissipate energy as heat rather than storing it as ATP.",
-"BAT is primary located in the 'Subcutaneous' layer and protects the body from external cold shocks.",
-"White fat produces SLIT3 only during physical exercise, whereas BAT produces it during sleep."
-],
-"correct_index": 1,
-"explanation": "Brown fat contains a high density of mitochondria. Through 'uncoupling,' it bypasses the normal production of ATP (energy currency) and instead burns calories to produce heat (thermogenesis). SLIT3 is a newly identified molecular switch that activates this 'calorie-burning' process."
-},
-{
-"id": "q_08",
-"question": "Pakistan's hosting of Saudi Arabia, Turkey, and Egypt for talks on the Iran war, while acting as a backchannel for US proposals, most strongly illustrates which trend in contemporary International Relations?",
-"options": [
-"The total 'Diplomatic Isolation' of the US in South Asian affairs.",
-"The rise of 'Middle Power' agency where regional states manage regional crises independently of global superpowers.",
-"The consolidation of the 'Organization of Islamic Cooperation' into a unified military command.",
-"A return to 'Cold War' style bipolarity where Pakistan joins the Sino-Iranian bloc."
-],
-"correct_index": 1,
-"explanation": "Pakistan, Saudi Arabia, and Turkey are 'Middle Powers.' Their independent diplomatic track (Islamabad talks) shows that regional actors are increasingly taking the lead in conflict resolution, acting as intermediaries when direct communication between superpowers (US) and regional adversaries (Iran) breaks down."
-},
-{
-"id": "q_09",
-"question": "The delivery of the High-NA EUV lithography system by ASML to imec is a pivotal moment for the 'Moore’s Law' trajectory. Which of the following is the primary scientific reason for adopting High-NA (Numerical Aperture) in semiconductor manufacturing?",
-"options": [
-"To reduce the wavelength of light from Extreme Ultraviolet to X-ray.",
-"To increase the 'Resolution' of the optical system, allowing for the patterning of features at the sub-2nm scale.",
-"To eliminate the need for 'Photoresist' chemicals in the lithography process.",
-"To allow chips to operate at room temperature without the need for thermal management."
-],
-"correct_index": 1,
-"explanation": "In optics, a higher Numerical Aperture (NA) allows a lens to collect more light and achieve a higher resolution. In lithography, this enables the printing of much smaller and denser features on a silicon wafer, which is essential for manufacturing chips at the 2nm node and beyond."
-},
-{
-"id": "q_10",
-"question": "The discovery of a gut-brain communication pathway that signals the brain to suppress appetite during parasitic infection is an example of 'Neuro-Immunology.' This pathway most likely evolved to:",
-"options": [
-"Prevent the parasite from gaining nutrients from the host’s food intake.",
-"Redirect metabolic energy toward 'Immune Activation' rather than the energy-intensive process of digestion.",
-"Trigger the 'Vagus Nerve' to initiate a vomiting reflex to expel the parasite.",
-"Signal to the brain to seek 'Medicinal Plants' that act as natural anthelmintics."
-],
-"correct_index": 1,
-"explanation": "Appetite suppression (anorexia of infection) is a conserved evolutionary strategy. Digestion and foraging are energy-intensive. By suppressing appetite, the body conserves energy and redirects it to the immune system to fight the infection. This new research identifies the exact gut-brain 'wiring' for this signal."
-},
-{
-"id": "q_11",
-"question": "The 'Noida International Airport' at Jewar is being developed as a 'Greenfield' project. Which of the following is a primary characteristic of a Greenfield project compared to a Brownfield project?",
-"options": [
-"It involves the redevelopment of existing, underutilized urban infrastructure.",
-"It is built on completely undeveloped land, allowing for optimized planning without the constraints of legacy systems.",
-"It is funded entirely by the central government without any private sector participation.",
-"It is specifically designed for the use of 'Green' hydrogen-powered aircraft only."
-],
-"correct_index": 1,
-"explanation": "Greenfield projects are built 'from scratch' on new land (like the fields of Jewar). This allows for modern, efficient design but often involves complex land acquisition and environmental clearances. Brownfield projects involve upgrading or expanding existing facilities."
-},
-{
-"id": "q_12",
-"question": "The UAE Central Bank’s mandate to phase out SMS-based OTP authentication by March 31, 2026, is a response to which specific cybersecurity vulnerability?",
-"options": [
-"The 'Quantum Decryption' of standard cellular encryption protocols.",
-"The vulnerability of the 'SS7 protocol' which allows for SMS interception and 'SIM-swapping' attacks.",
-"The 'Phishing' risk where users are redirected to fake government portals.",
-"The high 'Latency' of SMS delivery during war-time network congestion."
-],
-"correct_index": 1,
-"explanation": "SMS-based OTPs are sent over the cellular network using the outdated SS7 protocol, which can be exploited by hackers to intercept codes. Furthermore, 'SIM-swapping' allows an attacker to take over a victim's phone number. App-based MFA or biometrics are significantly more secure against these state-sponsored or criminal tactics."
-},
-{
-"id": "q_13",
-"question": "Russia's intensified drone attacks on Ukrainian infrastructure during the Iran war suggest a shift in the global 'Balance of Attention.' This most strongly illustrates which geopolitical phenomenon?",
-"options": [
-"The 'Fog of War' where military movements are obscured by weather conditions.",
-"The 'Diversionary' advantage, where a secondary conflict provides cover for a primary aggressor to escalate with reduced international scrutiny.",
-"The success of 'Multilateralism' in addressing two conflicts simultaneously through the UN Security Council.",
-"The 'Decoupling' of European security from the US-Israeli defense umbrella."
-],
-"correct_index": 1,
-"explanation": "As Western resources (weapons, intelligence, and diplomatic time) are sucked into the Middle East crisis, Russia gains a 'window of opportunity' to escalate in Ukraine. The international community has finite 'bandwidth' to respond to crises, a fact that Russia is strategically exploiting."
-},
-{
-"id": "q_14",
-"question": "The NISAR satellite mission by NASA and ISRO uses dual-frequency (L-band and S-band) radar. What is the primary advantage of using a 'Dual-Frequency' approach for Earth observation?",
-"options": [
-"It allows the satellite to transmit data to Earth twice as fast using two different bandwidths.",
-"It provides a 'Stereoscopic' 3D view of the Earth's core and mantle density.",
-"It enables the detection of a wider variety of surface changes, as different wavelengths interact differently with vegetation, ice, and soil moisture.",
-"It ensures the satellite remains functional even if one radar frequency is jammed by an adversary."
-],
-"correct_index": 2,
-"explanation": "L-band (longer wavelength) can penetrate dense forest canopies and ice, while S-band (shorter wavelength) is more sensitive to surface roughness and moisture. Combining both allows NISAR to map everything from the flow of Himalayan glaciers to changes in Indian agricultural land with unprecedented detail."
-},
-{
-"id": "q_15",
-"question": "The 'Pax Silica Fund' launched by the White House illustrates a shift in semiconductor policy from 'Domestic Subsidies' to:",
-"options": [
-"Global 'Laissez-faire' trade where chips are sourced from the cheapest bidder.",
-"'Friend-shoring' and the creation of 'Trusted Supply Chains' among ideologically aligned partner nations.",
-"The 'Nationalization' of all high-end chip design firms to prevent intellectual property theft.",
-"A 'Zero-Sum' blockade where all semiconductor exports to Asian nations are permanently halted."
-],
-"correct_index": 1,
-"explanation": "The Pax Silica Fund aims to build supply chains with 'trusted partners' (allies). This is 'friend-shoring'—moving supply chains away from adversaries (like China) to nations with shared security values to ensure that critical tech (semiconductors) is not weaponized during a conflict."
-}
-]
+  "date": "March 31, 2026",
+  "questions": [
+    {
+      "id": "q_01",
+      "question": "The deployment of B-52 strategic bombers by the United States over Iran, as declared by Defense Secretary Pete Hegseth, most significantly illustrates which strategic shift in the ongoing conflict?",
+      "options": [
+        "A transition from tactical counter-insurgency to full-scale conventional territorial occupation.",
+        "The adoption of a 'Counter-Value' targeting strategy aimed specifically at civilian morale and population centers.",
+        "An escalation toward 'Counter-Force' objectives targeting hardened, high-value military and nuclear infrastructure.",
+        "A move toward 'Gray Zone' warfare designed to maintain plausible deniability of direct state involvement."
+      ],
+      "correct_index": 2,
+      "explanation": "B-52 bombers are heavy strategic platforms capable of carrying massive payloads designed to penetrate hardened or deeply buried targets. Their use indicates a move toward 'Counter-Force' targeting—aiming to destroy the enemy's military and nuclear capacity—rather than just tactical or peripheral targets."
+    },
+    {
+      "id": "q_02",
+      "question": "The IMF's warning regarding higher global prices and slower growth resulting from the Iran war implies which specific macroeconomic phenomenon is currently most threatening the global economy?",
+      "options": [
+        "Demand-pull inflation triggered by excessive government stimulus and household spending.",
+        "Stagflation resulting from a supply-side energy shock that increases production costs while dampening output.",
+        "Hyperinflation caused by the rapid expansion of the monetary base across G7 economies.",
+        "A deflationary spiral driven by a collapse in global consumer confidence and high savings rates."
+      ],
+      "correct_index": 1,
+      "explanation": "Stagflation is characterized by simultaneous high inflation and slow economic growth. The Iran war, by disrupting the Strait of Hormuz and driving record oil price rises, creates a classic supply-side shock that raises input costs (inflation) while reducing economic efficiency and GDP (slower growth)."
+    },
+    {
+      "id": "q_03",
+      "question": "The IAEA's formal radiological concerns over strikes near Iranian nuclear sites suggest that the conflict has crossed a threshold into which specific legal or humanitarian framework?",
+      "options": [
+        "The collective defense mandate under NATO Article 5 for non-member states.",
+        "The doctrine of 'Responsibility to Protect' (R2P) regarding ethnic cleansing within sovereign borders.",
+        "The legal framework governing 'Environmental War' and the long-term protection of civilian health and ecosystems.",
+        "The 'First Use' policy under the Nuclear Non-Proliferation Treaty (NPT) for conventional-to-nuclear transitions."
+      ],
+      "correct_index": 2,
+      "explanation": "IAEA warnings about radiological contamination invoke the principle that military operations must avoid collateral damage that leads to long-term environmental and public health catastrophes. This moves the conflict beyond immediate combat into the legal realm of protecting civilian environments from persistent radioactive hazards."
+    },
+    {
+      "id": "q_04",
+      "question": "The Ministry of Defence's ₹1,950 crore contract with Bharat Electronics Limited (BEL) for mountain surveillance radars is a primary application of which Indian policy pillar?",
+      "options": [
+        "The 'National Security Doctrine' prioritizing maritime domain awareness over land borders.",
+        "The 'Look East Policy' aimed at enhancing trade with Southeast Asian nations.",
+        "The 'Atmanirbhar Bharat' initiative focusing on indigenization and import substitution in strategic sectors.",
+        "The 'Digital India' mission to provide high-speed connectivity to border villages."
+      ],
+      "correct_index": 2,
+      "explanation": "Atmanirbhar Bharat emphasizes self-reliance, particularly in defense manufacturing. By awarding the contract to a state-owned PSU like BEL rather than a foreign vendor, the government reduces strategic dependence on external suppliers for critical border surveillance technology."
+    },
+    {
+      "id": "q_05",
+      "question": "The 'visa brake' mechanism activated by the UK Home Office to restrict specific nationalities illustrates which evolution in modern immigration governance?",
+      "options": [
+        "A move toward 'Universalism' where all nationalities are treated equally regardless of migration volume.",
+        "The use of 'Numerical Discretion' to align migration flows with domestic political and infrastructure constraints.",
+        "The total abandonment of 'Skilled Worker' routes in favor of humanitarian asylum priority.",
+        "A transition to 'Regional Reciprocity' where visa ease is linked solely to trade deal signings."
+      ],
+      "correct_index": 1,
+      "explanation": "A 'visa brake' allows the executive to use discretion to temporarily suspend or tighten rules for specific high-volume groups. It reflects a shift toward more dynamic, number-based controls intended to manage net migration figures and prevent domestic services from being overwhelmed."
+    },
+    {
+      "id": "q_06",
+      "question": "The 'Hubble tension' in cosmology, which primordial magnetic fields may help solve, refers to which fundamental discrepancy in our understanding of the universe?",
+      "options": [
+        "The difference between the amount of visible matter and invisible 'Dark Matter' in galaxies.",
+        "The mismatch between the observed expansion rate of the universe and the rate predicted by early-universe data.",
+        "The conflict between Einstein’s General Relativity and the Standard Model of Particle Physics.",
+        "The variation in the speed of light across different regions of the 'Cosmic Microwave Background'."
+      ],
+      "correct_index": 1,
+      "explanation": "The Hubble tension is the persistent difference between the Hubble constant ($H_0$) measured using early-universe data (the CMB) and measurements taken from the local, 'late' universe (supernovae/galaxies). Resolving it is critical to confirming or revising the Standard Model of Cosmology ($\Lambda$CDM)."
+    },
+    {
+      "id": "q_07",
+      "question": "The 'Guochao' trend in China, which has driven the toy market to 67.69 billion yuan, is best described as an intersection of:",
+      "options": [
+        "Globalized consumerism and the 'Blind Box' gambling psychology.",
+        "Foreign IP dominance and the decline of traditional Chinese cultural aesthetics.",
+        "State-backed nationalist sentiment and the commercial celebration of domestic heritage brands.",
+        "The transition from a manufacturing-based economy to a purely digital 'Metaverse' market."
+      ],
+      "correct_index": 2,
+      "explanation": "Guochao (National Tide) is a consumer trend where younger Chinese citizens favor brands that incorporate traditional Chinese elements. It is a powerful socio-economic force fueled by rising nationalism and the government's push for cultural confidence and domestic consumption."
+    },
+    {
+      "id": "q_08",
+      "question": "Targeting a Kuwaiti oil tanker off Dubai illustrates Iran's use of 'Economic Asymmetry' primarily because:",
+      "options": [
+        "Kuwait is a nuclear-armed state with no conventional naval capacity.",
+        "The act forces neutral or less-involved GCC states to bear the insurance and transit costs of the US-Israel war.",
+        "Commercial tankers are more difficult to track than modern stealth destroyers.",
+        "The strike utilizes 'Sub-surface' drones that are invisible to the Dubai coast guard."
+      ],
+      "correct_index": 1,
+      "explanation": "By attacking a GCC vessel outside the immediate war zone, Iran uses economic leverage to pressure its neighbors. It forces them to either pressure the US for a ceasefire or face crippling maritime insurance rates and supply chain collapses, thereby spreading the cost of the war to non-belligerents."
+    },
+    {
+      "id": "q_09",
+      "question": "The discovery of magnetic mechanisms challenging Amontons' 300-year-old law of friction at the nanoscale has the most direct implication for:",
+      "options": [
+        "The efficiency of large-scale internal combustion engines in heavy trucks.",
+        "The development of near-frictionless components for NEMS (Nano-Electro-Mechanical Systems).",
+        "The seismic stability of large infrastructure projects in 'Red Corridor' regions.",
+        "The aerodynamic profile of hypersonic glide vehicles in the upper atmosphere."
+      ],
+      "correct_index": 1,
+      "explanation": "Amontons' law governs macroscopic friction. Overturning it at the nanoscale allows scientists to design devices (NEMS) where electromagnetic or magnetic forces can be manipulated to reduce wear and friction to near-zero, enabling a new generation of tiny, durable machines."
+    },
+    {
+      "id": "q_10",
+      "question": "The UAE Fuel Price Committee's sharp hike for April 2026 illustrates which domestic economic policy principle?",
+      "options": [
+        "The 'Subsidy-Free' model of passing international commodity price shocks directly to the domestic consumer.",
+        "The 'Fixed-Exchange' protocol where fuel prices are pegged to the Gold standard.",
+        "The 'Command Economy' approach of insulating citizens from global market volatility.",
+        "The 'Progressive Taxation' system where high-octane fuel revenue funds social safety nets."
+      ],
+      "correct_index": 0,
+      "explanation": "The UAE moved to market-linked pricing in 2015. This means the government does not 'cushion' the blow of global oil price rises (like the Iran war shock) with subsidies, ensuring fiscal health for the state but exposing consumers to immediate price volatility."
+    },
+    {
+      "id": "q_11",
+      "question": "Chhattisgarh's declaration of eliminating Naxalism by a self-imposed deadline, if substantiated, strengthens which governance theory in counter-insurgency?",
+      "options": [
+        "The 'Pure Military' model focusing solely on the neutralization of leadership through air strikes.",
+        "The 'Integrated Development' approach combining security operations with infrastructure and tribal welfare.",
+        "The 'Status Quo' theory of allowing insurgencies to persist as a buffer against foreign invasion.",
+        "The 'Peace-at-any-cost' model involving the total withdrawal of central paramilitary forces."
+      ],
+      "correct_index": 1,
+      "explanation": "India’s LWE strategy (SAMADHAN) combines offensive security operations with massive development initiatives in tribal areas. Success in Chhattisgarh would validate that defeating an entrenched insurgency requires addressing the underlying 'development deficit' alongside tactical security."
+    },
+    {
+      "id": "q_12",
+      "question": "The finding that *Lactobacillus plantarum* can expel nanoplastics from the body identifies a potential 'Probiotic Intervention' that primarily leverages which biological process?",
+      "options": [
+        "Phagocytosis, where white blood cells ingest plastic particles in the bloodstream.",
+        "Adsorption and gastrointestinal transit, where bacteria bind to particles to facilitate excretion.",
+        "Enzymatic degradation, where the bacterium breaks down plastic polymers into carbon dioxide.",
+        "Hyper-hydration, where the gut flushes all toxins through increased water absorption."
+      ],
+      "correct_index": 1,
+      "explanation": "The research suggests the bacterium binds to the surface of nanoplastics in the gut (adsorption). Because the bacteria themselves are expelled during normal digestion, they take the bound plastic with them, reducing the 'body burden' of plastics that might otherwise enter the blood."
+    },
+    {
+      "id": "q_13",
+      "question": "In the context of the S&P 500's worst quarter since 2022, which 'Transmission Mechanism' best explains how a war in the Middle East affects a US tech company's stock price?",
+      "options": [
+        "The 'Currency Channel' where a weak dollar makes US software too expensive for domestic buyers.",
+        "The 'Risk-Premium' channel where heightened uncertainty leads investors to demand higher returns, lowering asset valuations.",
+        "The 'Labor Channel' where US tech workers migrate to the conflict zone for higher wages.",
+        "The 'Subsidy Channel' where the US government cancels all AI research funding to pay for fuel."
+      ],
+      "correct_index": 1,
+      "explanation": "War increases uncertainty and inflation expectations. This leads to higher interest rates (as central banks fight inflation) and a higher 'equity risk premium.' When the discount rate used to value future earnings rises, the present value (stock price) of companies, especially tech firms with future-weighted earnings, falls."
+    },
+    {
+      "id": "q_14",
+      "question": "The USDA's 'Prospective Plantings' report showing a shift from corn to soybeans most strongly illustrates the influence of which factor on global food security?",
+      "options": [
+        "The 'Biological Clock' of crops where soybeans grow faster in winter months.",
+        "The 'Input-Cost' sensitivity of farmers toward nitrogen-heavy crops amid fertilizer disruptions.",
+        "The 'Consumer Choice' trend where global populations are abandoning corn-based diets.",
+        "The 'Legislative Mandate' forcing US farmers to plant specific acreages of legumes."
+      ],
+      "correct_index": 1,
+      "explanation": "Corn is highly dependent on nitrogen-based fertilizers, many of which are produced using natural gas (disrupted by the war). Soybeans are 'nitrogen-fixers' and require less fertilizer. Farmers shift to soybeans to lower their input costs when fertilizer prices spike, affecting the global supply of corn."
+    },
+    {
+      "id": "q_15",
+      "question": "Targeting critical energy infrastructure in Isfahan and Tehran to impose 'Civilian Pressure' most strongly aligns with which historical military doctrine?",
+      "options": [
+        "The 'Schlieffen Plan' focusing on rapid encircling of the capital's perimeter.",
+        "The 'Douhet Theory' of strategic air power breaking a nation's will to fight by striking its vital centers.",
+        "The 'Fabian Strategy' of avoiding direct battle to wear down the enemy's patience.",
+        "The 'Guerilla Warfare' model of decentralized resistance in mountainous terrain."
+      ],
+      "correct_index": 1,
+      "explanation": "Giulio Douhet’s theory of air power posits that striking the 'vital centers' (power, water, industry) will cause the civilian population to demand an end to the war. By striking Isfahan and Tehran's power grids, the coalition is attempting to undermine the Iranian regime’s domestic stability."
+    }
+  ]
 }
