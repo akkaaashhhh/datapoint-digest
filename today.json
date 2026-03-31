@@ -1,143 +1,9 @@
 {
   "world": [
     {
-      "headline": "Israel Launches Intense Wave of Airstrikes on Tehran and Iranian Infrastructure",
-      "description": "Israel carried out a major wave of airstrikes targeting infrastructure in Tehran and other Iranian cities, marking one of the most intense bombardment episodes since the US-Israeli war on Iran began. Strikes included targets near nuclear facilities, raising radiological concerns internationally.",
-      "context": "The escalation represents a significant deepening of the month-long conflict. Targeting infrastructure in the Iranian capital signals a shift toward maximum pressure tactics aimed at forcing a ceasefire, but risks triggering wider regional retaliation and humanitarian catastrophe.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "US-Israeli military campaign against Iran formally begins",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-27",
-          "label": "Israel strikes Iranian nuclear sites; Iran vows retaliation",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "Israel launches intense wave of strikes on Tehran and Iranian infrastructure",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "IAEA expresses concern over radiological risks at struck sites",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Arak heavy water plant",
-          "definition": "An Iranian nuclear facility linked to plutonium production, struck by Israeli forces during this wave of attacks."
-        },
-        {
-          "term": "IAEA",
-          "definition": "International Atomic Energy Agency, the UN body monitoring nuclear safety, which raised concerns over radiological risks at struck Iranian sites."
-        },
-        {
-          "term": "Radiological risk",
-          "definition": "The danger of radioactive material release from damaged nuclear facilities, which could affect civilians and the environment."
-        },
-        {
-          "term": "Infrastructure strikes",
-          "definition": "Military attacks targeting power, water, transport, and communications systems to degrade an adversary's capacity to sustain warfare."
-        }
-      ],
-      "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil"
-    },
-    {
-      "headline": "Iran Retaliates with Ballistic Missile Barrages on Israeli Targets",
-      "description": "Iran launched large-scale ballistic missile attacks against Israeli population centres and military targets in direct retaliation for Israeli airstrikes on Iranian nuclear and infrastructure sites, marking one of the most intense exchange of fire since the war began.",
-      "context": "The missile exchange demonstrates that neither side has achieved decisive military superiority after a month of conflict. Iran's willingness to strike Israeli civilian areas raises the stakes for regional escalation and further complicates diplomatic ceasefire efforts being pursued through Pakistan and Gulf intermediaries.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "US-Israeli campaign against Iran begins",
-          "type": "background"
-        },
-        {
-          "date": "2026-03-27",
-          "label": "Israel strikes Iranian nuclear sites; Iran promises retaliation",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "Iran launches large-scale ballistic missile barrages on Israeli targets",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East",
-      "key_terms": [
-        {
-          "term": "Ballistic missile",
-          "definition": "A guided projectile following a high-arc ballistic trajectory, used by Iran to strike targets in Israel."
-        },
-        {
-          "term": "Iron Dome / Arrow system",
-          "definition": "Israel's layered air defence architecture designed to intercept short, medium, and long-range ballistic threats."
-        },
-        {
-          "term": "Mutual assured degradation",
-          "definition": "A conflict dynamic in which both sides systematically degrade each other's military and civilian infrastructure without achieving decisive victory."
-        }
-      ],
-      "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil"
-    },
-    {
-      "headline": "Houthis Launch Ballistic Missile at Israel as They Join Iran War Directly",
-      "description": "Yemen's Houthi movement confirmed firing a ballistic missile at Israel, formally entering the Iran war as an active participant. The attack represents the group's most direct military engagement with Israel since the broader conflict began.",
-      "context": "The Houthi entry dramatically expands the geographic front of the war and demonstrates the resilience of Iran's Axis of Resistance even as US-Israeli strikes degrade Iranian capabilities. It forces Israel and the US to manage a multi-front threat, stretching air defence resources and complicating military planning.",
-      "timeline": [
-        {
-          "date": "2024-10-07",
-          "label": "Houthis begin Red Sea shipping attacks in solidarity with Gaza",
-          "type": "background"
-        },
-        {
-          "date": "2026-02-28",
-          "label": "US-Israeli war on Iran begins",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-28",
-          "label": "Houthis launch first strike on Israel since Iran war began",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "Houthis confirm ballistic missile attack on Israel, formally entering war",
-          "type": "escalation"
-        }
-      ],
-      "importance_score": 5,
-      "category": "world",
-      "region": "Middle East / Yemen",
-      "key_terms": [
-        {
-          "term": "Houthis (Ansar Allah)",
-          "definition": "An Iranian-backed armed movement controlling much of northern Yemen, part of the Axis of Resistance."
-        },
-        {
-          "term": "Axis of Resistance",
-          "definition": "A coalition of Iran-aligned armed groups including Hezbollah, Hamas, and the Houthis, acting in coordination against US and Israeli interests."
-        },
-        {
-          "term": "Multi-front war",
-          "definition": "A conflict in which an adversary must simultaneously defend against attacks from multiple geographic directions."
-        }
-      ],
-      "link": "https://www.bbc.com/news/world/middle_east"
-    },
-    {
-      "headline": "US Deploys 2,500 Marines to Region as Iran War Enters Second Month",
-      "description": "The United States ordered the deployment of 2,500 Marines to the Middle East as the Iran war entered its second month, signalling a potential escalation of the US military footprint in the region despite official denials of plans for a ground invasion.",
-      "context": "The Marine deployment raises questions about US strategic intentions at a time when the Trump administration is officially pursuing a negotiated settlement. The move is designed to create military leverage in talks while reassuring Gulf allies, but risks being interpreted by Iran as preparation for ground operations.",
+      "headline": "Hegseth Says Coming Days Decisive as B-52 Bombers Begin Iran Missions",
+      "description": "US Defense Secretary Pete Hegseth declared the coming days decisive in the Iran war as the Pentagon confirmed B-52 strategic bombers had begun flying missions over Iran, marking a significant escalation in the air campaign's firepower and psychological pressure on Tehran.",
+      "context": "The deployment of B-52s signals a shift toward heavier strategic bombing capability, potentially targeting hardened underground nuclear and military facilities that smaller tactical aircraft cannot penetrate. Hegseth's language of decisiveness suggests the US believes it is approaching a critical military and diplomatic inflection point.",
       "timeline": [
         {
           "date": "2026-02-28",
@@ -145,13 +11,13 @@
           "type": "event"
         },
         {
-          "date": "2026-03-10",
-          "label": "Iran-aligned forces begin attacking US regional bases",
+          "date": "2026-03-29",
+          "label": "US deploys 2,500 Marines to the region",
           "type": "escalation"
         },
         {
-          "date": "2026-03-29",
-          "label": "US deploys 2,500 Marines to the region at the one-month mark",
+          "date": "2026-03-31",
+          "label": "B-52 bombers begin missions over Iran; Hegseth declares coming days decisive",
           "type": "escalation"
         }
       ],
@@ -160,38 +26,238 @@
       "region": "Middle East",
       "key_terms": [
         {
-          "term": "CENTCOM",
-          "definition": "US Central Command, the military headquarters coordinating American forces across the Middle East and Central Asia."
+          "term": "B-52 Stratofortress",
+          "definition": "A long-range US strategic heavy bomber capable of carrying conventional and nuclear payloads, used for deep-penetration strikes on hardened targets."
         },
         {
-          "term": "Force projection",
-          "definition": "The ability to deploy and sustain military forces at a distance, used here to signal resolve and create negotiating leverage."
+          "term": "Pete Hegseth",
+          "definition": "US Secretary of Defense overseeing military operations in the Iran war."
         },
         {
-          "term": "Ground invasion",
-          "definition": "A land-based military assault explicitly denied by the Trump administration but feared by Iran following the Marine deployment."
+          "term": "Strategic bombing",
+          "definition": "Air attacks designed to destroy an adversary's war-making capacity by targeting military-industrial infrastructure."
         }
       ],
-      "link": "https://apnews.com/live/iran-war-israel-trump-03-29-2026"
+      "link": "https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump"
     },
     {
-      "headline": "Strait of Hormuz Blockade Drives Global Oil Prices Over 50% Higher",
-      "description": "Iran's sustained blockade of the Strait of Hormuz has driven global oil prices more than 50% above pre-war levels, threatening to trigger a global inflationary spiral, energy rationing, and recession in import-dependent economies.",
-      "context": "A 50% oil price increase is a macro-level shock comparable to the 1973 OPEC embargo in its potential economic consequences. Central banks face an impossible choice between raising rates to fight inflation or keeping them low to support slowing growth, while governments in Europe, Asia, and the developing world scramble for alternative energy supplies.",
+      "headline": "Kuwaiti Oil Tanker Hit by Iranian Strike Off Dubai, Fires Reported",
+      "description": "An Iranian military strike hit a Kuwaiti oil tanker off the coast of Dubai, triggering fires aboard the vessel and marking the first direct strike on a Gulf Cooperation Council-flagged commercial ship since the Iran war began.",
+      "context": "Targeting a Kuwaiti tanker off Dubai escalates the conflict to GCC waters, threatening to draw additional Gulf states into the fighting and dramatically raising the cost of insurance and transit for all Gulf-linked shipping. It demonstrates Iran's willingness to extend the war's economic damage beyond the Hormuz chokepoint.",
       "timeline": [
         {
           "date": "2026-02-28",
-          "label": "Iran begins threatening and restricting Hormuz transit",
+          "label": "Iran begins restricting Hormuz transit as US-Israeli war starts",
           "type": "event"
         },
         {
-          "date": "2026-03-15",
-          "label": "Oil prices begin sustained upward climb as blockade tightens",
+          "date": "2026-03-23",
+          "label": "UAE intercepts ballistic missiles over Abu Dhabi",
           "type": "escalation"
         },
         {
+          "date": "2026-03-31",
+          "label": "Iranian strike hits Kuwaiti oil tanker off Dubai, fires reported",
+          "type": "escalation"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East / Persian Gulf",
+      "key_terms": [
+        {
+          "term": "Tanker strike",
+          "definition": "A deliberate attack on a commercial oil vessel, a tactic Iran has used historically to impose economic costs on adversaries."
+        },
+        {
+          "term": "GCC",
+          "definition": "Gulf Cooperation Council, a political and economic alliance of six Gulf Arab states including Kuwait and the UAE."
+        },
+        {
+          "term": "War risk insurance",
+          "definition": "Specialist maritime insurance covering vessels operating in conflict zones, whose premiums have surged to record levels during the Hormuz crisis."
+        }
+      ],
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/31/iran-war-live"
+    },
+    {
+      "headline": "Trump Threatens to 'Obliterate' Iranian Infrastructure if No Deal Reached",
+      "description": "President Donald Trump issued an explicit threat to obliterate Iranian infrastructure if Tehran failed to agree to a ceasefire deal, simultaneously claiming progress in negotiations that Iran publicly denied, creating contradictory signals that deepened market and diplomatic uncertainty.",
+      "context": "Trump's obliteration threat is the most extreme rhetorical escalation from the US side since the war began and is intended to strengthen Washington's negotiating hand. However, the simultaneous contradiction between Trump's claims of progress and Iran's denials reflects a pattern of conflicting messaging that has consistently undermined diplomatic credibility throughout the conflict.",
+      "timeline": [
+        {
+          "date": "2026-03-20",
+          "label": "US delivers 15-point ceasefire proposal to Iran via intermediaries",
+          "type": "event"
+        },
+        {
           "date": "2026-03-29",
-          "label": "Brent crude surges; prices now over 50% above pre-war levels",
+          "label": "Iran formally rejects key elements of US ceasefire proposal",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "Trump threatens to obliterate Iranian infrastructure; claims progress Iran denies",
+          "type": "escalation"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East",
+      "key_terms": [
+        {
+          "term": "Infrastructure obliteration threat",
+          "definition": "Trump's public warning to destroy Iranian power, water, and industrial infrastructure if ceasefire talks fail."
+        },
+        {
+          "term": "Coercive diplomacy",
+          "definition": "A strategy combining military threats with negotiation offers to compel an adversary to alter behaviour."
+        },
+        {
+          "term": "Iranian power grid",
+          "definition": "Iran's electricity generation and transmission infrastructure, previously identified as a potential US strike target."
+        }
+      ],
+      "link": "https://www.cnn.com/world/live-news/iran-war-us-trump-oil"
+    },
+    {
+      "headline": "US Gas Prices Hit $4 Per Gallon as Hormuz Disruptions Drive Energy Shock",
+      "description": "US domestic gasoline prices breached $4 per gallon for the first time since 2022, driven by the sustained Hormuz blockade and its knock-on effects on global crude prices, creating direct political pressure on the Trump administration over the war's domestic economic costs.",
+      "context": "The $4 per gallon threshold is historically a politically significant pain point for US consumers and lawmakers. The domestic price impact converts the Iran war from an abstract geopolitical conflict into a daily economic reality for American households, intensifying congressional debate about the cost and duration of military operations.",
+      "timeline": [
+        {
+          "date": "2022-06-14",
+          "label": "US gasoline prices previously hit all-time record of $5.02 per gallon amid post-Ukraine energy shock",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Iran war begins; Hormuz transit threatened, global oil prices begin climbing",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "US gasoline prices hit $4 per gallon as Hormuz disruptions persist",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "United States / Global",
+      "key_terms": [
+        {
+          "term": "$4 per gallon threshold",
+          "definition": "A historically significant US gasoline price level at which consumer and political pressure on administrations intensifies sharply."
+        },
+        {
+          "term": "Brent crude",
+          "definition": "The international benchmark for oil pricing, on course for its largest monthly rise on record during the Hormuz crisis."
+        },
+        {
+          "term": "Strategic Petroleum Reserve (SPR)",
+          "definition": "US government emergency oil stockpile used to moderate domestic fuel price spikes during supply disruptions."
+        }
+      ],
+      "link": "https://apnews.com/live/iran-war-israel-trump-03-31-2026"
+    },
+    {
+      "headline": "Eurozone Inflation Jumps to 2.5% and Euro Area Prices Surge Past ECB Target on Iran War Energy Shock",
+      "description": "Eurozone inflation accelerated to 2.5% in March, surpassing the European Central Bank's 2% target, driven primarily by the energy price shock from the Iran war and Hormuz disruptions, complicating the ECB's monetary policy decisions.",
+      "context": "Inflation returning above target forces the ECB to choose between raising rates to control prices, at the cost of slowing already sluggish European growth, or tolerating above-target inflation to protect output. German economic institutes simultaneously cut their 2026 growth forecasts, compressing the policy space available to European authorities.",
+      "timeline": [
+        {
+          "date": "2024-06-06",
+          "label": "ECB begins cutting interest rates as inflation falls back toward target",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Iran war begins; European energy prices begin rising",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "Eurozone inflation hits 2.5%; German institutes cut 2026 growth forecasts",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Europe",
+      "key_terms": [
+        {
+          "term": "ECB",
+          "definition": "European Central Bank, the monetary authority for the 20 eurozone member states, targeting 2% inflation."
+        },
+        {
+          "term": "Stagflation risk",
+          "definition": "The danger of simultaneous high inflation and slowing economic growth, a scenario European policymakers now face."
+        },
+        {
+          "term": "German economic institutes",
+          "definition": "Leading German research bodies including IFO, DIW, and IfW that jointly issue influential economic forecasts."
+        }
+      ],
+      "link": "https://www.ft.com/content/bcfbdf24-bfc4-4efb-ba95-ec999b0900e4"
+    },
+    {
+      "headline": "S&P 500 Heads for Worst Quarter Since 2022 on Iran War and Rate Worries",
+      "description": "The S&P 500 index is on course for its worst quarterly performance since 2022, driven by the compounding impacts of the Iran war energy shock, elevated inflation expectations, and uncertainty over Federal Reserve interest rate policy.",
+      "context": "A major equity market downturn reflects the cumulative financial market assessment that the Iran war has fundamentally altered the global economic outlook. The combination of higher energy costs, supply chain disruption, and tightening monetary conditions creates a challenging environment for corporate earnings across most sectors.",
+      "timeline": [
+        {
+          "date": "2022-Q4",
+          "label": "S&P 500 previously recorded worst quarterly performance amid Fed rate hiking cycle",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Iran war begins; markets begin pricing in energy and inflation shock",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "S&P 500 on track for worst quarter since 2022 as Iran war weighs on markets",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "United States / Global",
+      "key_terms": [
+        {
+          "term": "S&P 500",
+          "definition": "The benchmark US equity index tracking 500 large-cap companies, widely used as a proxy for overall market health."
+        },
+        {
+          "term": "Federal Reserve",
+          "definition": "The US central bank monitoring stagflation risks from the energy shock, facing conflicting rate policy pressures."
+        },
+        {
+          "term": "Quarterly performance",
+          "definition": "The change in an index over a three-month period, a key metric for assessing market health and investor sentiment."
+        }
+      ],
+      "link": "https://www.reuters.com/business/finance/sp-500-heads-worst-quarter-since-2022-iran-war-rate-worries-rattle-wall-street-2026-03-31/"
+    },
+    {
+      "headline": "Brent Crude on Course for Largest Monthly Price Rise on Record",
+      "description": "Brent crude oil is tracking its largest-ever single-month price increase, driven by the sustained Hormuz blockade, heightened military activity, and dimming ceasefire prospects, with ripple effects across global inflation, shipping, and monetary policy.",
+      "context": "A record monthly price rise for the world's oil benchmark represents an unprecedented shock to the global economy at a time when central banks are already managing post-pandemic inflation legacies. The sustained nature of the disruption, unlike previous brief spikes, means its inflationary effects are becoming structurally embedded in global prices.",
+      "timeline": [
+        {
+          "date": "1973-10-17",
+          "label": "OPEC oil embargo causes largest previous peacetime oil price shock",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Hormuz disruptions begin driving oil price climb",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "Brent crude on course for largest single-month price rise in recorded history",
           "type": "consequence"
         }
       ],
@@ -201,81 +267,117 @@
       "key_terms": [
         {
           "term": "Brent crude",
-          "definition": "The international benchmark price for oil, used to set pricing for two-thirds of global oil supply."
+          "definition": "The international oil benchmark priced in the North Sea, setting the reference for approximately two-thirds of global crude supply."
         },
         {
-          "term": "Stagflation",
-          "definition": "A damaging economic condition combining stagnant growth with high inflation, now a rising risk from energy price shock."
+          "term": "Oil price shock",
+          "definition": "A sudden large increase in oil prices that cascades through transportation, manufacturing, and consumer costs globally."
         },
         {
-          "term": "OPEC+",
-          "definition": "Coalition of major oil producers adjusting production policy in response to the Hormuz supply disruption."
-        },
-        {
-          "term": "Energy rationing",
-          "definition": "Government-mandated limits on energy consumption implemented when supply falls critically short of demand."
+          "term": "G7 energy crisis talks",
+          "definition": "Emergency consultations among the world's seven largest advanced economies on stabilising energy markets amid the Hormuz closure."
         }
       ],
-      "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil"
+      "link": "https://www.ft.com/content/5a5b3220-d260-4355-baa5-1986ac1523fb"
     },
     {
-      "headline": "Iran Formally Responds to US 15-Point Ceasefire Proposal, Asserts Hormuz Rights",
-      "description": "Iran delivered a formal response to the US 15-point ceasefire proposal transmitted via intermediaries, rejecting key elements while reasserting its claimed legal right over the Strait of Hormuz. The response complicates prospects for a near-term end to the conflict.",
-      "context": "Iran's insistence on sovereignty over Hormuz as a negotiating position is a fundamental challenge to international maritime law and the basis of global energy trade. The rejection of key ceasefire elements while leaving the door open to continued talks reflects Tehran's attempt to extract maximum concessions before agreeing to any deal.",
+      "headline": "Europe Pushes Back on US Military Operations Over Iran War Concerns",
+      "description": "European governments formally pushed back against aspects of US military operations in the Iran war, expressing concerns over civilian casualties, radiological risks near nuclear sites, and the absence of a clear diplomatic exit strategy.",
+      "context": "European dissent from US military strategy represents a significant fracture in transatlantic unity at a critical moment in the war. NATO allies are under pressure from domestic publics alarmed by energy price rises and civilian death tolls, while the US accuses European partners of free-riding on American military capacity.",
       "timeline": [
         {
-          "date": "2026-03-20",
-          "label": "US delivers 15-point action list to Iran via intermediaries",
+          "date": "2026-02-28",
+          "label": "US-Israeli campaign begins; European allies express initial reservations",
           "type": "event"
         },
         {
-          "date": "2026-03-28",
-          "label": "Pakistan hosts multilateral talks to encourage US-Iran diplomacy",
+          "date": "2026-03-15",
+          "label": "EU leaders call for moratorium on energy infrastructure strikes",
           "type": "escalation"
         },
         {
-          "date": "2026-03-29",
-          "label": "Iran formally responds to US ceasefire proposal, asserting Hormuz rights",
+          "date": "2026-03-31",
+          "label": "Europe formally pushes back on US military operations over Iran war concerns",
+          "type": "escalation"
+        }
+      ],
+      "importance_score": 4,
+      "category": "world",
+      "region": "Europe / Transatlantic",
+      "key_terms": [
+        {
+          "term": "Transatlantic fracture",
+          "definition": "A strategic divergence between the United States and its European NATO allies over military operations and war strategy."
+        },
+        {
+          "term": "NATO Article 5",
+          "definition": "The collective defence clause of the NATO treaty; its non-invocation in the Iran war has highlighted alliance divisions."
+        },
+        {
+          "term": "Free-rider problem",
+          "definition": "The tendency of alliance members to underinvest in defence, relying on others' capabilities, a recurring US criticism of European NATO members."
+        }
+      ],
+      "link": "https://www.reuters.com/world/europe/europe-pushes-back-us-military-operations-concerns-over-iran-war-mount-2026-03-31/"
+    },
+    {
+      "headline": "IMF Warns of Higher Global Prices and Slower Growth from Iran War",
+      "description": "The International Monetary Fund issued a formal warning that the prolonged Iran war would generate higher global inflation and slower economic growth, revising downward its near-term world GDP projections and calling for urgent diplomatic de-escalation.",
+      "context": "An IMF growth warning carries significant weight as a signal to financial markets and governments alike. The combination of an oil price shock, supply chain disruptions, and elevated uncertainty is the classic recipe for a global economic slowdown, and the IMF's intervention reflects institutional concern that the war has now crossed a threshold of systemic economic risk.",
+      "timeline": [
+        {
+          "date": "2023-10-01",
+          "label": "IMF previously warned of fragmentation risks to global economy from geopolitical tensions",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Iran war begins; IMF begins monitoring economic spillovers",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "IMF formally warns of higher global inflation and slower growth from Iran war",
           "type": "consequence"
         }
       ],
       "importance_score": 5,
       "category": "world",
-      "region": "Middle East",
+      "region": "Global",
       "key_terms": [
         {
-          "term": "15-point ceasefire proposal",
-          "definition": "A US framework document outlining conditions for ending the Iran war, delivered via Pakistani and Gulf intermediaries."
+          "term": "IMF",
+          "definition": "International Monetary Fund, the 190-member institution that monitors global economic stability and provides emergency financing."
         },
         {
-          "term": "Strait of Hormuz sovereignty",
-          "definition": "Iran's disputed claim to exercise control over passage through the Strait, rejected by international maritime law."
+          "term": "World GDP revision",
+          "definition": "A downward adjustment to the IMF's projection for total global economic output, signalling systemic deterioration."
         },
         {
-          "term": "Backchannel diplomacy",
-          "definition": "Indirect negotiations conducted through third-party intermediaries rather than direct state-to-state contact."
+          "term": "Stagflation",
+          "definition": "The simultaneous occurrence of high inflation and slow economic growth, the primary risk scenario identified by the IMF."
         }
       ],
-      "link": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait"
+      "link": "https://www.bloomberg.com/news/articles/"
     },
     {
-      "headline": "Pakistan Hosts Multilateral Talks to Facilitate US-Iran Diplomatic Dialogue",
-      "description": "Pakistan brought together Saudi Arabia, Turkey, and Egypt in Islamabad for multilateral talks aimed at creating diplomatic pathways to end the Iran war, with Pakistan also serving as a key backchannel for delivering US ceasefire proposals to Tehran.",
-      "context": "Pakistan's dual role as host of regional diplomacy and as a conduit for US-Iran communications elevates its strategic importance in the conflict's resolution. The coalition of Muslim-majority states represented in Islamabad reflects a desire among regional powers to assert an independent diplomatic track beyond Washington and Tel Aviv.",
+      "headline": "Pakistan Prepared to Host Direct US-Iran Talks as Diplomacy Intensifies",
+      "description": "Pakistan formally declared its readiness to host direct negotiations between the United States and Iran, positioning Islamabad as the primary diplomatic venue for ending the month-long war following its role as a key backchannel intermediary.",
+      "context": "Pakistan's offer to host direct talks represents an elevation from its previous role as a message carrier to a potential full diplomatic host, conferring significant international prestige. Its unique position as a nuclear-armed Muslim-majority state with relationships in both Washington and Tehran makes it one of the few credible neutral venues for such negotiations.",
       "timeline": [
         {
-          "date": "2026-02-28",
-          "label": "Iran war begins; regional states begin coordinating responses",
+          "date": "2026-03-20",
+          "label": "US asks Pakistan to deliver 15-point ceasefire proposal to Iran",
           "type": "background"
         },
         {
-          "date": "2026-03-20",
-          "label": "US asks Pakistan to deliver 15-point proposal to Iran",
+          "date": "2026-03-29",
+          "label": "Pakistan hosts Saudi Arabia, Turkey, Egypt in Islamabad for Iran war diplomacy",
           "type": "escalation"
         },
         {
-          "date": "2026-03-29",
-          "label": "Pakistan hosts Saudi Arabia, Turkey, Egypt for Iran war diplomacy talks",
+          "date": "2026-03-31",
+          "label": "Pakistan formally declares readiness to host direct US-Iran negotiations",
           "type": "event"
         }
       ],
@@ -284,280 +386,160 @@
       "region": "South Asia / Middle East",
       "key_terms": [
         {
-          "term": "Islamabad talks",
-          "definition": "Multilateral diplomatic consultations hosted by Pakistan among key Muslim-majority regional powers on ending the Iran war."
+          "term": "Direct talks",
+          "definition": "Face-to-face negotiations between principals — in this case the US and Iran — as opposed to backchannel or proxy communication."
         },
         {
-          "term": "Backchannel",
-          "definition": "An unofficial or indirect communication channel used to transmit sensitive diplomatic messages between adversaries."
+          "term": "Neutral diplomatic venue",
+          "definition": "A third country hosting negotiations that has credibility and relationships with both parties to a conflict."
         },
         {
-          "term": "OIC",
-          "definition": "Organisation of Islamic Cooperation, a grouping of Muslim-majority states whose members are increasingly active in Iran war diplomacy."
+          "term": "Diplomatic hosting",
+          "definition": "The formal role of a state in providing venue, security, and facilitation for international peace negotiations."
         }
       ],
-      "link": "https://www.aljazeera.com/middle-east/"
+      "link": "https://www.cnbc.com/2026/03/31/pakistan-prepared-to-host-us-iran-talks-trump-weighs-deploying-ground-troops.html"
     },
     {
-      "headline": "Russian Drones Kill Four in Ukraine, Damage Maternity Hospital and Infrastructure",
-      "description": "Russian drone strikes killed four civilians in Ukraine and caused significant damage including to a maternity hospital and power infrastructure across multiple Ukrainian regions, as peace negotiations between the two sides remained entirely stalled.",
-      "context": "Russia's sustained drone campaign against Ukrainian civilian infrastructure exploits the diversion of Western diplomatic and military attention to the Iran conflict. Attacks on protected sites such as hospitals constitute potential violations of international humanitarian law and are designed to break civilian morale.",
+      "headline": "Israel Plans to Destroy All Houses Near Lebanon Border as Conflict Escalates",
+      "description": "Israel's defence minister announced plans to demolish all residential structures along the Lebanese border to create an expanded security buffer zone, citing ongoing Hezbollah rocket threats and the multi-front pressures of the Iran war.",
+      "context": "The announcement signals Israel's intent to create a permanent depopulated security zone reminiscent of tactics used historically in Gaza and the occupied West Bank. The move will displace Israeli civilians and further inflame tensions with Lebanon, adding a domestic displacement dimension to the military campaign.",
       "timeline": [
         {
-          "date": "2022-02-24",
-          "label": "Russia launches full-scale invasion of Ukraine",
+          "date": "2024-10-01",
+          "label": "Israel launches ground operations in southern Lebanon against Hezbollah",
           "type": "background"
         },
         {
           "date": "2026-02-28",
-          "label": "Iran war diverts Western resources and attention from Ukraine",
+          "label": "Iran war begins; northern Israel faces renewed rocket and missile attacks",
           "type": "escalation"
         },
         {
-          "date": "2026-03-29",
-          "label": "Russian drones kill four, damage maternity hospital and power infrastructure",
+          "date": "2026-03-31",
+          "label": "Israel announces plans to destroy all houses near Lebanon border",
           "type": "event"
         }
       ],
       "importance_score": 4,
       "category": "world",
-      "region": "Europe / Ukraine",
+      "region": "Middle East / Levant",
       "key_terms": [
         {
-          "term": "Shahed drones",
-          "definition": "Iranian-designed one-way attack drones used extensively by Russia against Ukrainian civilian and military targets."
+          "term": "Security buffer zone",
+          "definition": "A cleared area along a border from which civilians are removed to reduce the threat of cross-border attacks."
         },
         {
-          "term": "International Humanitarian Law",
-          "definition": "Legal framework governing armed conflict, including prohibitions on targeting civilian infrastructure and protected sites."
+          "term": "Hezbollah",
+          "definition": "Iran-backed Lebanese militant organisation conducting rocket attacks into northern Israel from Lebanese territory."
         },
         {
-          "term": "Zelenskyy",
-          "definition": "Ukrainian president simultaneously managing drone attacks at home while seeking Gulf defence partnerships abroad."
+          "term": "Displacement",
+          "definition": "The forced movement of civilians from their homes due to military operations or security measures."
         }
       ],
-      "link": "https://www.reuters.com/world/ukraine-russia-war/"
+      "link": "https://www.reuters.com/world/middle-east/israel-destroy-all-houses-near-lebanon-border-defence-minister-says-2026-03-31/"
     },
     {
-      "headline": "Zelenskyy Denies US Demands for Territorial Concessions in Ukraine Peace Talks",
-      "description": "Ukrainian President Volodymyr Zelenskyy publicly rejected US demands that Ukraine accept territorial concessions as part of a proposed peace settlement with Russia, marking a significant fracture between Kyiv and Washington over the terms of any future deal.",
-      "context": "US pressure on Ukraine to cede territory reflects the Trump administration's desire to close the Ukraine file amid the more pressing Iran war. Zelenskyy's refusal risks reducing US military and financial support for Ukraine at a moment when Russian attacks are intensifying and Western attention is stretched thin.",
+      "headline": "Large Explosions Reported in Isfahan with Power Outages Spreading Across Tehran",
+      "description": "Large explosions were reported in Isfahan, site of major Iranian military and nuclear-related facilities, as widespread power outages swept across Tehran, indicating that US-Israeli strikes had hit critical energy infrastructure supplying the Iranian capital.",
+      "context": "Isfahan hosts key Iranian military industries and is near Natanz, Iran's primary uranium enrichment facility. Simultaneous power outages in Tehran suggest coordinated infrastructure targeting designed to impose civilian pressure alongside military degradation, a strategy raising humanitarian concerns internationally.",
       "timeline": [
         {
-          "date": "2022-02-24",
-          "label": "Russia invades Ukraine; Zelenskyy vows to restore all Ukrainian territory",
+          "date": "2026-03-27",
+          "label": "Israel strikes Iranian nuclear sites including Arak heavy water plant",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-29",
+          "label": "Israeli strikes hit Tehran infrastructure areas",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "Large explosions reported in Isfahan; power outages spread across Tehran",
+          "type": "event"
+        }
+      ],
+      "importance_score": 5,
+      "category": "world",
+      "region": "Middle East / Iran",
+      "key_terms": [
+        {
+          "term": "Isfahan",
+          "definition": "A major Iranian city hosting military industries, aerospace facilities, and proximity to Natanz nuclear enrichment site."
+        },
+        {
+          "term": "Infrastructure targeting",
+          "definition": "A military strategy of attacking power grids, water systems, and communications to undermine an adversary's war-making capacity."
+        },
+        {
+          "term": "Natanz",
+          "definition": "Iran's primary uranium enrichment facility, located approximately 250 km south of Tehran near Isfahan."
+        }
+      ],
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/31/iran-war-live"
+    },
+    {
+      "headline": "IAEA Raises Formal Radiological Concerns Over Strikes Near Iranian Nuclear Sites",
+      "description": "The International Atomic Energy Agency issued formal concerns about potential radiological contamination risks following military strikes near Iranian nuclear facilities, warning of the dangers of radioactive material release affecting civilian populations.",
+      "context": "IAEA intervention on radiological risks elevates the Iran war to a potential nuclear safety emergency, invoking global legal and humanitarian frameworks beyond the laws of armed conflict. The warning creates additional international pressure on both the US-Israeli coalition to avoid nuclear infrastructure strikes and on Iran to allow IAEA inspectors access.",
+      "timeline": [
+        {
+          "date": "2015-07-14",
+          "label": "JCPOA nuclear deal limits Iranian enrichment under IAEA monitoring",
           "type": "background"
         },
         {
-          "date": "2026-01-01",
-          "label": "Trump administration begins pushing for negotiated Ukraine settlement",
+          "date": "2026-03-27",
+          "label": "Israel strikes Arak heavy water plant and other nuclear-linked facilities",
           "type": "escalation"
         },
         {
-          "date": "2026-03-29",
-          "label": "Zelenskyy publicly rejects US demands for territorial concessions",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe",
-      "key_terms": [
-        {
-          "term": "Territorial concessions",
-          "definition": "US-proposed conditions that Ukraine cede Russian-occupied regions as part of a peace deal, rejected by Kyiv."
-        },
-        {
-          "term": "Donbas",
-          "definition": "Eastern Ukrainian region largely under Russian occupation and at the centre of the disputed peace terms."
-        },
-        {
-          "term": "Volodymyr Zelenskyy",
-          "definition": "President of Ukraine, insisting on full territorial integrity as a non-negotiable condition for peace."
-        }
-      ],
-      "link": "https://apnews.com/article/ukraine-russia-donbas-rubio-trump-zelenskyy-putin-92551b3ed95d9d3c172627146092d8ba"
-    },
-    {
-      "headline": "Death Toll from Iran War Exceeds 1,900 in Iran and 1,100 in Lebanon",
-      "description": "Cumulative casualties from the US-Israeli war on Iran have surpassed 1,900 dead in Iran and 1,100 in Lebanon, according to health officials, as strikes on Iranian and Lebanese targets continue with no immediate ceasefire prospect.",
-      "context": "The rising death toll is generating mounting international pressure for a ceasefire, with the UN, Pope, and EU all calling for de-escalation. The Lebanon figures reflect spillover strikes by Israel against Hezbollah positions, adding a second humanitarian crisis to the primary Iran conflict.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "US-Israeli strikes on Iran and Iranian-aligned forces begin",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-15",
-          "label": "Death toll in Iran surpasses 1,000 according to health officials",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "Combined death toll exceeds 1,900 in Iran and 1,100 in Lebanon",
+          "date": "2026-03-31",
+          "label": "IAEA formally raises radiological concerns over strikes near Iranian nuclear sites",
           "type": "consequence"
         }
       ],
       "importance_score": 5,
       "category": "world",
-      "region": "Middle East",
+      "region": "Middle East / Global",
       "key_terms": [
         {
-          "term": "Civilian casualties",
-          "definition": "Non-combatant deaths resulting from military strikes, a key metric driving international calls for ceasefire."
+          "term": "IAEA",
+          "definition": "International Atomic Energy Agency, the UN body responsible for nuclear safety monitoring and non-proliferation verification."
         },
         {
-          "term": "Hezbollah",
-          "definition": "Iran-backed Lebanese militant group also being targeted by Israeli strikes, contributing to Lebanon's death toll."
+          "term": "Radiological contamination",
+          "definition": "The spread of radioactive material from a damaged nuclear facility, posing long-term health and environmental risks."
         },
         {
-          "term": "UN de-escalation call",
-          "definition": "A formal request by the UN Secretary-General for all parties to reduce military operations and pursue diplomatic solutions."
+          "term": "Nuclear Non-Proliferation Treaty (NPT)",
+          "definition": "The international agreement governing nuclear weapons, to which Iran is a signatory."
         }
       ],
-      "link": "https://apnews.com/live/iran-war-israel-trump-03-29-2026"
-    },
-    {
-      "headline": "Iran War Causes Global Fertilizer Shortages and Agricultural Supply Chain Disruptions",
-      "description": "The Iran conflict has triggered acute fertilizer shortages worldwide as Iranian and Gulf chemical shipments are disrupted by the Hormuz blockade, threatening food security across import-dependent nations in Africa, Asia, and South America.",
-      "context": "Iran is a significant global exporter of fertilizers including urea and ammonia. Disruption of these supplies during the spring planting season in the northern hemisphere could reduce agricultural yields by the autumn harvest, converting an energy crisis into a potential food security emergency.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "Hormuz blockade disrupts Gulf shipping including fertilizer exports",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-15",
-          "label": "Global fertilizer prices begin rising sharply",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "Iran war confirmed as cause of global fertilizer shortages affecting agriculture",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Urea",
-          "definition": "A nitrogen-based fertilizer critical to global food production, exported in significant quantities from Iran and the Gulf."
-        },
-        {
-          "term": "Food security",
-          "definition": "The condition in which all people have physical and economic access to sufficient safe and nutritious food."
-        },
-        {
-          "term": "Supply chain disruption",
-          "definition": "Interference in the flow of goods from producers to consumers, here caused by Hormuz shipping blockade."
-        }
-      ],
-      "link": "https://apnews.com/article/iran-war-fertilizer-exports-farming-3b7c92d58dba0817c3aa8f1db47464b7"
-    },
-    {
-      "headline": "NATO Secretary General Presents Annual Report 2025, Calls for 5% GDP Defence Spending",
-      "description": "NATO's Secretary General presented the Alliance's Annual Report for 2025 and issued a renewed call for member states to raise defence spending to 5% of GDP, citing the Iran war and Russian aggression as evidence of a more dangerous global security environment.",
-      "context": "The 5% GDP target represents a dramatic escalation from NATO's existing 2% benchmark and reflects growing alarm within the Alliance about simultaneous threats from Russia, Iran, and China. Most NATO members currently fall below the 2% target, making a 5% goal a significant political as well as budgetary challenge.",
-      "timeline": [
-        {
-          "date": "2014-09-05",
-          "label": "NATO members commit to 2% of GDP defence spending at Wales Summit",
-          "type": "background"
-        },
-        {
-          "date": "2026-02-28",
-          "label": "Iran war begins; NATO members divided over response",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "NATO Secretary General presents 2025 Annual Report, calls for 5% GDP defence spending",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Europe / Global",
-      "key_terms": [
-        {
-          "term": "NATO",
-          "definition": "North Atlantic Treaty Organization, a 32-member military alliance committed to collective defence under Article 5."
-        },
-        {
-          "term": "5% GDP defence target",
-          "definition": "NATO's proposed new benchmark for member defence spending, more than double the current 2% commitment."
-        },
-        {
-          "term": "Annual Report 2025",
-          "definition": "NATO's yearly assessment of security challenges, Alliance capabilities, and member contributions."
-        }
-      ],
-      "link": "https://www.nato.int/en/news-and-events/events/media-advisories"
-    },
-    {
-      "headline": "Global Stock Markets Enter Correction as Iran War Uncertainty Weighs on Investors",
-      "description": "Global equities fell sharply with US stocks entering formal correction territory as prolonged uncertainty over the Iran conflict, surging energy prices, and stalled ceasefire talks triggered a broad investor risk-off sentiment.",
-      "context": "A stock market correction of more than 10% from recent highs reflects the cumulative economic damage of the Iran war including energy shocks, supply chain disruptions, and inflation fears. Central banks face conflicting pressures that limit their ability to provide the monetary support typically used to cushion market downturns.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "Iran war begins; initial market volatility emerges",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-15",
-          "label": "Oil prices rise 30%; markets begin sustained decline",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "US stocks enter correction territory as war uncertainty and energy shock weigh on markets",
-          "type": "consequence"
-        }
-      ],
-      "importance_score": 4,
-      "category": "world",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Market correction",
-          "definition": "A decline of 10% or more from a recent peak in a financial index, signalling broad investor concern."
-        },
-        {
-          "term": "Risk-off sentiment",
-          "definition": "An investor behaviour pattern of selling volatile assets and moving capital to safe havens during periods of uncertainty."
-        },
-        {
-          "term": "Central bank dilemma",
-          "definition": "The conflicting pressure on monetary policymakers to raise rates to fight inflation while avoiding recession."
-        }
-      ],
-      "link": "https://www.reuters.com/markets/news/"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/3/31/iran-war-live"
     }
   ],
   "national": [
     {
-      "headline": "Prime Minister Modi Inaugurates Phase I of Noida International Airport",
-      "description": "Prime Minister Narendra Modi formally inaugurated the first phase of Noida International Airport at Jewar, backed by an investment of ₹11,200 crore, marking a landmark expansion of air infrastructure in the National Capital Region.",
-      "context": "The Noida International Airport is designed to relieve pressure on the congested Indira Gandhi International Airport and serve as a catalyst for industrial and logistics development in the NCR's eastern corridor. It is one of the largest greenfield airport projects in India's post-independence history.",
+      "headline": "Ministry of Defence Signs ₹1,950 Crore Contract with BEL for Air Force Mountain Radars",
+      "description": "India's Ministry of Defence signed a ₹1,950 crore contract with Bharat Electronics Limited for the supply of advanced mountain surveillance radars for the Indian Air Force, strengthening India's high-altitude border monitoring capabilities.",
+      "context": "The mountain radar contract is part of India's sustained effort to modernise its surveillance and air defence infrastructure along its Himalayan borders with China and Pakistan. Procuring from BEL supports the Atmanirbhar Bharat (self-reliant India) defence manufacturing policy, reducing dependence on foreign suppliers.",
       "timeline": [
         {
-          "date": "2021-11-25",
-          "label": "Foundation stone for Noida International Airport laid by PM Modi",
+          "date": "2020-06-15",
+          "label": "Galwan Valley clash with China accelerates India's Himalayan border modernisation",
           "type": "background"
         },
         {
           "date": "2024-01-01",
-          "label": "Construction accelerated under Yamuna Expressway Industrial Development Authority",
+          "label": "India accelerates defence procurement under Atmanirbhar Bharat with BEL as key supplier",
           "type": "escalation"
         },
         {
-          "date": "2026-03-28",
-          "label": "PM Modi inaugurates Phase I of Noida International Airport",
+          "date": "2026-03-31",
+          "label": "MoD signs ₹1,950 crore BEL contract for IAF mountain radars",
           "type": "event"
         }
       ],
@@ -566,166 +548,42 @@
       "region": "India",
       "key_terms": [
         {
-          "term": "Noida International Airport (Jewar Airport)",
-          "definition": "A major greenfield airport in Uttar Pradesh designed to serve the Delhi-NCR region as a second international hub."
+          "term": "BEL (Bharat Electronics Limited)",
+          "definition": "India's state-owned defence electronics manufacturer, a Navratna public sector enterprise under the Ministry of Defence."
         },
         {
-          "term": "Yamuna Expressway Industrial Development Authority (YEIDA)",
-          "definition": "The state body overseeing development of the airport and surrounding industrial corridor."
+          "term": "Mountain surveillance radar",
+          "definition": "Specialised radar systems designed to operate in high-altitude terrain for air defence and border monitoring."
         },
         {
-          "term": "Greenfield airport",
-          "definition": "An entirely new airport built on previously undeveloped land, as opposed to expansion of an existing facility."
+          "term": "Atmanirbhar Bharat",
+          "definition": "India's self-reliance initiative prioritising domestic manufacturing and reducing imports in defence and strategic sectors."
         },
         {
-          "term": "NCR",
-          "definition": "National Capital Region, the metropolitan area surrounding New Delhi encompassing parts of Haryana, Uttar Pradesh, and Rajasthan."
+          "term": "IAF",
+          "definition": "Indian Air Force, the aerial warfare branch of the Indian Armed Forces."
         }
       ],
-      "link": "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2240065&reg=6&lang=1"
+      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247262"
     },
     {
-      "headline": "Union Budget 2026-27 Proposes Tax Holidays Until 2047 for Foreign Cloud Service Providers",
-      "description": "India's Union Budget for 2026-27 includes a proposal to grant tax holidays extending until 2047 to foreign cloud service providers establishing data centre infrastructure in India, aiming to accelerate the country's digital infrastructure build-out.",
-      "context": "The 2047 tax holiday horizon is deliberately aligned with India's Viksit Bharat centenary goal. Attracting global hyperscalers like AWS, Google Cloud, and Microsoft Azure to build data centres in India is critical to supporting AI adoption, financial services digitalisation, and the government's Digital India vision.",
+      "headline": "Ashwini Bhide Becomes Mumbai's First Woman Municipal Commissioner",
+      "description": "Ashwini Bhide was appointed Municipal Commissioner of Brihanmumbai Municipal Corporation (BMC), becoming the first woman to hold the position in the history of India's largest municipal body, which governs a city of over 21 million people.",
+      "context": "Bhide's appointment is a landmark in Indian civic governance, particularly significant given the BMC's annual budget exceeding that of several Indian states. Her appointment follows a career that included leading the Mumbai Metro Rail Corporation, signalling an emphasis on infrastructure management expertise.",
       "timeline": [
         {
-          "date": "2023-08-11",
-          "label": "Digital Personal Data Protection Act enacted, creating legal framework for data localisation",
+          "date": "1888-01-01",
+          "label": "Brihanmumbai Municipal Corporation established under British colonial administration",
           "type": "background"
         },
         {
-          "date": "2025-02-01",
-          "label": "Union Budget 2025-26 includes initial incentives for data centre investment",
+          "date": "2019-01-01",
+          "label": "Ashwini Bhide appointed MD of Mumbai Metro Rail Corporation, overseeing metro expansion",
           "type": "escalation"
         },
         {
-          "date": "2026-03-29",
-          "label": "Budget 2026-27 proposes tax holidays until 2047 for foreign cloud providers",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Tax holiday",
-          "definition": "A temporary exemption from taxation granted to attract investment in specific sectors or geographies."
-        },
-        {
-          "term": "Hyperscaler",
-          "definition": "A large cloud computing provider such as AWS, Google Cloud, or Microsoft Azure operating at massive scale globally."
-        },
-        {
-          "term": "Viksit Bharat 2047",
-          "definition": "India's national vision to become a fully developed economy by 2047, the centenary of independence."
-        },
-        {
-          "term": "Data localisation",
-          "definition": "The requirement that certain data about Indian citizens be stored and processed within India's borders."
-        }
-      ],
-      "link": "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2240065&reg=6&lang=1"
-    },
-    {
-      "headline": "India Cuts Fuel Taxes and Curbs Oil Exports to Protect Domestic Supply During Crisis",
-      "description": "India reduced domestic fuel taxes and imposed curbs on petroleum product exports to shield the domestic market from the global oil price shock triggered by the Hormuz blockade and the ongoing Iran war.",
-      "context": "With oil prices more than 50% above pre-war levels, India faces severe inflationary pressure given its status as one of the world's largest crude importers. Fuel tax cuts and export curbs are emergency stabilisation measures to prevent domestic price spirals, though they reduce government revenue at a time of increased defence vigilance expenditure.",
-      "timeline": [
-        {
-          "date": "2022-05-21",
-          "label": "India previously cut fuel excise duties to cushion impact of post-Ukraine oil price rise",
-          "type": "background"
-        },
-        {
-          "date": "2026-02-28",
-          "label": "Iran war begins; global oil prices begin climbing sharply",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "India cuts fuel taxes and restricts petroleum exports to protect domestic supply",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Fuel excise duty",
-          "definition": "A central government tax on petroleum products, a major source of revenue that India periodically adjusts to manage retail prices."
-        },
-        {
-          "term": "Export curb",
-          "definition": "A government restriction on outbound shipments of a commodity, here applied to petroleum products to preserve domestic supply."
-        },
-        {
-          "term": "Strategic Petroleum Reserve",
-          "definition": "Government-maintained oil stockpiles used as a buffer against international supply disruptions."
-        }
-      ],
-      "link": "https://www.bloomberg.com/energy"
-    },
-    {
-      "headline": "PM Modi Chairs Crisis Meeting with Chief Ministers to Review West Asia Preparedness",
-      "description": "Prime Minister Narendra Modi convened a strategic meeting with Chief Ministers of all Indian states to review preparedness measures in response to the escalating West Asia crisis, covering energy security, supply chain resilience, and evacuation protocols for Indian nationals in the region.",
-      "context": "With over 9 million Indian nationals resident in the Gulf and the region supplying a substantial share of India's oil, gas, and remittances, the Iran war poses direct risks to Indian interests. The Chief Ministers' meeting reflects the federal government's intent to coordinate a whole-of-government response across state and central administrations.",
-      "timeline": [
-        {
-          "date": "2026-02-28",
-          "label": "Iran war begins; India places Gulf diaspora and energy security on high alert",
-          "type": "event"
-        },
-        {
-          "date": "2026-03-20",
-          "label": "India activates emergency evacuation protocols for nationals in conflict-affected zones",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-28",
-          "label": "PM Modi chairs national crisis meeting with Chief Ministers on West Asia preparedness",
-          "type": "event"
-        }
-      ],
-      "importance_score": 4,
-      "category": "national",
-      "region": "India",
-      "key_terms": [
-        {
-          "term": "Indian diaspora in the Gulf",
-          "definition": "Over 9 million Indian nationals living and working in Gulf Cooperation Council countries, a significant source of remittances."
-        },
-        {
-          "term": "Operation Sindhu / Vande Bharat-type evacuation",
-          "definition": "India's framework for emergency evacuation of nationals from conflict zones, used in previous crises in Yemen, Ukraine, and Lebanon."
-        },
-        {
-          "term": "Chief Ministers' crisis meeting",
-          "definition": "A federal consultative mechanism convened by the Prime Minister to coordinate state-level responses to national emergencies."
-        }
-      ],
-      "link": "https://www.pib.gov.in/AllRelease.aspx?PMO=1&MenuId=4&reg=3&lang=1"
-    },
-    {
-      "headline": "Health Insurance Sector Premiums Cross ₹1.2 Lakh Crore Milestone in FY 2024-25",
-      "description": "India's health insurance sector reached a landmark ₹1.2 lakh crore in annual premium collections for FY 2024-25, reflecting rapid growth driven by post-pandemic awareness, expanded government schemes, and rising middle-class demand.",
-      "context": "The premium milestone signals the mainstreaming of health insurance in India, a country where out-of-pocket medical expenditure has historically been one of the primary drivers of household poverty. The growth is supported by the government's Ayushman Bharat scheme and increasing uptake among salaried workers.",
-      "timeline": [
-        {
-          "date": "2018-09-23",
-          "label": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana launched, covering 500 million Indians",
-          "type": "background"
-        },
-        {
-          "date": "2022-01-01",
-          "label": "Post-pandemic surge in health insurance enrolment accelerates sector growth",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "Health insurance premiums cross ₹1.2 lakh crore milestone for FY 2024-25",
+          "date": "2026-03-31",
+          "label": "Bhide takes charge as Mumbai's first woman Municipal Commissioner",
           "type": "event"
         }
       ],
@@ -734,284 +592,280 @@
       "region": "India",
       "key_terms": [
         {
-          "term": "Ayushman Bharat",
-          "definition": "India's flagship health insurance scheme providing coverage of up to ₹5 lakh per year to economically vulnerable households."
+          "term": "BMC (Brihanmumbai Municipal Corporation)",
+          "definition": "India's largest urban local body by budget, responsible for civic administration of the Mumbai metropolitan region."
         },
         {
-          "term": "IRDAI",
-          "definition": "Insurance Regulatory and Development Authority of India, the sector regulator overseeing premium collection and solvency standards."
+          "term": "Municipal Commissioner",
+          "definition": "The chief administrative officer of an Indian municipal corporation, responsible for day-to-day governance and budget implementation."
         },
         {
-          "term": "Out-of-pocket expenditure",
-          "definition": "Direct payments by individuals for healthcare not covered by insurance, a major driver of medical poverty in India."
+          "term": "Ashwini Bhide",
+          "definition": "IAS officer and infrastructure specialist appointed as the first woman Municipal Commissioner of Mumbai."
         }
       ],
-      "link": "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2240065&reg=6&lang=1"
+      "link": "https://www.business-standard.com/india-news/ashwini-bhide-is-mumbai-s-first-woman-municipal-commissioner-126033101037_1.html"
     },
     {
-      "headline": "China Successfully Deploys Experimental Satellite Constellation for Lunar Infrastructure",
-      "description": "China launched an experimental satellite constellation designed to provide navigation, communication, and relay services for future lunar surface infrastructure, marking a significant milestone in its long-term Moon exploration programme.",
-      "context": "The deployment represents China's intent to establish a permanent cislunar communications architecture ahead of planned crewed Moon missions. It directly competes with NASA's Lunar Gateway programme and signals China's ambition to dominate the emerging lunar economy and set technical standards for future space operations.",
+      "headline": "Chhattisgarh Deputy CM Declares Naxalism Wiped Out in State by Government Deadline",
+      "description": "Chhattisgarh's Deputy Chief Minister declared that Naxal (Maoist) insurgency had been eliminated from the state by the government's self-imposed deadline, citing successful security operations, surrenders, and development initiatives in previously affected districts.",
+      "context": "Chhattisgarh has been the epicentre of India's Left Wing Extremism problem for decades, accounting for the majority of Naxal-related casualties. The declaration, if substantiated, would represent the most significant counter-insurgency achievement in India since independence, with major implications for tribal welfare, resource extraction, and central India's development.",
       "timeline": [
         {
-          "date": "2020-12-17",
-          "label": "Chang'e 5 returns lunar samples to Earth; China commits to crewed Moon mission",
+          "date": "1967-05-25",
+          "label": "Naxalbari uprising in West Bengal marks origin of Naxal movement in India",
           "type": "background"
         },
         {
-          "date": "2024-06-01",
-          "label": "Chang'e 6 retrieves far-side lunar samples in historic mission",
+          "date": "2019-01-01",
+          "label": "Union government intensifies anti-Naxal operations under National Policy and Action Plan",
           "type": "escalation"
         },
         {
-          "date": "2026-03-28",
-          "label": "China deploys experimental satellite constellation for lunar infrastructure support",
+          "date": "2026-03-31",
+          "label": "Chhattisgarh Deputy CM declares Naxalism wiped out in state by government deadline",
           "type": "event"
         }
       ],
       "importance_score": 4,
       "category": "national",
-      "region": "China / Global Space",
+      "region": "India",
       "key_terms": [
         {
-          "term": "Cislunar space",
-          "definition": "The region between Earth and the Moon, increasingly strategic for navigation, communications, and future space economy activities."
+          "term": "Naxalism",
+          "definition": "A Maoist political movement and armed insurgency active in central and eastern India, named after the 1967 Naxalbari uprising."
         },
         {
-          "term": "Lunar Gateway",
-          "definition": "NASA's planned space station in lunar orbit, part of the Artemis programme for sustainable human lunar presence."
+          "term": "Left Wing Extremism (LWE)",
+          "definition": "The Indian government's official designation for the Naxal insurgency, which has affected 90 districts across 10 states."
         },
         {
-          "term": "CNSA",
-          "definition": "China National Space Administration, the governmental body overseeing China's civilian space programme."
+          "term": "Red Corridor",
+          "definition": "The belt of central and eastern Indian states historically affected by Naxal insurgency, centred on Chhattisgarh."
         }
       ],
-      "link": "https://english.news.cn/20260326/c77533d37cea4d9490004af899d8ad44/c.html"
+      "link": "https://www.business-standard.com/india-news/red-letter-day-naxals-wiped-out-in-chhattisgarh-by-deadline-says-dy-cm-126033100223_1.html"
     },
     {
-      "headline": "China Targets 6G and Brain-Computer Interfaces in Modern Industrial Blueprint",
-      "description": "China's latest industrial modernisation blueprint identifies 6G telecommunications and brain-computer interface technologies as priority breakthrough areas for the 15th Five-Year Plan period, directing state investment and research resources toward these frontier sectors.",
-      "context": "China's designation of 6G and brain-computer interfaces as strategic priorities signals its intent to lead the next generation of technological standards, following its successful 5G infrastructure deployment. These technologies have dual civilian and military applications, raising strategic concerns among Western governments.",
+      "headline": "India Recorded 65 Internet Shutdowns in 2025, Remaining Among Global Leaders",
+      "description": "A new report found that India recorded 65 internet shutdowns in 2025, maintaining its position as one of the world's most frequent users of deliberate internet disruption as a governance and security tool.",
+      "context": "India's high frequency of internet shutdowns reflects the government's reliance on connectivity blackouts to manage civil unrest, communal tensions, and examination integrity. Critics argue the practice causes severe economic damage, violates free speech protections, and disproportionately affects vulnerable communities dependent on digital services.",
       "timeline": [
         {
-          "date": "2021-03-11",
-          "label": "China's 14th Five-Year Plan designates AI and quantum computing as strategic sectors",
+          "date": "2019-08-05",
+          "label": "India imposes world's longest internet shutdown in Kashmir following Article 370 abrogation",
           "type": "background"
         },
         {
-          "date": "2025-01-01",
-          "label": "China begins 15th Five-Year Plan consultation process",
+          "date": "2023-01-01",
+          "label": "India records 84 shutdowns, the highest globally, according to Access Now report",
           "type": "escalation"
         },
         {
-          "date": "2026-03-29",
-          "label": "Industrial blueprint designates 6G and brain-computer interfaces as priority breakthroughs",
+          "date": "2026-03-31",
+          "label": "Report confirms 65 internet shutdowns in India during 2025",
           "type": "event"
         }
       ],
-      "importance_score": 4,
+      "importance_score": 3,
       "category": "national",
-      "region": "China",
+      "region": "India",
       "key_terms": [
         {
-          "term": "6G",
-          "definition": "The sixth generation of wireless communications technology, expected to deliver speeds 100 times faster than 5G with ultra-low latency."
+          "term": "Internet shutdown",
+          "definition": "A deliberate government-ordered disruption of internet or mobile data connectivity in a specific area, typically during unrest or exams."
         },
         {
-          "term": "Brain-computer interface (BCI)",
-          "definition": "Technology enabling direct communication between the brain and external devices, with applications in medicine, defence, and human augmentation."
+          "term": "Access Now",
+          "definition": "An international digital rights organisation that tracks global internet shutdowns in its annual #KeepItOn report."
         },
         {
-          "term": "15th Five-Year Plan",
-          "definition": "China's national economic and social development plan for 2026–2030, setting strategic investment and innovation priorities."
+          "term": "Digital rights",
+          "definition": "The human rights framework applied to internet access, freedom of expression, and privacy in the digital environment."
         }
       ],
-      "link": "https://english.news.cn/20260322/1f1eeb2374a44297a063ee3458384bc1/c.html"
+      "link": "https://www.business-standard.com/india-news/india-records-65-internet-shutdowns-in-2025-among-top-globally-report-126033100918_1.html"
     },
     {
-      "headline": "UK Government Unveils 10-Year National Infrastructure Strategy with £725 Billion Funding Target",
-      "description": "The UK government published a comprehensive 10-year national infrastructure strategy setting a £725 billion funding target for investment across transport, energy, digital connectivity, and housing, aimed at reversing decades of underinvestment.",
-      "context": "The strategy represents the most ambitious UK infrastructure commitment in modern history and is designed to address the country's chronic productivity gap, which economists link partly to inadequate physical capital. Private capital mobilisation will be critical, as public borrowing constraints limit the government's direct funding capacity.",
+      "headline": "UAE Sharply Increases Diesel and Petrol Prices for April 2026 Amid Iran War Oil Shock",
+      "description": "The UAE Fuel Price Committee announced sharp increases to Super 98 petrol and diesel prices for April 2026, with Super 98 set at AED 3.39 per litre, directly reflecting the surge in global crude prices driven by the Iran war and Hormuz disruptions.",
+      "context": "The UAE implements a monthly fuel price adjustment mechanism linked to global oil markets. The April increase is among the steepest in the mechanism's history, creating cost pressures for UAE businesses and consumers even as the government simultaneously reaffirms food supply chain stability.",
       "timeline": [
         {
-          "date": "2020-11-18",
-          "label": "National Infrastructure Strategy 2020 published, setting previous investment framework",
+          "date": "2015-08-01",
+          "label": "UAE moves to market-linked monthly fuel pricing, ending government subsidies",
           "type": "background"
         },
         {
-          "date": "2025-10-30",
-          "label": "Autumn Budget 2025 increases capital investment envelope for infrastructure",
+          "date": "2026-02-28",
+          "label": "Iran war begins; global crude prices begin record monthly climb",
+          "type": "event"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "UAE announces sharp April fuel price increases; Super 98 set at AED 3.39",
+          "type": "consequence"
+        }
+      ],
+      "importance_score": 3,
+      "category": "national",
+      "region": "United Arab Emirates",
+      "key_terms": [
+        {
+          "term": "UAE Fuel Price Committee",
+          "definition": "The government body that sets monthly retail fuel prices in the UAE based on international crude oil benchmarks."
+        },
+        {
+          "term": "Super 98",
+          "definition": "The highest octane petrol grade sold in the UAE, used in high-performance and luxury vehicles."
+        },
+        {
+          "term": "Market-linked pricing",
+          "definition": "A fuel pricing system that passes global oil price changes directly to consumers rather than subsidising fuel at fixed rates."
+        }
+      ],
+      "link": "https://www.newswire.lk/2026/03/31/uae-raises-fuel-prices-sharply-diesel-sees-major-increase/"
+    },
+    {
+      "headline": "UK Implements Visa Brake and Tightens Skilled Worker Routes for Specific Nationalities",
+      "description": "The UK Home Office activated a new 'visa brake' mechanism effective March 26, imposing restrictions on skilled worker and student visa routes for specific nationalities, alongside updates to global talent endorsement and sponsor compliance requirements.",
+      "context": "The visa brake represents a significant tightening of UK immigration policy, targeting nationalities identified as contributing to net migration figures the government has pledged to reduce. The simultaneous tightening of sponsor licence compliance rules increases compliance burdens for UK employers using the skilled worker visa route.",
+      "timeline": [
+        {
+          "date": "2023-04-04",
+          "label": "UK raises minimum salary thresholds for skilled worker visas to reduce net migration",
+          "type": "background"
+        },
+        {
+          "date": "2025-03-12",
+          "label": "Immigration White Paper proposes visa brake mechanism for high-volume nationalities",
           "type": "escalation"
         },
         {
-          "date": "2026-03-28",
-          "label": "Government unveils 10-Year National Infrastructure Strategy with £725 billion target",
+          "date": "2026-03-26",
+          "label": "Visa brake activated; new restrictions on skilled worker and student routes effective",
           "type": "event"
         }
       ],
-      "importance_score": 4,
+      "importance_score": 3,
       "category": "national",
       "region": "United Kingdom",
       "key_terms": [
         {
-          "term": "National Wealth Fund",
-          "definition": "A UK government investment vehicle deploying £27.8 billion to crowd in private capital for strategic growth industries."
+          "term": "Visa brake",
+          "definition": "A UK mechanism allowing temporary suspension or restriction of visa routes for nationalities exceeding defined migration thresholds."
         },
         {
-          "term": "Productivity gap",
-          "definition": "The persistent shortfall in UK output per worker compared to peer economies such as Germany and France."
+          "term": "Skilled Worker visa",
+          "definition": "The primary UK work visa route for overseas nationals with a job offer from a licensed sponsor meeting salary thresholds."
         },
         {
-          "term": "Private finance mobilisation",
-          "definition": "A strategy of using government guarantees and co-investment to attract private capital to public infrastructure projects."
+          "term": "Sponsor licence",
+          "definition": "A Home Office authorisation allowing UK employers to hire overseas workers under the skilled worker and other visa routes."
         }
       ],
-      "link": "https://assets.publishing.service.gov.uk/media/6853c5db99b009dcdcb73649/UK_Infrastructure_A_10_Year_Strategy_Web_Accessible.pdf"
+      "link": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/UK-immigration-updates-march-2026"
     },
     {
-      "headline": "UAE Banking Sector Assets Reach Record AED 5.4 Trillion Amid Robust Credit Growth",
-      "description": "The UAE's gross banking sector assets reached a record AED 5.4 trillion, driven by strong domestic credit growth, rising strategic investments, and the sector's resilience despite ongoing regional instability from the Iran war.",
-      "context": "The banking sector milestone reflects the UAE's success in positioning Dubai and Abu Dhabi as global financial hubs that attract capital even during regional conflicts. The Central Bank's foreign assets crossing AED 1.084 trillion simultaneously demonstrates a robust sovereign reserve buffer.",
+      "headline": "China's Trendy Toy Market Hits 67.69 Billion Yuan as Guochao Trend Drives Consumer Spending",
+      "description": "China's trendy toy and collectible market reached retail sales of 67.69 billion yuan, driven by the Guochao cultural trend that celebrates domestic Chinese brands, IP, and aesthetics, creating a booming consumer sector led by companies such as Pop Mart.",
+      "context": "The Guochao trend reflects a broader shift in Chinese consumer preferences toward domestically produced cultural goods, a phenomenon supported by government cultural policy and accelerated by nationalist sentiment. The trendy toy segment's scale demonstrates how IP-driven consumer culture is becoming a significant economic force in China.",
       "timeline": [
         {
-          "date": "2023-01-01",
-          "label": "UAE banking assets cross AED 4 trillion for the first time",
+          "date": "2016-01-01",
+          "label": "Guochao trend begins emerging in Chinese fashion and consumer goods",
           "type": "background"
         },
         {
-          "date": "2025-06-01",
-          "label": "CBUAE introduces enhanced capital adequacy requirements strengthening sector resilience",
+          "date": "2020-07-01",
+          "label": "Pop Mart IPO on Hong Kong Stock Exchange; trendy toy sector gains investor attention",
           "type": "escalation"
         },
         {
-          "date": "2026-03-28",
-          "label": "UAE banking assets hit record AED 5.4 trillion; foreign reserves cross AED 1.084 trillion",
+          "date": "2026-03-31",
+          "label": "China's trendy toy market retail sales hit 67.69 billion yuan",
+          "type": "event"
+        }
+      ],
+      "importance_score": 2,
+      "category": "national",
+      "region": "China",
+      "key_terms": [
+        {
+          "term": "Guochao",
+          "definition": "A Chinese cultural movement celebrating domestic brands and heritage aesthetics, literally meaning 'national wave' or 'national tide'."
+        },
+        {
+          "term": "Pop Mart",
+          "definition": "China's leading designer toy and blind box company, a major driver of the trendy collectible market's growth."
+        },
+        {
+          "term": "Blind box",
+          "definition": "A collectible toy sold in opaque packaging where the buyer does not know which design they will receive until opening, driving repeat purchases."
+        }
+      ],
+      "link": "https://english.news.cn/20260331/793c0280a58a460d902b0838ce1ef5a4/c.html"
+    },
+    {
+      "headline": "USDA Prospective Plantings: US Farmers Plan to Plant 95.3 Million Acres of Corn for 2026",
+      "description": "The USDA National Agricultural Statistics Service reported that US farmers intend to plant 95.3 million acres of corn in 2026, down 3% from the previous year, alongside a 4% rise in soybean acreage to 84.7 million acres and a 3% decline in wheat planted area.",
+      "context": "The USDA Prospective Plantings report is one of the most closely watched agricultural market indicators, directly influencing commodity prices and food supply projections. The shift toward soybeans and away from corn and wheat reflects relative price signals and input cost pressures, with global food security implications given the Iran war's fertilizer disruption.",
+      "timeline": [
+        {
+          "date": "2022-02-24",
+          "label": "Russia-Ukraine war disrupts wheat and fertilizer supplies, reshaping US planting economics",
+          "type": "background"
+        },
+        {
+          "date": "2026-02-28",
+          "label": "Iran war triggers fertilizer shortage and drives input cost increases for US farmers",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "USDA reports 2026 planting intentions: corn down 3%, soybeans up 4%, wheat down 3%",
           "type": "event"
         }
       ],
       "importance_score": 3,
       "category": "national",
-      "region": "United Arab Emirates",
+      "region": "United States",
       "key_terms": [
         {
-          "term": "CBUAE",
-          "definition": "Central Bank of the UAE, the monetary authority regulating the banking sector and managing foreign reserves."
+          "term": "USDA NASS",
+          "definition": "US Department of Agriculture National Agricultural Statistics Service, which conducts the annual Prospective Plantings survey."
         },
         {
-          "term": "AED",
-          "definition": "UAE Dirham, the national currency pegged to the US dollar at a rate of approximately 3.67."
+          "term": "Prospective Plantings",
+          "definition": "An annual USDA survey of farmer planting intentions, published in March, that strongly influences commodity futures markets."
         },
         {
-          "term": "Foreign reserves",
-          "definition": "Assets held by a central bank in foreign currencies, gold, or SDRs, used to support the national currency and manage external obligations."
+          "term": "Corn stocks",
+          "definition": "Total US corn held in storage at a given date, reported at 9.02 billion bushels, a key indicator of supply adequacy."
         }
       ],
-      "link": "https://www.wam.ae/en/article/bzd5oal-gross-banks%E2%80%99-assets-14-aed-54136-billion-end"
-    },
-    {
-      "headline": "CBUAE Mandates Complete Phase-Out of SMS Authentication for Banking by March 31",
-      "description": "The Central Bank of the UAE ordered all financial institutions to complete the phase-out of SMS and email one-time password authentication by March 31, mandating migration to more secure multi-factor authentication methods.",
-      "context": "The deadline reflects the CBUAE's proactive approach to cybersecurity in a region facing elevated state-sponsored cyber threats amid the Iran war. SMS-based OTP is widely regarded as vulnerable to SIM-swapping and interception attacks, and the mandate pushes UAE banks toward app-based authenticators and biometric verification.",
-      "timeline": [
-        {
-          "date": "2024-01-01",
-          "label": "CBUAE issues guidelines on enhanced authentication standards for financial services",
-          "type": "background"
-        },
-        {
-          "date": "2025-09-01",
-          "label": "Banks given 18-month transition period to upgrade authentication systems",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-29",
-          "label": "CBUAE confirms March 31 deadline for complete SMS OTP phase-out",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "national",
-      "region": "United Arab Emirates",
-      "key_terms": [
-        {
-          "term": "OTP (One-Time Password)",
-          "definition": "A single-use authentication code sent via SMS or email, now being replaced by more secure methods."
-        },
-        {
-          "term": "Multi-factor authentication (MFA)",
-          "definition": "A security process requiring users to provide two or more verification factors to access accounts."
-        },
-        {
-          "term": "SIM-swapping",
-          "definition": "A fraud technique where attackers convince carriers to transfer a victim's number to a new SIM, enabling interception of SMS OTPs."
-        }
-      ],
-      "link": "https://ddnews.gov.in/en/uae-central-bank-mandates-phase-out-of-sms-and-email-otp-authentication-by-march-2026/"
+      "link": "https://www.nass.usda.gov/Newsroom/2026/03-31-2026.php"
     }
   ],
   "science": [
     {
-      "headline": "Nvidia CEO Claims AGI Achievement While Unveiling Vera Rubin GPU Architecture at GTC 2026",
-      "description": "Nvidia CEO Jensen Huang declared that artificial general intelligence has been achieved and unveiled the Vera Rubin GPU architecture at the company's GTC 2026 developer conference, representing the most powerful AI computing platform announced to date.",
-      "context": "Huang's AGI declaration is both a marketing milestone and a contested scientific claim, as definitions of AGI vary widely. The Vera Rubin architecture succeeds Blackwell and is engineered for the most computationally intensive AI workloads, reinforcing Nvidia's near-monopoly on AI training infrastructure globally.",
+      "headline": "Nvidia Announces $2 Billion Strategic Investment in Marvell to Advance Custom AI Chip Ecosystem",
+      "description": "Nvidia announced a $2 billion strategic investment in Marvell Technology to accelerate the development of custom AI silicon and data centre networking solutions, deepening the two companies' collaboration on the infrastructure underpinning next-generation AI systems.",
+      "context": "The Marvell investment reflects Nvidia's strategy to extend its AI dominance beyond its own GPUs into the broader ecosystem of custom ASICs, networking chips, and interconnects that hyperscalers require. It also signals that even as Nvidia pushes the boundaries of general-purpose AI accelerators, the market for customer-specific AI silicon is large enough to warrant multi-billion dollar bets.",
       "timeline": [
         {
           "date": "2022-11-30",
-          "label": "ChatGPT launches, triggering global AI infrastructure investment boom",
+          "label": "ChatGPT launch triggers explosive growth in AI infrastructure investment",
           "type": "background"
         },
         {
-          "date": "2024-03-01",
-          "label": "Nvidia unveils Blackwell architecture at GTC 2024",
+          "date": "2026-03-27",
+          "label": "Nvidia unveils Vera Rubin architecture and claims AGI at GTC 2026",
           "type": "escalation"
         },
         {
-          "date": "2026-03-27",
-          "label": "Nvidia unveils Vera Rubin architecture; CEO claims AGI achieved at GTC 2026",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "United States / Global",
-      "key_terms": [
-        {
-          "term": "AGI (Artificial General Intelligence)",
-          "definition": "A theoretical form of AI capable of performing any intellectual task a human can, across all domains without task-specific training."
-        },
-        {
-          "term": "Vera Rubin architecture",
-          "definition": "Nvidia's next-generation GPU architecture succeeding Blackwell, optimised for frontier AI training and inference workloads."
-        },
-        {
-          "term": "GTC 2026",
-          "definition": "Nvidia's annual GPU Technology Conference, the primary venue for the company's major hardware and AI announcements."
-        },
-        {
-          "term": "Jensen Huang",
-          "definition": "Co-founder and CEO of Nvidia, the world's leading designer of AI accelerator chips."
-        }
-      ],
-      "link": "https://www.bloomberg.com/news/articles/2026-03-27/nvidia-jensen-huang-agi"
-    },
-    {
-      "headline": "Arm and Partners Launch First Data Centre CPU Dedicated to Agentic AI",
-      "description": "Arm, in collaboration with Meta, Google, and Nvidia, unveiled the world's first data centre CPU specifically architected for agentic AI workloads, marking a new phase in AI hardware specialisation beyond general-purpose and GPU-centric computing.",
-      "context": "Agentic AI systems — which autonomously plan and execute multi-step tasks — impose unique computational demands distinct from large language model inference. This purpose-built CPU reflects the maturation of AI hardware into task-specialised silicon, with major implications for data centre design economics and AI deployment costs.",
-      "timeline": [
-        {
-          "date": "2023-01-01",
-          "label": "Agentic AI frameworks emerge as leading research and commercial focus",
-          "type": "background"
-        },
-        {
-          "date": "2025-06-01",
-          "label": "Arm announces expanded collaboration with hyperscalers on next-generation AI silicon",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-27",
-          "label": "Arm and Meta, Google, Nvidia unveil first agentic AI dedicated data centre CPU",
+          "date": "2026-03-31",
+          "label": "Nvidia announces $2 billion strategic investment in Marvell for custom AI chip ecosystem",
           "type": "event"
         }
       ],
@@ -1020,254 +874,210 @@
       "region": "United States / Global",
       "key_terms": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems capable of autonomous multi-step planning and task execution without continuous human input."
+          "term": "Marvell Technology",
+          "definition": "A US semiconductor company specialising in data infrastructure chips including custom AI ASICs and networking silicon for hyperscalers."
         },
         {
-          "term": "Arm architecture",
-          "definition": "A RISC-based semiconductor instruction set widely used from smartphones to data centres, designed by Arm Holdings."
+          "term": "ASIC (Application-Specific Integrated Circuit)",
+          "definition": "A chip designed for a specific application rather than general-purpose computing, used by hyperscalers for AI workloads."
         },
         {
-          "term": "Data centre CPU",
-          "definition": "A central processing unit engineered for the high-throughput, low-latency requirements of cloud and AI infrastructure."
+          "term": "AI chip ecosystem",
+          "definition": "The complete hardware environment supporting AI workloads, including GPUs, networking, memory, and custom inference chips."
+        },
+        {
+          "term": "Hyperscaler",
+          "definition": "A large cloud computing provider such as AWS, Google, and Microsoft Azure operating at massive infrastructure scale."
         }
       ],
-      "link": "https://www.reuters.com/technology/arm-meta-google-nvidia-ai-cpu-2026-03-27/"
+      "link": "https://www.reuters.com/technology/nvidia-marvell-2-billion-ai-investment-2026-03-31/"
     },
     {
-      "headline": "ASML Delivers First High-NA EUV Lithography System to imec, Marking New Era in Chipmaking",
-      "description": "ASML delivered its first High-NA Extreme Ultraviolet lithography machine to Belgian research institute imec, enabling the patterning of semiconductor features at scales previously considered physically impossible and opening the path to sub-2nm chip manufacturing.",
-      "context": "High-NA EUV is the most critical enabling technology for the semiconductor industry's continued progress beyond the 2nm node. Each machine costs approximately $350 million and requires years of production lead time, making ASML's delivery a pivotal moment for the global chip ecosystem and for nations competing in advanced semiconductor manufacturing.",
-      "timeline": [
-        {
-          "date": "2012-01-01",
-          "label": "ASML ships first standard EUV lithography systems, enabling 7nm chip production",
-          "type": "background"
-        },
-        {
-          "date": "2023-11-01",
-          "label": "ASML officially unveils High-NA EUV system (TWINSCAN EXE:5000)",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-27",
-          "label": "ASML delivers first High-NA EUV system to imec for research and process development",
-          "type": "event"
-        }
-      ],
-      "importance_score": 5,
-      "category": "science",
-      "region": "Europe / Global",
-      "key_terms": [
-        {
-          "term": "High-NA EUV",
-          "definition": "High Numerical Aperture Extreme Ultraviolet lithography, ASML's most advanced system enabling sub-2nm semiconductor patterning."
-        },
-        {
-          "term": "ASML",
-          "definition": "Dutch semiconductor equipment company that holds a global monopoly on EUV lithography machines, critical to advanced chip manufacturing."
-        },
-        {
-          "term": "imec",
-          "definition": "A Belgian nanoelectronics research centre serving as a key partner for semiconductor process development ahead of commercial production."
-        },
-        {
-          "term": "2nm node",
-          "definition": "The next frontier in semiconductor manufacturing, offering significant improvements in performance and energy efficiency over current 3nm chips."
-        }
-      ],
-      "link": "https://www.asml.com/en/news"
-    },
-    {
-      "headline": "Scientists Discover How the Body Signals the Brain to Suppress Appetite During Infection",
-      "description": "Researchers identified the specific biological mechanism by which the body signals the brain to suppress appetite during parasitic infection, revealing a previously unknown gut-brain communication pathway with potential implications for treating eating disorders and metabolic disease.",
-      "context": "Understanding how infection-driven appetite suppression is signalled neurologically bridges immunology and neuroscience in a novel way. The pathway identified could be targeted therapeutically to treat conditions involving dysregulated appetite, including obesity, anorexia, and cachexia associated with chronic illness.",
+      "headline": "Primordial Magnetic Fields May Solve Hubble Tension Cosmological Mystery",
+      "description": "New research proposes that primordial magnetic fields generated in the early universe may account for the long-standing 'Hubble tension' — the discrepancy between measurements of the universe's expansion rate — offering a potential resolution to one of cosmology's most significant unresolved puzzles.",
+      "context": "The Hubble tension has resisted explanation for over a decade and has been interpreted by some cosmologists as a sign that the Standard Model of Cosmology is incomplete. A primordial magnetic field mechanism would alter early-universe physics in ways that could reconcile the conflicting observational data without requiring entirely new fundamental physics.",
       "timeline": [
         {
           "date": "2019-01-01",
-          "label": "Gut-brain axis research identifies vagus nerve as key appetite regulation pathway",
+          "label": "Hubble tension formally recognised as a significant cosmological problem requiring explanation",
           "type": "background"
         },
         {
-          "date": "2024-06-01",
-          "label": "Researchers demonstrate that immune cells communicate directly with enteric nervous system",
+          "date": "2023-06-01",
+          "label": "James Webb Space Telescope observations sharpen measurements, deepening the tension",
           "type": "escalation"
         },
         {
-          "date": "2026-03-28",
-          "label": "Specific signalling mechanism for infection-driven appetite suppression identified",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "Gut-brain axis",
-          "definition": "The bidirectional communication network between the gastrointestinal tract and the central nervous system regulating appetite and metabolism."
-        },
-        {
-          "term": "Vagus nerve",
-          "definition": "The primary neural pathway connecting the gut to the brain, key to appetite and immune signal transmission."
-        },
-        {
-          "term": "Cachexia",
-          "definition": "Severe involuntary weight loss and muscle wasting associated with chronic illness, cancer, and infection."
-        }
-      ],
-      "link": "https://www.sciencedaily.com"
-    },
-    {
-      "headline": "SLIT3 Protein Mechanism in Brown Fat Reveals New Energy Metabolism Pathways",
-      "description": "Researchers discovered that the SLIT3 protein plays a key regulatory role in brown adipose tissue (brown fat), activating thermogenesis and energy expenditure pathways that could be targeted to develop new treatments for obesity and metabolic syndrome.",
-      "context": "Brown fat, unlike white fat, generates heat by burning calories. The identification of SLIT3 as a regulator of brown fat activity opens a new molecular target for obesity therapeutics at a time when the weight-loss drug market is experiencing explosive growth driven by GLP-1 receptor agonists.",
-      "timeline": [
-        {
-          "date": "2009-04-01",
-          "label": "Functional brown adipose tissue confirmed in adult humans for the first time",
-          "type": "background"
-        },
-        {
-          "date": "2023-01-01",
-          "label": "GLP-1 drugs such as semaglutide transform obesity treatment landscape",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-28",
-          "label": "SLIT3 protein identified as key activator of brown fat energy metabolism",
-          "type": "event"
-        }
-      ],
-      "importance_score": 3,
-      "category": "science",
-      "region": "Global",
-      "key_terms": [
-        {
-          "term": "SLIT3 protein",
-          "definition": "A signalling protein found to regulate thermogenesis in brown adipose tissue, newly identified as a metabolic target."
-        },
-        {
-          "term": "Brown adipose tissue (BAT)",
-          "definition": "A type of fat that generates heat by burning calories through a process called thermogenesis, active in regulating body weight."
-        },
-        {
-          "term": "Thermogenesis",
-          "definition": "The biological process of heat production in organisms, carried out in brown fat cells via mitochondrial uncoupling."
-        },
-        {
-          "term": "Metabolic syndrome",
-          "definition": "A cluster of conditions including obesity, high blood sugar, and hypertension that increase risk of heart disease and diabetes."
-        }
-      ],
-      "link": "https://www.sciencedaily.com"
-    },
-    {
-      "headline": "White House Launches Pax Silica Fund with $250 Million to Secure Semiconductor Supply Chains",
-      "description": "The White House launched the Pax Silica Fund with an initial endowment of $250 million to strengthen allied semiconductor supply chains, reduce dependence on adversary chip sources, and incentivise semiconductor manufacturing in trusted partner nations.",
-      "context": "The Pax Silica Fund complements the existing CHIPS and Science Act and reflects the US government's recognition that semiconductor supply chain security is a national security imperative. It targets the full supply chain from raw materials and chemical precursors to advanced packaging, areas where US allies have specific strengths.",
-      "timeline": [
-        {
-          "date": "2022-08-09",
-          "label": "CHIPS and Science Act signed, providing $52 billion for domestic semiconductor manufacturing",
-          "type": "background"
-        },
-        {
-          "date": "2025-01-01",
-          "label": "Trump administration reviews and expands semiconductor supply chain security programmes",
-          "type": "escalation"
-        },
-        {
-          "date": "2026-03-27",
-          "label": "White House launches Pax Silica Fund with $250 million for allied chip supply chains",
+          "date": "2026-03-31",
+          "label": "Researchers propose primordial magnetic fields as mechanism resolving the Hubble tension",
           "type": "event"
         }
       ],
       "importance_score": 4,
       "category": "science",
-      "region": "United States / Global",
+      "region": "Global",
       "key_terms": [
         {
-          "term": "Pax Silica Fund",
-          "definition": "A $250 million US government initiative to secure semiconductor supply chains among trusted allied nations."
+          "term": "Hubble tension",
+          "definition": "The discrepancy between the universe's expansion rate measured from early-universe CMB data and from late-universe observations of galaxies."
         },
         {
-          "term": "CHIPS and Science Act",
-          "definition": "US legislation providing $52 billion in subsidies and tax credits for domestic semiconductor manufacturing and research."
+          "term": "Hubble constant (H₀)",
+          "definition": "The parameter describing the rate of expansion of the universe, whose contested value is at the centre of the Hubble tension."
         },
         {
-          "term": "Trusted supply chain",
-          "definition": "A semiconductor manufacturing ecosystem sourced from allied nations considered geopolitically reliable by the US government."
+          "term": "Primordial magnetic fields",
+          "definition": "Hypothetical magnetic fields generated in the very early universe that could have influenced cosmological structure formation."
         },
         {
-          "term": "Advanced packaging",
-          "definition": "Post-fabrication semiconductor processes that stack and integrate multiple chips, increasingly important to overall chip performance."
+          "term": "Standard Model of Cosmology (ΛCDM)",
+          "definition": "The prevailing theoretical framework describing the universe's composition, history, and large-scale structure."
         }
       ],
-      "link": "https://www.state.gov"
+      "link": "https://scitechdaily.com"
     },
     {
-      "headline": "NASA and ISRO Finalize NISAR Satellite Data Release Protocols for Global Surface Monitoring",
-      "description": "NASA and the Indian Space Research Organisation finalised the data release protocols for the NISAR satellite, establishing the framework for open public access to radar imagery tracking global surface changes including ice sheet loss, ground deformation, and ecosystem shifts.",
-      "context": "NISAR's open data policy follows the model of Landsat and Sentinel, which transformed earth observation science by removing access barriers. The combination of NASA's L-band and ISRO's S-band radars makes NISAR uniquely capable of monitoring a wider range of Earth surface phenomena than any previous single satellite.",
+      "headline": "Ancient Martian Clay Minerals Suggest Sustained Rainfall and Habitable Conditions",
+      "description": "Analysis of Martian clay mineral deposits indicates that ancient Mars experienced sustained rainfall over extended geological periods, supporting the existence of habitable surface conditions billions of years ago and strengthening the case for past microbial life.",
+      "context": "Evidence of sustained rainfall rather than brief episodic water events substantially strengthens the habitability hypothesis for early Mars. Liquid water persistence is considered a prerequisite for the chemistry of life as we understand it, and this finding will influence the targeting of future Mars sample return missions.",
       "timeline": [
         {
-          "date": "2014-09-01",
-          "label": "NASA and ISRO sign bilateral agreement to develop NISAR jointly",
+          "date": "2021-02-18",
+          "label": "NASA Perseverance rover lands on Mars, beginning detailed geological sample collection",
           "type": "background"
         },
         {
-          "date": "2025-01-01",
-          "label": "NISAR satellite completes integration and pre-launch testing in India",
+          "date": "2024-01-01",
+          "label": "Curiosity rover data reveals ancient lake sediments in Gale Crater",
           "type": "escalation"
         },
         {
-          "date": "2026-03-27",
-          "label": "NASA and ISRO finalise public data release protocols for NISAR",
+          "date": "2026-03-31",
+          "label": "New clay mineral analysis confirms ancient Mars had sustained rainfall and habitable conditions",
           "type": "event"
         }
       ],
       "importance_score": 4,
       "category": "science",
-      "region": "Global / India / United States",
+      "region": "Global / Solar System",
       "key_terms": [
         {
-          "term": "NISAR",
-          "definition": "NASA-ISRO Synthetic Aperture Radar satellite using dual-frequency radar to map global surface deformation and change."
+          "term": "Phyllosilicates (clay minerals)",
+          "definition": "Hydrated silicate minerals formed by water-rock interaction, used as indicators of past liquid water presence on Mars."
         },
         {
-          "term": "L-band radar",
-          "definition": "A longer-wavelength radar system that penetrates vegetation and ice, contributed to NISAR by NASA."
+          "term": "Habitability",
+          "definition": "The conditions necessary to support life as understood from terrestrial biology, including liquid water, energy, and organic chemistry."
         },
         {
-          "term": "S-band radar",
-          "definition": "A shorter-wavelength radar system sensitive to surface texture and moisture, contributed to NISAR by ISRO."
-        },
-        {
-          "term": "Open data policy",
-          "definition": "A commitment to make satellite data freely available to all users globally without charge or restriction."
+          "term": "Mars Sample Return",
+          "definition": "A planned NASA-ESA mission to retrieve rock and soil samples collected by Perseverance and return them to Earth for analysis."
         }
       ],
-      "link": "https://www.pib.gov.in/AllRelease.aspx?PMO=1&MenuId=287&reg=6&lang=1"
+      "link": "https://www.science.org"
     },
     {
-      "headline": "Discovery of Oscillation States in Magnetic Whirlpools Enables Ultra-Low Energy Computing",
-      "description": "Scientists discovered new oscillation states within magnetic skyrmions — nanoscale magnetic whirlpools — that can be controlled using minimal energy, opening a pathway to a new class of ultra-energy-efficient computing and data storage devices.",
-      "context": "Magnetic skyrmions are considered among the most promising candidates for next-generation non-volatile memory and neuromorphic computing because of their small size and topological stability. The identification of controllable oscillation states adds a new functional dimension that could enable computing architectures beyond the limits of conventional CMOS silicon.",
+      "headline": "Physicists Discover Magnetic Mechanism That Challenges 300-Year-Old Law of Friction",
+      "description": "Physicists identified a previously unknown magnetic mechanism that influences friction at the nanoscale in ways that contradict Amontons' law — the 300-year-old foundational principle describing how friction forces relate to normal load — with implications for the design of nanoscale mechanical devices.",
+      "context": "Amontons' law has governed engineering and physics since 1699 and underpins the design of nearly every mechanical system. A magnetic challenge to this law at the nanoscale opens new possibilities for frictionless nanomachines and quantum devices, and may require revisions to the fundamental theory of tribology.",
       "timeline": [
         {
-          "date": "2009-01-01",
-          "label": "Magnetic skyrmions first observed experimentally in laboratory conditions",
+          "date": "1699-01-01",
+          "label": "Guillaume Amontons publishes laws of friction establishing the linear relationship between friction and normal force",
           "type": "background"
         },
         {
           "date": "2020-01-01",
-          "label": "Room-temperature skyrmion generation demonstrated, making practical devices more feasible",
+          "label": "Advances in atomic force microscopy enable direct measurement of nanoscale friction mechanisms",
           "type": "escalation"
         },
         {
-          "date": "2026-03-27",
-          "label": "New oscillation states in skyrmions identified, enabling ultra-low energy computation",
+          "date": "2026-03-30",
+          "label": "Physicists identify magnetic mechanism violating Amontons' law at the nanoscale",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "Amontons' law",
+          "definition": "A 1699 empirical principle stating friction force is proportional to normal load and independent of contact area, now challenged at nanoscales."
+        },
+        {
+          "term": "Tribology",
+          "definition": "The science of friction, lubrication, and wear between surfaces in relative motion."
+        },
+        {
+          "term": "Nanoscale mechanics",
+          "definition": "The study of mechanical behaviour at dimensions of 1–100 nanometres, where quantum and electromagnetic effects dominate."
+        }
+      ],
+      "link": "https://scitechdaily.com"
+    },
+    {
+      "headline": "NASA Asteroid Bennu Sample Analysis Uncovers Surprisingly Complex Chemical Landscape",
+      "description": "Detailed analysis of the sample returned from asteroid Bennu by NASA's OSIRIS-REx mission revealed an unexpectedly complex chemical composition including a diverse range of organic molecules and mineral phases, advancing understanding of the early solar system's chemistry.",
+      "context": "Bennu is a carbon-rich asteroid whose sample offers a pristine record of the solar system's early chemistry. The complexity of organics found challenges simpler models of asteroid composition and strengthens hypotheses that asteroids delivered pre-biotic chemistry to early Earth, contributing to the origin of life.",
+      "timeline": [
+        {
+          "date": "2016-09-08",
+          "label": "NASA launches OSIRIS-REx mission to asteroid Bennu",
+          "type": "background"
+        },
+        {
+          "date": "2023-09-24",
+          "label": "OSIRIS-REx sample capsule successfully returns to Earth with Bennu material",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-30",
+          "label": "Analysis of Bennu sample reveals surprisingly complex organic chemical landscape",
+          "type": "event"
+        }
+      ],
+      "importance_score": 4,
+      "category": "science",
+      "region": "Global / Solar System",
+      "key_terms": [
+        {
+          "term": "OSIRIS-REx",
+          "definition": "NASA's asteroid sample return mission that collected material from near-Earth asteroid Bennu and returned it to Earth in 2023."
+        },
+        {
+          "term": "Bennu",
+          "definition": "A carbon-rich near-Earth asteroid and the sample source for OSIRIS-REx, considered a potential impactor risk in the late 2100s."
+        },
+        {
+          "term": "Pre-biotic chemistry",
+          "definition": "The chemical precursors and reactions that preceded and may have enabled the origin of biological life."
+        },
+        {
+          "term": "Carbonaceous chondrite",
+          "definition": "A class of ancient stony meteorites rich in organic compounds and water, of which Bennu is a representative near-Earth object."
+        }
+      ],
+      "link": "https://www.nasa.gov/osiris-rex"
+    },
+    {
+      "headline": "Kimchi Bacterium Found to Bind and Help Expel Nanoplastics from the Human Body",
+      "description": "Researchers found that Lactobacillus plantarum, the bacterium central to kimchi fermentation, can bind to nanoplastic particles in the gut and facilitate their excretion, offering a potential probiotic-based approach to reducing nanoplastic accumulation in the human body.",
+      "context": "Nanoplastic contamination of the human body is an emerging health concern following studies showing their presence in blood, lungs, and reproductive tissues. A naturally occurring gut bacterium capable of clearing these particles would represent a highly accessible and low-risk intervention compared to pharmaceutical approaches.",
+      "timeline": [
+        {
+          "date": "2022-03-24",
+          "label": "First study confirms nanoplastics present in human blood samples",
+          "type": "background"
+        },
+        {
+          "date": "2024-01-01",
+          "label": "Nanoplastics detected in human heart tissue and arterial plaques",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-30",
+          "label": "Kimchi bacterium Lactobacillus plantarum identified as nanoplastic binder and expeller",
           "type": "event"
         }
       ],
@@ -1276,20 +1086,56 @@
       "region": "Global",
       "key_terms": [
         {
-          "term": "Magnetic skyrmion",
-          "definition": "A nanoscale topologically stable magnetic whirlpool that can encode and transport data using minimal energy."
+          "term": "Nanoplastics",
+          "definition": "Plastic particles smaller than 1 micrometre that accumulate in human tissues and are associated with emerging health risks."
         },
         {
-          "term": "Neuromorphic computing",
-          "definition": "A computing paradigm modelling hardware architecture on the structure and function of the human brain."
+          "term": "Lactobacillus plantarum",
+          "definition": "A probiotic bacterium found in fermented foods including kimchi, now identified as capable of binding nanoplastic particles."
         },
         {
-          "term": "Non-volatile memory",
-          "definition": "Data storage that retains information without a continuous power supply, unlike conventional RAM."
+          "term": "Probiotic intervention",
+          "definition": "The use of beneficial bacteria to achieve a health outcome, here proposed as a method of reducing nanoplastic body burden."
+        }
+      ],
+      "link": "https://www.sciencedaily.com"
+    },
+    {
+      "headline": "Tai Chi Shown to Lower Blood Pressure as Effectively as Brisk Walking in New Study",
+      "description": "A clinical study demonstrated that regular Tai Chi practice reduces blood pressure as effectively as brisk walking in adults with prehypertension, offering a low-impact exercise alternative for populations including the elderly and those with mobility limitations.",
+      "context": "Hypertension affects over 1.3 billion people globally and is the leading modifiable risk factor for cardiovascular disease. Demonstrating that a traditional low-impact practice can match aerobic exercise in blood pressure reduction has significant public health implications, particularly for ageing populations in Asia and beyond.",
+      "timeline": [
+        {
+          "date": "2016-01-01",
+          "label": "WHO guidelines on physical activity recognise mind-body exercises including Tai Chi for older adults",
+          "type": "background"
         },
         {
-          "term": "CMOS",
-          "definition": "Complementary Metal-Oxide-Semiconductor technology, the dominant fabrication process for conventional silicon chips."
+          "date": "2023-01-01",
+          "label": "Systematic reviews begin documenting cardiovascular benefits of Tai Chi in prehypertensive adults",
+          "type": "escalation"
+        },
+        {
+          "date": "2026-03-31",
+          "label": "New study confirms Tai Chi as effective as brisk walking for blood pressure reduction",
+          "type": "event"
+        }
+      ],
+      "importance_score": 3,
+      "category": "science",
+      "region": "Global",
+      "key_terms": [
+        {
+          "term": "Prehypertension",
+          "definition": "Blood pressure above normal but below the clinical hypertension threshold, indicating elevated cardiovascular risk."
+        },
+        {
+          "term": "Tai Chi",
+          "definition": "A traditional Chinese mind-body practice involving slow, flowing movements used for health maintenance and martial arts training."
+        },
+        {
+          "term": "Cardiovascular disease",
+          "definition": "A class of diseases involving the heart and blood vessels, the leading cause of death globally, strongly linked to hypertension."
         }
       ],
       "link": "https://www.sciencedaily.com"
@@ -1300,115 +1146,134 @@
       "category": "sports",
       "sport": "cricket",
       "tournament": "Indian Premier League",
-      "match_date": "2026-03-29",
-      "venue": "BRSABV Ekana Cricket Stadium, Lucknow",
+      "match_date": "2026-03-31",
+      "venue": "Mullanpur Cricket Stadium, Chandigarh",
       "status": "completed",
       "teams": {
-        "home": "Lucknow Super Giants",
-        "away": "Mumbai Indians"
+        "home": "Punjab Kings",
+        "away": "Gujarat Titans"
       },
       "score": {
-        "home": "174/6 (20 ov)",
-        "away": "175/3 (18.1 ov)"
+        "home": "165/7 (19.1 ov)",
+        "away": "162/6 (20 ov)"
       },
-      "result": "MI strengthen top-4 bid",
+      "result": "PBKS edge into top half",
       "stage": "Group Stage",
       "official_source": "https://www.iplt20.com"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Major League Soccer",
-      "match_date": "2026-03-29",
-      "venue": "Chase Stadium, Fort Lauderdale",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-31",
+      "venue": "Volksparkstadion, Hamburg",
       "status": "completed",
       "teams": {
-        "home": "Inter Miami CF",
-        "away": "Charlotte FC"
+        "home": "Germany",
+        "away": "Ghana"
       },
       "score": {
         "home": "2",
         "away": "1"
       },
-      "result": "Miami go top of East",
-      "stage": "Regular Season",
-      "official_source": "https://www.mlssoccer.com"
+      "result": "Germany fine-tune WC prep",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Major League Soccer",
-      "match_date": "2026-03-29",
-      "venue": "Dignity Health Sports Park, Carson",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-31",
+      "venue": "Azadi Stadium, Tehran",
       "status": "completed",
       "teams": {
-        "home": "Los Angeles Galaxy",
-        "away": "Seattle Sounders FC"
+        "home": "Iran",
+        "away": "Costa Rica"
       },
       "score": {
-        "home": "3",
-        "away": "2"
+        "home": "5",
+        "away": "0"
       },
-      "result": "Galaxy extend West lead",
-      "stage": "Regular Season",
-      "official_source": "https://www.mlssoccer.com"
+      "result": "Iran show tournament threat",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Major League Soccer",
-      "match_date": "2026-03-29",
-      "venue": "Allianz Field, Saint Paul",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-31",
+      "venue": "Rajko Mitić Stadium, Belgrade",
       "status": "completed",
       "teams": {
-        "home": "Minnesota United FC",
-        "away": "Portland Timbers"
+        "home": "Serbia",
+        "away": "Saudi Arabia"
       },
       "score": {
-        "home": "1",
+        "home": "2",
         "away": "1"
       },
-      "result": "Both drop vital points",
-      "stage": "Regular Season",
-      "official_source": "https://www.mlssoccer.com"
+      "result": "Serbia assert European edge",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Major League Soccer",
-      "match_date": "2026-03-29",
-      "venue": "America First Field, Sandy",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-31",
+      "venue": "Ullevaal Stadion, Oslo",
       "status": "completed",
       "teams": {
-        "home": "Real Salt Lake",
-        "away": "San Jose Earthquakes"
+        "home": "Norway",
+        "away": "Switzerland"
       },
       "score": {
-        "home": "2",
+        "home": "0",
         "away": "0"
       },
-      "result": "RSL climb West table",
-      "stage": "Regular Season",
-      "official_source": "https://www.mlssoccer.com"
+      "result": "Haaland-less Norway stifled",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
     },
     {
       "category": "sports",
       "sport": "football",
-      "tournament": "Indian Super League",
-      "match_date": "2026-03-29",
-      "venue": "JRD Tata Sports Complex, Jamshedpur",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-31",
+      "venue": "Podgorica City Stadium, Podgorica",
       "status": "completed",
       "teams": {
-        "home": "Jamshedpur FC",
-        "away": "Hyderabad FC"
+        "home": "Montenegro",
+        "away": "Slovenia"
       },
       "score": {
         "home": "2",
+        "away": "3"
+      },
+      "result": "Slovenia boost WC confidence",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
+    },
+    {
+      "category": "sports",
+      "sport": "football",
+      "tournament": "FIFA World Cup Friendly",
+      "match_date": "2026-03-31",
+      "venue": "Puskás Aréna, Budapest",
+      "status": "completed",
+      "teams": {
+        "home": "Hungary",
+        "away": "Greece"
+      },
+      "score": {
+        "home": "0",
         "away": "0"
       },
-      "result": "Jamshedpur boost playoff push",
-      "stage": "League Stage",
-      "official_source": "https://www.indiansuperleague.com"
+      "result": "Defences dominate in stalemate",
+      "stage": "International Friendly",
+      "official_source": "https://www.fifa.com"
     }
   ]
 }
