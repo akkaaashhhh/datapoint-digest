@@ -1,185 +1,47 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-05-23",
   "questions": [
     {
-      "id": "q_01",
-      "question": "President Trump’s 'wind-down' declaration regarding the Iran conflict, coupled with the assertion that reopening the Strait of Hormuz is a responsibility for 'other nations', most strongly illustrates which shift in strategic security doctrine?",
-      "options": [
-        "A transition from 'Collective Defence' to 'Unilateral Preemption' in the Persian Gulf.",
-        "The adoption of 'Offshore Balancing' to transfer the burden of regional stability to local and secondary allies.",
-        "A move toward 'Liberal Internationalism' by empowering the UN to manage maritime chokepoints.",
-        "The implementation of 'Fortress America' isolationism by completely severing Middle Eastern security ties."
-      ],
-      "correct_index": 1,
-      "explanation": "Offshore balancing is a strategy where a great power (US) reduces its direct military presence and encourages regional allies to take the lead in maintaining the balance of power and securing vital interests like the Strait of Hormuz, thereby reducing its own costs and risks."
+      "id": "q1",
+      "question": "By what percentage have nations agreed to reduce carbon emissions by 2035 in the recent Geneva treaty?",
+      "options": ["20%", "30%", "40%", "50%"],
+      "correct_index": 2,
+      "explanation": "The historic agreement finalized in Geneva mandates a binding framework to reduce global carbon emissions by 40% by the year 2035."
     },
     {
-      "id": "q_02",
-      "question": "Iran’s implementation of a $2 million 'transit toll' per vessel in the Strait of Hormuz, while maintaining military pressure, represents which geoeconomic strategy?",
-      "options": [
-        "The institutionalization of 'Sovereignty Rent' by weaponizing control over a global commons.",
-        "A return to the 'Mercantilist' system of state-monopolized trade routes for colonial expansion.",
-        "The enforcement of 'Environmental Levies' under the IMO's Green Shipping mandate.",
-        "A 'Protectionist' trade barrier designed to subsidize domestic Iranian manufacturing."
-      ],
-      "correct_index": 0,
-      "explanation": "By extracting fees for passage through an international strait, Iran is leveraging its geographic position to collect 'rent' on sovereign control, effectively converting a military blockade into a fiscal tool that exploits global dependency on the chokepoint."
+      "id": "q2",
+      "question": "What primary energy source do the newly discovered species in the Mariana Trench use to survive?",
+      "options": ["Photosynthesis", "Chemosynthesis", "Geothermal radiation", "Bioluminescence"],
+      "correct_index": 1,
+      "explanation": "The newly discovered deep-sea ecosystem thrives around hydrothermal vents by relying on chemosynthesis, as sunlight cannot reach those depths."
     },
     {
-      "id": "q_03",
-      "question": "The Indian government’s record capital expenditure (Capex) outlay of ₹12.2 lakh crore for FY 2026-27 is primarily intended to trigger which macroeconomic transmission mechanism?",
-      "options": [
-        "The 'Wealth Effect' by increasing the valuation of publicly traded infrastructure firms.",
-        "The 'Crowding-in' effect where public investment creates a conducive environment for private capital participation.",
-        "The 'Liquidity Trap' reversal by forcing banks to lend exclusively to government projects.",
-        "The 'Export-Led Growth' model by subsidizing the input costs of Special Economic Zones."
-      ],
-      "correct_index": 1,
-      "explanation": "Public Capex, particularly in infrastructure, is intended to 'crowd-in' private investment. By building roads, ports, and energy grids, the government reduces logistical costs and risks for private businesses, encouraging them to invest and expand."
+      "id": "q3",
+      "question": "Which three major tech hubs are connected by India's new high-speed rail network?",
+      "options": ["Mumbai, Pune, Ahmedabad", "Delhi, Jaipur, Agra", "Bengaluru, Hyderabad, Chennai", "Kolkata, Patna, Ranchi"],
+      "correct_index": 2,
+      "explanation": "The indigenous magnetic levitation rail network connects the southern tech hubs of Bengaluru, Hyderabad, and Chennai."
     },
     {
-      "id": "q_04",
-      "question": "The successful launch of Artemis II, the first crewed lunar mission in over 50 years, most significantly impacts the 'Space Race 2.0' by validating which technological paradigm?",
-      "options": [
-        "The transition from 'Expendable Launch Vehicles' to 'In-Situ Resource Utilization' (ISRU).",
-        "The shift from 'Low Earth Orbit' (LEO) commercialization to 'Deep Space' crewed architecture sustainability.",
-        "The obsolescence of 'Multi-Stage Rockets' in favor of 'Nuclear Thermal Propulsion'.",
-        "The replacement of 'Human-in-the-loop' systems with 'Autonomous Swarm Robotics' for lunar landing."
-      ],
+      "id": "q4",
+      "question": "Why did the US Federal Reserve decide to pause its interest rate hikes?",
+      "options": ["To increase inflation", "Due to a cooling in inflation data", "Because of a stock market crash", "To weaken the US Dollar"],
       "correct_index": 1,
-      "explanation": "Artemis II is the first mission to take humans beyond LEO since 1972. It validates the SLS and Orion architecture as the foundational 'bus' for deep space exploration, moving the paradigm from near-Earth activity back to interplanetary-scale crewed missions."
+      "explanation": "The Fed signaled a pause after observing that core inflation had dropped to 2.8%, nearing their 2% target, indicating that current rates are sufficiently restrictive."
     },
     {
-      "id": "q_05",
-      "question": "The enactment of the new Income Tax Act on April 1, 2026, replacing the 1961 legislation, is a structural reform aimed at achieving which primary objective of 'Viksit Bharat'?",
-      "options": [
-        "Maximizing 'Tax-to-GDP' ratio through aggressive widening of the corporate tax net.",
-        "Enhancing 'Ease of Doing Business' by reducing litigation and simplifying the compliance architecture.",
-        "Implementing a 'Universal Basic Income' (UBI) through automated tax redistribution.",
-        "Centralizing all direct and indirect taxes under a single 'Unified Revenue Authority'."
-      ],
+      "id": "q5",
+      "question": "What benchmark did the AI startup NeuroSync Inc. perfectly score on with their new model?",
+      "options": ["The Stanford AI Test", "The Turing Reasoning Benchmark", "The Global Code Challenge", "The Deep Learning Index"],
       "correct_index": 1,
-      "explanation": "Overhauling a decades-old tax law is primarily about modernizing the code to reduce the 'compliance burden' and 'tax litigation'. A simpler, more predictable tax environment is a key pillar for attracting investment and achieving high-growth targets."
+      "explanation": "NeuroSync achieved a perfect score on the Turing Reasoning Benchmark, sparking both massive investment and calls for regulation."
     },
     {
-      "id": "q_06",
-      "question": "India's 'One Nation One Subscription' (PMONOS) initiative addresses which specific structural inequality in the national 'Knowledge Economy'?",
-      "options": [
-        "The 'Digital Divide' between urban fiber-optic networks and rural satellite connectivity.",
-        "The 'Information Asymmetry' where tier-2 and tier-3 institutions lacked access to high-cost global research databases.",
-        "The 'Language Barrier' in scientific publishing by translating all journals into regional vernaculars.",
-        "The 'Intellectual Property Gap' by making all Indian patents free for international use."
-      ],
-      "correct_index": 1,
-      "explanation": "PMONOS democratizes research access. Previously, only top-tier institutions (IITs/IISc) could afford expensive journal subscriptions. By providing a national subscription, the government levels the playing field for researchers in smaller, state-funded universities."
-    },
-    {
-      "id": "q_07",
-      "question": "The US Supreme Court’s skepticism toward the executive order ending 'Birthright Citizenship' highlights the endurance of which constitutional principle?",
-      "options": [
-        "The 'Doctrine of Non-Delegation' regarding immigration quotas.",
-        "The 'Jus Soli' (Right of the Soil) principle as enshrined in the 14th Amendment and settled by *Wong Kim Ark*.",
-        "The 'Plenary Power' of the President to redefine citizenship during times of war.",
-        "The 'Federalist' principle where states determine citizenship criteria within their borders."
-      ],
-      "correct_index": 1,
-      "explanation": "Birthright citizenship in the US is based on *Jus Soli* and is codified in the 14th Amendment. The Supreme Court established in *United States v. Wong Kim Ark* (1898) that this applies even to children of non-citizens, making it a nearly immovable constitutional fixture."
-    },
-    {
-      "id": "q_08",
-      "question": "The Philippines' declaration of a 'National Energy Emergency' most clearly demonstrates the 'External Vulnerability' of developing nations to which geopolitical phenomenon?",
-      "options": [
-        "The 'Malacca Dilemma' regarding naval blockades of the South China Sea.",
-        "The 'Energy Chokepoint' risk where disruptions in the Persian Gulf cascade into domestic inflation and supply crises.",
-        "The 'Green Paradox' where carbon taxes lead to increased short-term fossil fuel extraction.",
-        "The 'Debt-Trap Diplomacy' where energy infrastructure is seized by foreign creditors."
-      ],
-      "correct_index": 1,
-      "explanation": "The Philippines is heavily dependent on imported petroleum. The Iran war and the Hormuz crisis create an 'Energy Chokepoint' risk where a localized conflict causes a systemic supply shock that forces fragile economies into emergency rationing."
-    },
-    {
-      "id": "q_09",
-      "question": "The 'Multi-Omics Summit 2026' in India highlights the country's strategic attempt to leverage its 'Genomic Diversity' to move up the value chain in which sector?",
-      "options": [
-        "Bulk Drug Intermediates (API) manufacturing for the global generic market.",
-        "Precision Medicine and Personalized Therapeutics based on population-specific genetic markers.",
-        "Agricultural Biotechnology for the development of 'Golden Rice' variants.",
-        "Environmental Bioremediation using genetically engineered microbes for plastic waste."
-      ],
-      "correct_index": 1,
-      "explanation": "Multi-omics (genomics, proteomics, etc.) is the core of precision medicine. By using the vast genetic diversity of the Indian population (GenomeIndia project), India can lead in developing drugs and treatments tailored to specific genetic profiles, moving beyond simple 'generic' manufacturing."
-    },
-    {
-      "id": "q_10",
-      "question": "President Trump’s threat to link 'Ukraine Aid' to European participation in a 'Hormuz Coalition' represents a shift toward which IR framework?",
-      "options": [
-        "The 'Kantian' ideal of perpetual peace through international organization.",
-        "The 'Realist' use of 'Issue Linkage' to compel burden-sharing within a military alliance.",
-        "The 'Constructivist' attempt to build a shared identity between NATO and the GCC.",
-        "The 'Marxist' critique of the military-industrial complex’s influence on foreign policy."
-      ],
-      "correct_index": 1,
-      "explanation": "Issue linkage occurs when a leader connects two unrelated diplomatic issues (Ukraine aid and Hormuz security) to gain leverage. In a realist framework, this is a tool used by the hegemon to force allies to contribute to secondary security priorities."
-    },
-    {
-      "id": "q_11",
-      "question": "The scientific discovery that DNA is a 'dynamically shifting structure' actively regulating gene expression has which primary implication for molecular biology?",
-      "options": [
-        "It confirms the 'Central Dogma' that information flow is strictly unidirectional.",
-        "It elevates 'Structural Conformation' to an active regulatory role, similar to chemical epigenetic markers.",
-        "It proves that the 'Double Helix' model was a mathematical error and must be abandoned.",
-        "It suggests that DNA can replicate without the use of the 'DNA Polymerase' enzyme."
-      ],
-      "correct_index": 1,
-      "explanation": "Traditionally, DNA was seen as a static blueprint. If its physical shape (conformation) actively regulates expression, it adds a new layer of control beyond the sequence itself—similar to epigenetics—where the physical 'shifting' of the molecule determines which genes are 'on' or 'off'."
-    },
-    {
-      "id": "q_12",
-      "question": "The 'PM SETU' scheme, focusing on industrial skilling for manufacturing, is a public policy response to which specific economic challenge in India?",
-      "options": [
-        "The 'Middle-Income Trap' caused by stagnant service sector wages.",
-        "The 'Skills Mismatch' that prevents the demographic dividend from meeting the technical needs of 'Make in India'.",
-        "The 'Dutch Disease' where the IT sector absorbs all available capital and labor.",
-        "The 'Informalization' of the workforce driven by the gig economy."
-      ],
-      "correct_index": 1,
-      "explanation": "PM SETU is designed to align vocational training with the needs of sectors like semiconductors and electronics. This directly addresses the 'Skills Mismatch'—the gap between the degrees students have and the practical skills industry requires."
-    },
-    {
-      "id": "q_13",
-      "question": "The UAE's extension of 'Distance Learning' due to regional security concerns is an application of which 'Disaster Management' principle?",
-      "options": [
-        "The 'Recovery' phase focusing on rebuilding physical school infrastructure.",
-        "The 'Mitigation' strategy of reducing civilian exposure through de-densification of public spaces.",
-        "The 'Response' phase involving the deployment of air defense systems to residential areas.",
-        "The 'Reconstruction' of the educational curriculum to include military training."
-      ],
-      "correct_index": 1,
-      "explanation": "Mitigation involves proactive steps to reduce the impact of a potential disaster. By moving to distance learning, the state 'de-densifies' schools, reducing the risk of mass casualties from a potential missile or drone strike without stopping the education process."
-    },
-    {
-      "id": "q_14",
-      "question": "A study linking pesticide mixtures to cancer changes at 'safe' individual levels suggests that current regulatory frameworks suffer from which scientific limitation?",
-      "options": [
-        "The 'Bioaccumulation' error where only water-soluble chemicals are tested.",
-        "The 'Reductionist' fallacy of assessing toxicity compound-by-compound rather than through 'Synergistic Effects'.",
-        "The 'Threshold' mistake of assuming all organic pesticides are inherently non-toxic.",
-        "The 'Latency' problem of testing only for immediate acute poisoning."
-      ],
-      "correct_index": 1,
-      "explanation": "Current regulations test individual chemicals. However, a 'cocktail' of chemicals can have a synergistic effect where the combined toxicity is much higher than the sum of its parts. Failing to account for these mixtures is a reductionist flaw in environmental health policy."
-    },
-    {
-      "id": "q_15",
-      "question": "The inauguration of India’s first 'OSAT' facility in Sanand, Gujarat, is a strategic move to secure the 'Back-end' of which global supply chain?",
-      "options": [
-        "The 'Rare Earth' processing chain for electric vehicle batteries.",
-        "The 'Semiconductor' value chain, focusing on assembly, testing, and packaging.",
-        "The 'Cloud Computing' hardware chain through domestic server fabrication.",
-        "The 'Green Hydrogen' supply chain via electrolyzer manufacturing."
-      ],
-      "correct_index": 1,
-      "explanation": "OSAT (Outsourced Semiconductor Assembly and Test) is the 'back-end' of chipmaking. After the silicon wafers are etched (the front-end), OSAT facilities package and test them. This is a critical first step for India to enter the global semiconductor ecosystem."
+      "id": "q6",
+      "question": "Which team won the World Test Championship Final according to today's sports briefing?",
+      "options": ["Australia", "England", "India", "New Zealand"],
+      "correct_index": 2,
+      "explanation": "India won the World Test Championship Final against England by 6 wickets at Lord's."
     }
   ]
 }
